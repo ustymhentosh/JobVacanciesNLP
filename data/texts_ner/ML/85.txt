@@ -1,0 +1,60 @@
+Senior AI/ML Engineer
+We are looking for a Senior AI/ML Engineer to join a fast-growing US-based AI
+startup that is building a next-generation data intelligence platform. The
+product transforms large volumes of unstructured data into structured,
+actionable insights through applied machine learning, GPU compute, and
+automated pipelines.
+
+You’ll work closely with the CTO and a Data Engineer to design and build the
+platform’s core AI capabilities — from data ingestion and transformation to ML
+model deployment and observability. This role is ideal for someone who thrives
+in early-stage environments, enjoys hands-on experimentation, and wants to
+shape an AI-driven product from the ground up.
+
+**Client** — a rapidly growing US-based AI startup developing a cutting-edge
+data intelligence platform that leverages machine learning, GPU computation,
+and automation to help organizations extract insights from unstructured data
+at scale.
+
+#### __Experience / Skills required:__
+
+* 5+ years of professional experience in machine learning or AI engineering
+* Strong proficiency in Python and applied ML (data extraction, transformation, and structuring)
+* Experience building ML pipelines, data workflows, and model deployment
+* Understanding of unstructured → structured data transformation use cases
+* Cloud experience (GCP preferred, AWS acceptable)
+* Familiarity with MLOps tooling (MLFlow, Kubeflow, Airflow, Vertex AI)
+* Strong grasp of data engineering concepts (ETL, orchestration, CI/CD)
+* Excellent communication skills
+* Upper-Intermediate English or higher
+
+####
+
+#### __Nice to have:__
+
+* Experience with Modal (GPU-as-a-Service) or GPU workloads
+* Prior startup or R&D experience
+* Familiarity with data observability, monitoring, and model quality metrics
+
+####
+
+#### __Responsibilities:__
+
+* Design, build, and iterate on ML models for large-scale data transformation
+* Collaborate with the CTO and Data Engineer to define the system architecture
+* Prototype, validate, and deploy ML-driven product features
+* Establish best practices for training, testing, and deploying ML models
+* Contribute to the R&D roadmap and product-level decision-making
+
+####
+
+#### __We offer:__
+
+* Paid vacation (up to 20 working days)
+* Paid sick leaves (10 working days)
+* National holidays as paid time off
+* Flexible working schedule and fully remote format
+* Direct collaboration with the client’s core engineering and AI team
+* Dynamic startup environment with high autonomy and ownership
+* Opportunity to build foundational AI infrastructure and shape a global product
+* Regular online team-building activities and strong, transparent culture

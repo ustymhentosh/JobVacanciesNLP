@@ -1,0 +1,32 @@
+Senior Frontend Engineer AI
+### Our Customer:
+
+Our client is a tech company developing AI-based automation solutions and
+maintaining a well-known open-source project.
+
+### Your tasks:
+
+  * Develop and deliver user interfaces.
+  * Work primarily on the frontend, with occasional involvement in backend integrations and cloud infrastructure.
+  * Take full ownership of features — from initial concept and design to implementation and production release.
+
+### Required Experience and Skills:
+
+  * 8+ years of experience in development;
+  * Experience as a front-end developer is required;
+  * Experience building user interfaces and workflows for complex applications;
+  * Solid experience with Vue.js (React, Svelte, or Angular also suitable);
+  * Familiarity with cloud platforms such as AWS, or GCP;
+  * English — Upper-Intermediate.
+
+### Would be a plus:
+
+  * Experience working with Large Language Models (LLMs) or AI APIs;
+  * Hands-on experience with AI coding assistants (e.g., Claude Code, GitHub Copilot, ChatGPT).
+
+**Working Conditions:**
+
+  * Remote work;
+  * 5-day working week, 8-hour working day, flexible schedule;
+  * All public holidays are days off;
+  * Vacation and sick leave are covered by the company.

@@ -1,0 +1,48 @@
+Frontend Engineer (React & AI)
+### About the company and product
+
+Australian startup building a messenger-style application where users interact
+with trained AI assistants. Prototype and backend are in place, frontend is
+being prepared for public use. Core platform runs on Google Cloud Platform
+with Dialogflow CX and Cloud Functions. Team is small and international.
+
+### Role overview
+
+You will own the frontend. First, polish an existing JS-based prototype and
+convert it into a production React application. Next, extend the app and later
+help deliver a React Native mobile client. The UI should feel modern and
+responsive with strong attention to conversational UX, voice I/O, and smooth
+micro-interactions.
+
+You will work directly with a technical founder. The role is full-time,
+remote, with overlap between Europe and Australia time zones. You have to
+start your day around 7:00 AM Ukranian time.
+
+### Responsibilities
+
+  * Refactor and consolidate current JS files into a modular React application.
+  * Set up project structure, linting, formatting, basic test coverage, and CI friendly build scripts.
+  * Build polished UI interactions and animations, optimize rendering performance.
+  * Implement chat and conversation flows with AI agents, including context and state handling.
+  * Integrate voice features, text-to-speech, speech-to-text using browser APIs and Google voices.
+  * Connect the frontend to Google Cloud Functions, handle auth, routing, and API errors.
+  * Ensure accessibility, responsive layouts, and cross-browser compatibility.
+  * Use modern AI coding tools productively (GPT, Gemini, Claude) while maintaining code quality.
+  * Collaborate on requirements, break work into deliverables, and ship iteratively.
+  * Interest in agentic AI, marketplaces and web3 concepts.
+
+### Required skills
+
+  * At least **3 years** of building SPAs with React and modern JavaScript or TypeScript.
+  * Strong state management patterns (React hooks, context, or a store like Redux/Zustand).
+  * API integration experience, including auth flows and async data handling.
+  * Styling with CSS or a utility/CSS-in-JS approach, and comfort designing clean UI components.
+  * Experience with animations and micro-interactions using React-friendly libraries
+  * Working knowledge of browser audio APIs, TTS/STT integration, or willingness to learn quickly.
+  * Practical use of AI coding assistants and ability to validate and refactor generated code.
+  * Clear written and spoken English, ability to work independently in a startup setting.
+
+### Nice to have
+
+  * React Native and experience with mobile app development.
+  * Testing tools such as Jest, React Testing Library, or Playwright.

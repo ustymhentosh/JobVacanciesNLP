@@ -1,0 +1,38 @@
+AI Specialist (LLMs, Ollama)
+We’re looking for an **AI Specialist** to expand our client`s team in Lviv!
+This is a full-time, on-site position with a leadership role in applied
+research and developing open-source LLM models for a large enterprise
+customer. You’ll integrate and optimise models deployed via **Ollama** ,
+pushing the boundaries of enterprise AI use cases.
+
+### **Responsibilities** :
+
+  * Shape our GenAI & classical ML vision.
+  * Advise on build-vs-buy for LLM stacks, vector DBs, and MLOps tooling.
+  * Address similarity & normalisation
+  * Design deep-learning + rule pipelines to match ~250 M address records/year.
+  * Evaluate with ragas and bespoke geo-accuracy metrics.
+  * Customer predictions 
+  * Engineer features from parcel scans, seasonal peaks, traffic data.
+  * Train and ship predictive models (ETA, delivery-success likelihood) instrumented with Langfuse.
+  * Semantic search & RAG 
+  * Implement RAG on FAQs, SOPs, and support tickets using open-source LLMs (e.g., Mixtral, Phi-3) served via Ollama.
+  * Optimise embedding stores, latency, and cost for call-centre workloads.
+  * Production excellence
+  * Deploy models to Kubernetes/AWS with CI/CD, monitoring, canary roll-outs.
+
+### **Requirements** :
+
+  * **Open-source LLMs:** Familiarity with open-source LLMs (**LLaMA, Mistral, Phi** , etc.).
+  * **Deployment Tools:** Experience using or deploying via **Ollama, Hugging Face** , or similar tools.
+  * **Independence & Communication:** Ability to work independently and communicate clearly in **English**.
+  * **Research Mindset:** Strong research mindset, hands-on coding ability, and documentation skills.
+
+### **What We Offer** :
+
+  * **Leadership Role:** A leadership role in an applied AI initiative for an international enterprise.
+  * **Cutting-edge Tools:** Work with cutting-edge tools like **Ollama, RAG pipelines** , and low-latency deployments.
+  * **Talented Team:** A talented, motivated team.
+  * **Competitive Compensation:** Competitive compensation and long-term opportunity.
+
+**Location:** Lviv, Ukraine | On-site, Full-time

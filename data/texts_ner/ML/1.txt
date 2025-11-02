@@ -1,0 +1,55 @@
+AI/Machine Learning Engineer
+## Responsibilities:
+
+  * Design data science, statistical, machine learning and deep learning systems that influence millions of players
+  * Implement and optimize appropriate ML algorithms and tools for time series and tabular data
+  * Transform data science prototypes into full-scale products, while deploying and monitoring ML models
+  * Run live tests and experiments
+  * Train and retrain systems when necessary
+  * Create or extend existing ML libraries and frameworks
+  * Collaborate with other scientists, engineers, architects and analysts spread across several countries
+
+## Requirements:
+
+**Must Haves:**  
+• Bachelor’s or Master’s degree in Computer Science, Engineering, or a related
+discipline.  
+• 3-5 years as a Backend Engineer, or a similar role, with a consistent record
+of successfully delivering ML solutions  
+• Solid software engineering skills, including experience with Git, Docker,
+and CI/CD pipelines.  
+• Hands-on experience in designing and deploying systems in Kubernetes
+environment.  
+• Experience with big data tools i.e. Spark, and working with structured and
+unstructured data.  
+• Experience with real-time and streaming applications.  
+• Ability to work with cross-functional teams, articulate ML concepts to non-
+technical stakeholders, and lead projects from concept to execution.  
+**Nice to Have:**  
+• Experience as a ML/GEN-AI Engineer, or a similar role.  
+• High proficiency in Python, with extensive experience with Python software
+development, Python-based ML libraries, and API development (FastAPI).  
+• Deep understanding of Python programming principles, including object-
+oriented programming, asynchronous processing, and memory management.  
+• Hands-on experience deploying ML models using tools like BentoML.  
+• Experience with real-time ML applications and streaming data (Kafka, Flink,
+etc.).  
+• Experience in Large Language Models (LLMs), Retrieval-Augmented Generation
+(RAG), and AI Agents using frameworks like LangChain and LlamaIndex.
+
+**Benefits:**
+
+  * Annual company bonus
+  * Competitive salary & flexible working hours
+  * Daily breakfast, lunch, and office refreshments
+  * Private health insurance, dental coverage, and psychological counseling
+  * 20 paid vacation days and 5 sick days per year
+  * 6 long weekends and 1 day off for your birthday
+  * Gifts for special occasions (birthday, Easter, Christmas, Women’s and Men’s Day, weddings, childbirth, etc.)
+  * Technical library with the option to order books
+  * Access to our educational platform with courses, training programs, and certifications
+  * Career development through coaching and reviews
+  * Internal mobility & referral program
+  * Corporate celebrations, team-building events, and fun activities
+  * Personal care in the office (nails, eyebrows, and barber services)
+  * Modern offices (Kyiv, Vinnytsia, Dnipro) with organized shuttle buses to and from the office

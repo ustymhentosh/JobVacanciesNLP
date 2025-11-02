@@ -1,0 +1,71 @@
+Python Engineer
+**About the company:**  
+  
+CostCare AI is a Ukrainian B2B SaaS startup building AI Sales Agents for the
+Social Commerce market. Our agents act as virtual employees — answering
+customer inquiries, syncing with CRMs, booking consultations, and even
+generating payment links — all within social media platforms.
+
+We’ve recently raised **$500,000** in funding and are working closely with
+early users to improve the product and find the right market focus. The
+roadmap ahead is exciting and we’re scaling fast.
+
+**Your role:**
+
+We’re looking for a strong**Python Engineer** who enjoys building fast,
+iterating quickly, and cares about clean, reliable code. You’ll join at a
+stage where your voice matters — working on architecture, improving
+performance, and shaping how our AI agents function and scale.
+
+### **What you’ll be working on:**
+
+  * Build backend features for voice & chat LLM agents
+  * Build multi-agent flows: prompting, tool calling, handoffs
+  * Improve existing agentic systems : reliability, latency, and overall quality
+  * Help define and build our eval system (quality/latency/accuracy) 
+  * Work on integrations such as: telegram, whatsapp, CRMs(hubspot, etc)
+  * Collaborate directly with CTO
+
+**Tech Stack:**
+
+  * **Backend:** Python, FastAPI, asyncio, LiveKit Agents
+  * **AI/LLM:** , OpenAI, Anthropic, Gemini, ElevenLabs, Deepgram, Cartesia
+  * **Telephony:** Twilio, LiveKit
+  * **Database:** MongoDB, Qdrant, S3, Redis
+  * **Infra:** Docker, K8S, AWS, DigitalOcean
+
+The product is still in an early stage, so you’ll have the opportunity to
+influence the tech stack and help shape the architecture as we grow.
+
+### **We’re looking for someone who:**
+
+  * Has **deep Python experience** and strong backend engineering fundamentals.
+  * Understands **system design** , the pros and cons of different approaches, and can deliver from idea to production.
+  * Communicates clearly and takes ownership.
+  * Has a **product mindset** — solves real problems, not just code tickets.
+  * Can work independently and isn’t afraid to ask questions, make decisions, or challenge ideas.
+
+**Nice to have:**
+
+  * Experience working with **AI agents / LLMs**
+  * Prompt engineering skills
+  * Familiarity with **LangGraph** or vector databases
+
+### **Our Values:**
+
+  * Mutual Respect: We’re building a healthy, collaborative environment where people feel safe, supported, and inspired to grow together.
+  * Customer Obsession: We believe our unfair advantage is truly caring about our customers and solving their real problems.
+  * Trust & Responsibility: We trust each other to take ownership, and in return, we expect them to be responsible and keep growing.
+  * Honesty: Mistakes happen — what matters is having the courage to own them, learn from them, and solve things together.
+  * Ambition: We’re aiming high — to build a billion-dollar company and lead the way in AI agent technology.
+
+### **Why join us?**
+
+  * You’ll join early, shape core systems, and make a real impact.
+  * Zero bureaucracy, flexible hours, fully remote.
+  * Paid time off (20 vacation + 10 sick days).
+  * Transparent, respectful, and feedback-driven team.
+  * We’re ambitious but grounded — aiming to build something useful and lasting.  
+  
+
+**Let’s talk if this sounds interesting — we’d love to hear from you!**

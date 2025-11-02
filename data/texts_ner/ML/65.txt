@@ -1,0 +1,92 @@
+AI Solution Architect
+### What is the project, and why should you care?
+
+Symphony Solutions is a Cloud- and AI-driven IT company headquartered in the
+Netherlands. We deliver tailored software solutions across Healthcare,
+Wellbeing, Airline, and other industries. Since 2008, we’ve been providing
+full-cycle software development, data and analytics, cloud engineering, ML &
+data engineering service, full-cycle development of AI solutions, and digital
+marketing orchestration for clients across Western Europe and North America.
+
+Our solution is one of Symphony’s most innovative projects — an AI-powered
+personal intelligence platform that acts as a digital twin and “second brain.”
+It combines Voice services, multi-agents, external memory architecture, and
+LLM fine-tuning to simplify complex digital interactions and provide
+personalized insights for users.
+
+As the AI Solution Architect, you’ll play a pivotal role in designing the
+platform’s technical and AI foundations, ensuring its security, scalability,
+reliability, and intelligence.
+
+### You will be an excellent fit for this position if you have:
+
+**Core Experience:**
+
+  * 7+ years of experience in software development (Python, Kotlin, Java, or C#), including 2+ years in solution or AI architecture.
+  * Proven track record in AI/ML system design, integrating speech recognition (Speech to Text, Text to Speech, Speech to Speech), NLP, and contextual search, development of Gen-AI-based solutions, including RAG, LLM fine-tuning, and real-time speech handling.
+  * Experience leading cross-functional teams (AI, data, mobile, and backend engineers).
+  * Deep understanding of mobile and cloud integration patterns.
+  * Familiarity with Agile/Lean delivery and startup-like MVP development environments.
+
+**Architecture & Cloud Proficiency**
+
+  * Expertise in GCP (Vertex AI, Cloud Run, Firestore, BigQuery ML, Serverless, Firebase and Postgres); AWS and Azure also acceptable.
+  * Strong grasp of microservice, event-driven, and serverless architectures.
+  * CI/CD, containerization, and observability experience (GitHub Actions, Kubernetes, Docker, Prometheus, Grafana), experience working with vector and graph databases.
+  * Experience implementing privacy-first AI architectures (GDPR-compliant data storage, anonymization, zero-knowledge).
+
+**AI & GenAI Expertise**
+
+  * Practical understanding of LLMs, LLM fine-tuning, RAG, multi-modality, Agentic AI, and Multi-agent architecture.
+  * Hands-on experience with LangChain, LlamaIndex, or AutoGen for model orchestration.
+  * Knowledge of vector databases (Pinecone, Qdrant, Weaviate) and contextual memory design.
+  * Familiarity with speech-to-text and TTS models (Whisper, Azure Cognitive Services, ElevenLabs).
+  * Understanding of prompt engineering, meta prompting, and evaluation frameworks (TruLens, Vertex Evals).
+  * Awareness of AI trust, explainability, and bias mitigation practices.
+
+**Data Systems & Engineering**
+
+  * Experience with data ingestion and transformation pipelines (Airflow, Kafka, Spark).
+  * Familiarity with embedding-based search systems and knowledge graph structures.
+  * Understanding of semantic memory models for personal assistant applications.
+
+**Soft Skills**
+
+  * Excellent stakeholder communication and technical storytelling.
+  * Consulting mindset — ability to shape technical vision based on evolving business goals.
+  * Capable of leading AI discovery workshops, technical PoCs, and pre-sales solution design.
+  * Collaborative leadership, inspiring innovation and ownership across the team.
+
+**Preferred Qualifications**
+
+  * Master’s degree in Computer Science, AI, or Data Engineering.
+  * Nice to have certifications: AWS ML Specialty, Google ML Engineer, or Cloud Architect (any platform).
+  * Previous experience designing AI-first consumer or voice-based applications.
+  * Strong understanding of AI governance, trust, and responsible AI principles.
+  * Proven delivery record in AI companion or context-aware assistant projects.
+
+### Here are some of the things you’ll be working on:
+
+**Mission**
+
+  * Define and drive the AI architecture and technical direction for the platform.
+  * Transform business goals (e.g., digital twin, second brain, contextual AI) into scalable and production-ready solutions.
+  * Collaborate with Product Owner, Delivery Manager, and AI engineers to align strategy, feasibility, and innovation.
+
+**Key Responsibilities**
+
+  * Architect end-to-end architecture and design of the application, including its components: mobile apps, real-time voice handling, AI agents, and cloud infra services.
+  * Design agentic orchestration pipelines that allow autonomous collaboration between AI agents.
+  * Oversee the integration of LLMs, embeddings, vectors, networks, and other databases into the core memory framework.
+  * Define data privacy and ethical AI guidelines for the product.
+  * Support PoC and MVP phases, validating approaches for multimodal (voice/text) interactions.
+  * Mentor engineering teams in AI-first architecture and MLOps/LLMOps best practices.
+  * Lead technical feasibility assessments and manage trade-offs between innovation and scalability.
+  * Collaborate on AI roadmap evolution toward a fully personalized, on-device digital twin.
+
+**Expected Results**
+
+  * Deliver a robust AI architecture blueprint.
+  * Co-led the Agentic Orchestration Layer design and deployment for internal and production use.
+  * Implement end-to-end LLM evaluation & monitoring within 6 months of MVP launch.
+  * Enable continuous learning and improvement loops across AI components (speech, memory, reasoning).

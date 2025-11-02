@@ -1,0 +1,60 @@
+Senior Backend Engineer (Python)
+**Why work with us?**
+
+  * People-oriented management without bureaucracy
+  * The friendly climate inside the company is confirmed by the frequent comeback of previous employees
+  * Flexible working schedule
+  * 29 paid time off (18 working days per year, plus 11 days — all national holidays)
+  * 9 sick leave days
+  * Full financial and legal support for private entrepreneurs
+  * Free English classes with native speakers or with Ukrainian teachers (for your choice)
+  * Dedicated HR
+
+**Your day-to-day in this position:**
+
+  * Design, build, and operate high-throughput, low-latency backend services for ad delivery and analytics
+  * Own queue-driven workloads (Celery/Redis/DragonflyDB): throughput, retries, back-pressure, idempotency
+  * Optimize performance end-to-end: CPU/memory, networking, asyncio/concurrency, caching, schema/indexing
+  * Productionize on AWS (EC2/EKS/Lambda, S3, RDS, ALB/NLB, IAM, elasticsearch)
+  * Implement robust observability: metrics, tracing, structured logs, SLOs/alerts
+  * Collaborate with product/analytics to ship features fast; run load tests and capacity plans for peak QPS
+  * Harden systems for resiliency, cost, and security (least-privilege IAM, secrets, threat modeling)
+
+**What makes you a great fit:**
+
+  * **5+ years** building production backend systems in Python
+  * Strong **AWS** experience running scalable, reliable services
+  * Proven track record optimizing servers for **high load/low latency**
+  * Deep hands-on with Celery (or similar queues), task orchestration, and distributed systems fundamentals
+  * Comfortable with **Bash, Linux networking** , and performance debugging (perf, eBPF, flame graphs)
+  * Solid JavaScript/Web fundamentals (HTTP, TLS, CORS, cookies, caching, CDNs)
+  * SQL/NoSQL experience; data modeling for large-scale reads/writes
+  * Great communication, team player, fast learner, proactive, and willing to work hard to hit goals
+  * At least an **upper-intermediate** level of English
+
+**Will be a plus:  
+**
+
+  * RTB/OpenRTB, VAST/VMAP, header bidding, DSP/SSP integrations
+  * Redis/DragonflyDB tuning, Kafka/Kinesis, ClickHouse/Redshift, Airflow
+  * Docker/K8s, GitHub Actions, ArgoCD; zero-downtime deploys & canary/blue-green
+  * Security/compliance in ad systems (PII, consent/TCF)
+  * Elasticsearch/Kibana experience
+
+**About the project:**
+
+  * Domain: AdTech
+  * Location: Israel
+  * Company size: up to 50 employees
+  * Founded in: 2021
+
+**Our next steps:**
+
+✅ Intro call with a Recruiter — ✅ Intro tech interview — ✅ Technical
+assessment — ✅ Final client interview — ✅ Offer
+
+**Who We Are:**  
+[Website](https://jobs.mwdn.com/careers/): more about us and vacancies  
+[Instagram](https://www.instagram.com/mwdn/): follow MWDN’s life  
+[Facebook](https://www.facebook.com/mwdn.ukraine): follow our FB  
+Feel free to contact us without any hesitation!

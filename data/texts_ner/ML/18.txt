@@ -1,0 +1,47 @@
+AI developer (Middle-Senior)
+Hi there!
+
+At Slotsense, we’re reshaping the iGaming experience using cutting-edge AI
+technologies. Our mission is to build intelligent, human-like chat experiences
+that elevate engagement and personalization. We’re looking for a highly
+skilled AI Expert to take our GPT-powered chatbot to the next level.
+
+You’ll be at the core of our AI system — designing agentic workflows, building
+and refining AI agents, crafting advanced prompts, and implementing modern
+techniques like RAG, Langchain, and LLMOps. Strong Python skills are also
+essential for success in this role.
+
+**What you’ll do:**
+
+• Design and implement advanced AI workflows and agent-based architectures
+
+• Apply and fine-tune RAG (Retrieval-Augmented Generation) pipelines
+
+• Craft high-quality prompts and experiment with prompt engineering strategies
+
+• Work with Langchain and other LLMOps tools to optimize chatbot performance
+
+• Analyze user behavior to improve system accuracy and naturalness
+
+• Collaborate closely with engineers and product teams to test and deploy
+improvements
+
+• Stay ahead of trends in LLMs and conversational AI
+
+**What we’re looking for:**
+
+• Proven experience with GPT or other large language models
+
+• Hands-on experience building AI agents and agentic workflows
+
+• Deep understanding of RAG and its real-world implementation
+
+• Strong Python skills and familiarity with vector databases
+
+• Experience with Langchain and LLMOps best practices
+
+• Excellent English skills for prompt writing and collaboration
+
+• Analytical mindset and proactive approach to experimentation
+
+• Passion for AI and continuous learning

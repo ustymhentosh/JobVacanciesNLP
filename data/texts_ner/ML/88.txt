@@ -1,0 +1,36 @@
+Data Engineer (AI Solutions)
+Sphere partners with Clients to transform their organizations, embed
+technology and process into everything they do, and enable lasting competitive
+advantage. We combine global expertise and local insight to help people and
+companies turn their ambitious goals into reality. At Sphere we put people
+first and strive to be a changemaker by building a better future through
+innovation and technology. Sphere is helping a known multinational company to
+innovate and bring new platforms to market and is looking for a **Data
+Engineer** who will join our team.  
+  
+**Location:** Remote  
+**Type:** Contract  
+**Start Date:** ASAP  
+
+**Responsibilities:**
+
+  * **Data Pipeline Development:** Build, maintain, and optimize robust data pipelines to ensure efficient data flow and accurate transformation across various systems. Manage and implement transformational rules to support data integrity and business requirements.
+  * **Technical Implementation:** Develop and deploy data solutions using Python and Java, leveraging Databricks and Databricks Notebooks to handle large-scale data processing and analytics tasks. Ensure code quality and scalability in all development activities.
+  * **Project Management:** Deliver projects within established timelines, managing multiple assignments simultaneously. Prioritize tasks effectively to meet deadlines without compromising quality.
+  * **Collaboration and Communication:** Work closely with data scientists, analysts, and other engineering teams to support data-driven initiatives. Communicate project progress, challenges, and solutions clearly with clients and team members to ensure alignment and transparency.
+  * **Problem-Solving and Innovation:** Analyze project requirements to develop innovative solutions independently. Address technical challenges proactively, ensuring seamless project execution with minimal oversight.
+  * **Cloud Platform Utilization:** Utilize cloud platforms such as AWS or Azure to design, implement, and manage data infrastructure. Leverage cloud services to enhance data processing capabilities and support scalable solutions.
+
+**Requirements:**
+
+  * Experience building and managing data pipelines.
+  * 6+ years of software development with a focus on data engineering.
+  * Proficiency in Python or Java.
+  * Experience with GCP is a must.
+  * Experience with ETL.
+  * Knowledge of MySQL, PostgreSQL, MongoDB, or Redis.
+  * Familiarity with version control systems like Git.
+  * Experience with Databricks and Databricks Notebooks.
+  * Experience with AI, generative AI, and ML.
+  * Fluent English.
+  * Availability to work within PST working hours is required.

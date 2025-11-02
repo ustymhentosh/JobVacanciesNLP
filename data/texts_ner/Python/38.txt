@@ -1,0 +1,51 @@
+Senior Full-stack Developer (Python + React)
+### Description
+
+Intellectsoft is a software development company delivering innovative
+solutions since 2007. We operate across North America, Latin America, the
+Nordic region, the UK, and Europe.We specialize in industries like Fintech,
+Healthcare, EdTech, Construction, Hospitality, and more, partnering with
+startups, mid-sized businesses, and Fortune 500 companies to drive growth and
+scalability. Our clients include Jaguar Motors, Universal Pictures, Harley-
+Davidson, Qualcomm, and London Stock Exchange.Together, our team delivers
+solutions that make a difference. Learn more at
+
+Transform your approach to application testing by joining a dynamic team
+working on an innovative AI-driven automation tool. Contribute to a solution
+that eliminates the hassle of manual script updates, employing intelligent
+adaptation to seamlessly maintain tests amidst application changes. Be part of
+a collaborative environment and play a key role in streamlining the testing
+process for enhanced efficiency.
+
+### Requirements
+
+  * Bachelor’s degree in Computer Science, Engineering, or a related field.
+  * 5+years of proven experience as a Python Developer, especially with FastAPI, pandas, and PostgreSQL.
+  * Solid understanding of API development, data manipulation, and database design principles.
+  * Proficiency with Git and familiarity with the software development lifecycle.
+  * Strong proficiency in SQL and experience with ORM frameworks (e.g., SQLAlchemy).
+  * Hands-on experience with AWS services (e.g., EC2, S3, Lambda, RDS) for application deployment and data processing.
+  * Proficiency with TypeScript and React, with the ability and willingness to contribute as a full-stack engineer when needed.
+  * Strong problem-solving skills, attention to detail, and ability to work independently.
+  * Clear and effective communication skills and a collaborative mindset
+
+**Responsibilities:**
+
+  * Design, implement, and maintain high-performance APIs using FastAPI.
+  * Collaborate with cross-functional teams to gather and understand project requirements.
+  * Utilize pandas to manipulate, clean, and analyze data efficiently.
+  * Develop data processing pipelines to support product features and analytics.
+  * Contribute to the design and implementation of database schemas and optimized queries using PostgreSQL.
+  * Ensure database systems are reliable, performant, and well-maintained.
+  * Participate in code reviews to uphold code quality and best practices.
+  * Work as part of a collaborative, agile team and contribute to system architecture.
+  * Apply basic React knowledge to support front-end integration when needed.
+
+### Benefits
+
+  * 35 absence days per year for work-life balance
+  * Udemy courses of your choice
+  * English courses with native-speaker
+  * Regular soft-skills trainings
+  * Excellence Сenters meetups
+  * Online/offline team-buildings

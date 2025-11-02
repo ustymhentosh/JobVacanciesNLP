@@ -1,0 +1,94 @@
+Python Developer
+**Axon** is looking for an experienced **Python Engineer** to join an AI-
+driven English pronunciation coach designed to help users enhance their
+speaking skills through real-time feedback. The platform combines speech
+recognition, machine learning, and personalized lesson plans to provide
+actionable guidance and measurable progress.
+
+This role focuses on migrating existing Python components to the latest stable
+releases, ensuring that all platform features — including AI-powered speech
+recognition and personalized learning — continue to operate smoothly. It
+requires strong skills in Python upgrades, dependency management, and backend
+optimization, with occasional work on integrating or supporting AI-related
+modules.
+
+**What you need for this position:**
+
+  * 4+ years of professional Python development experience;
+  * Strong expertise in Python 3.x and its standard libraries;
+  * Proven experience in Python version upgrades and handling dependency conflicts;
+  * Experience with package and dependency management tools (pip, pip-tools, Poetry, virtualenv, conda);
+  * Solid understanding of asynchronous programming (asyncio, aiohttp, etc.);
+  * Proficiency with testing frameworks (pytest, unittest, coverage);
+  * Hands-on experience with Docker and containerized Python applications;
+  * Experience working with CI/CD pipelines (GitHub Actions, GitLab CI, Jenkins);
+  * Strong debugging skills and ability to handle complex refactoring tasks;
+  * Good communication skills and ability to work in a remote, distributed team
+
+**Nice to have:**
+
+  * Experience with FastAPI, Django, or Flask;
+  * Exposure to AI/ML-based systems and how they integrate into backend services;
+  * Knowledge of cloud platforms (AWS, GCP, Azure) and serverless Python applications;
+  * Familiarity with machine learning libraries (NumPy, pandas, TensorFlow, PyTorch) for AI/ML features;
+
+**What you will be doing:**
+
+  * Upgrading Python components to the latest stable releases;
+  * Refactoring and optimizing existing backend code for maintainability and performance;
+  * Identifying and resolving compatibility issues with third-party packages, APIs, and internal services;
+  * Ensuring smooth operation of AI-powered features during migration by maintaining required integrations;
+  * Working with DevOps to adjust CI/CD pipelines for the new Python environment;
+  * Documenting migration steps, dependencies, and architecture adjustments.
+
+**What we can offer you:**
+
+**Benefits and perks**
+
+  * Competitive compensation with regular performance review;
+  * 20 compensated vacation days during the calendar year;
+  * Days off during all national holidays;
+  * 7 days of compensated sick leave during the year (no special medical documents are required);
+  * After a probationary period (3 months), additional budget for health, education, or entertainment expenses (at your choice);
+  * Comfortable work schedule (9/10/11AM — 6/7/8 PM your local time);
+  * Work fully remotely **or** hybrid (on your choice).
+
+**Personal & Professional development**
+
+  * Internal mentoring and education system (constant support from HR Manager, regular feedback sessions, one one-on-one meeting every 3 months);
+  * Free internal tech-talks, meetups, and webinars, Udemy\Coursera knowledge base, Axon podcast;
+  * Possibility to migrate between the projects and work with different stacks;
+  * Development in related technologies;
+  * Growth to the leading positions inside the company;
+  * English classes and external professional training are compensated.
+
+**Teamwork**
+
+  * Challenging work in an international professional environment (our team is located in more than 5 countries);
+  * Well-defined development processes:
+  * work in an Agile environment using the Scrum methodology;
+  * work with experienced Project Managers and Business Analysts in each team;
+  * Team volunteering activities;
+  * Corporate events and Axon achievements awards.
+
+**Interview stages**
+
+  * Intro call with a recruiter — (Google Meet call 30–45 mins)
+  * Internal technical interview — (Google Meet call 1 hour)
+  * Client technical interview — (Google Meet call 1 hour)
+  * Feedback
+  * Job offer
+
+Thank you for your application and your interest in our vacancy. If we have
+not contacted you within a week, it means at the moment you are not qualified
+for this vacancy. Nevertheless, we will save your CV in our database and will
+contact you when we open a relevant vacancy for your qualifications.
+
+_“By sending us your CV, you agree to the collection, storage, and processing
+of your personal data in accordance with Axon’s Privacy Policy and the General
+Data Protection Regulation (GDPR). We may use your personal information,
+including your name, contact details, employment and business history,
+education, and other relevant information contained in your CV, to evaluate
+your job application and to contact you regarding job opportunities that match
+your skills and experience. We will not use your personal information for any
+other purpose without your explicit consent.”_

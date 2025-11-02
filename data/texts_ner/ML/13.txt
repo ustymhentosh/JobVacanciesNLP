@@ -1,0 +1,54 @@
+Head of AI Consulting (#3887)
+N-iX is a global software development service company that helps businesses
+across the globe create next-generation software products. Founded in 2002, we
+unite 2,400+ tech-savvy professionals across 40+ countries, working on
+impactful projects for industry leaders and Fortune 500 companies. Our
+expertise spans cloud, data, AI/ML, embedded software, IoT, and more, driving
+digital transformation across finance, manufacturing, telecom, healthcare, and
+other industries. Join N-iX and become part of a team where your ideas make a
+real impact.
+
+**About the Role**
+
+We are looking for an experienced Head of AI Consulting to head the AI
+Consulting direction within N-iX’s CTO Office. This is a strategic leadership
+role where you will shape our AI service offerings, drive technical pre-sales,
+lead high-impact projects, and build a world-class AI consulting team.
+
+**What will you do:**
+
+  * Lead technical pre-sales as the primary consultant, scoping business and technical requirements for Gen AI (LLM, RAG, Agents), ML, CV, and related AI disciplines
+  * Become (or be ready to become) a world-class AI consultant for both clients and internal delivery teams
+  * Engage in short- and mid-term AI projects as a consultant/engineer to ensure successful execution and delivery
+  * Hire, manage, and mentor a team of AI consultants supporting pre-sales, project initiation, and delivery
+  * Collaborate with sales and marketing teams to refine and create new AI service offerings
+  * Partner with our alliances team to maintain and expand strategic partnerships (AWS, GCP, Azure, Nvidia, etc.)
+  * Report directly to VP of Data and AI Consulting, with dotted line supervision from the CTO of the company.
+
+**Requirements** :
+
+  * 7+ years as an AI/ML/CV consultant with experience in pre-sales and delivery of both short- and long-term projects.
+  * 3+ years managing AI consultants or engineering teams.
+  * Experience in IT Service Business
+  * Strong leadership skills with excellent communication and client engagement abilities.
+  * Broad and deep understanding of AI technologies, trends, and methodologies.
+
+**What you will get:**
+
+  * Lead one of N-iX’s most strategic practices within the CTO Office
+  * Collaborate with world-class clients on complex business and technology challenges (e.g., eBay, Bosch, Siemens, Credit Agricole, Office Depot)
+  * Build and lead a top-tier AI consulting team of passionate experts.
+
+**We offer*:**
+
+  * Flexible working format — remote, office-based or flexible
+  * A competitive salary and good compensation package
+  * Personalized career growth
+  * Professional development tools (mentorship program, tech talks and trainings, centers of excellence, and more)
+  * Active tech communities with regular knowledge sharing
+  * Education reimbursement
+  * Memorable anniversary presents
+  * Corporate events and team buildings
+  * Other location-specific benefits
+
+*not applicable for freelancers

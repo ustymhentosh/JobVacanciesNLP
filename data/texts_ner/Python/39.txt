@@ -1,0 +1,26 @@
+Senior Python Developer
+We are looking for a Senior Python developer to join our agile, cross-
+functional team. In this role, you will participate in a project developing a
+user-friendly web application for a file hosting service.
+
+Sounds interesting? Apply!
+
+**Your tasks**
+
+  * Lead and implement large-scale migration initiatives
+  * Partner closely with security and engineering teams to align priorities, address dependencies, and proactively mitigate risks
+  * Analyze and navigate complex, multi-layered codebases, adapting solutions across diverse services and system components
+  * Facilitate technical discussions across teams, documenting decisions and outcomes to promote clarity and accountability
+  * Monitor and report migration progress to stakeholders, ensuring visibility, transparency, and on-time execution
+  * Troubleshoot and resolve technical issues to uphold system reliability and continuously strengthen security standards
+
+**Requirements**
+
+  * Minimum 7 years of experience in Python programming
+  * Knowledge of REST API design principles and application security practices
+  * Familiarity with distributed systems fundamentals (e.g., RPC, load balancing, service discovery)
+  * Teamwork and communication skills
+  * Ukrainian — B2
+  * The ability to work until 9 pm CEST is required
+  * Good verbal and written English skills
+  * Tax residence in Ukraine is required

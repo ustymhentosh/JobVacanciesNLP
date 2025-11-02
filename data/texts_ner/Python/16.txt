@@ -1,0 +1,45 @@
+General Software Test Engineer (Python)
+We’re seeking a skilled and enthusiastic General Software Test Engineer to
+join Materialise. In this role, you’ll be part of a team of passionate
+professionals dedicated to making a difference in the world of medical
+innovation.  
+  
+  
+**What you will do**  
+  
+  
+
+  * Define, design, and write test scenarios and test plans based on acceptance criteria
+  * Perform manual regression testing.
+  * Create automated tests for an industry-standard 3D medical image segmentation software: Mimics Core.
+  * Register bugs and verify resolved bugs.
+  * Create and maintain test documentation in accordance with established procedures.
+  * Perform early checks for stories being implemented.
+  * Write test plans and test case views.
+  * Conduct regression testing.  
+  
+  
+
+**Your profile**  
+  
+— Experience with the Python unittest library.  
+— English language proficiency (at least B2 level, ability to communicate with
+colleagues in a multinational environment).
+
+— At least 2 years of hands-on experience in testing desktop or web products.
+
+  * Strong understanding of test scenarios and test plan development.
+  * Proficient in manual testing and automated test creation.
+  * Able to create and maintain test documentation.
+  * Proactive in performing early checks for stories being implemented.  
+  
+  
+
+**Will be a plus**  
+  
+
+  * Degree in engineering, math, physics, or similar.
+  * Experience working with complex desktop toolbox products.
+  * Experience in manual testing of web products or automation testing of desktop products.
+  * Familiarity with Azure DevOps tools (Azure Test Plans, Azure Boards) or similar.
+  * Experience with Team Foundation Server (Test Management) or similar.

@@ -1,0 +1,46 @@
+Software Engineer (Python, 100% Remote)
+Are you an easy-going and experienced professional?
+
+Then this opportunity below is right for you!
+
+On behalf of our Norwegian Client — **NUU ([nuu.no](https://nuu.no/))**, we
+are looking for an expert **Python developer.**
+
+**NUU** — is a modern recruitment tool where job seekers can make their own
+video-CV. With a skilled team, a curious corporate culture, and best-in-class
+technology, they help companies make recruitment efficient and fun.
+
+**Leading technologies** — Python, Django, Elasticsearch, Redis, Unix shell
+(Ubuntu), PostgreSQL, AWS (S3, EC2).
+
+_**What are you going to deal with**_
+
+  * Development of new features and maintenance of the existed ones;
+  * Troubleshooting of end-users problems;
+  * Environment maintenance;
+  * Direct communication with the client (CEO, Product Owner) and participation in product evolution;
+  * The team is still small, so a lot is possible!
+
+_**Is it you?**_
+
+  * 5+ years of experience with Python;
+  * Experience with the backend is a must, meaning designing DB, API, knowledge of best practices in Python;
+  * 3+ years of experience with Django + Django REST framework environment;
+  * Working experience with back-end environment — Unix shell (Ubuntu);
+  * Working experience with PostgreSQL and AWS;
+  * It will be a plus an experience with Heroku, Nginx, JIRA, GitHub, Sentry, New Relic;
+  * Ability to debug;
+  * Desire to learn more and improve oneself;
+  * Outstanding communication skills with team members, senior staff members, and clients;
+  * Ability to write simple unit tests;
+  * Follow tech trends and implement the best practices;
+  * Self-manageable and proactive person;
+  * English — speaking level no less than Intermediate;
+
+_**Reasons to join us**_
+
+  * Fully remote work;
+  * Friendly environment with minimum bureaucracy;
+  * 20 working days of annual paid vacation + holidays;
+  * Paid sick-leaves;
+  * Professional education coverage (conferences, webinars, online courses, certificates);

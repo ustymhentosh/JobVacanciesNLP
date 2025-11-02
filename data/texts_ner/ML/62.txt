@@ -1,0 +1,56 @@
+Senior Business Analyst- AI Project
+We are looking for an experienced **Lead/Senior Business Analyst** to join an
+innovative AI-driven project in the **insurance industry**. This is a high-
+impact role where you’ll drive the definition of business and functional
+requirements, oversee solution design, and act as the bridge between business
+stakeholders and technical teams. You’ll play a key role in delivering
+enterprise-level AI solutions that transform business processes and improve
+operational efficiency.
+
+### **Responsibilities**
+
+**Requirements Gathering & Documentation**
+
+  * Act as the primary liaison between business stakeholders and technical teams to define, analyze, and document requirements for enterprise AI applications.
+  * Lead the creation of user stories, process flows, data flows, traceability matrices, system integration diagrams, and report mock-ups.
+  * Conduct analysis of current-state processes and identify opportunities for AI-driven improvements.
+  * Partner with data science, analytics, and engineering teams to ensure requirements support AI model development and deployment.
+
+**Strategic Leadership**
+
+  * Collaborate with product owners to define the roadmap and priorities for AI application implementation.
+  * Provide thought leadership on integrating AI technologies into business processes.
+  * Organize workshops and collaborative sessions to identify advanced AI use cases.
+
+**Stakeholder Collaboration & Consensus Building**
+
+  * Facilitate requirements gathering sessions with cross-functional teams including Underwriting, Operations, IT, Analytics, QA, and Marketing.
+  * Act as a trusted advisor to business stakeholders, providing insights on AI-driven solutions.
+  * Drive alignment on priorities, timelines, and deliverables across diverse teams.
+
+**Project Coordination**
+
+  * Support light project management activities to ensure timely and successful delivery of AI solutions.
+  * Partner with technical teams to resolve issues and ensure smooth implementation.
+
+### **Requirements**
+
+**Experience**
+
+  * 5–7 years of business analysis experience, with 3+ years in leadership roles.
+  * Proven track record implementing AI or machine learning solutions in complex environments.
+
+**Technical & Analytical Skills**
+
+  * Strong expertise in requirements elicitation, analysis, and documentation for enterprise AI and technical solutions.
+  * Hands-on experience with Agile methodologies and tools (TFS, Jira, Rally).
+  * Familiarity with AI technologies, platforms, and business applications.
+  * Process modeling (Visio) and data visualization skills.
+
+### **What We Offer**
+
+  * Competitive compensation
+  * Remote work 
+  * Long-term project
+  * Working schedule: 12.00-20.00 Kyiv/Athens; 11.00-19.00 CET
+  * Friendly, professional, and collaborative team

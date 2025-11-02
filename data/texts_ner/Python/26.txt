@@ -1,0 +1,35 @@
+Full Stack Developer (Python+Angular)
+**About the Project:** Our client provides a platform for centralized product
+information and digital asset management, streamlining content organization,
+distribution, and collaboration between brands and retailers.
+
+**Responsibilities:**
+
+  * Design, develop, and maintain scalable full-stack solutions.
+  * Collaborate with product managers and developers to deliver high-quality features.
+  * Ensure seamless integration of frontend and backend components.
+  * Enhance system performance, scalability, and security.
+  * Stay up to date with industry trends and emerging technologies.
+
+**Requirements?**
+
+  * 3+ years of experience in Python and Django development.
+  * 3+ years of experience with PostgreSQL or similar RDBMS, including SQL query optimization.
+  * Hands-on experience with cloud platforms (AWS, Azure).
+  * Strong understanding of REST API protocols.
+  * Experience with asynchronous frameworks (Aiohttp, FastAPI, or similar).
+  * 3+ years of experience with Angular.
+  * Proficiency in HTML, CSS, SCSS, JavaScript, and TypeScript.
+  * Experience working with REST and GraphQL APIs.
+  * Ability to implement pixel-perfect UI designs.
+  * Strong Intermediate level of English.
+
+**Our Benefits:**
+
+  * **Professional growth** : Individual development plan, mentorship, reimbursement for professional certifications and English lessons, access to professional courses in Corporate Learning Management System.
+  * **Community** : Tech community and knowledge-sharing events, English speaking club, corporate library and book club, volunteering and charity initiatives.
+  * **Wellbeing** : Medical insurance, regular medical check-ups, sport reimbursement, paid vacation and sick leave, mental health support and events.
+  * **Work environment** : Fully-equipped offices, top-notch equipment, flexible work format, activities both in-office and online, Y-bucks and access to the Yalantis store.
+
+Before sending us your CV, you may read our [Privacy
+Notice.](https://yalantis.com/privacy-notice/)

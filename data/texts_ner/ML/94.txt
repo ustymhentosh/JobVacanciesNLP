@@ -1,0 +1,66 @@
+AI / NLP Engineer / Data Scientist
+It’s an amazing time to join Digicode as we continue empowering as many
+innovators as possible to change the world. We deliver outstanding technology
+consulting, R&D, design, and software development services in the USA, UK, and
+EU markets. This is where you come in!
+
+We’re looking for a skilled ML/AI Expert to work on an LLM-based ad targeting
+system. The role involves improving existing NLP, training and retraining
+models, and conducting R&D for the next generation of products.
+
+**Responsibilities:**
+
+  * Training, refining, and validating LLM/NLP models
+  * R&D in NLP, ML, and AI to improve ad selection and brand safety
+  * Development and deployment in the cloud, ensuring low latency and scalability
+  * Working in Agile, TDD, participating in sprint planning, pair programming
+
+**Requirements:**
+
+  * Commercial experience in NLP, ML, or AI (experience with LLM is required)
+  * Practical engineering experience, willingness to solve domain-specific problems
+  * Experience with at least three of the following: Python, Groovy, Git, MySQL, Linux, AWS, JUnit/unittest, JMeter, Gradle
+  * Experience with TDD; responsibility for deadlines
+  * **Upper — Intermediate**
+
+**Preferred:**
+
+  * Experience with NLP frameworks and big data tools
+
+**About Project:**
+
+  * Small, close-knit team (~15 people)
+  * Agile, CI/CD, infrastructure automation, pair programming
+  * Working with high-QPS, low-latency systems; opportunity to influence the product and grow professionally
+
+**Process:**
+
+  * Intro call with a recruiter.
+  * Internal technical interview.
+  * Tech interview with client.
+
+**What To Expect From Digicode?**
+
+**🌎 Work from Anywhere:** From an office, home, or travel continuously if
+that’s your thing. Everything we do is online. You’re all set as long as
+you’re in the same time zone as your project colleagues.
+
+**💼 Professional Development:** We offer great career development
+opportunities in a growing company, international work environment, paid
+language classes, conference and education budget, & internal 42 Community
+training.
+
+**󰩔 Work-life Balance:** We provide employees with 18+ paid vacation days and
+paid sick leave, a flexible schedule, medical insurance for employees and
+their children, and a monthly budget for things like a gym or pool membership.
+
+**🙌 Culture of Openness:** We’re committed to fostering a community where
+everyone feels welcome, seen, and heard, with minimal bureaucracy, and flat
+organization structure.  
+And, also, corporate gifts, corporate celebrations, free food & snacks, and
+play & relax rooms for those who visit the office.
+
+Our culture is unique, and we live by our beliefs and core values. For more
+information on what it’s like to work at Digicode, please take a look at our
+career page.  
+Did we attract your attention? Send your CV and let’s talk:)

@@ -1,0 +1,48 @@
+General QA — Python or TS/JS into virtualisation industry
+**THE ROLE:**
+
+  * Write, run, and troubleshoot automated tests for web applications.
+  * Set up and support test frameworks and automation tools.
+  * Perform manual testing of new features as part of the development cycle to
+
+validate functionality before automation — ensuring a solid understanding of
+
+expected behaviour and identifying edge cases early.
+
+  * Work with APIs and common libraries used in test automation.
+  * Build and maintain services to help run and manage automated tests.
+  * Help integrate tests into CI/CD pipelines and make sure they run smoothly.
+  * Work closely with developers and products to catch bugs early and improve
+
+test coverage.  
+
+**ABOUT YOU:**
+
+  * 5+ years of experience in automation testing, mostly using **Python or TS/JS**.
+  * Solid experience with Playwright.
+  * Familiar with cloud and virtualisation platforms like GCE, Azure, and ESXi.
+  * Experience testing microservices and working with REST APIs.
+  * Used tools like Jenkins or GitHub Actions for continuous integration.
+  * Familiar or have experience with modern tools (including AI-powered ones)
+
+that help improve QA and test automation workflows.
+
+  * Good problem-solving skills and can work independently when needed.  
+
+**NICE TO HAVE:**
+
+Experience with manual testing.
+
+### Вимоги до володіння мовами
+
+АнглійськаB2 — Вище середнього
+
+### Про компанію DevPulse
+
+We are the company that specialises in providing a full cycle of software
+development, implementation, and testing. At DevPulse, our work is driven by
+our core values that serve as the foundation for our actions and behaviour.
+These values are not just words on paper, but deeply ingrained principles that
+guide us in everything we do. Even during challenging times, our commitment
+remains unwavering. We are dedicated to delivering high-quality results and
+meeting our key goals.

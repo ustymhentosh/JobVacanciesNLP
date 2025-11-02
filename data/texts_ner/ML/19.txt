@@ -1,0 +1,57 @@
+AI Engineer (RemotePass)
+[**Flyer One Ventures**](https://flyerone.vc/)**** — is an early-stage VC-
+fund, which**** invests in startups from Europe and North America. It has
+already invested $35M in over 60 startups. We also help our companies with
+recruitment and connect them to industry experts.  
+  
+We’re looking for a **Senior AI Engineer** for our portfolio company,
+[RemotePass](https://www.remotepass.com/?utm_source=google&utm_medium=search&utm_campaign=Search%7C+Branded+%7C+Global+%7C+2025&utm_content=EXACT_Brand_global&utm_term=remotepass&utm_campaign=Search%7C+Branded+%7C+Global%7C+2025&utm_source=adwords&utm_medium=ppc&hsa_acc=8083103123&hsa_cam=23034375503&hsa_grp=188373817369&hsa_ad=774713720544&hsa_src=g&hsa_tgt=kwd-1965395026273&hsa_kw=remotepass&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=23034375503&gbraid=0AAAAABIxEavNkvCv8nvcAWQ4_gdv2bAVx&gclid=Cj0KCQjwjL3HBhCgARIsAPUg7a7LWNVOf-
+w_dEn9JM4APXGQkEbEcHNxszHwSvTIseWDfaLTZwvmAYUaAkqNEALw_wcB).
+
+[**RemotePass**
+](https://www.remotepass.com/?utm_source=google&utm_medium=search&utm_campaign=Search%7C+Branded+%7C+Global+%7C+2025&utm_content=EXACT_Brand_global&utm_term=remotepass&utm_campaign=Search%7C+Branded+%7C+Global%7C+2025&utm_source=adwords&utm_medium=ppc&hsa_acc=8083103123&hsa_cam=23034375503&hsa_grp=188373817369&hsa_ad=774713720544&hsa_src=g&hsa_tgt=kwd-1965395026273&hsa_kw=remotepass&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=23034375503&gbraid=0AAAAABIxEavNkvCv8nvcAWQ4_gdv2bAVx&gclid=Cj0KCQjwjL3HBhCgARIsAPUg7a7LWNVOf-
+w_dEn9JM4APXGQkEbEcHNxszHwSvTIseWDfaLTZwvmAYUaAkqNEALw_wcB)is a leading global
+platform transforming the way businesses access and manage top talent.
+Recognized as one of G2’s Top 100 Fastest Growing Software Products, we’re on
+a mission to break down geographical barriers and create a world where
+exceptional talent can thrive anywhere.
+
+By streamlining global hiring, onboarding, payroll, and compliance, RemotePass
+empowers organizations to build high-performing remote teams. Our platform is
+designed to improve the lives of millions of workers worldwide by providing
+them with unprecedented opportunities to connect with global employers and
+reach their full potential.
+
+We are backed by world-class investors; Endeavor Catalyst, Khwarizmi Ventures,
+Oraseya Capital, Flyer One Ventures, Access Bridge Ventures, A15, Swiss
+Founders Fund and Plug & Play.
+
+**About Role**
+
+We are looking for a**Senior AI Engineer** to join our team and contribute to
+the development of cutting-edge AI technologies. This position focuses on the
+utilization of existing AI models and applications, collaborating with cross-
+functional teams, and integrating AI functionalities into products. The ideal
+candidate will have extensive experience in machine learning and deep
+learning, a proven track record of successful AI projects, and proficiency in
+modern tools like AWS Bedrock.
+
+**About you:**
+
+  * Master’s or Ph.D. in Computer Science, Artificial Intelligence, Machine Learning, or a related field.
+  * 3+ years of experience in AI/ML development and deployment.
+  * Strong proficiency in programming languages such as Python.
+  * Extensive experience with AI/ML frameworks (e.g., TensorFlow, PyTorch).
+  * Experience with cloud platforms (e.g., AWS, GCP, Azure) and MLOps tools.
+  * Excellent problem-solving skills and the ability to work independently and as part of a team.
+  * Strong communication and interpersonal skills.
+
+**What you will do:**
+
+  * Lead the end-to-end lifecycle of AI-powered solutions, from rapid prototyping to production-ready systems
+  * Integrate state-of-the-art AI/LLM models (OpenAI GPT, Claude, LLaMA, Mistral, etc.) into user-facing applications and backend systems
+  * Develop systems that integrate retrieval mechanisms into LLMs to enhance the generation of information-rich responses
+  * Collaborate with product managers and software engineers to define AI solutions and integrate them into our platform.
+  * Stay current with the latest advancements in AI, machine learning, and related fields through continuous research.
+
+**Join us!**

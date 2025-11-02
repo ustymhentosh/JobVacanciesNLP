@@ -1,0 +1,44 @@
+AI Engineer (Consulting or FT)
+**About Us**  
+Jiris Health is building the all-in-one homecare software platform designed to
+simplify operations for agencies and improve caregiver and patient
+experiences. We believe AI can transform both how we build software and how
+agencies run their daily workflows.
+
+**The Role**  
+We’re looking for an **AI Engineer** who can help us leverage AI across our
+business. This role could take two forms depending on the candidate:
+
+  * **Consulting engagement:** Train our development team on AI-powered coding tools, QA automation, and documentation workflows, then step back.
+  * **Full-time role:** Join us permanently to build **AI-driven features directly into Jiris Health** — from predictive analytics to intelligent workflow automation.
+
+**Responsibilities**
+
+  * Evaluate and integrate **AI tools that streamline daily development tasks** (e.g., code generation, testing, QA automation, documentation).
+  * Train the development team on effective AI/LLM workflows.
+  * (Full-time) Design and implement AI features into the product, such as:  
+
+    * Automated documentation and care plan generation
+    * Predictive analytics for scheduling, compliance, and billing
+    * Natural language processing tools for caregivers and coordinators
+  * Collaborate with product leadership to shape the long-term AI roadmap.
+
+**Requirements**
+
+  * 3+ years of experience working with AI/ML (LLMs, NLP, or applied machine learning).
+  * Strong programming background in **Python and/or JavaScript**.
+  * Experience integrating **AI APIs** (OpenAI, Anthropic, Google, etc.).
+  * Strong communication and ability to train/mentor a dev team.
+  * Healthcare or SaaS experience a big plus.
+
+**Nice to Have**
+
+  * Prior experience embedding AI into enterprise or healthcare workflows.
+  * Background in compliance-heavy industries.
+
+**Why Join Us**
+
+  * Shape how AI transforms both our **product** and our **development process**.
+  * Join a mission-driven team building the future of homecare software.
+  * Flexible setup: consulting role or full-time permanent position.
+  * Opportunity to own AI innovation from the ground up.

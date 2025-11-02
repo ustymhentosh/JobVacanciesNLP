@@ -1,0 +1,60 @@
+Lead Python Engineer
+S-PRO, a top-tier Digital Innovation and Software Engineering company. We
+specialise in providing cutting-edge services for fast-growing businesses and
+enterprises, with a strong focus on Finance, Renewable Energy and Healthcare
+domains and expertise in AI, Blockchain and Data Science. Our team of over 200
+dedicated professionals works tirelessly across our global offices to develop
+innovative digital solutions that drive sustainable business value and
+increase our client’s competitiveness in a dynamic digital landscape.
+
+**Key Responsibilities:  
+**
+
+  * Lead project planning and translate high-level ideas into executable technical work
+  * Stay hands-on while supporting and mentoring a small engineering team
+  * Design and develop scalable APIs using Python and AWS Lambda
+  * Define and manage OpenAPI contracts for backend services
+  * Build and evolve PostgreSQL data models on AWS RDS
+  * Maintain infrastructure as code using Terraform (Lambda, ALB, RDS, S3)
+  * Create efficient CI/CD pipelines via GitLab
+  * Integrate Amazon Bedrock for AI workflows (e.g., document summarization)
+  * Participate in sprint planning, code reviews, and stakeholder syncs
+  * Advocate for best practices in testing, security, and collaboration
+
+**Requirements:**
+
+  * 5+ years of Python 3 experience
+  * Solid experience with FastAPI or similar frameworks
+  * Production experience with AWS Lambda and API Gateway/ALB
+  * Strong knowledge of PostgreSQL in cloud environments
+  * Terraform expertise for cloud infrastructure provisioning
+  * Familiarity with OpenAPI/Swagger
+  * Proficient in Git workflows and GitLab CI/CD
+  * Confident with Amazon S3 in production
+  * Comfortable working in Agile teams and cross-functional settings
+  * Strong communication skills and fluent spoken English
+
+**Nice to Have:**
+
+  * Experience leading technical projects or small teams
+  * Experience with Amazon Bedrock or other LLM integrations
+  * Background in fintech or asset management is a plus
+  * Knowledge of AWS monitoring tools (e.g., CloudWatch, X-Ray)
+  * Understanding of serverless security best practices
+  * Previous consultancy or client-facing experience
+
+**What we offer:**
+
+  * **Long team focus:** we create an environment of transparent communication, and minimal bureaucracy, which leads to long-term relationships.
+  * **Development of niche expertise:** we are working in several niches, such as FinTech, healthcare, and logistics. Therefore, our employees can develop their own expertise in these domains.
+  * **Continuous learning:** we create employee development plans / personal roadmaps /quick promotion processes.
+  * **Internal career development:** 80% of our current executives were promoted to those positions within S-PRO. We encourage initiative. If a person wants to set new challenges and grow, we will definitely support them.
+
+**Benefits and perks** :
+
+  * Flexible schedule.
+  * Remote work model.
+  * Medical insurance
+  * Paid vacations
+  * Paid Sick-leaves.
+  * Paid State holidays.

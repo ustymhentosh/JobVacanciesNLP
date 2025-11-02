@@ -1,0 +1,47 @@
+Full-Stack AI Engineer (Python + PHP)
+###
+
+**Location:** Remote (Europe / Ukraine-friendly)  
+**Employment Type:** Full-time
+
+### Who we are
+
+Giraffe Software is a fast-growing software development company delivering
+high-impact AI and automation solutions. Our team collaborates across Europe
+and Ukraine, shipping innovative products that help businesses scale
+efficiently.
+
+### Why this will excite you
+
+  * Build AI features with real production impact from day one.
+  * Work in a high-velocity environment with state-of-the-art tooling.
+  * Join a small, elite team where your work directly influences product success.
+  * Opportunity to grow into Staff or Lead roles while owning massive scope.
+
+### What you’ll tackle
+
+  * Build end-to-end AI features: data scraping → RAG pipelines → automated system sync.
+  * Design idempotent, rate-limit-resilient integrations with CRMs and accounting tools.
+  * Engineer context-rich AI replies and orchestrate dynamic recovery processes.
+  * Validate and iterate AI outputs to ensure production-grade accuracy.
+  * Contribute to DevOps, CI/CD, and SRE tasks to maintain high uptime.
+
+### Day-to-day ownership
+
+  * Ship code daily using **Python FastAPI** (PHP expertise is a significant plus).
+  * Pair with AI teammates and tools to increase throughput.
+  * Monitor logs and metrics, squash bugs, automate repetitive tasks.
+  * Collaborate with leadership on roadmap and architecture decisions.
+
+### Must-have superpowers
+
+  * Proven experience deploying AI-powered production systems.
+  * Hands-on experience with RAG pipelines, large-scale scraping, and prompt engineering.
+  * Strong API integration and automation skills.
+  * Rapid context switching, self-starter attitude, ownership mindset.
+  * Upper-intermediate English with clear asynchronous communication.
+
+### Nice to have
+
+  * Multi-tenant SaaS experience, deliverability optimization, event analytics.
+  * Infrastructure as Code, CI/CD, light SRE experience.

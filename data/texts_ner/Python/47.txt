@@ -1,0 +1,49 @@
+Python Developer
+Numerical Technologies LTD is a leading provider of custom software solutions
+and services specializing in risk, limits, and regulatory capital. Right now,
+we are looking for a Python Developer to join our team.
+
+**What will you be doing?**
+
+As part of the team, you will be participating in a project with a large US
+bank. You will be helping us develop new software features and support and
+maintain the existing ones. You will be writing scalable and fault-tolerant
+code, debugging programs, and integrating applications with third-party web
+services. You will be working closely with the client and product manager to
+understand the system’s functional and non-functional requirements, and
+contribute to code quality through unit testing, integration testing, code
+review, and system design using Python to build robust software that aligns
+with the client’s business needs.  
+  
+
+**What are we looking for:**
+
+◼ A strong programming background with Python and OOP skills.
+
+◼ Proficiency with SQL (Postgres, SQLite) and NoSQL (MongoDB) databases.
+
+◼ Deep understanding of algorithms and data structures.
+
+◼ Experience with FastAPI and Linux environments.
+
+◼ Strong problem-solving skills and ability to collaborate effectively in a
+team environment.
+
+◼ Familiarity with LangChain is a plus.  
+  
+
+**What we offer:**
+
+◼ Competitive compensation depending on experience and skills.
+
+◼ Regular assessments and salary reviews.
+
+◼ Paid personal days.
+
+◼ Health insurance.
+
+◼ Mental health support program.
+
+◼ English/Polish/Spanish language classes.
+
+◼ Flexible working schedule.

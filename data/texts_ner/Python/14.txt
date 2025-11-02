@@ -1,0 +1,38 @@
+Full-Stack Software Engineer (Python and React/NextJS)
+We’re looking for a **Full-Stack Software Engineer** to join our team. This
+role requires expertise in Python, React (NextJS), SQL (including advanced
+query optimization), JavaScript, and cloud-based infrastructure (AWS). You’ll
+work across backend, database, and frontend technologies to build scalable,
+high-performance applications.
+
+**Key Responsibilities:**
+
+  * Develop and maintain Python-based applications, integrating with databases and APIs.
+  * Build and enhance frontend components with React, JavaScript, and HTML to improve user experience.
+  * Write and optimize large-scale SQL queries for fast, efficient data processing.
+  * Deploy and manage applications on AWS to ensure scalability and performance.
+  * Collaborate with the team on feature design, debugging, and continuous improvement.
+
+**Qualifications & Skills:**
+
+  * 4+ years of experience as a full-stack engineer working on both backend and frontend development.
+  * Proficiency in Python (Flask or Django preferred).
+  * Strong expertise in SQL: query optimization, indexing, stored procedures, and schema design.
+  * Hands-on experience with JavaScript, HTML, and modern frontend frameworks (React preferred).
+  * Familiarity with AWS or similar cloud platforms for application hosting and database management.
+  * Solid understanding of RESTful APIs, authentication, and integrations.
+  * Strong analytical and problem-solving skills with the ability to work independently.
+  * Domain knowledge in real estate, energy, or utilities is a plus.
+  * Ability to work with at least partial overlap of U.S. business hours.
+
+**We offer:**
+
+  * Maximum flexibility;
+  * Professional trainings, conferences and certifications;
+  * Corporate events and benefits;
+  * Professional literature;
+  * English courses;
+  * Discount program.
+
+If you are interested, please let us know [[email protected]](/cdn-
+cgi/l/email-protection#7913161b39031f160b0d571a1614)

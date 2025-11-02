@@ -1,0 +1,61 @@
+Senior SDET/AQA (Python, Java) — part time
+**We are looking for a Senior SDET with Python and Java skills** — a strong
+engineer who knows how to design resilient e2e testing frameworks, build
+automation that scales, and make tests an integral part of a system’s
+architecture.  
+This is a **part-time role** with a very competitive compensation package,
+among the top in Ukraine. We want to attract an engineer who already has a
+full-time role but is interested in additional high-level technical consulting
+& core automation work on challenging projects.  
+  
+
+**Tech Stack**
+
+  1. **Primary language:** Python (Pytest, requests, Playwright, etc.)
+  2. **Secondary language:** Java (JUnit/TestNG, Selenium/Selenide, REST Assured)
+  3. JavaScript/TypeScript is a plus for UI automation, but not mandatory
+  4. Infrastructure & CI/CD: GitHub Actions, Docker, Kubernetes, Helm
+  5. Observability: Prometheus, Grafana (or equivalents)
+  6. Architectures: microservices, async messaging (Kafka, RabbitMQ, Redis, gRPC, WebSockets)
+  7. Performance/Security: JMeter, k6, OWASP ZAP, Burp Suite (any is acceptable)  
+  
+
+**Key Responsibilities**
+
+  * **Core Automation (≈70%)**   
+Design, code and maintain stable, scalable automation frameworks and pipelines
+for a large enterprise-grade financial platform (complex workflows, dynamic
+forms, tax/identity integrations). Cover UI, API, integration and End-to-End
+tests.
+
+  * **Team & System Support (≈30%)**   
+Support internal QA teams with best practices, help eliminate flaky tests,
+improve coverage strategies, and strengthen CI/CD integration.  
+  
+
+**Required Skills**
+
+  1. 7+ years of experience in automation engineering.
+  2. Strong Python automation background (Pytest + Playwright/Selenium).
+  3. Working Java knowledge for building frameworks, maintaining existing codebases of tests and coverage of enterprise systems.
+  4. Experience with large distributed systems (microservices, RESTfull web services and async communications).
+  5. Practical knowledge of CI/CD pipelines and DevOps practices related to test automation.
+  6. Deep understanding of test design principles, code review, and refactoring.
+  7. English at B2+ (ability to communicate confidently with international teams on technical topics).  
+  
+
+**Nice to Have**
+
+  * Hands-on security or performance testing experience.
+  * Experience with observability & monitoring tools.
+  * TypeScript/JavaScript for UI automation.
+  * Contributions to open-source QA tools or frameworks.  
+  
+
+**Why Join Us?**
+
+  * **Top-tier Compensation** : Among the top 10% in the Ukrainian market for such roles.
+  * **Flexibility** : True part-time setup, adaptable to your schedule.
+  * **Remote-First** : Work from anywhere.
+  * **Impactful Work** : Enterprise-grade systems with real social and financial importance.
+  * **Engineering-Focused** : No presales, no bureaucracy — just pure technical challenges.

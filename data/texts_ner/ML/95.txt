@@ -1,0 +1,32 @@
+Machine Learning Engineer
+Preferable level: **Middle-to-Senior** OR**Senior —**
+
+Hourly wage
+
+### **About the Project**
+
+The project develops a distributed platform that leverages decentralized GPU
+power for executing meaningful AI computation tasks.
+
+You’ll join the R&D team responsible for designing, testing, and optimizing
+distributed inference workflows.
+
+### **Responsibilities**
+
+  * Conduct **inference research** and benchmarking on models like DeepLabV3, YOLO, BERT, CLIP, Wav2Vec2.
+  * Research, prototype, and implement scripts for model evaluation, fine-tuning and inference strategies.
+  * Prepare **R &D documentation**: experiment summaries, reports, and optimization recommendations.
+  * Participate in regular **R &D meetings** and contribute to component-level design discussions.
+
+### **Requirements**
+
+  * 3+ years of experience as a **Machine Learning Engineer** focused on model inference systems or optimization/fine-tuning
+  * Solid hands-on experience with **PyTorch** , **TorchVision** , and **Hugging Face Transformers**.
+  * Proven ability to analyze trade-offs between accuracy, performance, and hardware constraints.
+  * English — upper-intermediate or higher (for documentation and team communication).
+
+### **Nice to Have**
+
+  * Understanding of **GPU memory management** , **latency profiling** , and **multi-GPU environments**.
+  * Familiarity with **distributed computation frameworks** (Ray, Dask, or custom message-based orchestration).
+  * Previous work on **AI compute marketplaces** , **federated learning** , or **distributed AI inference**.
