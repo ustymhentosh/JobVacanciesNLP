@@ -1,0 +1,47 @@
+{
+  "classes": [
+    "SKILL_HARD",
+    "SKILL_SOFT",
+    "ENGLISH_LEVEL",
+    "DEGREE",
+    "EXPERIENCE_LEVEL",
+    "EXPERIENCE_YEARS",
+    "BENEFIT",
+    "LOCATION",
+    "COMPANY",
+    "ROLE"
+  ],
+  "annotations": [
+    [
+      "Middle/Senior Full-Stack Engineer — SL\r\nFaria is a forward-thinking company that consistently delivers new features\r\nand is passionate about staying ahead of the competition. Every day is\r\ndifferent, and you will be challenged to think creatively and innovate within\r\na multi-disciplined team of talented people. We’re a great team to work with,\r\nseriously committed to doing our best work, and we value individuals who can\r\nwork well as part of a team.\r\n\r\nWe are seeking a **Middle/Senior Full-Stack Engineer** to join the development\r\nteam of the SpotLight application, where you will develop features across the\r\nfull SpotLight technology stack, working on both data platform integration and\r\nuser interface components under the guidance of the Lead Engineer.\r\n\r\n**Key Responsibilities**\r\n\r\n  * Implement dashboard features requiring both back-end data processing and front-end visualization.\r\n  * Develop API endpoints for educational data analytics functionality\r\n  * Support data extraction and transformation processes\r\n  * Collaborate on cross-product data integration (ManageBac+, OpenApply, SchoolsBuddy)\r\n  * Contribute to technical documentation and development processes\r\n\r\n**Required Technical Skills**\r\n\r\n  * 3-5+ years full-stack development experience with:\r\n    * Back-end: Python, Ruby, or Elixir, SQL, and database design\r\n    * Front-end: JavaScript, React or Vue.js, data visualization libraries\r\n    * Integration: RESTful API development, third-party system integration\r\n    * Database: PostgreSQL, data modeling, performance optimization\r\n  * Experience with cloud platforms (AWS preferred) and modern development practices\r\n  * Understanding of data security and privacy requirements\r\n\r\n**Preferred Qualifications**\r\n\r\n  * Educational technology or student information system development experience\r\n  * Analytics platform or business intelligence tool development\r\n  * Experience with regulated data environments and compliance requirements\r\n\r\n### Benefits\r\n\r\n  * **Compensation** — Competitive salary and opportunities for career development (B2B)\r\n  * **Healthcare** — Comprehensive medical coverage by LuxMed (UNIQA for the UA)\r\n  * **Vacation** — We support work/life balance and offer generous Annual leave and Public Holidays\r\n  * **Wellbeing Resources** — Faria encourages team members to lead healthy lifestyles and provides recurring monthly Health and Wellness benefits\r\n  * **Learning** — We encourage continued education, providing an online learning platform, unlimited book purchases, and diverse internal and external training programs.\r\n  * **Team** — Friendly atmosphere, group activities, and corporate events\r\n  * **Equipment** — MacBook Pro or another laptop of your specification, peripherals, and displays included\r\n  * **Office** — Small but cozy office in Krakow(PL) or Ivano-Frankivsk(UA) for your convenience",
+      {
+        "entities": [
+          [0, 13, "EXPERIENCE_LEVEL"],
+          [14, 33, "ROLE"],
+          [40, 45, "COMPANY"],
+          [474, 489, "EXPERIENCE_LEVEL"],
+          [490, 511, "ROLE"],
+          [1224, 1268, "EXPERIENCE_YEARS"],
+          [1292, 1298, "SKILL_HARD"],
+          [1300, 1304, "SKILL_HARD"],
+          [1309, 1315, "SKILL_HARD"],
+          [1317, 1320, "SKILL_HARD"],
+          [1326, 1341, "SKILL_HARD"],
+          [1360, 1370, "SKILL_HARD"],
+          [1372, 1377, "SKILL_HARD"],
+          [1381, 1387, "SKILL_HARD"],
+          [1438, 1449, "SKILL_HARD"],
+          [1511, 1521, "SKILL_HARD"],
+          [1523, 1536, "SKILL_HARD"],
+          [1538, 1562, "SKILL_HARD"],
+          [1601, 1604, "SKILL_HARD"],
+          [2010, 2028, "BENEFIT"],
+          [2033, 2069, "BENEFIT"],
+          [2112, 2128, "BENEFIT"],
+          [2226, 2238, "BENEFIT"],
+          [2378, 2406, "BENEFIT"]
+        ]
+      }
+    ]
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "classes": [
+    "SKILL_HARD",
+    "SKILL_SOFT",
+    "ENGLISH_LEVEL",
+    "DEGREE",
+    "EXPERIENCE_LEVEL",
+    "EXPERIENCE_YEARS",
+    "BENEFIT",
+    "LOCATION",
+    "COMPANY",
+    "ROLE"
+  ],
+  "annotations": [
+    [
+      "Python AI Developer\r\n### **Requirements**\r\n\r\n  * 4+ years of experience in **backend** or **systems engineering** for distributed applications.\r\n  * Strong **Python** skills.\r\n  * Hands-on experience with **LangChain / LangGraph** or similar agent orchestration frameworks.\r\n  * Deep understanding of **event-driven systems** and **asynchronous programming** (queues, pub/sub, workers).\r\n  * Experience with **Kafka, RabbitMQ, or AWS SQS**.\r\n  * Solid knowledge of **microservice architecture** , APIs, and data contracts.\r\n  * Familiarity with **Docker / Kubernetes** and **CI/CD pipelines**.\r\n  * Strong focus on **performance, observability, and clean code**.\r\n\r\n### Nice to Have\r\n\r\n  * Background in **trading or fintech systems** (order flow, risk checks, PnL tracking).\r\n  * Experience with **PostgreSQL, Redis, and real-time data pipelines**.\r\n  * Familiarity with **AI/LLM agent patterns** (personas, tools, memory, planning).\r\n  * Interest in **financial markets** or **algorithmic trading concepts**.\r\n\r\n### **Responsibilities**\r\n\r\n  * Architect and implement the **LangGraph-based orchestration layer** that coordinates strategy, risk, compliance, and execution agents.\r\n  * Define and maintain core **event schemas** (SignalEvent, OrderIntent, RiskDecision, ExecutionReport, etc.) used across services.\r\n  * Manage **distributed Strategy Workers** (user × strategy × symbol × timeframe) with low-latency execution targets (< 50 ms p50).\r\n  * Build a **replayable event store** for audit, recovery, and simulation.\r\n  * Integrate with backend services for execution, risk checks, and portfolio tracking.\r\n  * Implement **observability** — structured logging, metrics, and tracing (OTel / Prometheus).\r\n  * Collaborate with **Quant** and **Backend** teams to ensure strategies flow seamlessly from signal generation to execution.\r\n  * Contribute to **design decisions** on scalability, fault isolation, and event-driven architecture.\r\n\r\n### **We offer**\r\n\r\n  * Flexible working hours.\r\n  * Fair salary (regular performance-based salary reviews).\r\n  * 20 working days paid vacation and 15 sick leaves.\r\n  * Fully paid medical insurance.\r\n  * English classes in the office.\r\n  * Bookkeeping and accounting on us.\r\n  * No time trackers — ability to do quality work.\r\n  * Approachable management, open to suggestions and innovations.\r\n  * Friendly team and enjoyable working environment.",
+      {
+        "entities": [
+          [0, 19, "ROLE"],
+          [49, 71, "EXPERIENCE_YEARS"],
+          [75, 86, "SKILL_HARD"],
+          [90, 113, "SKILL_HARD"],
+          [118, 143, "SKILL_HARD"],
+          [156, 166, "SKILL_HARD"],
+          [205, 216, "SKILL_HARD"],
+          [219, 230, "SKILL_HARD"],
+          [301, 325, "SKILL_HARD"],
+          [330, 358, "SKILL_HARD"],
+          [408, 415, "SKILL_HARD"],
+          [417, 425, "SKILL_HARD"],
+          [430, 440, "SKILL_HARD"],
+          [465, 494, "SKILL_HARD"],
+          [497, 501, "SKILL_HARD"],
+          [545, 553, "SKILL_HARD"],
+          [556, 568, "SKILL_HARD"],
+          [573, 580, "SKILL_HARD"],
+          [797, 809, "SKILL_HARD"],
+          [811, 816, "SKILL_HARD"],
+          [872, 880, "SKILL_HARD"],
+          [1971, 1994, "BENEFIT"],
+          [2000, 2011, "BENEFIT"],
+          [2061, 2090, "BENEFIT"],
+          [2095, 2110, "BENEFIT"],
+          [2127, 2145, "BENEFIT"],
+          [2151, 2166, "BENEFIT"],
+          [2187, 2198, "BENEFIT"],
+          [2203, 2213, "BENEFIT"],
+          [2278, 2301, "BENEFIT"]
+        ]
+      }
+    ]
+  ]
+}

@@ -1,6 +1,5 @@
 Trainee/Junior Python Developer
-We are looking for a motivated and passionate **_Python Junior/Trainee
-Developer_** to join our team. This position is ideal for candidates who have
+We are looking for a motivated and passionate **_Junior/Trainee Python Developer_** to join our team. This position is ideal for candidates who have
 a solid understanding of Python fundamentals and are eager to grow their
 skills in backend development. You will work under the guidance of experienced
 mentors, contributing to real projects and learning how to build reliable,

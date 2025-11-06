@@ -1,0 +1,62 @@
+{
+  "classes": [
+    "SKILL_HARD",
+    "SKILL_SOFT",
+    "ENGLISH_LEVEL",
+    "DEGREE",
+    "EXPERIENCE_LEVEL",
+    "EXPERIENCE_YEARS",
+    "BENEFIT",
+    "LOCATION",
+    "COMPANY",
+    "ROLE"
+  ],
+  "annotations": [
+    [
+      "Trainee/Junior Python Developer\r\nWe are looking for a motivated and passionate **_Junior/Trainee Python Developer_** to join our team. This position is ideal for candidates who have\r\na solid understanding of Python fundamentals and are eager to grow their\r\nskills in backend development. You will work under the guidance of experienced\r\nmentors, contributing to real projects and learning how to build reliable,\r\nscalable web applications.\r\n\r\n**Responsibilities:**\r\n\r\n  * Assist in developing and maintaining web applications using Python and modern frameworks such as Django or Flask.\r\n  * Write clean, simple, and maintainable code following best practices.\r\n  * Participate in the development of RESTful APIs and data integration with frontend or external services.\r\n  * Work with databases such as PostgreSQL, MySQL, or MongoDB.\r\n  * Collaborate with developers, designers, and project managers to deliver high-quality solutions.\r\n  * Learn and apply software development methodologies and version control using   \r\n  \r\n**Requirements:******\r\n\r\n  * Basic knowledge of Python and object-oriented programming concepts.\r\n  * Understanding of web development fundamentals (HTTP, REST, JSON).\r\n  * Familiarity with Django, Flask, or FastAPI frameworks (even at a beginner level).\r\n  * Basic knowledge of databases and SQL queries.\r\n  * Ability to read and write technical documentation in English (B1 level or higher).\r\n  * Eagerness to learn, attention to detail, and problem-solving mindset.\r\n\r\n**Nice to have:**\r\n\r\nFamiliarity with Git, Docker, or basic CI/CD processes.\r\n\r\nExperience with HTML, CSS, and JavaScript for basic frontend integration.\r\n\r\nUnderstanding of APIs, authentication (JWT/OAuth), or microservices\r\narchitecture.\r\n\r\n**What we offer:**\r\n\r\nOffice-based position in Lviv (Boikivska 1) with a supportive and friendly\r\nenvironment.\r\n\r\nOpportunity to gain practical experience on real projects under mentor\r\nsupervision.\r\n\r\nContinuous learning, code reviews, and technical guidance from senior\r\ndevelopers.\r\n\r\nFree internship program with the possibility of further full-time employment\r\nafter successful completion.",
+      {
+        "entities": [
+          [0, 14, "EXPERIENCE_LEVEL"],
+          [15, 31, "ROLE"],
+          [54, 63, "SKILL_SOFT"],
+          [68, 78, "SKILL_SOFT"],
+          [79, 96, "EXPERIENCE_LEVEL"],
+          [97, 116, "ROLE"],
+          [208, 214, "SKILL_HARD"],
+          [267, 287, "SKILL_HARD"],
+          [532, 538, "SKILL_HARD"],
+          [569, 575, "SKILL_HARD"],
+          [579, 585, "SKILL_HARD"],
+          [699, 711, "SKILL_HARD"],
+          [802, 812, "SKILL_HARD"],
+          [814, 819, "SKILL_HARD"],
+          [824, 832, "SKILL_HARD"],
+          [1072, 1078, "SKILL_HARD"],
+          [1083, 1110, "SKILL_HARD"],
+          [1143, 1158, "SKILL_HARD"],
+          [1173, 1177, "SKILL_HARD"],
+          [1179, 1183, "SKILL_HARD"],
+          [1185, 1189, "SKILL_HARD"],
+          [1214, 1220, "SKILL_HARD"],
+          [1222, 1227, "SKILL_HARD"],
+          [1232, 1239, "SKILL_HARD"],
+          [1317, 1320, "SKILL_HARD"],
+          [1397, 1415, "ENGLISH_LEVEL"],
+          [1423, 1441, "SKILL_SOFT"],
+          [1443, 1462, "SKILL_SOFT"],
+          [1468, 1483, "SKILL_SOFT"],
+          [1534, 1537, "SKILL_HARD"],
+          [1539, 1545, "SKILL_HARD"],
+          [1556, 1561, "SKILL_HARD"],
+          [1592, 1596, "SKILL_HARD"],
+          [1598, 1601, "SKILL_HARD"],
+          [1607, 1617, "SKILL_HARD"],
+          [1670, 1674, "SKILL_HARD"],
+          [1692, 1701, "SKILL_HARD"],
+          [1786, 1790, "LOCATION"],
+          [1941, 1960, "BENEFIT"]
+        ]
+      }
+    ]
+  ]
+}
