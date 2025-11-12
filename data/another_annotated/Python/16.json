@@ -1,0 +1,63 @@
+{
+  "classes": [
+    "SKILL_HARD",
+    "SKILL_SOFT",
+    "ENGLISH_LEVEL",
+    "DEGREE",
+    "EXPERIENCE_LEVEL",
+    "EXPERIENCE_YEARS",
+    "BENEFIT",
+    "LOCATION",
+    "COMPANY",
+    "ROLE"
+  ],
+  "annotations": [
+    [
+      "General Software Test Engineer (Python)\nWe’re seeking a skilled and enthusiastic General Software Test Engineer to\njoin Materialise. In this role, you’ll be part of a team of passionate\nprofessionals dedicated to making a difference in the world of medical\ninnovation. \n \n \nWhat you will do \n \n \n\n Define, design, and write test scenarios and test plans based on acceptance criteria\n Perform manual regression testing.\n Create automated tests for an industry-standard 3D medical image segmentation software: Mimics Core.\n Register bugs and verify resolved bugs.\n Create and maintain test documentation in accordance with established procedures.\n Perform early checks for stories being implemented.\n Write test plans and test case views.\n Conduct regression testing. \n \n \n\nYour profile \n \n— Experience with the Python unittest library. \n— English language proficiency (at least B2 level, ability to communicate with\ncolleagues in a multinational environment).\n\n— At least 2 years of hands-on experience in testing desktop or web products.\n\n Strong understanding of test scenarios and test plan development.\n Proficient in manual testing and automated test creation.\n Able to create and maintain test documentation.\n Proactive in performing early checks for stories being implemented. \n \n \n\nWill be a plus \n \n\n Degree in engineering, math, physics, or similar.\n Experience working with complex desktop toolbox products.\n Experience in manual testing of web products or automation testing of desktop products.\n Familiarity with Azure DevOps tools (Azure Test Plans, Azure Boards) or similar.\n Experience with Team Foundation Server (Test Management) or similar.",
+      {
+        "entities": [
+          [
+            0,
+            30,
+            "ROLE"
+          ],
+          [
+            32,
+            38,
+            "SKILL_HARD"
+          ],
+          [
+            81,
+            111,
+            "ROLE"
+          ],
+          [
+            120,
+            131,
+            "COMPANY"
+          ],
+          [
+            810,
+            816,
+            "SKILL_HARD"
+          ],
+          [
+            877,
+            885,
+            "ENGLISH_LEVEL"
+          ],
+          [
+            931,
+            956,
+            "LOCATION"
+          ],
+          [
+            971,
+            978,
+            "EXPERIENCE_YEARS"
+          ]
+        ]
+      }
+    ]
+  ]
+}

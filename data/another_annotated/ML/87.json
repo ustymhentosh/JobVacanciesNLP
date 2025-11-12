@@ -1,0 +1,63 @@
+{
+  "classes": [
+    "SKILL_HARD",
+    "SKILL_SOFT",
+    "ENGLISH_LEVEL",
+    "DEGREE",
+    "EXPERIENCE_LEVEL",
+    "EXPERIENCE_YEARS",
+    "BENEFIT",
+    "LOCATION",
+    "COMPANY",
+    "ROLE"
+  ],
+  "annotations": [
+    [
+      "Data Labeling Specialist\nSnap Inc. is a technology company that believes the camera represents the\ngreatest opportunity to improve the way people live and communicate. We\nempower people to express themselves, live in the moment, learn about the\nworld, and have fun together.\n\nWe are currently seeking a Data Labeling Specialist to join our big team\nworking on the development of AI through accurate and detailed data labeling.\nThis is a remote, contract-based position ideal for specialists aiming to gain\nexperience in AI and visual data.\n\nWhat You’ll Do:\n\n Write descriptions of images and videos in English.\n Execute video recording tasks based on predefined scenarios.\n Segment different objects and visual elements in images.\n Review and select relevant images according to specific criteria.\n Conduct image research and organize datasets into collections.\n Follow established labeling guidelines and internal quality standards.\n Meet weekly labeling targets with high accuracy.\n Maintain confidentiality and ensure data privacy protocols are upheld.\n Communicate effectively with team members.\n\nMinimum Qualifications:\n\n English level — Upper-Intermediate or higher.\n Familiarity with graphic editors.\n Experience with video recording is a plus.\n Strong attention to detail and high accuracy.\n Ability to work independently and in a team environment.\n Proficient computer user (MS Office, Google Suite, Adobe Acrobat, etc.).\n\nWe Offer:\n\n Remote format with flexible service schedule.\n The scope of services (part-time or full-time) can be agreed based on your availability and our needs.\n Possibility to interact with other experienced professionals involved in the project.\n Opportunity to contribute to meaningful projects in AI and data development.\n Contract-based cooperation as a Private Entrepreneur.\n\nUnder the contract for this position, you can receive compensation of up to\n$610/month depending on the number of services provided (the payment amount\nincludes all applicable taxes, which shall be the sole responsibility of the\ncontractor under Ukrainian law).\n\nReady to Apply?\n\nIf you’re detail-oriented, eager to contribute to cutting-edge AI projects,\nand can work independently with English-language content, we’d love to hear\nfrom you.\n\nApply now with your CV and start your journey in data labeling working on\nprojects that change the world today!",
+      {
+        "entities": [
+          [
+            0,
+            24,
+            "ROLE"
+          ],
+          [
+            303,
+            327,
+            "ROLE"
+          ],
+          [
+            437,
+            443,
+            "LOCATION"
+          ],
+          [
+            1143,
+            1161,
+            "ENGLISH_LEVEL"
+          ],
+          [
+            1260,
+            1279,
+            "SKILL_SOFT"
+          ],
+          [
+            1395,
+            1401,
+            "COMPANY"
+          ],
+          [
+            1444,
+            1450,
+            "LOCATION"
+          ],
+          [
+            1463,
+            1488,
+            "BENEFIT"
+          ]
+        ]
+      }
+    ]
+  ]
+}

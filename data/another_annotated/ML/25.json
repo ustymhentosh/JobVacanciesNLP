@@ -1,0 +1,68 @@
+{
+  "classes": [
+    "SKILL_HARD",
+    "SKILL_SOFT",
+    "ENGLISH_LEVEL",
+    "DEGREE",
+    "EXPERIENCE_LEVEL",
+    "EXPERIENCE_YEARS",
+    "BENEFIT",
+    "LOCATION",
+    "COMPANY",
+    "ROLE"
+  ],
+  "annotations": [
+    [
+      "AI Videographer & Video Production Specialist\nWe’re looking for a creative and tech-driven Videographer who blends\ntraditional filmmaking skills with a strong grasp of AI-powered video\nproduction. \nYou’ll own the full video lifecycle — from concept and shooting to editing and\nAI-assisted post-production — creating visually engaging and brand-consistent\nstories for marketing, product launches, and storytelling initiatives.\n\nThis role is perfect for someone who loves both cameras and cutting-edge AI\ntools, and who’s excited to explore how technology can elevate creativity.\n\n Key Responsibilities\n\n Plan, shoot, and edit high-quality video content: interviews, product demos, explainers, testimonials, and event highlights.\n Use AI tools (Runway, Pika Labs, Synthesia, Sora, Midjourney, ChatGPT, etc.) to accelerate ideation, storyboarding, and post-production.\n Write precise and creative AI prompts to generate b-roll, motion graphics, voiceovers, and text-to-video assets aligned with brand voice.\n Collaborate with marketing, product, and leadership teams to turn complex ideas into compelling video narratives.\n Ensure consistent visual branding across all channels — YouTube, LinkedIn, website, events.\n Manage video libraries, archives, and version control.\n Stay on top of emerging AI + video trends and experiment with new techniques.\n\n Requirements\n\n 3+ years of professional experience in video production, cinematography, or multimedia content creation.\n Strong portfolio featuring both filmed and AI-enhanced projects.\n Proficiency with editing software (Premiere Pro, DaVinci Resolve, Final Cut, After Effects).\n Hands-on experience with AI video tools (Runway, Pika Labs, Synthesia, Sora, Kaiber, Midjourney, etc.).\n Ability to craft effective AI prompts for targeted visuals, styles, or storytelling goals.\n Excellent storytelling instincts, pacing, and attention to visual detail.\n Strong communication and project management skills.\n\n Nice to Have\n\n Experience in SaaS, tech, or product storytelling.\n Knowledge of motion design, 3D animation, or sound design.\n Familiarity with generative AI scripting (Python, API automation, or workflows).\n\n What We Offer\n\n A chance to shape the future of AI-enhanced video storytelling.\n Full creative autonomy and access to leading-edge AI production tools.\n An innovative environment where technology and creativity meet.\n Projects that push the boundaries of what video can be.",
+      {
+        "entities": [
+          [
+            0,
+            15,
+            "ROLE"
+          ],
+          [
+            3,
+            15,
+            "ROLE"
+          ],
+          [
+            18,
+            45,
+            "ROLE"
+          ],
+          [
+            91,
+            103,
+            "ROLE"
+          ],
+          [
+            1047,
+            1057,
+            "SKILL_SOFT"
+          ],
+          [
+            1365,
+            1373,
+            "EXPERIENCE_YEARS"
+          ],
+          [
+            2126,
+            2132,
+            "SKILL_HARD"
+          ],
+          [
+            2134,
+            2148,
+            "SKILL_HARD"
+          ],
+          [
+            2153,
+            2162,
+            "SKILL_HARD"
+          ]
+        ]
+      }
+    ]
+  ]
+}
