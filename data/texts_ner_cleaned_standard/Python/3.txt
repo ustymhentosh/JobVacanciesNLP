@@ -1,0 +1,152 @@
+Senior Full Stack JS Engineer (with Python experience)
+Why Join Us?
+
+🔹 100% remote | 🌎 Global team | ⏳ Full-time
+
+Join a stable, long-term project that’s been in continuous development for 5+
+years. The project offers consistent, meaningful work on a mature financial
+services platform.
+
+Project overview:
+It is a comprehensive financial services platform built for an established
+insurance and financial services company. The platform handles:
+
+Insurance products (motor, life, property, major medical)
+
+Loan management (vehicle, personal, mortgage, commercial)
+
+Investment and annuity products
+
+Digital client services and employee benefits
+
+Real-time financial transactions and reporting
+
+AI document processing
+
+This is a production system processing real transactions for real customers,
+with established business processes and regulatory compliance requirements.
+
+Why This Position is Different?
+
+✅Stable, Long-term Project: Same project for 5+ years, deep domain
+expertise
+
+✅ Mature Codebase: Well-structured, documented, with established patterns
+
+✅ Real Business Impact: Your code affects real financial transactions and
+client services
+
+✅ Technical Variety: Polyglot architecture (Node.js + Python/Django),
+multiple services
+
+✅ Professional Growth: Become an expert in financial services technology
+
+What You’ll Do:
+
+Work on a mature financial platform with real business requirements:
+
+Maintain and enhance banking/lending features, payment processing, and
+compliance workflows
+
+Work across our polyglot microservices architecture (Node.js/TypeScript and
+Python/Django)
+
+Implement complex business logic for insurance products, loan origination,
+and investment services
+
+Build real-time data processing systems using WebSockets and event-driven
+patterns
+
+Integrate with third-party services (DocuSign, payment gateways, banking
+APIs)
+
+Full-stack development from REST APIs to React frontends
+
+Ensure transaction integrity and regulatory compliance
+
+Collaborate with a stable team that knows the domain deeply
+
+Technical Requirements:
+
+5+ years Full Stack development with both Node.js/TypeScript AND
+Python/Django
+
+Strong React.js, Redux, and modern frontend development
+
+PostgreSQL expertise including complex queries, transactions, migrations
+
+Experience with both Knex/Objection.js (Node) and Django ORM
+
+Microservices architecture experience
+
+Real-time systems (WebSockets, Socket.io, Celery)
+
+AWS and Docker experience
+
+RESTful API design with JWT/OAuth authentication
+
+Testing frameworks (Jest for Node.js, pytest for Python)
+
+Financial or insurance systems experience is a plus
+
+Strong English communication (B2-C1)
+
+Overlap with Eastern USA timezone for meetings
+
+Tech Stack
+
+Backend:
+
+Node.js/TypeScript: Koa.js, Objection.js, Knex.js
+
+Python: Django 4.2+, Django REST Framework, Celery
+
+PostgreSQL, Redis
+
+Frontend:
+
+React, Redux, Material-UI
+
+TypeScript, Vite
+
+Formik, Yup validation
+
+Infrastructure:
+
+AWS (S3, EC2, RDS)
+
+Docker, PM2, Gunicorn
+
+Socket.io, WebSockets
+
+DocuSign, Payment APIs
+
+Jest, Supertest, pytest
+
+Swagger/OpenAPI
+
+What We Offer
+
+Long-term stable position on established project
+
+20 days PTO (25 after 3 years)
+
+10 sick days, national holidays, 2 company days
+
+Well-being budget
+
+Maternity/paternity leave
+
+Professional development reimbursement
+
+Hardware as needed
+
+Stable, professional team environment
+
+Process
+
+Quick and efficient: HR screening → Technical discussion → Practical coding
+session → Offer
+
+Apply now for a stable, long-term position on an established financial
+services platform.

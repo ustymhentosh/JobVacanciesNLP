@@ -1,0 +1,54 @@
+Middle/Senior Python Developer (Jiji)
+Jiji is a leading online marketplace in Africa. In
+2019, we acquired OLX’s business in five countries. Now, across these
+locations, the platform attracts over 13 million unique users monthly who
+engage with over 5 million ads with a total value of over $10 billion.
+
+Jiji is currently among the most downloaded and highest-rated apps in African
+e-commerce.
+
+We’re seeking a skilled Python Software Developer to join our backend team
+and drive the development of innovative microservices that integrate machine
+learning predictions and LLM-powered tools. You’ll be at the forefront of
+implementing AI-solutions that directly impact our customers’ shopping
+experience.
+
+Key Responsibilities:
+
+Develop and maintain microservices.
+Build AI-powered tools and applications using LLM models from AWS Bedrock, Gemini, and Claude.
+Integrate with various external services and third-party APIs.
+Ensure high performance, scalability, and reliability of services.
+
+Required Technical Skills:
+
+Minimum 3+ years of commercial Python development experience.
+Strong experience with PostgreSQL database.
+Proven track record of integrating with external services and APIs.
+Experience with Flask and SQLAlchemy for web application development.
+Knowledge of microservices architecture and development patterns.
+Understanding of RESTful API design principles.
+
+Our Technology Stack:
+
+Backend : Python, Flask, SQLAlchemy.
+Databases : PostgreSQL, ClickHouse, Redis.
+Search & Analytics: Open Search.
+Message Queue : Kafka.
+AI/ML : AWS Bedrock, Google Gemini, Claude API.
+CI/CD : TeamCity.
+Cloud : DigitalOcean, AWS (Bedrock, Batch, etc)
+
+What We Offer:
+
+20 working days of annual paid vacation and unlimited paid sick leaves.
+Work from the comfort of your home or one of our offices in Kyiv or Warsaw.
+Modern Apple devices.
+Free snacks, breakfasts, and lunches in the office.
+Keep learning with our extensive corporate library, internal online meetings, and lectures.
+Grow your skills with our training compensation program.
+English learning compensation.
+Regular team travels and corporate events.
+Medical insurance.
+
+Join us!

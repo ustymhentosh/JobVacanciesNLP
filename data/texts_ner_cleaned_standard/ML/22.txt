@@ -1,0 +1,48 @@
+Senior ML Engineer
+Senior Machine Learning Engineer
+
+You will be joining the team that designs, builds, and scales machine learning
+systems powering personalisation and customer engagement at a large scale.
+This is an opportunity to work on production-ready ML pipelines, real-time
+decision-making systems, and experimentation frameworks that directly impact
+millions of users.
+
+Your responsibilities will include :
+
+Developing pipelines that transform behavioral, demographic, and contextual data into real-time features.
+Designing APIs and services for low-latency prediction and decision-making.
+Implementing frameworks for A/B testing, exploration/exploitation strategies, and model evaluation.
+Working closely with product and engineering teams to balance engagement, business value, and compliance.
+Establishing monitoring, logging, and retraining workflows to continuously validate and improve models.
+
+What we expect from you:
+
+5+ years of applied ML engineering experience (recommendation systems, personalization, ranking, or ads).
+Strong background in Python and/or Go, SQL, and ML frameworks such as TensorFlow or PyTorch.
+Experience deploying real-time ML systems (low-latency serving, feature stores, event-driven architectures).
+Familiarity with cloud ML platforms (Vertex AI, SageMaker, or similar).
+Experience with data warehouses (BigQuery, Snowflake, Redshift).
+Understanding of multi-objective optimisation and trade-offs in personalisation.
+Ability to thrive in a fast-paced, startup-style environment
+
+Will be a plus:
+
+Experience in martech, adtech, CRM, or large-scale consumer personalisation.
+Exposure to bandit algorithms or reinforcement learning.
+Prior work on systems serving millions of users at scale.
+Experience with Google Cloud Platform (GCP).
+
+Soft Skills:
+
+Fluent English and strong communication skills.
+Proactive and positive attitude.
+Ability to work 9am — 4pm EST.
+
+We offer:
+
+Opportunities to shape large-scale personalisation technology.
+Competitive compensation package that matches your skills and experience.
+Professional growth, conferences, and skill development budget.
+Flexible remote work with support for your productivity.
+Collaborative and innovative environment where impact is valued over years of experience.
+Online&Offline activities

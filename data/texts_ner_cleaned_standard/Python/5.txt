@@ -1,0 +1,53 @@
+Senior Algorithmic Problem Solver
+About us
+
+Syndicode is a value-driven software development partner with a globally
+distributed team of engineers, designers, architects and IT managers. We are
+united by the mission to provide our clients with software products and
+services that perform, look, and work as designed.
+
+We believe that our people and culture make Syndicode’s success continuous.
+Our team is unified by shared principles like: Accountability, Involvement,
+Excellence, Visibility, Integrity, Innovation, Win-Win, Flexibility.
+Syndicoders are professionals who pursue self-improvement through continual
+learning, are eager to introduce improvements to work processes, and are able
+to analyze a variety of sources to make sound and timely decisions.
+
+If it sounds like you, apply to our jobs and become a new Syndicoder!
+
+About the role
+
+This role provides support to the Frontend and Backend development teams in
+designing and implementing solutions for complex challenges related to Python
+or C++ development, feature enhancements, and bug fixes. The position focuses
+on reviewing and improving advanced mathematical algorithms, as well as
+developing new ones to enhance system performance and functionality.
+
+What you’ll be doing
+
+Mathematical Model Development: Design, develop, and implement mathematical models and algorithms to solve complex problems in engineering, data analysis, optimization, and related domains.
+Python or C++ Software Development: Convert mathematical models and algorithms into high-performance, reliable, and efficient Python or C++ code. Ensure well-structured architecture, clean coding practices, and optimal performance.
+Data Analysis and Interpretation: Use mathematical and statistical methods to analyze large datasets, identify patterns, and refine models based on insights.
+Research and Innovation: Stay current with advancements in mathematics, computational techniques, and Python or C++ programming to improve existing solutions and introduce new approaches continuously.
+Collaboration: Partner with cross-functional teams—including developers, engineers, and domain experts—to understand requirements, troubleshoot issues, and deliver integrated solutions.
+Testing and Validation: Conduct rigorous testing and validation of mathematical models and Python or C++ implementations to ensure accuracy, reliability, and efficiency.
+Documentation: Produce clear and comprehensive documentation for models, algorithms, and code implementations.
+
+What you’ll need
+
+Experience: Minimum of 5 years of professional experience in mathematical modeling, algorithm development, or optimization-related software engineering.
+Mathematical Expertise: Strong foundation in areas such as numerical analysis, linear algebra, calculus, statistics, probability, optimization, and related mathematical disciplines.
+Python or C++ Proficiency: Expertise in object-oriented programming, data structures, algorithms, and performance optimization.
+Analytical Thinking: Strong problem-solving skills with the ability to break down complex challenges into actionable components.
+Attention to Detail: High level of accuracy and precision in developing and validating mathematical models and code.
+Communication: Ability to clearly explain complex mathematical and technical concepts to both technical and non-technical audiences.
+Education: Bachelor’s, Master’s, or Ph.D. in Mathematics, Computer Science, Engineering, or a related quantitative field.
+
+What you’ll get at Syndicode
+
+Fully remote job
+Continuous feedback within teams and departments
+Top-notch team
+Ability to participate in decision-making and bring new ideas
+Self-management: opportunity to manage your time and plan your activities
+Dynamic fast-growing environment: we react and adapt quickly to the world’s and market changes.

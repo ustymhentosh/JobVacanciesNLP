@@ -1,0 +1,101 @@
+AI Engineer
+We are considering Middle+
+
+ABOUT US:
+
+We are a fast-growing Canadian TeleHealth product company transforming the way
+people access healthcare. Our product already includes modules for clinics,
+patient—doctor communication, and AI-powered features — and this is just the
+beginning.
+
+Our international team combines Ukrainian tech talent with a Canadian vision
+to create scalable, innovative healthcare solutions that truly make an impact.
+
+Join us to build the future of digital health.
+
+ABOUT VACANCY:
+
+We are looking for a passionate AI Engineer to join our fast-growing
+TeleHealth product team and shape the future of digital healthcare.
+
+You’ll work with a modern tech stack and build scalable solutions.
+
+This is a great opportunity for a Middle+ engineer who wants to take
+ownership, solve complex challenges, optimize performance, and drive real
+impact in an innovative international product.
+
+MAIN TECHNOLOGIES:
+
+Python (advanced level)
+FastAPI or similar web frameworks
+Docker and containerization
+Cloud platforms (AWS, GCP, or Azure)
+Vector databases (Pinecone, Weaviate, ChromaDB)
+Git and collaborative development
+
+Responsibilities:
+
+AI Model Development: Design and implement LLM-based solutions for medical
+pre-diagnosis and patient assistance
+
+Medical AI Systems: Build AI pipelines for processing medical data, patient
+queries, and clinical documentation
+
+RAG Implementation: Develop retrieval-augmented generation systems for
+medical knowledge bases
+
+Model Deployment: Deploy and maintain AI models in production using MLOps
+best practices
+
+API Development: Create robust APIs for AI services using FastAPI and modern
+frameworks
+
+Performance Optimization: Monitor, analyze, and optimize AI model
+performance and latency
+
+Requirements:
+
+AI/ML Expertise:
+
+3+ years of hands-on experience with Python and AI/ML frameworks
+
+Strong experience with PyTorch or TensorFlow
+
+Practical experience with LLMs (GPT, Claude, Llama) and prompt engineering
+
+NLP expertise: text processing, embeddings, semantic search
+
+Experience with Hugging Face ecosystem
+
+Professional:
+
+English: B1+ level
+
+Experience deploying AI models to production
+
+Understanding of API design and microservices architecture
+
+Would be a plus:
+
+Healthcare or medical AI experience
+
+LangChain, Haystack, or similar AI frameworks
+
+Apache Airflow for ML workflows
+
+Multimodal AI experience (vision + text)
+
+Experience with FHIR or other medical data standards
+
+OpenAI API, AWS Bedrock, or similar AI services
+
+WHAT WE OFFER:
+
+15 days of vacation
+5 days of sick leave
+Bonuses for achieving KPI
+Remote Flexibility: Work from anywhere with flexible hours
+Growth Opportunities: Direct impact on product development and AI strategy
+International Team: Collaborate with professionals from around the world
+Cutting-Edge Tech: Work with the latest AI technologies and medical
+innovations

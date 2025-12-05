@@ -1,0 +1,37 @@
+AI / Data Scientist
+We’re looking for a hands-on AI / Data Scientist who enjoys solving
+complex problems with data and turning insights into impactful solutions. In
+this role, you’ll work on designing, building, and deploying models that
+extract intelligence from large-scale, heterogeneous datasets — including
+network, behavioral, and textual data. You’ll collaborate closely with AI
+engineers, developers, and security experts to shape features, pipelines, and
+analytical tools that make the internet a safer place.
+Key Responsibilities:
+
+Manipulate, clean, and transform complex, high-volume datasets for modeling and analysis
+Design and implement feature engineering strategies that enhance model accuracy, interpretability, and robustness
+Build and evaluate machine learning models for anomaly detection, fraud identification, forecasting, and optimization
+Explore and prototype solutions using Python (Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow) and SQL
+Translate product or business requirements into clear analytical tasks and model development plans
+Contribute to MLOps workflows for model deployment, validation, and continuous monitoring
+Conduct error analysis and model tuning to ensure reliability and efficiency
+Main requirements:
+
+1+ years of hands-on experience in DS/ ML
+Strong proficiency in Python and data science libraries (Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow)
+Proven ability to handle messy, large-scale, and multi-source data
+English: Upper-Intermediate+ , both written and spoken
+Experience with classical machine learning algorithms and a solid understanding of their strengths and limitations
+Familiarity with NLP techniques and modern deep learning approaches
+Strong analytical mindset and ability to develop well-justified, data-driven solutions
+Good command of SQL for data querying and preparation
+The benefits you will get:
+
+Ability to influence processes and best practices
+Opportunity to expand your technical background
+Long-term cooperation with teammates and clients
+Compensation of internal and external English language training
+Flexible schedule
+Paid vacation and sick leave
+Our accountants will take care of the taxes
+Legal support

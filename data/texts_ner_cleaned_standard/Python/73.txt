@@ -1,0 +1,52 @@
+Senior Full-Stack Engineer (Backend oriented)
+Hi there,
+
+We are looking for a skilled Senior Full-Stack Engineer with main focus on a
+back-end to join our team!
+
+About the project:
+Our client is a global professional services firm specialising in cloud
+enablement and digital transformation. The company empowers organisations to
+accelerate innovation through cutting-edge cloud, data, and AI solutions.
+
+They are currently establishing a new delivery unit focused on Data and AI
+projects. While the existing team consists of strong AI/ML experts, the new
+group will strengthen the application development capabilities — building
+intuitive front-ends and scalable cloud services around the company’s AI-
+driven solutions.
+
+This is an exciting opportunity to join the team at an early stage, help shape
+the technical foundation, and contribute to projects that apply artificial
+intelligence to real-world business challenges!
+
+Requirements:
+
+7+ years experience with Python /TypeScript.
+Strong proficiency in React and Next.js.
+Proven experience writing application code for AWSLambda and Step Functions.
+Understanding ofauthentication standards (OIDC / OAuth2) and security best practices.
+Solid software engineering fundamentals and experience with cloud-native architectures.
+Background in data-heavy projects.
+Advanced AI expertise with practical skills in developing and applying AI solutions.
+
+Responsibilities
+
+Design, develop, and maintain backend services using Python / TypeScript, AWS Lambda, and Step Functions, integrating with various AWS components.
+Develop intuitive, high-performance UIs using Next.js and React.
+Architect and implement cloud-native solutions ensuring reliability, security, and efficiency across the system.
+Implement and manage authentication and authorization mechanisms following OIDC and OAuth2 standards.
+Collaborate closely with AI/ML engineers to integrate AI-driven features.
+
+What we offer:
+
+Flexible Work Environment: Opportunity to work remotely.
+Premium Medical Insurance: Comprehensive health insurance to ensure your well-being.
+1:1 English Classes: Individual English language training to enhance your communication skills.
+Great Team: Work with a supportive, collaborative, and dynamic international team.
+Equipment Provided: All necessary equipment supplied for efficient job performance.
+Annual Vacation: 18 days of paid vacation and 7 days of paid sick leave.
+Commitment to Hiring Ukrainians: We are dedicated to hiring Ukrainian talent and promoting Ukraine as a fantastic place to work.
+Flexible payment system , which allows you to withdraw funds in one click and has about twenty withdrawal options.
+
+Does this position sound like a perfect match? We’re eager to hear from
+you!

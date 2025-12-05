@@ -1,0 +1,39 @@
+Application Support / Monitoring Engineer (Python)
+We’re looking for an Application Support / Monitoring Engineer (Python)to join
+our remote team and ensure smooth operation of our applications . In this
+role, you’ll be responsible for supporting existing applications, fixing bugs,
+and ensuring their smooth and stable operation during night hours.
+
+Pick the schedule that fits your life — we’re hiring for all three options:
+
+1. Weekends only: Saturday & Sunday, 07:00–23:00 OR 15:00 — 23:00 (GMT+3)
+2. Weeknight shifts: Monday—Friday, *00:00-06:00
+What you’ll do
+
+Provide prompt, professional support via chat, email, and ticketing tools
+Monitor infrastructure & app health to ensure uptime and performance
+Troubleshoot bugs; escalate critical issues to Engineering when needed
+Run routine checks on cloud services and resolve infra-level problems
+Log incidents, track resolutions, and improve our internal knowledge base
+Partner with Engineering & QA for smooth handovers and clear communication
+What we’re looking for
+
+6+ months experience with Python & Django, OR no commercial experience but:
+
+Completed relevant courses/bootcamps (Python, Django, Databases, AWS)
+Strong technical fundamentals (HTTP/REST, Git, basic Linux, debugging)
+Hands-on projects (pet projects/labs/internships) — GitHub links welcome
+English conversation level not lower than Upper-Intermediate (B2)
+Good knowledge of PostgreSQL (or another relational DB)
+Familiarity with AWS (EC2, S3) — basics are fine
+Solid analytical & debugging skills
+Basic understanding of REST APIs and front-end (HTML, CSS, JavaScript)
+Clear communicator; comfortable working independently and in a team
+Nice to have
+
+Experience with Docker/Kubernetes and CI/CD pipelines
+Awareness of web app security best practices
+Background in Agile/Scrum environments
+
+If you like staying ahead of problems and owning your schedule, we’d love to
+hear from you.

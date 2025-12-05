@@ -1,0 +1,50 @@
+Machine Learning Engineer (AI)
+About Us
+We are a legal technology company focused on contract automation and workflow
+management for top law firms and investment funds. Our main product combines
+legal knowledge with modern software engineering to create reliable, scalable,
+and secure solutions.
+
+Role Overview
+We are looking for an experienced Data Scientist or ML Engineer to work
+closely with our CTO on document extraction projects. You will help improve
+our tools for natural language processing (NLP) and data extraction from
+complex legal and financial documents.
+
+This is a senior position that requires strong technical skills, especially in
+text data processing and NLP. We are interested in people who show creativity
+and innovation, such as those with leadership experience, startup backgrounds,
+or early technical roles in fast-growing tech companies.
+
+Key Responsibilities
+
+Lead the design and development of advanced document extraction and NLP systems.
+Work with the CTO to plan and build extraction strategies and architectures.
+Research, test, and apply new methods for text analysis and data extraction.
+Improve system performance for better speed, accuracy, and scalability.
+Provide guidance and mentorship to other engineers.
+Keep up to date with the latest NLP research and apply new ideas when useful.
+
+Essential Requirements
+
+10 years of experience in software development.
+Strong background in NLP and text data extraction.
+Excellent Python programming skills and experience with modern back-end frameworks.
+Good understanding of large-scale data systems, APIs, and cloud technologies.
+Proven ability to design and build creative technical solutions.
+Strong problem-solving and analytical skills.
+
+Preferred Requirements
+
+7+ years of experience in Data Science or Machine Learning.
+Experience as a startup founder, early technical hire, or innovation leader.
+Creative use of NLP for solving complex real-world problems.
+Knowledge of Django, PostgreSQL, Elasticsearch, and AWS.
+Experience in legal-tech, fintech, or document-heavy SaaS companies.
+
+What We Offer
+
+Competitive salary and benefits.
+Chance to work directly with the CTO on exciting NLP projects.
+Remote-first work environment with an international team.
+Opportunity to be part of cutting-edge legal-tech innovation and work with global clients.

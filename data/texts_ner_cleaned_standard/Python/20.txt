@@ -1,0 +1,63 @@
+Senior Backend Engineer — Data Infrastructure & Web Scraping
+🌍 Location: remote
+
+We’re seeking a backend engineer with deep expertise in web scraping and data
+infrastructure to build the foundational systems with one of our partners, an
+Israeli startup product.
+
+You’ll be responsible for designing and implementing scalable pipelines that
+collect, process, and serve data from complex platforms at enterprise scale.
+Day-to-Day Responsibilities
+
+Develop large-scale scraping routines, tackling challenges of performance, accuracy, and source accessibility
+Create and optimize data processing pipelines in Python, structuring high-performance databases and queries (SQL)
+Work in AWS (cloud-native), with flexibility to adapt solutions to other clouds
+Participate in technical discussions with the founders, contributing to architectural and product decisions
+Apply creativity and critical thinking to solve unprecedented problems without ready-made playbooks
+Required Qualifications
+
+Web Scraping Expertise:
+
+Proven experience with large-scale web scraping on complex platforms like Reddit or Wikipedia
+Skilled at traversing multi-level link structures and handling edge cases
+Ability to bypass anti-scraping measures and partial-access restrictions (books, journals, paywalls)
+Advanced scraping capabilities, including complex crawling and parsing of multiple formats
+
+Backend Development:
+
+Strong Python skills for backend processing, scripting, and automation
+Experience parsing, cleaning, and structuring data from APIs and scraped sources
+Proven ability to prepare large datasets accurately and completely, including small or hard-to-reach sources
+
+Data & Infrastructure:
+
+SQL proficiency for querying, transforming, and database modeling
+Experience handling large volumes of data with low-latency and high-precision requirements
+Experience designing scalable data pipelines for collection, storage, and retrieval
+
+API Development:
+
+Experience building robust B2B APIs that expose processed datasets with layered metadata
+Understanding of performance optimization for enterprise-scale API delivery
+
+Cloud Infrastructure:
+
+Experience with AWS (adaptable to other cloud platforms)
+Knowledge of cloud-native architecture and security best practices
+Nice to Have
+
+Familiarity with LLMs and Prompt Engineering for validating sources or assessing scrappability
+Experience with RPA and data collection automation
+Knowledge of JavaScript or other languages for specific integrations
+Understanding of distributed architecture and resilient system design
+Experience with natural language processing for content analysis
+Background in statistical modeling for trust scoring or similar applications
+Timeline & Impact
+
+Timeline: Minimum 6-month development cycle to deliver a production-ready
+MVP with enterprise customers including major search engines and AI platforms.
+
+Impact: The technical architecture you build must handle massive data
+processing, efficient cross-referencing, automated content verification, and
+enterprise-scale API delivery. Your work will directly enable AI systems
+worldwide to serve more reliable information.

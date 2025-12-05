@@ -1,0 +1,52 @@
+Backend Engineer with Python (Middle/Senior)
+We are a Ukrainian-born Travel and Hospitality Technology Consulting company,
+partnering with online travel agencies, travel management solution providers,
+and startups worldwide. With expertise across Travel Tech, Data Science,
+UI/UX, Business Analysis, and Software Engineering, we’ve successfully
+delivered over 300 projects.
+
+We are now seeking a Backend Engineer to join one of our client projects
+focused on building scalable, intelligent systems that redefine customer
+engagement. You’ll play a key role in designing cloud-native services,
+integrating AI-driven APIs, and ensuring that the platform is reliable, high-
+performing, and ready for large-scale usage.
+
+The team is developing a next-generation platform for customer engagement
+powered by generative AI. The solution enables travel and lifestyle companies
+to deploy intelligent, always-available digital agents that provide
+personalized support and seamless brand interactions at scale. By combining
+advanced GenAI models with a proprietary learning engine and deep integration
+into business systems, the platform helps brands create efficient, consistent,
+and meaningful conversations with their customers.
+You Have
+
+At least 3-4 years of professional experience in backend development with Python (FastAPI)
+Strong knowledge of PostgreSQL: schema design, indexing, query optimization, and advanced SQL logic
+Hands-on experience designing and deploying applications on AWS (ECS, Lambda, API Gateway, S3) — must have
+Proven ability to integrate AI/ML APIs (OpenAI, AWS Bedrock, Gemini) into real-world solutions —must have
+Solid understanding of distributed systems, asynchronous processing, and designing for scalability, availability, and resilience
+Experience working with event-driven architectures and message-driven workflows
+Familiarity with system design trade-offs: database models, caching, consistency, modular API boundaries
+Knowledge of observability tools (CloudWatch, Datadog, Sentry) and best practices for building operational visibility into systems
+Strong foundation in engineering practices: unit/integration testing, CI/CD pipelines, Git workflows
+Comfortable working in agile, iterative development environments with regular reviews and team discussions
+Excellent communication skills and the ability to clearly document and explain technical decisions
+Experience using AI coding assistants (e.g., Cursor, GitHub Copilot, or similar) in day-to-day development tasks
+Upper-Intermediate English or higher
+Would be a plus
+
+Familiarity with travel APIs or booking platforms
+Experience with prompt engineering or GenAI workflows (e.g., RAG pipelines)
+Background in AI-powered product development, such as LLMs or recommendation systems in production
+Knowledge of AI observability practices for monitoring model performance, latency, and drift
+Experience building AI-powered solutions or integrating AI pipelines/APIs into software projects
+You Are Going To
+
+Participate in the full software development lifecycle, from planning and architecture to development, deployment, and monitoring
+Design and implement backend services and microservices with Python (FastAPI)
+Build efficient queries and scalable data models in PostgreSQL, ensuring high performance under load
+Develop and operate cloud-native infrastructure on AWS, leveraging services like ECS, Lambda, API Gateway, and S3
+Integrate AI/ML APIs (OpenAI, AWS Bedrock, Gemini) to enable conversational features and automation
+Collaborate with product managers and engineering teams to deliver impactful solutions
+Contribute to architecture design sessions, code reviews, and continuous process improvements
+Ensure systems are reliable, observable, and optimized for long-term maintainability

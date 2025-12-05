@@ -1,0 +1,20 @@
+Computer Vision Engineer
+We are looking for a Computer Vision Engineer with an expertise in low-level
+CV algorithms.
+
+Required Qualifications:
+
+5+ years of experience in computer vision
+Expert-level proficiency in Python
+Knowledge of C++
+Extensive experience in DL and PyTorch framework for CV stacks
+Understanding of geometrical computer vision principles
+Model optimization: quantization, pruning, nn compilers
+Hands-on experience in implementing low-level CV algorithms
+
+Nice to Have:
+
+Experience with DL on edge devices
+Experience with SLAM and/or Visual-Inertial Odometry (VIO)
+Experience with sensor fusion (IMU, magnetometer, GNSS, camera)
+Familiarity with Kalman filters

@@ -1,0 +1,43 @@
+2D AI Artist
+As an AI Artist at Stepico, you’ll join our growing internal AI Art team.
+You’ll work closely with one of our international partners, contributing to
+exciting creative projects and supporting other Stepico teams with AI-powered
+art generation and workflows.
+Requirements
+
+Expertise with Stable Diffusion frameworks (Automatic1111, ComfyUI) and
+prompt engineering.
+Hands-on experience with ControlNet modules (e.g. Canny, Depth, Tile)
+within Stable Diffusion.
+Proficiency in image upscaling techniques (Magnific, Topaz, in-house
+tools) and inpainting/outpainting workflows.
+Solid understanding of end-to-end AI art pipelines — from data preparation
+and model training to polishing final art.
+Experience fine-tuning checkpoints and training LoRA models (Civitai,
+DreamBooth, LoCon, etc.) is a strong plus.
+Familiarity with other generative services (Ideogram, Sora, Midjourney,
+Krea) and a willingness to explore new platforms.
+Responsibilities
+
+LoRA training & model fine-tuning: prepare datasets, run experiments,
+evaluate results.
+Sketch refinement & art polishing: colorize line-art, apply style
+consistency, finalize assets.
+Concept development: translate high-level briefs into mood boards, style
+guides, and prompt libraries.
+AI-driven asset creation: use Stable Diffusion and complementary services
+to generate backgrounds, UI elements, icons, props, and characters.
+Knowledge sharing: document best practices, and mentor peers to
+continuously improve AI-art workflows.
+What will you get with Stepico
+
+A chance to work with cutting-edge AI tools and influence the future of art
+production; Creative freedom and the opportunity to experiment with new visual
+styles;
+A friendly and passionate team that values your growth and ideas;
+Flexible working hours and remote working;
+18 working days of paid time off;
+5 paid sick leaves (without doctors’ notes);
+Compensation for external conferences/workshops/events;
+Full employment;
+Fun corporate events.

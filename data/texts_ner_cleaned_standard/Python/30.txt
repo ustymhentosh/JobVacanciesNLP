@@ -1,0 +1,55 @@
+Python Software Engineer
+About us
+
+Farsight Vision converts flight footage into digital 2D and 3D twins for real-
+time intelligence in GNSS-denied environment, making analytics and situational
+awareness convenient and accessible while saving time and effort. We create
+multi-layered digital twins of terrain with dynamic tracking and
+object/landscape monitoring and predicting.
+
+As a Python Software Engineer , you will be a core part of our technology
+team, responsible for building and maintaining the backend infrastructure of
+the FSV Platform. You will work with cutting-edge technologies, including
+Python-based frameworks, cloud services, and machine learning operations
+(MLOps), to develop a platform that processes and analyzes drone data to
+create 3D models and orthophotos. Your role will involve not only backend
+development but also basic DevOps tasks and collaboration with frontend teams,
+making this a dynamic and versatile position.
+
+If you thrive in startup environments, are proactive, and enjoy solving
+complex problems, this position offers an exciting opportunity to contribute
+to an innovative platform and grow alongside our ambitious team.
+
+Responsibilities
+
+Design, develop, and maintain scalable backend services for the platform.
+Implement, deploy, and maintain machine learning algorithms in production environments.
+Work with the frontend team to ensure seamless integration and occasionally contribute to frontend tasks if necessary.
+Work with the platform’s cloud infrastructure, ensuring efficiency, scalability, and reliability.
+Actively engage in solving platform issues, optimizing processes, and contributing innovative solutions.
+Stay updated with new backend, cloud, and ML technologies, and quickly adapt to new protocols or tools as required.
+
+Requirements
+
+4+ years of experience in Software Development.
+Proficiency with Python (3+ years) and frameworks such as Django, Flask, etc.
+Proven experience in implementing ML algorithms in production environments.
+Previous experience working in a fast-paced startup environment.
+Solid understanding of AWS or similar cloud platforms.
+Basic experience with frontend frameworks, such as React. Ability to assemble a simple project independently.
+Familiarity with DevOps principles, capable of deploying models when needed, and managing environments.
+A strong sense of initiative and self-drive to rapidly acquire, understand, and effectively implement new technologies, protocols, and frameworks to meet project needs and challenges.
+Education: Bachelor’s degree in Mathematics, Physics, Computer Science, or related field.
+
+Why us
+
+With us, you will become part of a team of professionals who strive to contribute to the development of advanced technologies.
+We value teamwork and create an atmosphere of mutual support where everyone can unleash their potential.
+Flexible work schedule.
+Paid vacation and sick days.
+
+Hiring process
+
+Test Task.
+Technical Interview.
+PM & C-level management Interview.

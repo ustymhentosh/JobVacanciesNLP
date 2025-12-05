@@ -1,0 +1,41 @@
+Senior Applied AI Engineer
+About the Company:
+
+Founded in 2015, our client is an independent consulting firm specialized in
+insurance, actuarial projects, finance & process optimization. In partnership
+with an IT consulting firm specialized in process optimization and digital
+transformation, they combine technological innovation with sector expertise to
+deliver tailor-made, data-driven solutions in France and beyond. Together,
+their complementary teams of engineers, actuaries, and consultants create a
+unique environment where business meets technology.
+
+About the Role:
+Your contribution is to design, develop, and deploy applied artificial
+intelligence solutions that meet both internal and client needs.
+
+Requirements:
+
+Minimum 4 years of relevant professional experience required.
+Strong skills in Python, SQL, Deep Learning, NLP/LLMs, Prompt Engineering, and MLOps.
+Business aware, creative, analytical, curious with a passion for turning AI research into real-world impact.
+Master’s Degree in Artificial Intelligence, Data Science, Computer Science, Applied Mathematics, Software Engineering.
+
+Upper-Intermediate English.
+Upper-Intermediate French would be a huge plus.
+
+Responsibilities:
+
+Drive effective project delivery by actively participating in client projects and contributing to company activities.
+Improve decision-making & operational efficiency by developing, training, and integrating AI models tailored to internal and client business needs (LLM, NLP, Computer Vision, agent-based systems).
+Increase productivity & enable scalable content production by designing automated data processing and content generation solutions using prompt engineering techniques and AI pipelines.
+Ensure sustainability & reliability by contributing to the industrialization and reliability of AI projects (production deployment, MLOps, performance optimization).
+Collaborate with the AI & Data Science team to drive internal transformation projects — from code transpilation (SAS/R to Python) to automating reporting and analytics workflows.
+
+What we offer:
+
+Long-term employment with competitive compensation, based on experience.
+Possibility to work remotely.
+An open, transparent and fun work culture.
+Multi-national team and collaborative work environment.
+Continuous knowledge sharing with engaged co-workers.
+Career and professional growth opportunities.

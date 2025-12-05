@@ -1,0 +1,93 @@
+Senior Python Developer (ConnectWise)
+We’re looking for a Senior Python Developer to join our ConnectWise team!
+
+Are you passionate about building large-scale, cloud-native systems that power
+automation for IT professionals worldwide?
+
+Join us to modernize and re-architect a global backup and disaster recovery
+platform — trusted by thousands of companies. You’ll work with Python, AWS,
+and Kubernetes to design microservices, optimize performance, and ensure
+reliability under real-world conditions.
+
+Here your technical vision matters — you’ll help define architecture, set best
+practices, and mentor others as we transform legacy code into a robust,
+scalable solution.
+
+Let’s turn complex challenges into elegant, high-performing systems together!
+
+You will lead the re-architecture and rewrite of a legacy backup & disaster-
+recovery (BCDR) platform into a modern microservices architecture. You will
+build scalable, resilient, cloud-native services running on Kubernetes in AWS,
+design robust database layers, and collaborate closely with the leads,
+developers, and product team on the Client side to deliver a high-
+availability, high-performance system. You’ll help define architecture, set
+best practices, mentor engineers, and ensure the system meets SLAs under heavy
+load and disaster scenarios.
+
+Customer
+
+ConnectWise is the world’s leading software company dedicated to the success
+of IT solution providers. The company’s vision is to power a thriving IT
+ecosystem that transforms what’s possible for small and medium-sized
+businesses (SMBs), and it does so by empowering IT solution providers with
+unmatched software, services, and community to help them achieve their most
+ambitious vision of success. Its tools are used by IT service providers to
+automate their activities for SMBs, such as data backup and recovery, security
+management, and administrative tasks on Microsoft 365 tenants.
+
+Project
+
+Our Customer is ConnectWise, a U.S.-based company.
+
+The tools developed within this project are designed to help IT service
+providers automate operations performed for small and medium-sized businesses
+(SMBs), including data backup and restore processes, security management, and
+administrative tasks for Microsoft 365 tenants.
+
+The Customer values proactive collaboration and welcomes technical and process
+improvement ideas from our team. This project offers numerous opportunities to
+brainstorm, evaluate solutions, and implement best practices to effectively
+address technical challenges.
+
+The Sigma Software team will consist of 9 specialists:
+
+7 Python Developers
+1 Product Manager
+1 Designer
+
+We follow a Kanban-based process and hold daily status meetings with the
+Customer.
+
+Project duration: Long-term — 1 year, with the potential for extension.
+Technologies: Python, Kubernetes, AWS.
+
+Requirements
+
+5+ years of professional Python development experience (or equivalent), building production-grade backend systems
+Strong experience in microservices architecture: service decomposition, inter-service communication, API design, versioning, service discovery
+Hands-on experience with containerization and orchestration (Docker, Kubernetes)
+Solid experience with relational databases (e.g. PostgreSQL, MySQL) including schema design, indexing, replication, partitioning, migrations
+Experience building systems deployed on AWS
+Understanding of distributed systems
+Experience in designing for high availability, fault-tolerance, resilience, and disaster recovery
+Strong debugging, profiling, and performance tuning skills (e.g. handling concurrency, memory, I/O)
+Experience migrating or refactoring legacy monolithic systems to modern architectures
+Proficient in writing clean, maintainable, tested code (unit tests, integration tests); familiarity with test automation
+Excellent problem-solving skills, ability to break down complex problems, make trade-offs, and deliver pragmatic solutions
+Good communication skills and ability to work cross-functionally with product, QA, operations, and business stakeholders
+Leadership or mentoring experience is a plus.
+
+Responsibilities
+
+Drive the redesign and reimplementation of legacy modules into a microservices-based architecture using Python
+Design, build, test, deploy, and maintain backend services (REST APIs, internal services, messaging, task queues) running in containers, orchestrated via Kubernetes
+Collaborate with DevOps/SRE to define CI/CD pipelines, automation, monitoring, alerting, metrics, and deployment strategies (blue/green, canary, rolling)
+Ensure high reliability, fault-tolerance, graceful degradation, and recovery in error conditions (network partitions, node failures, resource exhaustion)
+Design and implement service communication patterns (synchronous, asynchronous, event-driven, pub/sub), versioning, and backward compatibility
+Define and enforce best practices: code quality, modularity, documentation, observability (logging, tracing, metrics)
+Conduct performance profiling and tuning, address bottlenecks, optimize throughput, latency, concurrency, and memory usage
+Mentor and coach more junior engineers: conduct code reviews, share architectural knowledge, promote best practices
+Participate in product planning and design discussions help translate features/requirements into scalable technical solutions
+Handle migration strategies: incrementally decompose legacy monolith, manage data schema migrations, ensure safe cutovers and rollbacks
+Thrash in edge cases: backup/restore, disaster recovery workflows, handling large data volumes, integrity checks (AutoVerify), data immutability (AirGap)
+Engage in system-level thinking: capacity planning, fault injection, chaos testing, disaster scenarios, resilience in cloud environments

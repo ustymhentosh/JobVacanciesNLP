@@ -1,0 +1,63 @@
+Middle/Senior Python Developer (Desktop Team)
+Ajax Systems is a full-cycle company, working from idea generation and R&D to
+mass production and sales. We do everything: we produce physical devices (the
+system includes many different sensors and hubs), write firmware for them,
+develop the server part, and release mobile and desktop applications.
+
+PRO Desktop meets the needs of every professional working with Ajax security
+systems. Facilities profiling and remote configuration, alarm monitoring and
+photo verification, staff administering, and a detailed event log — all in
+one, intuitive interface.
+
+Responsibilities:
+
+Ajax PRO Desktop development (adding new devices, supporting existing
+devices, adding new functionality and features, fixing bugs).
+
+Architectural decisions and concept development.
+
+Writing tests.
+
+Hard bug fixing.
+
+Inter-commands communications.
+
+Stack:
+
+Python 3, PySide 6, QML, gRPC.
+
+Must have:
+
+3+ years of experience with Python, including multithreading, asyncio.
+
+Knowledge of OOP principles and patterns.
+
+Experience with aiohttp.
+
+Experience with pytest.
+
+Experience with gRPC.
+
+It will be a plus:
+
+Experience with QML.
+
+Experience with PySide/PyQt.
+
+We offer:
+
+Flexible schedule at our offices in Kyiv or Lviv.
+
+The opportunity to propose and implement own ideas that have an impact on
+the product and production.
+
+Work in a motivated team and zero bullshit culture.
+
+Competitive salary.
+
+Medical Insurance.
+
+Corporate English.
+
+The opportunity to participate in the beta test project of Ajax security
+systems — receiving and testing new gadgets before their release.

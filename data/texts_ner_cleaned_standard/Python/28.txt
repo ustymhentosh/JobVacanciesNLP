@@ -1,0 +1,69 @@
+QA Automation Trainee Engineer
+PLVision is seeking motivated 3rd- to 5th-year students eager to kick-start
+their software engineering careers. Join us as a QA Automation Trainee
+Engineer and dive into a real-world networking project. This role offers
+hands-on experience working in real-world development and verification
+projects for network tools and platforms.
+
+Under the guidance of our mentors, you’ll tackle live customer tasks from day
+one, follow a structured onboarding plan with clear milestones, and receive
+continuous feedback to drive your growth. You’ll have the opportunity to build
+a flexible schedule that accommodates university and personal commitments,
+collaborate in English with international clients during stand-ups and calls,
+and get hands-on insight into enterprise-grade, disaggregated network
+architectures.
+
+Being part of our expert team will allow you to gain real commercial
+experience, sharpen your technical and communication skills, and develop the
+confidence needed to take your career to new heights.
+
+At PLVision, we lead meaningful technical projects that make a significant
+impact on the open networking industry, helping you build a brighter future.
+With over 17 years of expertise and a highly skilled and supportive team, we
+are deeply committed to engineering excellence. We provide a rewarding
+environment where you can thrive and bring your ideas to life as impactful
+software solutions and products. Join us and enjoy a consistent career while
+contributing to innovative open networking technologies!
+Responsibilities
+
+Work alongside experienced developers and QA engineers
+Apply newly acquired knowledge and skills related to SONiC/SAI development and verification through hands-on tasks
+Assist in developing internal tools, automation scripts, and microservices used in networking projects
+Participate in the design, implementation, and verification of software modules
+Write unit and integration tests; support CI/CD pipelines
+Troubleshoot, debug, and improve code quality
+Contribute to documentation and user guides for internal and customer-facing tools
+Collaborate with cross-functional teams in Agile/Scrum environments
+Requirements
+
+Experience with the Linux environment
+Basic knowledge of Git
+Proficiency in Python
+English level: B1 or higher
+Strong problem-solving skills and attention to detail
+Would be a plus
+
+Basic knowledge of computer networking
+Strong foundational understanding of Docker
+Practical experience in commercial software development
+About PLVision
+
+PLVision is a European networking software product development company that
+helps businesses unlock the full potential of open and disaggregated
+technologies. We deliver end-to-end, vendor-agnostic solutions, tailored to
+meet client’s specific use cases — enabling greater flexibility, scalability,
+and sustainability while ensuring cost control and predictability.
+
+Leveraging strategic partnerships with industry leaders, major hardware
+vendors, and membership in key open networking communities, PLVision ensures
+delivered software solutions remain future-ready and aligned with the latest
+open networking innovations, empowering clients to achieve their business
+goals and long-term success.
+Equal Opportunity Statement
+
+PLVision is committed to providing equal employment opportunities and does not
+tolerate unlawful discrimination or harassment based on race, color, religion,
+age, sex, national origin, or any other protected characteristics. We believe
+everyone at PLVision deserves to thrive in an environment where they are
+respected, valued, and empowered to reach their full potential and build a
+meaningful career.

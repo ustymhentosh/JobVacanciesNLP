@@ -1,0 +1,55 @@
+Python Technical Lead/Senior Engineer (#3643)
+N-iX is looking for a prospective and ambitious Python Technical
+Lead/Senior Engineer to join our team.
+
+Our Client is Cardo Systems, Inc., which is headquartered in Pittsburgh,
+PA. (USA) and is the world’s acknowledged market leader in wireless
+communication systems for motorcyclists. With the introduction in 2004 of the
+Scala rider® Bluetooth line of devices, Cardo has pioneered a new product
+category that was non-existent until then.
+
+Today, the Scala rider line includes the most advanced devices in the category
+from solid entry-level products to the most feature-rich communication and
+entertainment system available. Scala rider products can be found in
+motorcycle accessory stores in over 80 countries.
+
+Responsibilities :
+
+Understand business needs and Implement functional requirements accordingly
+Work independently and directly with stakeholders when needed
+Help in designing the software
+Build efficient back-end features in Python
+Implement designs into code by collaborating with UI/UX designers
+Keep suggesting improvements and ways to enhance the functioning of the software
+Be focused on quality
+
+Requirements :
+
+6-7+ years of commercial experience with Python
+3-4+ years proven skills in FastAPI
+Technical Lead experience — preferably
+Experience with AWS (preferably), or any other clouds, Mongo DB, MicroServices architecture
+Excellent verbal and written skills in English
+
+The ideal candidate is also:
+
+Pragmatic: gets things done, can find a creative compromise between an ideal technical solution and actual client needs
+Understands the value of testing, quality, continuous integration, source control, and code reviews
+Able to analyze, plan, and estimate requirements as well as identify risks involved and provide solutions to them
+Has good communication skills and excellent teamwork capabilities
+Independent and self-motivated with a can-do attitude
+Capable of executing under uncertainty, in a dynamic environment
+
+*We offer:*
+
+Flexible working format — remote, office-based or flexible
+A competitive salary and good compensation package
+Personalized career growth
+Professional development tools (mentorship program, tech talks and trainings, centers of excellence, and more)
+Active tech communities with regular knowledge sharing
+Education reimbursement
+Memorable anniversary presents
+Corporate events and team buildings
+Other location-specific benefits
+
+*not applicable for freelancers

@@ -1,0 +1,34 @@
+Python Developer
+Overview:
+K2G is seeking a skilled and motivated Python Developer to join our team.
+The ideal candidate will have a strong foundation in Python with a track
+record of designing, developing, and maintaining scalable web applications.
+This role will focus on enhancing functionalities for our insurance platform,
+developing microservices to support high-load systems, and leveraging Python
+for various backend tasks. Candidates should be passionate about delivering
+high-quality solutions, have experience across different cloud platforms, and
+have a solid understanding of database design and REST API development.
+
+Qualifications:
+Language Skills : Proficiency in English (Intermediate level).
+•Technical Skills :
+•Proficiency in Python.
+•Experience with distributed systems and microservices.
+•Experience in developing multi-threaded applications (TPL, async/await).
+•Proficiency in MS SQL, focusing on writing efficient SQL queries and using
+LINQ.
+•Experience in writing unit tests.
+•Proficiency with version control using Git.
+•Familiarity with Docker and Kubernetes.
+•Experience working with Linux environments.
+•Experience working with Python in cloud environments, especially Google Cloud
+Platform.
+
+Responsibilities:
+•Design and implement microservices in Python.
+•Design database structures and perform code reviews.
+•Develop REST APIs
+
+•Write unit tests to ensure code quality. If you are a passionate developer
+with expertise in Python and a strong focus on building scalable and efficient
+systems, we would love to hear from you!

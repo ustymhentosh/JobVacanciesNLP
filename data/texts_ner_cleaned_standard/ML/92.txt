@@ -1,0 +1,32 @@
+Computer Vision Engineer (Middle) — Detection, Tracking, Matching, etc
+Привіт!
+
+Ми створюємо AI-first platfrom for Drones/Robotics.
+
+Корпоративна культура — “стартап”.
+
+З західними зрозумілими відомими інвесторами.
+
+Засновник та СЕО — Віталій Гончарук, який раніше створив Augmented Pixels (
+SLAM / 6DOF / 3D Mapping) та продав її Qualcomm у 2022 році.
+
+The ideal candidate will leverage state-of-the-art CVML techniques to design,
+develop, and implement robust algorithms for object detection, classification,
+segmentation, and spatial analysis.
+
+Responsibilities:
+
+Develop, train, and fine-tune computer vision and machine learning models.
+Research and implement cutting-edge image processing and depth estimation techniques.
+Collaborate closely with cross-functional teams to integrate CVML solutions into existing systems.
+Evaluate model performance, optimize accuracy, and troubleshoot challenges in real-world scenarios.
+Maintain awareness of new methodologies and developments in the CVML field.
+
+Qualifications:
+
+Bachelor’s or Master’s degree in Computer Science, Artificial Intelligence, or related fields.
+Demonstrated experience with object detection frameworks (e.g., YOLO, Detectron2).
+Proficiency in depth estimation and spatial reasoning models (e.g., MiDaS, OpenCV stereo algorithms).
+Solid programming skills in Python, including frameworks such as PyTorch, TensorFlow, or OpenCV.
+Strong analytical and problem-solving skills.
+Ability to work independently and collaboratively within an agile team environment.

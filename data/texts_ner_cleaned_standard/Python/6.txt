@@ -1,0 +1,83 @@
+Python Engineer (Senior) ID41787
+Hi there! AgileEngine is an Inc. 5000 company that creates award-winning
+software for Fortune 500 brands and trailblazing startups across 17+
+industries. We rank among the leaders in areas like application development
+and AI/ML, and our people-first culture has earned us multiple Best Place to
+Work awards.
+
+Why join us
+If you’re looking for a place to grow, make an impact, and work with people
+who care, we’d love to meet you! :)
+
+About the role
+This role offers the chance to lead backend development and shape a next-
+generation AI-powered platform. You’ll build scalable Python systems,
+contribute across the stack, and collaborate directly with product and
+leadership to turn complex business needs into impactful technical solutions.
+Working in a fast-paced, experiment-driven environment, you’ll prototype,
+iterate, and take ownership of features that deliver real user value. With a
+culture that values speed, independence, and collaboration, this role lets you
+make significant technical and product impact while growing as a senior
+engineer.
+
+What you will do
+● Lead backend development: design, implement, and maintain scalable
+backend systems in Python;
+● Contribute across the stack: while backend is the main focus, be open to
+occasional frontend contributions (Vue.js, React, etc.) when needed;
+● Collaborate with product & CEO: work closely with stakeholders to
+understand business needs and turn them into technical solutions;
+● Prototype quickly & iterate: deliver functional, scrappy prototypes for
+fast learning and adjust based on feedback;
+● Work with production feedback: build features that can be tested with
+real users, monitor performance, and iterate rapidly;
+● Take ownership: make sound engineering decisions independently, ensuring
+alignment with product goals;
+● Support a culture of speed and experimentation: balance technical
+quality with business value, optimizing for learning and time-to-market.
+
+Must haves
+● Proven experience of 4+ years as a Senior Python back-end engineer ;
+● A strong product-focused mindset and genuine interest in solving user and
+business problems, not just delivering code;
+● A proactive nature, with a habit of asking questions and seeking to
+understand the bigger picture;
+● Ability to think quickly, make strong engineering decisions, and adapt to
+changing requirements;
+● Independence, ownership, and comfort working with minimal supervision;
+● Must be based in Europe time zones (GMT+0 to GMT+5);
+● Upper-Intermediate English level.
+
+Nice to haves
+● Experience with Python web frameworks like Django or FastAPI;
+● Experience in an early-stage startup environment;
+● Experience with building with LLMs or building agentic AI systems;
+● Front-end experience with frameworks like Vue.js or React;
+● Leadership experience.
+
+Perks and benefits
+● Professional growth: Accelerate your professional journey with mentorship,
+TechTalks, and personalized growth roadmaps
+● Competitive compensation: We match your ever-growing skills, talent, and
+contributions with competitive USD-based compensation and budgets for
+education, fitness, and team activities
+● A selection of exciting projects: Join projects with modern solutions
+development and top-tier clients that include Fortune 500 enterprises and
+leading product brands
+● Flextime: Tailor your schedule for an optimal work-life balance, by having
+the options of working from home and going to the office — whatever makes you
+the happiest and most productive.
+
+Meet Our Recruitment Process
+Asynchronous stage — An automated, self-paced track that helps us move
+faster and give you quicker feedback:
+● Short online form to confirm basic requirements
+● 30–60 minute skills assessment
+● 5-minute introduction video
+
+Synchronous stage — Live interviews
+● Technical interview with our engineering team (scheduled at your
+convenience)
+● Final interview with your future teammates
+
+If it’s a match—you’ll get an offer!

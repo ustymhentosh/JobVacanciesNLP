@@ -1,0 +1,78 @@
+Senior/Lead AI Engineer (Python)
+We are seeking an experienced and innovative Senior/Lead AI Engineer to
+spearhead the development, deployment, and optimization of cutting-edge AI
+solutions tailored to client-specific needs. This role emphasizes leadership,
+technical excellence, and collaboration to deliver impactful, scalable AI
+applications and workflows.
+
+Kindly note that this role supports remote work, but only from within
+Ukraine.
+Responsibilities
+
+Design, implement, and maintain end-to-end AI applications, including chatbots, Q&A platforms, and agent workflows
+Collaborate directly with clients to understand their needs, identify opportunities, and recommend LLM-driven solutions
+Develop and manage robust data pipelines, prompt strategies, and datasets to ensure effective and accurate AI models (Will be +)
+Evaluate and refine AI system performance, ensuring outputs are accurate, secure, scalable, and compliant with industry regulations (Will be +)
+Conduct research and rapid prototyping to validate technical feasibility and demonstrate business value of AI solutions
+Stay current with evolving LLM technologies, frameworks, and methodologies to continuously improve solutions and client outcomes
+Requirements
+
+Strong proficiency in Python, experience with web frameworks like FastAPI or similar
+Understanding of the AI application development lifecycle
+Experience with rapid UI prototyping using Streamlit, Gradio, or similar frameworks
+Familiarity with major LLM platforms and APIs (OpenAI, Anthropic, Amazon Bedrock, Gemini) and related frameworks (LangGraph, LlamaIndex, Strands Agents, etc.)
+Knowledge of advanced AI integration patterns (e.g., RAG, Agents)
+Experience deploying AI solutions at scale, with considerations for performance, cost-efficiency, and maintainability
+Proven ability to evaluate generative AI quality using metrics such as retrieval and classification scores, as well as LLM-based evaluation methods
+Proven experience in AI engineering and delivering ML-based solutions
+Strong problem-solving skills and attention to detail
+Excellent communication, collaboration, and interpersonal skills
+Nice to have
+
+Experience designing experiments, conducting A/B tests, and iterating on models based on user feedback
+Understanding of retrieval systems (keyword search, vector search, embeddings) and ranking algorithms
+Familiarity with emerging protocols such as MCP, A2A, ACP, etc
+Experience deploying to cloud AI platforms (Azure OpenAI, Amazon Bedrock, GCP Vertex AI) or on-premise solutions (e.g., vLLM)
+Experience with enterprise AI platforms such as AWS AgentCore or Databricks AgentBricks or Google Agents Space, or Azure AI Foundry
+Experience with observability and monitoring tools and frameworks
+We offer
+
+With us you can:
+
+Work on a flexible schedule remotely or from any of our comfortable offices or coworking spaces in Ukraine
+Receive the necessary equipment to perform your work tasks
+Change projects and technology stacks within EPAM
+Gain experience in various business domains (Insurance, E-commerce, Healthcare, Finance, Travelling, Media, Artificial Intelligence, and more)
+Relocation opportunities may be available for eligible candidates, depending on the role and openings at other EPAM locations
+Participate in volunteer, charity programs and communities (both technical and interest-based)
+We focus on your professional growth:
+
+You can plan your individual career path together with your manager
+Receive regular feedback from colleagues
+Improve your English for free with certified teachers (Speaking Clubs, client interview preparation courses, etc.)
+Get the opportunity to undergo free training and certification in AWS, GCP, or Azure Clouds
+Use the internal E-learn training program (18,200+ specialized training and mentoring programs)
+Access corporate accounts on LinkedIn Learning, Get Abstract and other partner resources
+Study at EPAM Solution Architecture School with the instructors who are practicing architects
+Develop as a leader, join Delivery Management, Resource Management, Leadership Essentials school and more
+Participate in internal communities (500+ meetups, technical discussions, brainstorming sessions, online events and conferences annually)
+What we offer:
+
+Vacation and sick leave (including a sick leave without a medical certificate)
+A wide range of Voluntary Medical Insurance programs providing both medical treatment and various preventive options (including sports activities)
+Medical insurance for family members at corporate rates
+Company support during significant life events (childbirth or adoption, marriage, etc.)
+Support for psychological comfort: discounts on services from mental health specialists or coaches, thematic training
+E-kids program — a free programming language training program for EPAMers’ children
+
+Kindly be advised that the set of benefits, including learning, certification,
+and other opportunities, may vary depending on the role you apply for. Our
+recruiter will be able to share more details about the specific opportunity
+during your general interview.
+
+EPAM strives to provide its global team of over 61,700 professionals in more
+than 55 countries with opportunities for professional growth from day one of
+collaboration. Our colleagues are the source of EPAM’s success, so we value
+cooperation, strive to always understand our clients’ business and aim for the
+highest quality standards. No matter where you are, you will join a dedicated,
+diverse community that will help you realize your potential to the fullest.

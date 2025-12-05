@@ -1,0 +1,27 @@
+Computer Vision Engineer (slam, vio)
+We are looking for a Computer Vision Engineer with a background in classical
+computer vision techniques and hands-on implementation of low-level CV
+algorithms.
+
+The ideal candidate will have experience with SLAM, Visual-Inertial Odometry
+(VIO), and sensor fusion.
+
+We consider engineers at Middle/Senior levels — tasks and responsibilities
+will be adjusted accordingly.
+
+Required Qualifications:
+
+3+ years of hands-on experience with classical computer vision
+Knowledge of popular computer vision networks and components
+Understanding of geometrical computer vision principles
+Hands-on experience in implementing low-level CV algorithms
+Practical experience with SLAM and/or Visual-Inertial Odometry (VIO)
+Proficiency in C++
+Experience with Linux
+Ability to quickly navigate through recent research and trends in computer vision.
+
+Nice to Have:
+
+Experience with Python
+Familiarity with neural networks and common CV frameworks/libraries (OpenCV, NumPy, PyTorch, ONNX, Eigen, etc.)
+Experience with sensor fusion.

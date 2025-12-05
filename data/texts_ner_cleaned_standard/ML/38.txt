@@ -1,0 +1,52 @@
+ML Practice Leader
+A Practice Leader is the first point of contact for their direct reports,
+and they liaise and relay information between senior leaders, HR, and
+engineers.
+
+The role of a Practice Leader is probably the most important because this
+is the first line of people management, and it provides things to be done. On
+the one hand, a PL is a part of the Practice, so this person must be at least
+senior-level in their specialty. On the other hand, a Practice Leader is a
+people manager.
+
+The complete list of requirements looks like the following:
+Practical experience and strong understanding of Python patterns & best
+practices.
+Strong understanding of ML project lifecycle.
+Practical experience with creating training datasets involving human
+annotators.
+Experience with writing Deep Learning models from scratch.
+Experience in >1 of the following areas: NLP, CV, forecasting, recommender
+systems.
+Strong experience with agentic workflows, RAG architecture, and GraphRAG.
+Experience and in-depth understanding of transformers.
+Practical experience with /AWS/other cloud/open source alternatives/ MLOps
+platforms, frameworks, and libraries.
+Practical experience with model post-production & maintenance: model and
+data monitoring, retraining automation, etc.
+Ability to make reusable components of ML pipelines.
+Practical experience with a variety of data sources (OLTP, OLAP, DataLake,
+Streaming).
+Experience in DataOps or ML/MLOps would be a significant plus.
+Ability to explain decisions, status, and roadmap to non-technical customer
+representatives.
+Experience in team/department leadership.
+Ability to teach and mentor. The role assumes providing employees with their
+career path and helping them achieve goals.
+Diplomatic skills. It means more than just “communication skills” and
+includes ethics, empathy, compassion, and the ability to resolve conflicts.
+Calmness. People are complicated, and you need to be ready for any
+objectives or misunderstandings.
+
+Responsibilities:
+Build effective teams.
+Participate in meetups, conferences, and build community.
+Share best practices and culture with the team.
+Mentor engineers, coach Team Leads, and encourage others to share knowledge.
+Have technical excellence and be an influencer in different teams/projects.
+Hire and onboard newcomers.
+Conduct performance reviews, 1-on-1 meetings.
+Identify and address team gaps in knowledge.
+Evaluate, improve, and maintain processes.
+Сollaborate with other managers across the company.
+Communicate and follow the company’s mission, vision, and values.

@@ -1,0 +1,60 @@
+Generative AI & Creative Systems Specialist
+As a Generative AI & Creative Systems Specialist, you will design,
+orchestrate, and continuously improve AI-based creative workflows for
+images, video, and text elements that power MGID’s automated creative
+generation ecosystem — including tools used directly by clients within the
+platform.
+
+Your mission is to turn creative vision into structured, scalable systems
+that consistently deliver high-quality, compliant, and performance-ready
+outputs — not just one-off manual results.
+
+You’ll work closely with the R &D Creative Team (AI Expert, Creative
+Designer, Creative Manager, and Team Lead) to ensure AI-generated content
+aligns with campaign goals, brand identity, and compliance standards. You will
+bridge creative intent and technical implementation , shaping how AI
+supports every stage of the creative process.
+What You’ll Do
+
+Design and maintain scalable AI workflows for image, video, and text generation within MGID’s creative ecosystem.
+Develop prompt architectures and orchestration logic that connect multiple AI agents (e.g., image generation, title generation, creative scoring).
+Use n8n to build and automate creative workflows , helping test AI outputs faster, organize prompt experiments, and reduce repetitive manual steps during generation or review.
+Experiment with and refine prompt strategies , model setups , and multi-model combinations to achieve stable, category-relevant outputs.
+Select and evaluate AI models (text, image, video) for each use case, balancing quality, latency, and cost.
+Apply or adapt fine-tuned or LoRA-based models to improve realism, style consistency, or brand fidelity.
+Review generation outputs for usability, compliance, and safety (e.g., readability, NSFW filtering, brand adherence).
+Build reusable prompt templates, patterns, and creative logic to accelerate iteration and maintain consistent quality.
+Collaborate with backend developers to define API prompt structures , input-output formats, and system prompt hierarchies for integration into MGID’s creative tools.
+Occasionally prototype lightweight utilities or scripts (e.g., Colab flows, Python snippets, Chrome extensions) to validate new generation flows before full implementation.
+Document workflows clearly and communicate decisions to both technical and creative peers.
+Who You Are
+
+You have hands-on experience working with AI-driven creative workflows (typically 2+ years, or proven real-world portfolio).
+You understand prompt design across text, image, and video — including image-to-image, control flows, or text-to-video techniques.
+You think in systems and dependencies , building repeatable creative flows rather than isolated outputs.
+You are familiar with fine-tuning concepts, dataset preparation, and LoRA adaptations , and can work with or adjust existing models when needed.
+You have experience with Stable Diffusion / SDXL, Flux, Kling, Minimax, Runway, OpenAI , or similar multimodal systems.
+You can analyze and explain model behavior, quality trade-offs, and best-fit scenarios for each creative task.
+You are comfortable collaborating with both creative and technical teams , translating between design goals and system logic.
+You can explain how and why a specific AI setup achieves the desired result — and iterate effectively when it doesn’t.
+You are proactive, organized, and thrive in a fast-paced, experimental R&D environment.
+Your English is Intermediate+ , sufficient for documentation and cross-team communication.
+Nice to have
+
+Experience working with APIs , Python scripting , or automation tools (e.g., n8n, Colab).
+Familiarity with SQL queries and basic database structures (e.g., understanding how creative data or generation logs are stored and accessed).
+Experience working in AdTech or MarTech environments.
+Basic knowledge of HTML and front-end data handling principles.
+Familiar with Cursor , Claude Code , or similar AI-assisted development tools for creating internal utilities, workflow prototypes, or lightweight automation apps.
+Understanding of prompt orchestration frameworks (e.g., LangChain, LlamaIndex, or custom agent pipelines).
+Why Join MGID
+
+If you want to help shape how thousands of brands generate ad visuals and
+copy at scale — building AI systems that transform creativity into
+structured, repeatable excellence — this is your opportunity.
+
+Join a team that merges technology, creativity, and responsibility to
+redefine what advertising looks like in the AI era.
+
+Apply now and help power the next generation of intelligent, scalable, and
+truly creative AI solutions.

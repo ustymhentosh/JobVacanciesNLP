@@ -1,0 +1,46 @@
+Middle/Senior Full-Stack Engineer — SL
+Faria is a forward-thinking company that consistently delivers new features
+and is passionate about staying ahead of the competition. Every day is
+different, and you will be challenged to think creatively and innovate within
+a multi-disciplined team of talented people. We’re a great team to work with,
+seriously committed to doing our best work, and we value individuals who can
+work well as part of a team.
+
+We are seeking a Middle/Senior Full-Stack Engineer to join the development
+team of the SpotLight application, where you will develop features across the
+full SpotLight technology stack, working on both data platform integration and
+user interface components under the guidance of the Lead Engineer.
+
+Key Responsibilities
+
+Implement dashboard features requiring both back-end data processing and front-end visualization.
+Develop API endpoints for educational data analytics functionality
+Support data extraction and transformation processes
+Collaborate on cross-product data integration (ManageBac+, OpenApply, SchoolsBuddy)
+Contribute to technical documentation and development processes
+
+Required Technical Skills
+
+3-5+ years full-stack development experience with:
+Back-end: Python, Ruby, or Elixir, SQL, and database design
+Front-end: JavaScript, React or Vue.js, data visualization libraries
+Integration: RESTful API development, third-party system integration
+Database: PostgreSQL, data modeling, performance optimization
+Experience with cloud platforms (AWS preferred) and modern development practices
+Understanding of data security and privacy requirements
+
+Preferred Qualifications
+
+Educational technology or student information system development experience
+Analytics platform or business intelligence tool development
+Experience with regulated data environments and compliance requirements
+Benefits
+
+Compensation — Competitive salary and opportunities for career development (B2B)
+Healthcare — Comprehensive medical coverage by LuxMed (UNIQA for the UA)
+Vacation — We support work/life balance and offer generous Annual leave and Public Holidays
+Wellbeing Resources — Faria encourages team members to lead healthy lifestyles and provides recurring monthly Health and Wellness benefits
+Learning — We encourage continued education, providing an online learning platform, unlimited book purchases, and diverse internal and external training programs.
+Team — Friendly atmosphere, group activities, and corporate events
+Equipment — MacBook Pro or another laptop of your specification, peripherals, and displays included
+Office — Small but cozy office in Krakow(PL) or Ivano-Frankivsk(UA) for your convenience

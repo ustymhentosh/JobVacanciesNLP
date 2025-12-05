@@ -1,0 +1,8 @@
+Strong Junior/Middle ML Engineer
+2+ years experience in ML development;
+Strong technical skills in data analysis, statistics, and programming;
+Working experience in using Python;
+Experience with DNN frameworks as PyTorch, or TensorFlow;
+Knowledge of machine learning and deep learning technologies;
+Research mindset and math-oriented intelligence;
+Good technical written and spoken English.

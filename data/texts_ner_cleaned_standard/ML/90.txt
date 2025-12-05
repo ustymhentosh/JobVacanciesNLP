@@ -1,0 +1,44 @@
+AI Engineer (LangChain / RAG / TypeScript)
+About Us
+
+CareerSwift is an AI-powered career automation platform helping job seekers
+land their dream roles faster through smart resume building, LinkedIn
+optimization, interview practice, and now — an agentic infrastructure built on
+top of LLMs.
+
+We’re expanding our stack beyond the Vercel AI SDK and are looking for someone
+who deeply understands LangChain, vector databases, and production-level RAG
+systems to help us scale faster and smarter.
+What You’ll Work On
+
+Lead the migration of our AI layer from Vercel AI SDK to LangChain (TypeScript).
+Design and implement agentic workflows that handle resume optimization, job matching, and auto-apply pipelines.
+Build scalable RAG systems for user-specific retrieval and knowledge augmentation.
+Integrate Convex or alternative vector databases (Pinecone, Qdrant, Chroma, Weaviate) for efficient embeddings search.
+Optimize LLM performance and cost-efficiency , and ensure smooth multi-model support (OpenAI, Anthropic, Gemini).
+Collaborate with the core engineering team on Next.js 15 / Vercel / Convex stack.
+Optionally, experiment with LangSmith, MCP, and agent orchestration for real-time decision-making.
+What We’re Looking For
+
+3+ years of experience in software engineering (preferably backend or AI systems).
+Strong proficiency in TypeScript / Node.js / Next.js.
+Proven experience with LangChain, RAG, or vector DBs in production.
+Understanding of LLM orchestration, embeddings, and agentic architecture.
+Familiarity with OpenAI API, Vercel AI SDK, or similar frameworks.
+Ability to architect and optimize pipelines for real-world use cases.
+Self-driven, startup-minded, and able to work asynchronously in a small distributed team.
+Tech Stack You’ll Touch
+
+`Next.js 15` · `TypeScript` · `LangChain` · `Convex` · `Vercel AI SDK` ·
+`OpenAI API` · `PostHog` · `Stripe` · `Vector Databases (Pinecone / Qdrant)`
+Bonus Points
+
+Experience with LangSmith or LangServe.
+Understanding of RAG evaluation, embeddings optimization , and multi-agent flows.
+Interest in AI products , SaaS, or career automation tools.
+Why Join
+
+You’ll be part of a fast-growing startup where decisions are fast, ideas
+matter, and your code directly impacts thousands of job seekers worldwide.
+
+Please, add your salary expectations to your application.

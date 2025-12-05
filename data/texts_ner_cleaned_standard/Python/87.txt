@@ -1,0 +1,69 @@
+Senior Python Developer
+We’re looking for a Senior Python Developer to help our energy tech client
+transform access to clean and reliable energy in emerging markets.
+
+Want to build scalable tech that impacts real lives across the globe? As
+aSenior Python Developer , you’ll work on backend systems that power smart
+energy distribution in fast-growing regions.
+
+Beetroot is a trusted tech partner for companies making a difference. We’re
+setting up a dedicated team for our client — a pioneering company in the
+energy tech space — to accelerate their product development.
+
+Our client is a fast-growing company providing IoT smart metering solutions
+that are reshaping the energy industry in Southeast Asia and Sub-Saharan
+Africa. Their platform enables utilities to deliver clean, affordable energy
+by detecting energy theft, optimizing performance, and supporting sustainable
+energy practices.
+
+In this role, you’ll contribute to backend development that directly supports
+operational efficiency, energy accessibility, and innovation across the energy
+sector in underserved regions.
+
+What you’ll do in this role
+
+Develop, maintain, and enhance backend services and APIs using Python, Django, and Django Rest Framework (DRF).
+Implement asynchronous task queues using Celery to manage background processes.
+Work with SQL and NoSQL databases, specifically MySQL and AWS DynamoDB, to manage and retrieve data efficiently.
+Utilize Kafka for real-time data streaming and event-driven architecture.
+Deploy, manage, and monitor applications in AWS using tools like Terraform for infrastructure as code.
+Integrate CI/CD pipelines using Jenkins and GitLab CI for automated testing and deployments.
+Optimize performance, reliability, and scalability of applications on Linux-based environments.
+Collaborate with cross-functional teams to build new features and improve existing functionality.
+Troubleshoot and resolve issues, ensuring high availability and performance of our platform.
+
+We’re looking for
+
+5+ years of experience in software development, with a strong focus on Python.
+Proficient in Django and Django Rest Framework (DRF) for building APIs and web applications.
+Experience with Celery for managing background tasks.
+Strong knowledge of relational databases (MySQL) and NoSQL databases (AWS DynamoDB).
+Hands-on experience with Kafka for real-time data streaming.
+Proficient in AWS cloud services and infrastructure management using Terraform.
+Solid understanding of CI/CD processes with Jenkins and GitLab CI.
+Strong Linux skills for application deployment and troubleshooting.
+Familiarity with distributed systems and microservices architecture.
+Excellent communication skills and an independent work ethic.
+Proactive and independent problem-solving skills with a focus on delivering high-quality solutions.
+Ability to thrive in a fast-paced, dynamic environment.
+
+How to knock our socks off
+
+Experience with FastAPI for building high-performance APIs.
+Knowledge of AWS Lambda and Step Functions for serverless workflows.
+Familiarity with AWS ECS for container orchestration.
+Frontend development experience with Angular and end-to-end testing with Cypress.
+Experience with monitoring and logging tools like Grafana and Kibana.
+Naming five or more dishes that include beetroot besides borshch.
+
+✔ Not checking every box?
+
+This job looks very exciting, but you hesitate to apply because of the
+confidence gap? Reach out to us anyway! Beetroot is an inclusive workplace
+that considers all applicants. We’re committed to openness — promoting
+equality and fostering an environment where different backgrounds, ideas, and
+experiences are not just accepted, but embraced. So let’s discover together
+whether we could be an excellent fit for each other.
+
+Please send us your CV in English, and we’ll be happy to discuss your
+application further.

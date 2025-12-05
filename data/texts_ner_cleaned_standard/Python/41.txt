@@ -1,0 +1,69 @@
+Backend Engineer (Python) with ML/AI Experience
+About Virtido
+
+Virtido is an entrepreneurial and innovative IT company headquartered in
+Zurich, Switzerland. We realize ideas and projects — from strategic concept to
+technical implementation closely alongside our dynamic clients with a strong
+focus on start-up or fast-growing companies. Since inception in 2015, we have
+grown rapidly to currently 140+ professionals in Switzerland, Poland, Ukraine
+and the Philippines.
+
+About Our Client
+
+Our client specializes in delivering advanced software solutions aimed at
+achieving excellence in Data Governance. With a strong focus on Data
+Protection, Information Security, and AI Trustworthiness, they develop
+products that promote responsible innovation and efficient management of data
+lifecycles. Their offerings ensure full compliance with international
+standards and regulations.
+
+In addition to their robust software solutions, they offer consulting services
+to assist businesses in seamlessly integrating their products. They also
+develop customized Governance, Risk, and Compliance (GRC) frameworks tailored
+to the unique needs of various industries, ensuring that clients can
+effectively manage and protect their data while driving innovation.
+
+About the Role
+
+We are seeking a highly skilled Senior Backend Engineer with strong
+proficiency in Python (vanilla) and hands-on experience with Machine Learning
+(ML) and Artificial Intelligence (AI). As a key member of the engineering
+team, you will work on building scalable, secure, and intelligent backend
+systems that enhance the companys data governance solutions. This role
+involves collaborating with cross-functional teams to develop innovative
+features that leverage ML/AI to improve data security, compliance, and
+responsible AI practices.
+
+Responsibilities
+
+Design, develop, and maintain scalable backend systems using Python (vanilla).
+Integrate ML/AI models into the backend architecture to enable intelligent data analysis, automation, and security features.
+Collaborate with data scientists and AI/ML engineers to deploy and optimize AI models in production environments.
+Develop robust APIs and microservices to support a variety of data governance and security functionalities.
+Ensure the security, scalability, and high performance of backend systems.
+Write clean, maintainable, and well-documented code following best practices.
+Participate in system architecture discussions and contribute to continuous improvement initiatives.
+Stay updated with the latest trends and advancements in ML/AI technologies and data security.
+
+Requirements
+
+Proven experience as a Backend Engineer with expertise in Python (vanilla preferred).
+Strong knowledge of ML/AI concepts, frameworks, and deployment best practices.
+Experience integrating ML/AI models into production environments.
+Solid understanding of data security, privacy, and compliance standards.
+Familiarity with API design, microservices architecture, and cloud deployment (cloud platforms like AWS, Azure, or GCP preferred).
+Experience working on data governance, security, or similar domains is a plus.
+Excellent problem-solving skills and ability to work independently in a fast-paced environment.
+Strong communication skills for close collaboration with data scientists, product managers, and stakeholders.
+Good command of English language (you will be working with the English-speaking team)
+
+Preferred Qualifications
+
+Bachelors or Masters degree in Computer Science, Data Science, or a related field.
+Experience with containerization tools like Docker and orchestration platforms like Kubernetes.
+Knowledge of database systems and data storage solutions.
+Prior experience working with AI ethics and responsible AI frameworks.
+
+This is a unique opportunity to influence the future of data governance
+technology, leveraging AI and machine learning to foster responsible
+innovation and secure data environments.
