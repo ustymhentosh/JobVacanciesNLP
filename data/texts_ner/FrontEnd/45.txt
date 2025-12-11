@@ -1,0 +1,62 @@
+Strong Middle Frontend Developer
+**ПУМБ****is about:**
+
+**Ambitious Projects**
+
+  * Take part in large-scale PUMB projects that help you unlock your potential and gain valuable experience.
+  * We are looking for self-motivated IT-professional with 2+ years of experience in development large-scale projects, create proofs of concept, review a code, explore and improve new technologies. We develop the back-end (java micro services in Docker) and front-end (Angular) for own new online banking ([www.digital.pumb.ua](https://www.digital.pumb.ua)). Also we develop public API for digital banking services. Our development processes are based on Agile/Scrum methodology and use continuous integration and version control system. This is an attractive project with the varieties of technologies, includes information security, etс. Our development processes are based on Scrum methodology and we use modern CI/CD and VCS (gitlab).
+
+**Space for Growth**
+
+  * Discover new horizons to achieve your career and professional goals.
+
+**Reward for Results**
+
+  * Tackle complex and ambitious challenges and receive recognition and fair compensation.
+
+**Learning**
+
+  * Grow among the best and take advantage of an open environment for self-realization.
+
+**Team of Like-Minded People**
+
+  * Join a professional team in a company you’ll be proud of.
+
+Sometimes seeing is believing — [ПУМБ —
+YouTube](https://www.youtube.com/watch?v=SMoKz9uJLV0)
+
+**Your Role in Our Shared Success:**
+
+  * Troubleshooting, finding optimal solutions
+  * Build architecture of project
+  * Development of front chapter engineers
+  * Work with Agile software tools
+
+**Your Background That We’re Looking For:**
+
+  * Possession of Agile methodology experience is required
+  * Solid experience in JavaScript/TypeScript, Angular 2+ framework, Angular material framework
+  * Experience with RxJS and reactive programming
+  * Experience with HTML5, CSS3, Google material design concepts
+  * Experience with RESTful JSON APIs, Web Sockets
+  * Understanding API Management concepts. APIMan, KeyCloak (will be a plus)
+  * Work with Docker, Kubernetes (will be a plus)
+  * JIRA, GIT, Jenkins
+  * Good knowledge of SDLC process (Agile/Scrum)
+  * Excellent problem solving and communication skills
+  * Excellent written and verbal communication skills
+  * Strong sense of self-motivation, organization and strong analytical skills
+
+**Why 7,000 Employees****Have Chosen Us:******
+
+  * Career development and internal training programs that bring new knowledge and growth opportunities every day
+  * A professional and friendly team that supports and inspires, where your ideas matter
+  * Flexible schedule and remote work options to combine efficiency with comfort
+  * Wellbeing support: gym, table tennis, psychological and legal assistance
+  * Participation in the bank’s social projects that make the world better and give meaning to your daily work
+  * A culture of trust and support where mistakes are seen as lessons and successes are celebrated together
+  * Modern tools and technologies to work efficiently and with pleasure
+
+**Together we are building the financial future of Ukraine!**
+
+PUMB on social media: [Facebook](https://robota.ua/redirect?event_name=url_click&redir_token=eyJPcmlnaW5hbFVybCI6Imh0dHBzOi8vd3d3LmZhY2Vib29rLmNvbS9zaGFyZS8xQlBxYWRtZFJLLz9taWJleHRpZD13d1hJZnIiLCJWYWNhbmN5SWQiOjEwMjgzNDE1fQ==) | | [LinkedIn](https://robota.ua/redirect?event_name=url_click&redir_token=eyJPcmlnaW5hbFVybCI6Imh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9jb21wYW55L3B1bWIvIiwiVmFjYW5jeUlkIjoxMDI4MzQxNX0=) |[ Instagram](https://robota.ua/redirect?event_name=url_click&redir_token=eyJPcmlnaW5hbFVybCI6Imh0dHBzOi8vd3d3Lmluc3RhZ3JhbS5jb20vcHVtYi5jYXJlZXI/aWdzaD1Obll3YjJ0eFltOXpOR1kxIiwiVmFjYW5jeUlkIjoxMDI4MzQxNX0=)| [Tiktok](https://robota.ua/redirect?event_name=url_click&redir_token=eyJPcmlnaW5hbFVybCI6Imh0dHBzOi8vd3d3LnRpa3Rvay5jb20vQHB1bWIuY2FyZWVyP190PVpNLTkwODhKdmRISWw2Jl9yPTEiLCJWYWNhbmN5SWQiOjEwMjgzNDE1fQ==)

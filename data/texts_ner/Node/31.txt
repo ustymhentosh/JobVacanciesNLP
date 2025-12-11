@@ -1,0 +1,51 @@
+Middle Fullstack Developer (Node.js and Vue.js/React.js)
+**FAVBET Tech** develops software that is used by millions of players around
+the world for the international company FAVBET Entertainment.  
+We develop innovations in the field of gambling and betting through a complex
+multi-component platform which is capable to withstand enormous loads and
+provide a unique experience for players.  
+**FAVBET Tech** does not organize and conduct gambling on its platform. Its
+main focus is software development.  
+  
+We’re looking for an experienced Node.js Developer to join our team working on
+a large-scale platform that operates across multiple international markets.
+The ideal candidate has strong expertise in backend development, hands-on
+experience with modern JavaScript frameworks (Vue.js, React), and a solid
+understanding of building scalable, high-performance systems.
+
+**Responsibilities**
+
+  * Develop and maintain complex backend services.
+  * Integrate third-party systems and external APIs (payment, gaming, and service providers).
+  * Refactor and rebrand existing platform components to meet new business requirements.
+  * Adapt and optimize the platform for stability and scalability.
+  * Participate in setting up analytics and statistics collection systems.
+  * Debug, monitor, and ensure the reliability of production environments.
+
+**Requirements**
+
+  * At least 2 years of commercial experience with Node.js.
+  * Strong knowledge of async/await, Promises, and asynchronous programming principles.
+  * Solid understanding of HTTP, web, and networking fundamentals.
+  * Experience with Express.js and REST API development.
+  * Experience in frontend development using Vue (Nuxt 2–4) or React.
+  * Proficiency with MySQL, PostgreSQL, and MongoDB.
+  * Experience with Docker, Git, and CI/CD pipelines (GitLab CI).
+  * Understanding of responsive design, browser caching, and CDN principles.
+  * Experience in debugging and maintaining legacy code.
+
+**Would be a plus**
+
+  * Experience with cron jobs and background tasks.
+  * Experience working with RabbitMQ and Socket.io.
+  * Familiarity with Grafana, Postman, Jira, Figma, MS Teams.
+  * Experience working with Bash scripts and console tools.
+  * Experience using macOS as a development environment.
+
+**We offer:**
+
+  * 30 days off — we value rest and recreation.
+  * Medical insurance for employees and the possibility of training employees at the expense of the company, and gym membership.
+  * Remote work or the opportunity — our own modern lofty office with spacious workplace, and brand-new work equipment (near Pochaina metro station).
+  * Flexible work schedule — we expect a full-time commitment, but do not track your working hours.
+  * Flat hierarchy without micromanagement — our doors are open, and all teammates are approachable.

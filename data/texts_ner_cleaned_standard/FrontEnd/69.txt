@@ -1,0 +1,58 @@
+Senior Angular Developer [USA project]
+We’re looking for a Senior Angular Developer to join our team for a project
+from the USA — a B2B SaaS platform that provides insights into work processes
+and productivity. The solution helps companies optimize workflows and support
+hybrid work through data-driven analytics.
+
+Requirements:
+5+ years of experience in front-end development.
+2+ years of experience with modern front-end frameworks (e.g., Angular,
+React, or similar).
+Proven experience with building web interfaces using HTML and CSS.
+Strong proficiency in JavaScript and TypeScript.
+Solid understanding of software design, architecture, and development best
+practices.
+Team-oriented mindset with strong collaboration and communication skills.
+Upper-intermediate or higher level of English.
+
+Nice to have:
+Understanding of web technologies and REST APIs.
+Experience with testing (unit, integration, e2e).
+Familiarity with UI/component libraries.
+
+Responsibilities:
+Build efficient, maintainable, and reliable front-end solutions.
+Develop UI components and services that integrate seamlessly with back-end
+systems and external APIs.
+Monitor, optimize, and maintain front-end performance and stability in
+production.
+Implement automated tests to ensure code quality and application
+reliability.
+Document front-end architecture, components, and workflows.
+Participate in code reviews, providing and incorporating constructive
+feedback.
+Collaborate with design, product, and engineering teams to ensure smooth
+user experiences and technically sound solutions.
+Support team growth by contributing to the evaluation of potential front-end
+hires.
+
+Interview stages:
+HR interview (30 minutes).
+Technical interview (1 hour).
+Interview with the customer (1 hour).
+Job offer🎉🎉🎉
+
+We offer:
+Competitive salary.
+Challenging tasks and projects.
+Opportunities for professional development and growth.
+Flexible working hours.
+New hardware.
+Free English lessons.
+Table tennis and yoga classes.
+Availability of generators and Starlinks in the office.
+Small gym in the office.
+Adjustable height tables.
+Regular office fruit delivery and other benefits.
+
+Let’s create value together!

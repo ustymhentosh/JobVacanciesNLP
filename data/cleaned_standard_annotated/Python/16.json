@@ -1,0 +1,56 @@
+{
+  "filename": "Python/16.txt",
+  "text": "General Software Test Engineer (Python)\nWe’re seeking a skilled and enthusiastic General Software Test Engineer to\njoin Materialise. In this role, you’ll be part of a team of passionate\nprofessionals dedicated to making a difference in the world of medical\ninnovation.\n\nWhat you will do\n\nDefine, design, and write test scenarios and test plans based on acceptance criteria\nPerform manual regression testing.\nCreate automated tests for an industry-standard 3D medical image segmentation software: Mimics Core.\nRegister bugs and verify resolved bugs.\nCreate and maintain test documentation in accordance with established procedures.\nPerform early checks for stories being implemented.\nWrite test plans and test case views.\nConduct regression testing.\n\nYour profile\n\nExperience with the Python unittest library.\nEnglish language proficiency (at least B2 level, ability to communicate with\ncolleagues in a multinational environment).\n\nAt least 2 years of hands-on experience in testing desktop or web products.\n\nStrong understanding of test scenarios and test plan development.\nProficient in manual testing and automated test creation.\nAble to create and maintain test documentation.\nProactive in performing early checks for stories being implemented.\n\nWill be a plus\n\nDegree in engineering, math, physics, or similar.\nExperience working with complex desktop toolbox products.\nExperience in manual testing of web products or automation testing of desktop products.\nFamiliarity with Azure DevOps tools (Azure Test Plans, Azure Boards) or similar.\nExperience with Team Foundation Server (Test Management) or similar.",
+  "entities": [
+    [
+      0,
+      30,
+      "ROLE"
+    ],
+    [
+      32,
+      38,
+      "SKILL_HARD"
+    ],
+    [
+      81,
+      111,
+      "ROLE"
+    ],
+    [
+      120,
+      131,
+      "COMPANY_NAME"
+    ],
+    [
+      496,
+      507,
+      "SKILL_HARD"
+    ],
+    [
+      784,
+      790,
+      "SKILL_HARD"
+    ],
+    [
+      848,
+      856,
+      "ENGLISH_LEVEL"
+    ],
+    [
+      931,
+      947,
+      "EXPERIENCE_YEARS"
+    ],
+    [
+      1516,
+      1528,
+      "SKILL_HARD"
+    ],
+    [
+      1558,
+      1580,
+      "SKILL_HARD"
+    ]
+  ]
+}

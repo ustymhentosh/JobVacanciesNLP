@@ -1,0 +1,47 @@
+CNF Deployment Engineer
+Your Project
+
+We are looking for a skilled CNF Deployment Engineer with strong experience in
+deploying Cloud-Native Functions (CNFs) on Kubernetes and OpenShift Container
+Platform (OCP) clusters. The ideal candidate will have a deep understanding of
+containerized environments, Linux operating systems, and network functions
+virtualization (NFV).
+You will be responsible for managing, deploying, and troubleshooting CNF
+workloads on cloud infrastructure, ensuring optimal performance, scalability,
+and security.
+Your Role
+
+Deploy and manage Cloud-Native Functions (CNF) on Kubernetes and OpenShift (OCP) clusters.
+Ensure high availability and scalability of CNF applications using Kubernetes features such as Horizontal Pod Autoscaling (HPA), Cluster Autoscaler, and Load Balancers.
+Optimize CNF deployments for performance and resource usage, including defining resource requests/limits and configuring pod autoscaling strategies.
+Monitor and maintain the health and performance of CNF deployments using tools like Prometheus, Grafana, Elasticsearch, or similar.
+Troubleshoot and resolve issues with CNF deployments in production and pre-production environments, identifying and addressing problems related to networking, storage, load balancing, and security.
+Collaborate with DevOps, Infrastructure, and Security teams to ensure smooth deployment and operation of CNF workloads.
+Implement best practices for security, resource management, and configuration of CNF deployments.
+Ensure that CNF applications meet security requirements, including handling secrets, RBAC (Role-Based Access Control), and vulnerability scanning.
+Act as a self-motivated problem solver with the ability to work independently and proactively address challenges.
+Maintain documentation and share knowledge related to CNF deployment processes, troubleshooting guides, and best practices.
+Handle SSL certificate management, including generation, renewal, and troubleshooting for secure communication in CNF deployments.
+Configure and manage OpenShift routes, Kubernetes Ingress controllers, and related networking components for traffic routing to CNF applications
+Your Profile
+
+3+ years of hands-on experience working with Kubernetes and OpenShift (OCP) clusters.
+Proficiency in Linux Operating Systems (Red Hat, CentOS, Ubuntu, etc.).
+Experience with containerization technologies such as Docker.
+Strong knowledge of network functions virtualization (NFV) and cloud-native design patterns.
+Experience with CI/CD tools (Jenkins, GitLab CI, etc.) for automating deployments.
+Proficient in Helm and other Kubernetes deployment management tools.
+Experience in package management — image and chart repositories like Nexus, Harbor, etc.
+Experience in managing SSL certificates, OpenShift Routes, and Ingress controllers.
+Familiarity with Kubernetes networking (CNI), service meshes, and related technologies (e.g., Istio, Calico).
+Hands-on experience with Prometheus, Grafana, or other monitoring tools.
+Strong understanding of Kubernetes Operators, custom resource definitions (CRDs), and Kubernetes security features (e.g., RBAC, secrets management).
+Familiarity with networking concepts (VLANs, TCP/IP, DNS, Load Balancing, etc.).
+Experience with Shell scripting, Python, or other scripting languages.
+Excellent troubleshooting skills, with the ability to resolve complex issues in live production environments.
+
+Preferred Qualifications:
+
+Experience with Telco CNF deployments in a production environment.
+Knowledge of OpenShift Operators and advanced features of OCP.
+Certifications such as Certified Kubernetes Administrator (CKA), Red Hat Certified Specialist in OpenShift Administration, or equivalent.

@@ -1,0 +1,78 @@
+Senior PHP Developer (remote)
+Were looking for a Senior PHP Developer (remote) to join our in-house
+software development team. As part of a cross-functional team, youll
+participate in developing scalable backend solutions and implementing new
+features that directly impact performance, security, and user experience.
+
+If you`re interested in it, read more!
+
+Who are we?
+
+Centro holding is an international product development company. Our team
+has over 15 years of expertise in web development, commercial design,
+affiliate, and online marketing.
+
+Our offices are located in the USA, Canada, Cyprus, Ukraine, Poland and
+Georgia, etc.
+
+About the project: CentroBill is an information technology company that
+empowers global merchants to accept payments through debit cards, credit
+cards, and alternative payment methods. We offer seamless integration with a
+variety of Credit Card Acquirers, Payment Service Providers, and Alternative
+Payment Methods through a unified API. At CentroBill, we are committed to
+providing seamless payment solutions to businesses worldwide. Our innovative
+technology and dedicated team help us stay at the forefront of the payment
+industry.
+
+What youll be working on
+
+Collaborate with cross-functional teams to define and implement innovative solutions that meet business requirements.
+Write clean, efficient, and maintainable code, following best practices for performance, security, and scalability.
+Participate in code reviews to ensure code quality and adherence to coding standards.
+Troubleshoot, diagnose, and resolve complex technical issues in a timely manner.
+Optimize existing systems and services for performance, stability, and maintainability.
+Keep up-to-date with the latest industry trends, technologies, and best practices in backend development.
+Work independently, managing your own tasks and priorities, while effectively communicating progress and any blockers to the team.
+
+About you preferred requirements for this role
+
+4 years work experience as a PHP developer;
+Strong knowledge of PHP 8.1+ and modern language features (typed properties, attributes, enums, etc.);
+Experience with one or more PHP frameworks: Laravel (preferred) or Symfony;
+Solid understanding of OOP principles, SOLID, DRY, KISS;
+Ability to design and build RESTful;
+Proficient with relational databases (MySQL/PostgreSQL), including indexing and query optimization;
+Proficient with NoSQL databases (ElasticSearch, etc);
+Experience with queue systems (e.g., RabbitMQ, SQS)
+Confident use of Git, Composer, and Docker in daily workflow;
+Familiarity with automated testing tools (PHPUnit, etc.);
+Experience working with version control and CI/CD pipelines;
+Comfortable working in Agile/Scrum teams.
+
+Nice to have:
+
+Experience with microservices architecture;
+Background in building or maintaining high-load systems;
+Skills in profiling and performance optimization of PHP code;
+Understanding of DevOps workflows: Docker Compose, Kubernetes, CI/CD (GitHub Actions, GitLab CI, etc.);
+Experience integrating external APIs, payment gateways, etc
+
+What We Value (Beyond Tech Skills):
+
+Ability to work independently and take ownership of features or components;
+Strong communication skills and willingness to participate in architectural discussions;
+Commitment to clean code and part in code review;
+Attention to detail and a proactive attitude toward identifying and mitigating technical risks.
+
+Why work with us?
+
+Stable work with flexible working hours and hybrid work options;
+Work on a cool project that provides an opportunity for self-realization and learning;
+Paid vacation days, sick days and personal days;
+50% paid English lessons courses;
+Medical insurance program;
+Friendly team, minimum bureaucracy and pleasant working atmosphere;
+Opportunities for career growth and development;
+Collaborative and inclusive work environment.
+
+We look forward to receiving your application!

@@ -1,0 +1,48 @@
+Senior Java Backend Developer
+Our Telematics Team builds the backend that communicates with telematics
+hardware — OEM and third-party platforms. We enable interconnection with tens
+of thousands of vehicles across our rental, car-sharing, and subscription
+businesses. Our mission is to create secure, stable, and highly available
+software. We prioritize scalability and clean architecture. Our team culture
+values transparent communication, collaboration, and continuous improvement.
+
+### In this role you will
+
+  * Design and implement end-to-end scalable data intensive applications
+  * Build complex integrations with external as well as internal systems
+  * Align/specify integration with other development teams
+  * Write clean, maintainable code backed by full test coverage
+  * Perform Regular code reviews and write technical documentation
+  * Follow by principle “You build it, you run it”
+  * Critically analyze and clarify requirements with Product Owner, Business stakeholders
+
+### Required Skills
+
+  * University degree in Computer Science or a similar discipline
+  * 7+ years of experience with advanced Java backend development
+  * Hands-on experience with Spring Boot and cloud native applications
+  * Experience designing and implementing gRPC and REST APIs
+  * Extensive experience building event-driven Microservices with Kafka
+  * Strong SQL knowledge, experience with PostgreSQL
+  * Comfortable with Kubernetes and Terraform as well as observability tools such as Grafana, Prometheus
+  * Knowledge of any testing frameworks such as AssertJ, JUnit, Mockito, Testcontainers, Wiremock, Spring Cloud Contracts
+  * Excellent communication skills and can collaborate effectively with diverse teams across geo-locations with fluent English
+
+### Nice to Have
+
+  * Previous experience building data intensive applications
+  * IoT, MQTT, Device integrations
+  * AWS cloud platform
+  * Performance testing and optimizations techniques with caching, profiling and tools such as K6, JMeter
+  * Security and authentication OAuth2, JWT, Keycloak
+
+### What we offer
+
+  * High salary (settlement to euro)
+  * Full time employment as internal employee of Sixt TECH Ukraine
+  * People-oriented management without bureaucracy
+  * A challenging job where you can learn and grow
+  * Paid vacation — 25 calendar days
+  * Educational budget
+  * Medical insurance and paid sick leaves
+  * Both, gym and foreign language study

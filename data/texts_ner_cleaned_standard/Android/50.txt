@@ -1,0 +1,71 @@
+Lead Kotlin Multiplatform Developer (#4164)
+N-iX is a global software development service company that helps businesses
+across the globe create next-generation software products. Founded in 2002, we
+unite 2,400+ tech-savvy professionals across 40+ countries, working on
+impactful projects for industry leaders and Fortune 500 companies. Our
+expertise spans cloud, data, AI/ML, embedded software, IoT, and more, driving
+digital transformation across finance, manufacturing, telecom, healthcare, and
+other industries. Join N-iX and become part of a team where your ideas make a
+real impact.
+About the Client
+
+Our customer is a leading provider of onboard retail technology and mobile
+solutions for the travel and retail industries. The company designs and builds
+digital products that transform how airlines, trains, and retailers manage in-
+motion sales, inventory, and customer experiences. We are forming a dedicated
+Kotlin Multiplatform (KMP) team to build a new cross-platform mobile
+application from the ground up — one codebase, two native experiences: iOS and
+Android.
+
+You’ll lead a small, highly capable Scrum team (engineers, QA, designer),
+collaborate closely with backend and product teams, and establish technical
+excellence in the mobile domain.
+Responsibilities
+
+Own the architecture and technical roadmap for a new Kotlin Multiplatform (KMP) mobile product that powers both iOS and Android.
+Estimate MVP development and other product phases.
+Define clean, modular architecture using modern patterns (Clean Architecture / MVI / MVVM / modularization).
+Lead and mentor a small cross-functional mobile team; perform code reviews and ensure adherence to best practices.
+Design and implement shared business logic and platform-specific layers, ensuring native UX and optimal performance.
+Make key technical decisions on frameworks, libraries, CI/CD tools, and delivery processes.
+Drive cross-platform UI strategy (Compose Multiplatform, Jetpack Compose, SwiftUI integration).
+Collaborate with backend engineers to define efficient API contracts (REST / GraphQL).
+Establish and maintain automated build, testing, and release pipelines for Android and iOS.
+Ensure robust app security, observability, and performance monitoring across both platforms.
+Promote engineering excellence: documentation, testing culture, DevOps alignment, and continuous improvement.
+Act as a technical liaison between product management and engineering, translating business goals into scalable mobile solutions.
+Must-Have Skills
+
+7+ years of experience in mobile app development, with at least 3 years in Kotlin Multiplatform (KMP)
+Experience in high-level product estimation and roadmap development.
+Proven record of delivering production-grade mobile applications for both iOS and Android using KMP.
+Deep understanding of Kotlin (coroutines, flows, multiplatform libraries, shared data models, serialization).
+Expertise in Android (Jetpack Compose) and iOS (Swift/SwiftUI) with a strong grasp of platform internals and performance tuning.
+Experience with device-to-device communication protocols, especially Bluetooth/BLE.
+Strong architectural mindset — experienced in designing scalable, testable, modular architectures.
+Proficiency with Ktor Client, SQLDelight, or similar for data and networking layers.
+Experience in offline-first architectures, synchronization logic, and push notifications.
+Hands-on experience building CI/CD pipelines (GitHub Actions, Bitrise, Fastlane, Jenkins) and managing app releases (Play Store, App Store).
+Solid understanding of security, performance, and offline-first mobile patterns.
+Demonstrated ability to lead teams, perform technical reviews, and mentor developers.
+Excellent communication and collaboration skills; comfortable working with international teams.
+Knowledge of observability stacks (Crashlytics, Firebase, Sentry).
+Professional fluency in English.
+Available for business trips to the customer side
+Would be a plus
+
+Experience of mesh networking protocols and device-to-device communication.
+
+We offer:*
+
+Flexible working format — remote, office-based or flexible
+A competitive salary and good compensation package
+Personalized career growth
+Professional development tools (mentorship program, tech talks and trainings, centers of excellence, and more)
+Active tech communities with regular knowledge sharing
+Education reimbursement
+Memorable anniversary presents
+Corporate events and team buildings
+Other location-specific benefits
+
+*not applicable for freelancers

@@ -1,0 +1,46 @@
+System Operations Engineer (SysOps)
+Erbis is a thriving tech powerhouse where innovation meets opportunity. We
+specialize in building cutting-edge software solutions that drive success for
+businesses worldwide. At Erbis, we don’t just develop software. We create
+impact. And to do that, we need the best talent in the industry. That’s where
+you come in.
+
+### **Our environment:**
+
+SaaS, Amazon Web Services (EC2, VPC, RDS, RedShift, S3, EFS, Route 53,
+CloudWatch, SNS, Lambda, API Gateway, CloudFront, EKS, SES, etc.), Linux,
+Docker, Nginx, DataDog, Zabbix, Teamcity, Gitlab, ELK, ElastAlert, Terraform,
+Ansible, Java, WildFly, Keycloak, Maven / Gradle, Oracle & Postgres databases.
+
+### **Mandatory skills:**
+
+  * 1+ years of experience administering Linux servers
+  * Basic understanding of networking concepts and key TCP/IP protocols
+  * Shell scripting
+  * High attention to details and responsibility
+  * Basic spoken and written English
+  * BS in Computer Science, Information Technology, Information Security or similar field
+
+### **Considered a plus:**
+
+  * Hands-on experience with AWS
+  * Strong UNIX/Linux system administration experience and proven ability to manage and support production infrastructure.
+  * Experience with Configuration Management and IaC tools such as Terraform and Ansible, or similar alternatives.
+  * Experience with monitoring and observability tools
+  * Quality/DevOps/Automation mindset, SaaS, SOA
+
+### **Responsibilities:**
+
+  * AWS administration
+  * Maintaining build and deploy pipelines
+  * Provide support during production deployments
+  * Linux administration and troubleshooting
+  * Respond to alerts and incidents
+  * Other IT services operational support
+  * Limited on-calls: each shift lasts 2 weeks, with working hours from 10:00 to 22:00 (EET/EEST); monthly production release on a Saturday
+
+### **Our perks and benefits:**
+
+  * Paid Vacation days: 24 working days
+  * Paid Sick days: 15 working days
+  * The opportunity to dedicate up to 10% of working hours for self-education and personal development

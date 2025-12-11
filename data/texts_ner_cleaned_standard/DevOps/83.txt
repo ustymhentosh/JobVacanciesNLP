@@ -1,0 +1,58 @@
+Middle Windows DevOps Engineer
+Kozak Group is an international IT company founded in 2015. We specialize
+in eCommerce and web development , delivering complex technology solutions
+for clients worldwide.
+
+Our stack includes Laravel, Magento, Node.js, React, AWS, Azure, Python,
+Kotlin, ML/AI , and other modern technologies.
+
+We combine a service mindset with product thinking , allowing our
+engineers to participate in building scalable systems — from architecture to
+automation and deployment.
+
+At Kozak Group, we value initiative, code quality, teamwork, and
+professional growth.
+
+Responsibilities
+
+Manage and automate deployment, scaling, and monitoring of Windows-based infrastructure and applications.
+Implement and maintain CI/CD pipelines for .NET and other Windows applications (e.g., using Azure DevOps, Jenkins, or GitHub Actions).
+Configure and maintain Windows Servers, IIS web servers, and related services (DNS, etc.).
+Automate operational processes using PowerShell, Python, or other scripting tools.
+Implement and maintain Infrastructure as Code (IaC) using Terraform, Ansible, or Azure ARM templates.
+Monitor system health and performance using tools such as Prometheus, Grafana, Zabbix, or native Azure Monitor.
+Ensure system security, compliance, and patch management.
+Collaborate with development, QA, and operations teams to ensure efficient software delivery and system reliability.
+
+Operating Systems & Infrastructure
+
+Strong experience with Windows Server 2016+ administration.
+Understanding of networking fundamentals (routing, VPN, firewalls, load balancing).
+
+CI/CD & Automation
+
+Experience with Azure DevOps, Jenkins, or GitHub Actions.
+Experience writing PowerShell scripts for automation and maintenance.
+Familiarity with Terraform, Ansible, or ARM templates for IaC.
+
+Cloud & Virtualization
+
+Experience deploying and managing workloads in Azure (preferred).
+Knowledge of VM management.
+
+Monitoring & Logging
+
+Experience with tools like Azure Monitor, Grafana, ELK Stack, or Zabbix.
+Understanding of log management, alerting, and incident response.
+
+Security
+
+Knowledge of Windows security best practices and certificate management.
+
+💬 Why join Kozak Group
+
+Join a team that values expertise, freedom of decision-making, and a human
+approach to collaboration. We work on challenging international projects
+that encourage innovation and continuous learning.
+
+📩 Send your CV — we’d be happy to get to know you!

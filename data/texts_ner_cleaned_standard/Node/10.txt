@@ -1,0 +1,85 @@
+Back-end Tech Lead
+About us:
+Devlight specializes in world-class mobile application development. In fact,
+there’s an 80% chance that one of our apps is on your smartphone right now.
+For over 8 years, we’ve driven digital transformation for Forbes Top 100
+companies. With 35 million app installs and over 120 successful projects,
+we’re proud to be the trusted partner of brands like Nova Poshta, Fishka,
+Ukrnafta, Sense Bank, Varus, Novus, Avrora, and many more.
+
+About the role:
+
+We are looking for a skilled Back-end Tech Lead to join our team. The ideal
+candidate will have strong experience in back-end development, leadership
+skills, and a proven track record of delivering scalable and efficient
+solutions. Responsibilities include overseeing the technical aspects of
+projects, mentoring team members, ensuring code quality, and collaborating
+with cross-functional teams to achieve our product goals. We value innovation,
+problem-solving abilities, and a proactive approach to technical challenges.
+
+Your future responsibilities:
+
+Leadership & Team Management
+
+Lead and manage a team of 6 Back-end Engineers with plans to scale to 10 within the next year
+Hire and assess talent to build a high-performing engineering team
+Foster career development through mentoring and coaching of engineers
+
+Technical Leadership & Architecture
+
+Drive discovery involvement, solution architecture, and system design initiatives
+Support architectural decisions and maintain code quality standards across projects
+Establish and enforce technical standards and best practices
+
+Engineering Excellence
+
+Conduct code reviews and define code review standards
+Oversee project supervision and estimation
+Make strategic tooling decisions to enhance development efficiency
+Champion AI Code Generation adoption across the team
+
+Collaboration & Process Improvement
+
+Improve developer experience and enable cross-functional collaboration
+Ensure alignment between technical execution and business objectives
+
+Your professional qualities:
+
+General
+
+7+ years of backend software engineering experience
+2+ years in an engineering leadership or team lead role, managing at least 3-5 engineers
+Proven track record of scaling engineering teams and processes
+Experience with hiring, performance management, and career development
+
+Technical Expertise
+
+Strong proficiency in Node.js/TypeScript and NestJS framework
+Deep knowledge of PostgreSQL (query optimization, indexing, database design)
+Hands-on experience with Redis (caching strategies, pub/sub, data structures)
+Solid understanding of RESTful APIs, microservices architecture, and distributed systems
+Experience with system design, solution architecture, and technical decision-making
+Proficiency in code review practices and maintaining code quality standards
+Experience with AI-powered development tools (Claude Code, Cursor, etc.)
+
+Leadership & Communication
+
+Demonstrated ability to establish and enforce technical standards and best practices
+Strong mentoring and coaching skills with a focus on team growth
+Experience with project estimation and technical planning
+Excellent cross-functional collaboration skills (Product, Design, DevOps, Frontend)
+Ability to balance technical debt with feature delivery
+
+What we offer for your success:
+
+Full remote or hybrid work format.
+Paid Time Off, sick days, medical insurance, regular reward evaluations, and accounting support.
+Corporate English lessons, reimbursement for training courses, and compensation for the use of personal equipment.
+IT Club Loyalty Card.
+Work with an open-minded team that welcomes your new ideas, alongside the best specialists who love sharing their experience.
+Get the chance to connect with top companies and contribute to the growth of the Ukrainian IT community together.
+
+Our recruitment process:
+Recruiter interview ✅ Technical interview ✅ Reference check ✅ Offer ✅
+Ready to become a part of Devlight? Go ahead and send us your CV. We’ll be
+thrilled to welcome you to the team!

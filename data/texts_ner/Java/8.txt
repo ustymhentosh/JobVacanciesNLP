@@ -1,0 +1,53 @@
+Senior Java Software Engineer (with DevOps skills) (#3845)
+The client is looking for a **Senior Java Software Engineer** to accelerate
+product development and get more done for the overall roadmap for their
+flagship workforce management offering _HotSchedules Labor._ Currently, the
+team is international with Engineers and QA Engineers from Ukraine, Latin
+America, and the US. This will be a perfect opportunity to master your English
+language skills, as many meetings are conducted in English. Most developers in
+the team are full-stack developers, although the backlog is heavier on backend
+tasks, hence some experience in front-end development (ReactJS) will be
+needed.
+
+Tech stack — Java 11/17, Spring: Databases: MS SQL, DynamoDB, clouds — Azure
+and AWS.
+
+### Requirements:
+
+  * Strong expertise in Java 11; exposure to Java 17 or newer versions is a plus
+  * Hands-on experience with the Spring framework
+  * Familiarity with cloud platforms such as AWS or Azure is a bonus
+  * Solid understanding of Kubernetes and Terraform 
+  * Experience in deploying and managing infrastructure, including serverless solutions and Kubernetes services
+  * Strong ability to diagnose and resolve infrastructure issues is highly desirable
+  * Familiarity and readiness to work with a range of AI tools are expected 
+  * English language skills at an upper-intermediate level or higher
+  * Ukrainian — Advanced or higher
+
+### Would be a plus:
+
+  * Solid understanding of JavaScript, HTML, and CSS
+  * Practical experience working with ReactJS 
+
+### Responsibilities:
+
+  * Develop new features from the product backlog
+  * Develop REST services to support high-volume, low-latency web and mobile apps
+  * Design and implement DB schema to allow new functionality
+  * Maintain existing codebase
+  * Collaborate with the team to set technical standards and share best practices.
+  * Build high-quality solutions
+
+**We offer*:**
+
+  * Flexible working format — remote, office-based or flexible
+  * A competitive salary and good compensation package
+  * Personalized career growth
+  * Professional development tools (mentorship program, tech talks and trainings, centers of excellence, and more)
+  * Active tech communities with regular knowledge sharing
+  * Education reimbursement
+  * Memorable anniversary presents
+  * Corporate events and team buildings
+  * Other location-specific benefits
+
+*not applicable for freelancers

@@ -1,0 +1,66 @@
+{
+  "filename": "ML/37.txt",
+  "text": "Computer Vision Engineer\nWe are looking for a Computer Vision Engineer with an expertise in low-level\nCV algorithms.\n\nRequired Qualifications:\n\n5+ years of experience in computer vision\nExpert-level proficiency in Python\nKnowledge of C++\nExtensive experience in DL and PyTorch framework for CV stacks\nUnderstanding of geometrical computer vision principles\nModel optimization: quantization, pruning, nn compilers\nHands-on experience in implementing low-level CV algorithms\n\nNice to Have:\n\nExperience with DL on edge devices\nExperience with SLAM and/or Visual-Inertial Odometry (VIO)\nExperience with sensor fusion (IMU, magnetometer, GNSS, camera)\nFamiliarity with Kalman filters",
+  "entities": [
+    [
+      0,
+      24,
+      "ROLE"
+    ],
+    [
+      46,
+      70,
+      "ROLE"
+    ],
+    [
+      144,
+      152,
+      "EXPERIENCE_YEARS"
+    ],
+    [
+      214,
+      220,
+      "SKILL_HARD"
+    ],
+    [
+      262,
+      264,
+      "SKILL_HARD"
+    ],
+    [
+      269,
+      276,
+      "SKILL_HARD"
+    ],
+    [
+      377,
+      389,
+      "SKILL_HARD"
+    ],
+    [
+      391,
+      398,
+      "SKILL_HARD"
+    ],
+    [
+      400,
+      412,
+      "SKILL_HARD"
+    ],
+    [
+      505,
+      507,
+      "SKILL_HARD"
+    ],
+    [
+      540,
+      544,
+      "SKILL_HARD"
+    ],
+    [
+      664,
+      678,
+      "SKILL_HARD"
+    ]
+  ]
+}

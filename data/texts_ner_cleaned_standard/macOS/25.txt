@@ -1,0 +1,58 @@
+iOS Developer
+Хочете працювати в дружній та творчій атмосфері, зростати як професіонал та
+розвивати нові навички?
+
+Запрошуємо стати частиноюVRG Soft — це команда, в якій всі готові
+допомогти один одному, а на думку кожного співробітника завжди зважають.
+
+Ми у пошуку iOS Developer’а , який буде відкритий до нових досягнень,
+готовий професійно і креативно підходити до поставлених завдань.
+
+Просимо звернути увагу, що вакансія у м.Дніпро, тільки офіс.
+
+Необхідні навички:
+Experience in developing IOS applications for at least 1 year.
+Knowledge OOP, Cocoa, IOS SDK.
+Advanced Knowledge Swift.
+Availability of completed projects on Swift.
+Knowledge of technologies: GCD, CoreData, UIKit, SwiftUI, Alamofire,
+Firebase.
+Understanding the navigation of UIViewController displays.
+Understanding of building UI using Autolayout UIKit, SwiftUI.
+Knowledge of architectural patterns MVP, MVVM, VIPER.
+Knowledge of Git and Git flow.
+Technical English.
+
+Буде плюсом:
+Ability to work with SPM, Сocoapods.
+Working with Git through Sourcetree.
+
+Пропонуємо:
+Exiting and long-term business projects.
+Strong mentor.
+Friendly atmosphere.
+Flexible schedule.
+Unlimited visit to the gym.
+Payment for the in-office English language courses.
+Corporate parties and various professional events with the team.
+Opportunity for professional growth and competitive financial reward.
+Good office location with a beautiful view of the city.
+Free parking.
+
+Обов’язки:
+Develop mobile applications for iOS.
+Interact with team members on the project.
+Study new technologies, adapt to changing trends.
+
+Про проєкт:
+Do you want to work in a friendly and creative atmosphere?Interesting tasks
+and constant development do not allow you to sit?
+So, YOU are ready to join US !!
+Our slogan: Developing yourself — developing our company!
+We are united by strong common values. We invite a Person who will share with
+us a love for his work and a positive attitude. Our team is always ready to
+help, the opinion of the employee is always important!
+If all of the above is about you, we are ready to start a dialogue and tell
+you a lot more!!!
+Our e-mail: [[email protected]](/cdn-cgi/l/email-
+protection#c7afb587b1b5a0b4a8a1b3e9a9a2b3)

@@ -1,0 +1,53 @@
+PHP Developer (Symfony)
+We are [Bahnhof.se](http://bahnhof.se/), one of the biggest internet service
+providers in Sweden and beyond. Not only that, we provide much more to our
+customers: VPN, IP Telephony, Cloud services etc.
+
+We are hiring a new developer who will extend and enrich our team with skills
+and knowledge.
+
+Your responsibilities would include:
+
+  * maintaining and developing new internal systems (micro and medium-scaled backends with HTTP APIs and CLI services) which drive our marketing and delivery processes. This includes implementing new features, fixing bugs, as well as refactoring your and other’s code, upgrading PHP version and libraries.
+  * being involved into the internal design discussions with our team and code reviews;
+  * communicating with our Swedish colleagues directly;
+
+As we have a number of services, which are generally powered by PHP 8.2 and
+8.4 and Symfony 6.x / 7.x. Some of them might use older PHP version and other
+lightweight frameworks like Slim. Some other parts of our system are written
+in Python. We work in Agile, Kanban-like fashion.
+
+**Our requirements (MUST have):**
+
+  * 3+ years of experience as a PHP developer;
+  * basic understanding of how the Internet works;
+  * being able to write and understand PHP 8.2, 8.4 code, formatted according to PSR-12 or PER Coding Style;
+  * knowing basic SQL (we mainly use MariaDB 11.x);
+  * familiarity with the Symfony framework (version 6.x+);
+  * knowing caveats of older PHP versions (8.0, 7.4, 7.2, 5.6). We have lots of projects, so occasionally you might have to interact with older code, but it’s rare;
+  * knowing how to use the Composer package manager;
+  * experience at writing tests with PHPUnit;
+  * basic Git skills: cloning, pulling, pushing (including —force), committing your work and the interactive rebase;
+  * a habit of keeping your code clean and readable;
+  * constant self-improvement: that consists of reading articles, books, viewing videos and/or attending or viewing conferences on architecture in general or PHP in particular and trying out stuff outside of direct work assignments;
+  * English proficiency at least at B1 level for both written and spoken conversations;
+  * basic Linux command line skills.
+
+**Will be a PLUS:**
+
+  * Python knowledge is a huge plus;
+  * English proficiency at B2 level or above;
+  * basic Docker and/or Kubernetes knowledge;
+  * knowledge and experience in practical usage of the PSR and PER standards (like PSR-7 and PSR-18);
+  * async communication patterns between services (as opposed to synchronous communication via HTTP APIs);
+  * following Domain-Driven Design principles like Ubiquitous Language, Bounded Contexts, ability to communicate well with people of the business knowledge;
+  * ability to understand or set up GitLab pipelines;
+  * active usage of the static analysis, code style and other QA tools like Psalm, PHP Code Sniffer etc;
+  * having some experience with Slim framework and/or writing HTTP APIs from scratch using PSR middlewares;
+  * ability to perform simple tasks on frontend using Vue.js and Webpack experience. On some older services there may be jQuery. But don’t worry, in general we have frontenders for that;
+  * some knowledge of related technologies, like RabbitMQ, NATS, Redis; PHP-FPM and Nginx / Apache;
+  * experience in the Test-Driven Development and other related practices like BDD;
+  * understanding design patterns and architectural principles like SOLID, Hexagonal Architecture (Ports&Adapters) or Vertical Slice Architecture;
+  * open source contributions;
+
+Please indicate your salary expectations in response to the vacancy.

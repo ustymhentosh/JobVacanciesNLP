@@ -1,0 +1,63 @@
+Senior Full Stack (.NET+React) Engineer
+**About the Company**  
+Digis is a European IT company with 200+ specialists delivering high-load SaaS
+platforms, enterprise solutions, and cloud-native products for clients
+worldwide. We build long-term engineering teams and ensure transparency,
+stability, and professional growth for every talent.
+
+**About the Client & Project**  
+You will join a leading global partner for luxury hotel brands, helping them
+grow direct bookings through high-performing websites, bespoke booking
+engines, and data-driven conversion strategies. Head office — Ireland.
+
+The project combines **strategy, technology, and service** to deliver
+measurable results for 5-star hospitality brands across the world. You will
+work on both **new booking engine development from scratch** and **gradual
+modernization of a legacy .NET system**.
+
+### **Tech Stack**
+
+**Backend:** ASP.NET 4.7/4.8, .NET Core, C#, SQL Server 2022, RabbitMQ  
+**Frontend:** React, JavaScript, HTML/CSS  
+**Cloud & Tools:** Azure, Terraform, Redis, CI/CD, Observability tools
+
+### **Responsibilities**
+
+  * Own solution architecture for the booking engine and related backend services
+  * Split the monolith into multiple API services and modernize legacy modules
+  * Build new features end-to-end, from discovery to deployment
+  * Collaborate with PM, CTO, and engineering team on technical decisions
+  * Ensure high performance, reliability, and scalability for hotel booking flows
+  * Contribute to CI/CD improvements and observability standards
+  * Participate in backlog refinement, estimations, and code reviews
+
+### **Requirements**
+
+  * **5+ years** of experience with **.NET (ASP.NET / .NET Core)**
+  * **2+ years** with **React**
+  * **2+ years** with **Azure**
+  * English level: **sufficient for technical interviews and daily communication**
+
+### **Team & Process**
+
+  *   
+
+    * Team: PM, Scrum Master, BE engineers, FE engineer, FS engineer, CTO 
+    * Methodology: **Scrum**
+    * Direct reporting to **CTO and Scrum Master  
+**
+
+### **Why this project is exciting**
+
+  *   
+
+    * Work with prestigious **luxury hotel brands worldwide**
+    * Full ownership over core booking engine modules, not just ticket fixing
+    * Define architecture, split monolith into services, implement CI/CD and observability
+    * Influence cloud decisions (Azure) and modern stack evolution
+    * Stable long-term roadmap, no rush-chaos environments
+    * Strong engineering culture with code reviews, best practices, and autonomy  
+  
+
+If this role sounds like a good fit, **apply with your CV and please specify
+how many years of experience you have with React and with Azure.**

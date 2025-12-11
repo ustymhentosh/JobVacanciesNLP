@@ -1,0 +1,27 @@
+Middle DevOps engineer — Tietoevry Create (m/f/d)
+Tietoevry Create Ukraine is inviting a talented professional to join our team
+as a **Middle DevOps Engineer.**
+
+We are looking for an experienced and responsible DevOps Engineer who is
+willing to join our expert team dealing with the market-leading data center IT
+management systems. Corresponding products are being deployed in each German
+automotive manufacturer’s IT ecosystem. Our customer is a mature 25-year-old
+software product company which is always reinforced by the latest
+technologies, methodologies, and architectural patterns according to the best
+consulting companies’ advice. The successful applicant will be part of a
+migration support project.
+
+**Areas of Responsibility**
+
+  * Provide change management implementation
+  * Provide incidents and problems resolution
+  * Carry out maintenance and development of CI/CD infrastructure in the project
+  * Analyze current infrastructure services, apps, used technologies and the tool set, and define gaps and areas for improvement
+  * Work closely with Client’s technical team (Germany) to define the scope of improvements
+
+**Qualifications**
+
+  * Proficiency in Kubernetes, Linux, Terraform, ArgoCD, Shell Scripting / Bash Shell, IaC, Networking Skills, Security, Docker and GitHub Actions
+  * Microsoft Azure cloud
+  * Strong English communication skills (international team)
+  * Professional teamwork and collaboration abilities, including working closely with FNT employees and our partner.

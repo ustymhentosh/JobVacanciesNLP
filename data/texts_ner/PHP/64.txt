@@ -1,0 +1,56 @@
+Senior PHP Developer / Backend Tech Lead (PHP, Laravel, SaaS)
+### **About Impactable**
+
+Impactable builds B2B marketing ecosystems that drive measurable growth. Our
+DemandSense platform is a SaaS product designed to automate and optimize
+marketing performance across channels like LinkedIn and Google.
+
+We’re a fast-scaling global agency with a strong engineering culture,
+operating across the U.S., Ukraine, and Serbia.
+
+### **Position Overview**
+
+We’re looking for a **Senior PHP Developer** to take a hands-on role in
+building and scaling the backend of **DemandSense** , our proprietary SaaS
+marketing automation platform.
+
+You’ll spend most of your time designing, coding, and optimizing backend
+services in PHP (Laravel), while also mentoring a small team of developers.
+
+This role is ideal for someone who enjoys solving complex engineering
+challenges, shaping system architecture, and ensuring high performance,
+reliability, and scalability — all while staying deeply involved in the
+codebase. You’ll collaborate closely with product and data teams to deliver
+robust, well-structured solutions that power real-time analytics and
+automation at scale.
+
+### **Key Responsibilities**
+
+  * **Lead backend development** in PHP (Laravel) for the DemandSense platform, ensuring scalability, performance, and reliability.
+  * **Mentor developers** , conduct code reviews, guide best practices, and support professional growth.
+  * Oversee **API design and third-party integrations** , ensuring consistent data flow and system interoperability.
+  * Identify and resolve system bottlenecks, performance issues, and scalability challenges.
+  * Champion engineering excellence and continuous improvement within the team.
+
+### **Requirements**
+
+  * 5+ years of backend development experience with **PHP (Laravel)**.
+  * Proven experience **leading or mentoring a development team**.
+  * Strong knowledge of **software architecture, design patterns, and scalability principles**.
+  * Deep understanding of **PostgreSQL** , schema optimization, and performance tuning.
+  * Experience integrating and maintaining **3rd-party APIs and microservices**.
+  * Strong problem-solving and decision-making skills.
+  * English intermediate
+
+**Nice to Have:**
+
+  * Experience in **marketing technology (MarTech)** or **data-heavy SaaS products**.
+  * Familiarity with **CI/CD** , Git workflows, and agile methodologies.
+  * Experience with **AWS infrastructure** (EC2, RDS, S3, Lambda).
+
+### **Why Join Us**
+
+  * Lead a core product team at the center of Impactable’s technology ecosystem.
+  * Shape architecture and influence technical strategy from the ground up.
+  * Collaborate with global leaders and contribute to a product that directly impacts marketing outcomes.
+  * Competitive compensation and growth opportunities in a rapidly scaling organization.

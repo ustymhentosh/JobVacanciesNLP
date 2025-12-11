@@ -1,0 +1,65 @@
+Senior Java Developer
+Onicore is a FinTech company specializing in developing products for
+cryptocurrency operations. We strive to make crypto convenient and
+understandable for everyone.
+
+And now we are looking for a talented and experienced Java developer to join
+our team. If you’re passionate about working with the latest technologies,
+contributing to exciting product developments, and collaborating with an
+awesome team, we want to hear from you!
+
+Your Key Duties:
+
+Design, develop, and maintain high-performance, scalable Java-based applications in the FinTech domain.
+Implement and optimize multithreaded and concurrent solutions, ensuring thread safety and system reliability.
+Build and maintain microservices using the Spring ecosystem.
+Ensure database efficiency, including query optimization, proper indexing, and transaction handling.
+Evaluate and improve application performance, conduct profiling sessions, and resolve bottlenecks.
+Design and implement synchronous and asynchronous integrations with internal and external systems.
+Participate in architectural discussions, propose improvements, and drive technical initiatives.
+Collaborate closely with product managers, architects, and QA engineers to deliver business-critical solutions.
+Write clean, maintainable, and well-tested code following best practices.
+
+Your Skills:
+
+5+ years of professional experience in Java development.
+Strong expertise in Java 17+ (knowledge of modern language features, streams, lambdas, functional programming concepts).
+Deep understanding of core Java:
+Collections Framework, Generics, Streams, Functional Interfaces
+Concurrency utilities (Executors, CompletableFuture, Fork/Join, Locks, Atomics, etc.)
+Proven experience with the Spring ecosystem: Spring Boot, Spring Data (JPA/Hibernate), Spring Security, Spring Cloud (microservices).
+Solid understanding of databases (SQL and/or NoSQL), including:
+Transactions, isolation levels, and locking mechanisms
+Query optimization and indexing strategies
+Hands-on experience with multithreading and concurrency, including race conditions, deadlocks, synchronization, and strategies to avoid them.
+Proficiency in synchronous and asynchronous communication: REST, messaging systems (Kafka, RabbitMQ, etc.), event-driven architectures.
+Experience working on FinTech or financial services projects.
+Strong focus on performance evaluation, scalability, and reliability.
+Strong problem-solving skills, ability to work independently, take initiative, and drive solutions proactively.
+Self-driven and responsible, capable of working with minimal supervision.
+Proactive, solution-oriented mindset.
+Team player with a collaborative attitude.
+
+Nice to have:
+
+Experience with Kubernetes, Docker, and cloud-native environments.
+Experience with application profiling and performance tuning:
+Tools such as VisualVM, JFR (Java Flight Recorder), JMC (Java Mission Control)
+Identifying and resolving performance bottlenecks
+Analyzing complexity of SQL queries and optimizing execution plans
+Familiarity with CI/CD pipelines and DevOps practices.
+Knowledge of distributed systems, event sourcing, or CQRS.
+
+We offer:
+
+🏥 Medical insurance
+
+🤓 Paid courses, conferences, training sessions, workshops etc.
+
+💪 Sport compensation
+
+💼 Legal assistance
+
+🧗‍♂️ Motivated and goal-oriented team
+
+Ready to make a difference? Apply now and become a part of our journey!

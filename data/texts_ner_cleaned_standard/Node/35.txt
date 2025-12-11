@@ -1,0 +1,57 @@
+JS Full-Stack Developer (Angular, NodeJS, JavaScript) (Hybrid Schedule)
+BIScience(www.biscience.com) is looking for
+JS Full-Stack Developer (Angular, NodeJS, Javascript) to
+join the Kiev team on a full-time basis.
+
+BIScience offers business intelligence solutions for online advertising
+activities. Our solutions maximize our clients’ profits by providing insights
+and analytics of their online presence compared to specific competitors and
+entire market segments. All of our solutions are secure, reliable, intuitive,
+and usable. BIScience offers flexible packaging to accommodate the needs of
+small and medium businesses as well as large enterprises.
+
+Main product AdClarity aims to maximize our clients’ profits by providing
+insights and analytics of their online presence compared to specific
+competitors and entire market segments. The product monitors 30,000,000 web
+pages around the world daily, running on hundreds of servers. AdClarity
+monitors Display, Video, InApp, and Social channels, combining robotic and
+panel data.
+
+Responsibilities:*
+
+Business features development
+Develop and maintain existing projects
+Contribute to architectural decisions and technologies for new and existing projects
+
+Requirements:
+
+4+ years of experience with Javascript, Node.js, HTML/CSS
+2+ years of experience with Angular
+Linux hands on
+GIT, JIRA, Confluence
+Being familiar with Agile development frameworks
+Good level of English (both spoken and written)
+
+Desirable:*
+
+Experience with browser extensions development
+Experience with Docker
+Experience with js
+Experience with NoSQL DBs
+Experience with online advertising
+Academic IT education on master level in Computer Science or Engineering
+
+Personal qualities:
+
+Working well autonomously, without close supervision, readiness to take responsibility
+Acting as a Team player and having highly developed communication skills, both toward co-programmers and project manager
+Very organized & committed person which can commit to timely delivery of quality results
+Knowledge seeking, updated with latest technological and eager to learn new stuff
+
+What’s in it for you?
+
+Competitive salary
+Challenging tasks
+Highly-skilled team of seniors
+Supportive and family-like atmosphere
+Variety of knowledge sharing, training, and self-development opportunities

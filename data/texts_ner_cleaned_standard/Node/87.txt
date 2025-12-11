@@ -1,0 +1,52 @@
+Full Stack Developer (React/Bun)
+IT Svit is seeking an experienced Full Stack Developer (React + Bun stack) to
+support the existing team on a full-time basis.
+
+You will work with integrated collection management systems
+alongside a secondary art market price database. Our stack is built around
+React for the
+frontend and Bun on the backend, with a strong emphasis on clean code,
+collaboration, and delivering real value.
+
+Key responsibilities include:
+
+● Develop backend micro services and frontend apps
+● Maintain existing features and provide development support for existing
+services
+● Implement the scalable and high-load REST API endpoints
+● Explore new technologies, tools and components
+
+Essential requirements:
+
+● 3+ years of experience in Full Stack Development
+● Strong proficiency in the following technologies:
+
+React & Bun
+Elysia.js
+TypeScript
+Drizzle ORM
+Docker
+Git
+MariaDB
+AWS S3
+
+● Upper-intermediate English
+
+Nice to have:
+
+● Experience with Tailwind CSS and shadcn/ui
+● Familiarity with Electron
+● Knowledge of Puppeteer
+
+We offer:
+
+● All the regular HR benefits including taxes compensation
+● Remote and flexible work
+● 20 days off per year
+● 7 sick leaves
+● Tax management service by our financial department
+● English courses
+● Open-minded and friendly atmosphere without much bureaucracy and
+micromanagement
+● Professional growth and development
+● Regular online company events

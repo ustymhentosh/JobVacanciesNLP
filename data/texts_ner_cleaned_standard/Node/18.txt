@@ -1,0 +1,50 @@
+Team Lead Node.js Developer
+FAVBET Tech develops software that is used by millions of players around
+the world for the international company FAVBET Entertainment.
+We develop innovations in the field of gambling and betting through a complex
+multi-component platform which is capable to withstand enormous loads and
+provide a unique experience for players.
+FAVBET Tech does not organize and conduct gambling on its platform. Its
+main focus is software development.
+
+Main areas of work:
+
+Betting/Gambling Platform Software Development — software development that is easy to use and personalized for each customer.
+Highload Development — development of highly loaded services and systems.
+CRM System Development — development of a number of services to ensure a high level of customer service, effective engagement of new customers and retention of existing ones.
+Big Data — development of complex systems for processing and analysis of big data.
+Cloud Services — we use cloud technologies for scaling and business efficiency.
+
+Requirements:
+
+6+ years of hands-on backend development with Node.js
+2+ years of experience leading development teams
+Strong knowledge of system scalability and high-performance architecture design
+Proficiency in TypeScript
+Solid experience in API development
+Hands-on experience with Docker
+Experience working with message brokers (RabbitMQ, NATS, etc.)
+Strong background in PostgreSQL
+Excellent understanding of design patterns and SOLID principles
+Strong knowledge of application security principles
+Nice to have: experience in the gambling domain
+
+Will be a plus:
+
+Experience with NestJS
+Experience with NoSQL databases (MongoDB, Redis)
+
+Responsibilities:
+
+Lead and manage the development team, driving collaboration, mentorship, and technical excellence
+Design, develop, and deliver new features and components with a focus on scalability and performance
+Identify, troubleshoot, and resolve technical issues throughout the development lifecycle
+Establish and enforce coding standards to ensure code quality, readability, and best practices
+Independently plan and document tasks, providing clear and actionable requirements
+Create and maintain technical documentation for implemented features, ensuring clarity for both the team and stakeholders
+
+During the war, the company actively supports the Ministry of Digital
+Transformation of Ukraine in the initiative to deploy an IT army and has
+already organized its own cyber warfare unit, which makes a crushing blow to
+the enemy’s IT infrastructure 24/7, coordinates with other cyber volunteers
+and plans offensive actions on its IT front line.

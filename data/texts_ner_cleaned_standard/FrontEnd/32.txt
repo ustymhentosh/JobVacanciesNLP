@@ -1,0 +1,66 @@
+Senior Frontend Developer(Platform team)
+What’s the job?
+
+Are you ready to work on massive web projects and features that are used by
+millions worldwide? If yes, then you’ve come to the right place. As a Senior
+Frontend Developer in Fiverr’s Platform group, you’ll be responsible for our
+Design System while contributing to the front-end infrastructure that
+powers all Fiverr products.
+
+Our mission is to enable a unified user experience across Fiverr’s web apps
+and help teams ship faster. You’ll do this by building reusable, high-
+performance components , maintaining design consistency, and improving the
+frontend infrastructure that powers it all.
+
+Our work model is remote OR hybrid.
+What am I going to do?
+
+Build and maintain new React components as part of Fiverr’s Design System.
+​​Collaborate closely with engineers and designers to ensure smooth integration and contributions to the shared component library.
+Create and maintain clear documentation and usage guidelines to support adoption across teams.
+Develop creative, scalable solutions for complex UI and performance challenges.
+Monitor and optimize performance, ensuring components are efficient and lightweight.
+Contribute to technical initiatives that improve our build setup, CI/CD, monitoring, and performance for front-end applications.
+Being available for on-call shifts.
+What are the qualifications?
+
+5+ years of experience in web development with strong design integration skills.
+Expert in CSS and proficient in TypeScript.
+Hands‑on experience with Figma and design systems.
+Experience working with large-scale systems.
+Experience with CI/CD technologies and building libraries
+Solid understanding of accessibility principles.
+Excellent cross‑functional collaboration with design, product, and engineering teams.
+Experience with AI‑powered development tools (Cursor, Copilot, etc).
+Strong analytical and communication skills.
+Fluent in English and Ukrainian ; a degree in Computer Science or a related field is a plus.
+
+At Fiverr, we’re not about checklists. If you don’t meet 100% of the
+requirements for this role but still feel passionate about the position and
+think you have the right skills and qualifications to excel at it, we want to
+hear from you.
+We offer
+
+When you join our team, you’re helping create opportunities for anyone in the
+world to build their business, brand, or dream. Is there a more meaningful
+benefit than that?
+To top it off, besides a comprehensive salary, we also have a tight-knit
+Fiverr employee culture, team gatherings, a pretty amazing office space (if
+you live in Kyiv), an opportunity to participate in Fiverr’s stock option
+plan, daily virtual workout inspirations, and much more.
+Office in Creative State Arsenal in Kyiv.
+Possible to work remotely in Ukraine
+Fiverr’s Equity (FVRR)*
+Health insurance
+Gym
+Parking
+Lunch
+Equal opportunities
+
+At Fiverr, we prioritize diversity. We celebrate difference and embed it into
+every aspect of our workplace and product, as well as our community. Fiverr is
+proud and committed to providing equal opportunity employment to all
+individuals regardless of race, color, religion, sex, sexual orientation,
+citizenship, national origin, disability, Veteran status, or any other
+characteristic protected by law. In addition, Fiverr will provide
+accommodation to individuals with disabilities or special needs.

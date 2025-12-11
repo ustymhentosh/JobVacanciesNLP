@@ -1,0 +1,37 @@
+Senior .NET Developer
+### **About the Project**
+
+We’re building a modern cloud-based application for a global client who offers
+coverage and insurance services to vessel owners, operators, and charterers
+worldwide. The platform is designed to support both new cloud-native modules
+and legacy on-premises systems, with a strong focus on reliability,
+scalability, and performance.
+
+### **Responsibilities**
+
+  * Develop backend services using **.NET 8** and **Azure Functions**
+  * Design and maintain REST APIs
+  * Integrate cloud services with existing **on-premises systems** built on **.NET Framework 4.8**
+  * Work with **Azure Cosmos DB** , **Service Bus** , **Web PubSub** , and other Azure components
+  * Ensure observability and logging via **AppInsights** and **ELMAH**
+  * Participate in CI/CD pipelines using **Azure DevOps**
+  * Contribute to technical decisions around architecture and infrastructure
+  * Collaborate closely with cross-functional teams including DevOps, frontend, and QA
+
+### **Requirements**
+
+  * 5+ years of experience with **.NET (Core or 8)**
+  * Good **SQL** knowledge 
+  * Experience with **Microsoft Azure** (Functions, Service Bus, Cosmos DB, etc.)
+  * Solid understanding of **REST API design and implementation**
+  * Knowledge of **event-driven architecture**
+  * Experience with **message brokers** (e.g., RabbitMQ, Azure Service Bus)
+  * Familiarity with CI/CD tools (**Azure DevOps preferred**)
+  * Ability to work with both **cloud** and **on-premises** systems
+
+### **We Offer**
+
+  * Participation in a long-term, stable project with a global impact
+  * Opportunity to work with modern technologies and cloud solutions
+  * Flexible schedule and remote-friendly team
+  * Professional growth within a supportive and collaborative environment

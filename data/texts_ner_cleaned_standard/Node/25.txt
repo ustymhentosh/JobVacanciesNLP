@@ -1,0 +1,60 @@
+Backend Software Engineer (Node.js, Express.js, TypeScript)
+Location: Remote
+Job Type: Full-time
+
+US Visa Sponsorship: Available after 1 year of employment for highly
+qualified candidates
+
+About RepMove
+
+RepMove is a field sales productivity platform designed to help sales
+professionals streamline their workflow, optimize territory management, and
+drive sales growth. We are looking for a Lead Backend Software Engineer to
+drive the development of scalable, high-performance backend services and
+integrations.
+
+Tech Stack
+
+Backend: Node.js, Express.js, TypeScript
+Databases: Firestore, MongoDB
+Cloud Platform: Google Cloud Platform (GCP)
+Messaging & Event Processing: Pub/Sub
+Frontend: Angular, NativeScript (iOS/Android)
+
+Responsibilities
+
+Lead the development and implementation of scalable and secure web applications and backend services.
+Design, develop, and maintain APIs and microservices architecture for high-performance data processing.
+Manage and optimize MongoDB to ensure efficient data storage, indexing, and retrieval.
+Migrate Firestore to MongoDB , ensuring a seamless transition and data integrity.
+Set up and manage Pub/Sub for event-driven architecture and scalable asynchronous processing.
+Set up CI/CD pipelines for automated backend deployment of Firebase Functions.
+Configure and manage API Gateway for Firebase Functions.
+Review current APIs and migrate from Firebase Functions v1 to v2.
+Ensure code quality and maintainability through rigorous code reviews and automated testing.
+Stay up to date with the latest industry trends, tools, and technologies to improve system architecture and efficiency.
+Collaborate with cross-functional teams to define technical direction, best practices, and long-term development strategies.
+
+Requirements
+
+5+ years of backend development experience with Node.js, Express.js, and TypeScript.
+Hands-on experience in API development , microservices architecture , and scalable system design.
+Strong knowledge of Google Cloud Platform (GCP)
+Expertise in MongoDB database management and optimization.
+Experience in migrating Firestore to MongoDB is a plus.
+Strong understanding of security best practices and secure API development.
+Experience with CRM, ERPs , and third-party integration platforms (Zapier,Integration.app) is a plus.
+Excellent problem-solving skills, leadership, and ability to work in a fast-paced startup environment.
+Knowledge of Pub/Sub is a plus for event-driven processing.
+Experience in CI/CD pipeline setup , API Gateway configuration, and cloud functions deployment.
+
+What We Offer
+
+Competitive salary & benefits package.
+Opportunity to work on a fast-growing product with a talented team.
+Visa Sponsorship: Available after 1 year of employment for highly qualified candidates
+Career growth and leadership in backend architecture development.
+
+If you’re passionate about backend development, scalable architecture, and
+cloud-based solutions, we’d love to hear from you! Apply now and be a key
+player in shaping the future of RepMove.

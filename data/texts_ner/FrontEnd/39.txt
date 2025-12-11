@@ -1,0 +1,42 @@
+Frontend/Mobile Developer (React Native)
+**About the project:**
+
+You will be working on creating absolutely new mobile app on Reat Native. The
+scope of work will include setup, development, execution and deploy of the new
+app.  
+We are happy to talk with you, if you are ambitious, technically sharp and
+creative Reat Native Developer.
+
+**About you:**
+
+  * **4+ years experience in React Native/Expo**
+  * 4+ years of experience in JavaScript
+  * Good practical experience with client side technologies: Typescript, **Next.js**
+  * Good understanding of the differences between SSR and client rendering
+  * Experience working with PostgreSQL or similar
+  * Good understanding of data structures, design patterns
+  * Understanding of SOLID principles
+  * Proficient in SEO optimization and website performance enhancement
+
+**Will be a plus:**
+
+  * Familiarity with CI/CD tools such as GitHub Actions or similar
+  * Experience with tools like Google Analytics and Google Tag Manager
+  * Experience in backend technologies: Node.js, Nest.js or similar
+  * Hands-on experience with A/B testing frameworks (e.g., GrowthBook)
+
+**Your impact:**
+
+  * Handle full-stack development, focusing on frontend during the first 6+ months before taking on backend tasks
+  * Take part in decisions regarding app architecture
+  * Suggest and propose technical enhancements
+  * Integrate third-party services
+  * Collaborate with product managers, designers, DevOps and other stakeholders to gather and understand requirements
+  * Conduct code reviews to maintain code quality and adherence to coding standards
+
+For better understanding, you may learn more about **our tech stack** :
+
+  * TypeScript
+  * React, Next.js, Zustand, Mantine UI
+  * TanStack Query
+  * GrowthBook

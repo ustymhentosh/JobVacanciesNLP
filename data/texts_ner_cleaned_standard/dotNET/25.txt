@@ -1,0 +1,65 @@
+Senior .NET Developer
+About the project:
+
+We are building a modern, centralized SaaS solution for US-based home medical
+equipment (HME) providers and hospitals.The platform streamlines daily
+operations such as appointment scheduling, invoicing, documentation
+management, and medical item deliveries. You’ll join a long-term initiative
+aimed at improving healthcare workflows, efficiency, and service delivery.
+
+Does this relate to you?
+
+5+ years of experience in backend software development with a strong
+focus on REST API design and implementation.
+Proven experience with .NET Core technologies (C#, ASP.NET Core Web
+API).
+Solid knowledge of microservices architecture and inter-service
+communication.
+Proficiency with MySQL and/or PostgreSQL databases; experience writing
+optimized queries, Dapper, DDD.
+Understanding of OOP, OOD, SOLID, and common design patterns.
+Experience with API documentation and testing tools (Swagger, Postman).
+Knowledge of authentication, authorization, and API security best practices.
+Experience with the full SDLC and agile methodologies (Kanban/Scrum).
+English level: Upper-Intermediate or higher.
+
+Nice to Have:
+Experience with Docker and Kubernetes.
+\- Familiarity with AWS service.
+Experience building high-load or healthcare-related APIs.
+Understanding of Ukrainian or Russian.
+Relevant certifications (e.g., AWS Certified Developer).
+
+A new team member will be in charge of:
+
+Design, develop, and maintain RESTful APIs and backend microservices using
+.NET Core (.NET 6.0 / 8.0 / 3.1).
+Build efficient and reusable API endpoints, focusing on scalability,
+performance, and security.
+Collaborate with frontend, mobile, and DevOps teams to ensure smooth API
+integration and deployment.
+Create and maintain API documentation using tools like Swagger / OpenAPI.
+Optimize existing endpoints and database queries for better response times.
+Implement API versioning, request validation, and error handling standards.
+Ensure API security through authentication and authorization mechanisms
+(JWT, OAuth2).
+Participate in code reviews and contribute to improving coding standards and
+best practices.
+Support continuous integration and delivery (CI/CD) processes for API
+deployment
+
+Already looks interesting? Awesome! Check out the benefits prepared for
+you:
+
+Legal and accounting assistance with a choice of service packages
+Regular performance reviews, including remuneration
+Up to 25 paid days off per year for well-being
+Flexible cooperation hours with work-from-home or office options
+Conveniently located offices in three different spots worldwide
+Fully paid English classes with an in-house teacher
+Medical Insurance or a gym membership to choose from
+Perks on special occasions such as birthdays, marriage, childbirth
+Referral program implying attractive bonuses
+External & internal training and IT certifications
+
+Ready to try your hand? Send your CV without a doubt!

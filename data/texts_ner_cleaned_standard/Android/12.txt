@@ -1,0 +1,44 @@
+Android Developer
+Yalantis is a technology leader in mobile development as we create open-source
+solutions that are used by Xiaomi, TripAdvisor, Discord, and Pinterest:
+github.com/Yalantis
+
+Now, we’re looking for an Android Developer to join our team.
+Responsibilities:
+
+Develop, maintain, and optimize Android applications using Kotlin.
+Implement concurrency management using Kotlin Coroutines.
+Handle API requests via Apollo SDK (GraphQL) and OkHttp SDK (REST).
+Manage navigation within the application using the Android Navigation Component.
+Build intuitive and responsive user interfaces using the Android View System.
+Ensure efficient data storage with Android DataStore, while maintaining legacy compatibility with SharedPreferences.
+Integrate and manage push notifications using the Iterable SDK.
+Follow a Simple MVVM architecture pattern enhanced with MVI features, maintaining layers for View ↔ ViewModel ↔ Repositories.
+Monitor application performance and log issues using Firebase Crashlytics.
+Collaborate closely with the QA team to ensure robust manual testing and deliver high-quality releases.
+Maintain and improve documentation, including a comprehensive README in GitLab, detailing workflows, processes, and codebase insights.
+Work collaboratively in an Agile environment, utilizing Kanban methodologies for efficient task management.
+Requirements:
+
+3+ years of Android app development experience.
+Solid understanding of modern architecture patterns and development practices.
+Experience working with GraphQL and REST APIs.
+Familiarity with Agile methodologies, particularly Kanban, and a collaborative team mindset.
+A focus on clean, maintainable code and an eye for detail in UI/UX implementation.
+Strong problem-solving skills and the ability to troubleshoot and optimize application performance.
+Intermediate strong English level or higher.
+Our Benefits:
+
+Professional growth : Individual development plan, mentorship, reimbursement for professional certifications and English lessons, access to professional courses in Corporate Learning Management System.
+Community : Tech community and knowledge-sharing events, English speaking club, corporate library and book club, volunteering and charity initiatives.
+Wellbeing : Medical insurance, regular medical check-ups, sport reimbursement, paid vacation and sick leave, mental health support, and events.
+Work environment : Fully-equipped offices, top-notch equipment, flexible work format, activities both in-office and online, Y-bucks, and access to the Yalantis store.
+
+Please note that feedback on the results of the CV review will be provided
+only in the event of a decision to consider your candidacy further.
+Otherwise, your data will be retained in the company’s CV database, and we
+will gladly contact you if a suitable vacancy becomes available. The
+consideration period is 7 working days.
+
+Before sending us your CV, you may read our Privacy
+Notice.

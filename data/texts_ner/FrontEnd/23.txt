@@ -1,0 +1,35 @@
+Senior Frontend Developer (Vue.js) — Tietoevry Create (m/f/d)
+Tietoevry Create Ukraine is inviting a talented professional to join our team
+as a Senio Frontend (Vue) Developer.
+
+We are seeking a talented frontend developer to join our team in supporting a
+major telecommunications infrastructure enhancement initiative. The successful
+candidate will:
+
+  * Participate in cutting-edge projects aimed at modernizing and improving telecom infrastructure
+  * Develop the frontend components of various solutions, focusing on one project at a time
+  * Collaborate with cross-functional teams to deliver high-quality, user-centric applications
+  * Contribute to the entire software development lifecycle, from conception to deployment
+  * Adapt to evolving project requirements and emerging technologies in the telecom sector
+
+Requirements:
+
+  * Self-motivated individual with excellent English communication skills
+  * Senior-level developer or strong mid-level with proven experience
+  * Ability to thrive in a fast-paced development environment
+  * Experience in developing high-performance solutions for the telecommunications sector
+  * Willingness to adapt to changing project requirements and technologies
+
+Core Competencies:
+
+  * Strong proficiency in JavaScript, HTML, and Vue.js
+  * Experience working with RESTful APIs
+  * Ability to create responsive and user-friendly web applications
+
+Desirable Skills:
+
+  * Experience with additional frontend frameworks (e.g., React, Angular)
+  * Knowledge of user authentication and security best practices
+  * UI/UX design skills and understanding of design principles
+  * Familiarity with CI/CD pipelines and frontend deployment processes
+  * Basic understanding of backend development concepts

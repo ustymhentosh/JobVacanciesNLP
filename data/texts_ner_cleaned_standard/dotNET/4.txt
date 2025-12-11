@@ -1,0 +1,68 @@
+Lead .NET Full Stack Engineer (#3938)
+N-iX is looking for Lead .NET Full Stack Engineer to join our team.
+The project uses cutting-edge technology, and as such, we encourage our
+Developers to stay ahead of current trends and best practices. Ideally, we’d
+like a candidate that reflects this, with a keen interest in the latest
+frameworks and technologies. The primary focus will be to build robust and
+scalable back-end for the Product using .Net Core 2 and Azure technologies.
+The work environment is Agile Scrum, with Scrum teams operating in 2 week
+sprints. This is an opportunity to be part of a fun, lively development team,
+with good team spirit and a willingness to create good software.
+
+About the client:
+
+Headquartered in London, our Client is an independent software vendor and a
+leading global provider of software solutions for Enterprise Architecture,
+Business Process Analysis and Application Portfolio Management. The Client has
+customers spanning the Americas, EMEA, Australasia and Asia-Pacific regions as
+well as all verticals sectors, both government and commercial. Core
+capabilities provided by the Product include an enhanced Microsoft Visio
+diagramming interface, a powerful central repository for all enterprise
+architecture or business process models and documentation, and a range of
+tools for visualization, analysis and decision-making.
+
+Responsibilities:
+
+Working in a Scrum Team as a Full Stack lead developer
+Developing middleware for SaaS multi-tenant web application using .Net Core technologies
+Working with C#, SQL and Graph DBs in an Azure Microservice environment
+Formulating solutions to technically challenging requirements
+Collaborating with the Product Owner to define and refine Story Acceptance Criteria
+Selecting Stories from the Backlog with the Team for each Sprint
+Adhering to and promoting existing coding standards and practices
+Code reviewing team members and guiding S.O.L.I.D principles in the team
+Collaborating on architecture design and technology choices
+Mentoring, conducting performance reviews, and managing team members as a team lead
+
+Requirements:
+
+5+ years in web application development
+Expert experience in C#/.Net
+Knowledge of React
+Technical leading experience
+REST-based API design and development
+MS SQL and Cosmos DB database technologies
+Azure technologies
+Experience with integration testing
+
+As a plus:
+
+Knowledge of Azure DevOps is a good asset
+Basic Experience with MS SharePoint
+Collaborative but decisive personal style
+Experience working in a Micro-front ends and/or Micro-services environment
+Understanding of working with CI/CD
+
+We offer:*
+
+Flexible working format — remote, office-based or flexible
+A competitive salary and good compensation package
+Personalized career growth
+Professional development tools (mentorship program, tech talks and trainings, centers of excellence, and more)
+Active tech communities with regular knowledge sharing
+Education reimbursement
+Memorable anniversary presents
+Corporate events and team buildings
+Other location-specific benefits
+
+*not applicable for freelancers

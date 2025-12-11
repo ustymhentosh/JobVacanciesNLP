@@ -1,0 +1,47 @@
+Middle iOS Developer
+**FAVBET** Tech develops software that is used by millions of players around
+the world for the international company FAVBET Entertainment.  
+We develop innovations in the field of gambling and betting through a complex
+multi-component platform which is capable to withstand enormous loads and
+provide a unique experience for players.  
+**FAVBET** Tech does not organize and conduct gambling on its platform. Its
+main focus is software development.
+
+We are looking for a **Middle iOS Developer.**
+
+****Requirements:****
+
+  * At least **2 years** of experience as an iOS Engineer;
+  * Excellent knowledge of **Swift** , the **iOS platform** , and the **iOS SDK** , including its **capabilities** and **limitations** ;
+  * Practical experience with **SwiftUI** and **UIKit** ;
+  * Good knowledge of **MVVM** ;
+  * Strong understanding of **OOP patterns** ;
+  * Knowledge of various concurrency techniques **(GCD, Operations,****Combine)** ;
+  * Good problem-solving and debugging skills;
+  * Experience with code versioning tools (Git);
+  * Good understanding of memory management and optimizations;
+  * Attention to technical debt (balancing product development and refactoring);
+  * Ability to work effectively with other teams.
+
+**Nice to have:**
+
+  * Experience working on large-scale projects;
+  * Experience with analytics tools **(AppsFlyer, Amplitude, Firebase)** ;
+  * Experience with **Flutter** and a desire to participate in **Flutter project****development**.
+
+**Responsibilities:**
+
+  * Experience with the full development cycle — from building features from scratch to release;
+  * Involved in designing the architecture of new functionality;
+  * Research and implement optimal technical solutions;
+  * Participate in discussions about new business initiatives;
+  * Identify and fix bugs, bottlenecks, and performance issues;
+  * Stay current with mobile development trends and proactively suggest new ideas or improvements.
+
+**We can offer:**
+
+  * 30 days of paid vacation and sick days — we value rest and recreation. We also comply with the national holidays.
+  * Medical insurance for employees and the possibility of training employees at the expense of the company and gym membership.
+  * Remote work; after Ukraine wins the war — our own modern lofty office with spacious workplace, and brand-new work equipment (near Pochaina metro station).
+  * Flexible work schedule — we expect a full-time commitment but do not track your working hours.
+  * Flat hierarchy without micromanagement — our doors are open, and all teammates are approachable.

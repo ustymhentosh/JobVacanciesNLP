@@ -1,0 +1,71 @@
+JavaScript Full-Stack Developer
+🟠 Details: we are looking for a JavaScript Full-Stack Developer to join
+our client’s team, who will work on developing and enhancing both front-end
+and back-end solutions, contributing to scalable web applications and
+integrations with third-party services. The role requires a hands-on engineer
+with strong problem-solving skills, attention to detail, and the ability to
+communicate effectively in English within an international team.
+
+🟠 About the project: our client is a technology-driven company developing an
+advanced ML-powered web application for the architecture and design industry.
+The platform automatically detects and classifies furniture elements on
+architectural drawings, helping professionals streamline design analysis,
+reduce manual work, and improve project accuracy. By leveraging computer
+vision and AI, the solution transforms complex floor plans into structured,
+searchable data, enhancing productivity and decision-making across design
+workflows.
+
+🟠 Qualifications:
+
+Strong proficiency with JavaScript, including frameworks such as React , Node.js , or Next.js.
+Solid understanding of RESTful APIs, database design (SQL and/or NoSQL), and version control (Git).
+Experience with front-end integration, responsive design, and cross-browser compatibility.
+Ability to work independently while collaborating effectively with remote teams.
+Good communication skills in English.
+
+🟠 Would be a plus:
+
+Experience in the healthcare or medical software sector.
+Experience with .NET.
+Familiarity with cloud platforms (AWS, Azure).
+
+🟠 Responsibilities:
+
+Design, develop, and maintain scalable web applications across the full stack.
+Collaborate closely with cross-functional teams (designers, project managers, QA, etc.) to deliver high-quality solutions.
+Participate in code reviews, provide constructive feedback, and help maintain coding standards.
+Identify, troubleshoot, and resolve application issues efficiently.
+Contribute to the continuous improvement of development processes and team practices.
+
+🟠 Interview steps:
+
+Screening with Recruiter (about 30 minutes).
+Interview with Project Manager (about 30 minutes);
+Call with the client (about 1 hour).
+
+🟠 By joining us, you will get:
+
+Accounting coverage and lawyer support;
+Paid Vacations;
+Paid 4 paid public holidays (New Year, Independence Day, Day of the Defender of Ukraine, and Christmas);
+Flexible working hours and the possibility to work remotely;
+Best-class working equipment (laptop and accessories);
+Good conditions for skills development: the possibility of upgrading your English for business needs due to working time and 50% coverage for studying English; the offer of internal workshops; and wellbeing sessions as one-to-one meetings.
+
+🟠 Our office in Lviv:
+
+FuturaHUB, located in Lviv (Kulparkivska 200a);
+An inspiring, modern workplace with a great atmosphere and development culture;
+“Happy Hours” parties;
+Yoga and sports training in FuturaHUB;
+Chill-out area: gaming zone with PlayStations, table tennis & table soccer;
+Beer, coffee, tea, cookies, etc;
+Conference rooms.
+
+🟠 Some of our Values:
+
+No overtime and pressure;
+Regular rest and burnout control;
+Clean relationships within the company and with the client;
+Responsibility for the own development, ideas, and interests communication, as well as for the problems that stand in the way of this development;
+Openness to the new, readiness for changes.

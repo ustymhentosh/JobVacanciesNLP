@@ -1,0 +1,41 @@
+Senior DevOps Engineer
+S-PRO, a top-tier Digital Innovation and Software Engineering company. We
+specialise in providing cutting-edge services for fast-growing businesses and
+enterprises, with a strong focus on Finance, Renewable Energy and Healthcare
+domains and expertise in AI, Blockchain and Data Science. Our team of over 200
+dedicated professionals works tirelessly across our global offices to develop
+innovative digital solutions that drive sustainable business value and
+increase our client’s competitiveness in a dynamic digital landscape.
+
+We are seeking a DevOps Engineer with strong expertise in cloud
+infrastructure, automation, and infrastructure-as-code. This role requires
+independent ownership of tasks from design to deployment, with an emphasis on
+architecture, planning, and execution.
+
+Responsibilities
+
+Design and implement infrastructure solutions on AWS
+Develop and manage infrastructure using Terraform
+Create and maintain CI/CD pipelines (GitLab CI, Jenkins)
+Build scalable and reliable infrastructure using containerization (Docker, Kubernetes)
+Perform scripting and automation (Bash, Python, or similar)
+Conduct infrastructure assessments and propose improvements
+Independently lead and deliver infrastructure projects end-to-end
+Perform incident investigations and implement sustainable solutions
+
+Preferred Qualifications
+
+Deep knowledge of Terraform, AWS services (Azure is a big plus), and GitLab CI
+Experience working with microservices and container orchestration (Kubernetes)
+Strong understanding of system design and cloud architecture
+Proven ability to manage tasks autonomously and operate in low-support environments
+Familiarity with monitoring, logging, and alerting systems
+
+Benefits and perks :
+
+Flexible schedule.
+Remote work model.
+Medical insurance.
+Paid vacations.
+Paid Sick-leaves.
+Paid State holidays.

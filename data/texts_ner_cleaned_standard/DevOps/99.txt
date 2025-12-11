@@ -1,0 +1,49 @@
+Senior DevOps Engineer
+Automat-it is where high-growth startups turn when they need to move faster,
+scale smarter, and make the most of the cloud. As an AWS Premier Partner and
+Strategic Partner, we deliver hands-on DevOps and FinOps and GenAI support
+that drives real results.
+
+We work across EMEA and the US, fueling innovation and solving complex
+challenges daily. Join us to grow your skills, shape bold ideas, and help
+build the future of tech.
+
+We’re looking for a Senior DevOps Engineer to join our team
+
+If you are interested in this opportunity, please submit your CV in English.
+Responsibilities
+
+Develop CI/CD pipelines for projects of various scales and tech stacks
+Automate AWS (and optionally GCP or Azure) resources and infrastructure provisioning
+Maintain infrastructures and environments of all types from dev to production
+Maintain Kubernetes clusters
+Security monitoring and administration
+Requirements
+
+5+ years of working experience in a DevOps role with AWS infrastructures
+Experience with Docker containers, Kubernetes, and Infrastructure as code (Terraform, CloudFormation, etc.)
+CI experience (Jenkins, GitHub Actions, etc.)
+Experience with version control systems (Git or similar)
+Scripting skills with either Bash, KSH, Python
+Configuration Management experience (Ansible, etc.)
+Deep Linux OS knowledge
+Network troubleshooting and configuration skills (DNS, HTTP, SSL, TCP/IP, etc.)
+Understanding of SDLC
+Excellent written and verbal communication skills in English
+A team player mindset, innovative, passion for learning new tools, systems, and best practices, and a desire to propose your ideas and initiatives
+Solid communication skills
+Benefits
+
+Professional training and certifications covered by the company (AWS, FinOps, Kubernetes, etc.)
+International work environment
+Referral program — enjoy cooperation with your colleagues and get a bonus
+Company events and social gatherings (happy hours, team events, knowledge sharing, etc.)
+English classes
+Soft skills training
+
+Country-specific benefits will be discussed during the hiring process.
+
+Automat-it is committed to fostering a workplace that promotes equal
+opportunities for all and believes that a diverse workforce is crucial to our
+success. Our recruitment decisions are based on your experience and skills,
+recognizing the value you bring to our team.

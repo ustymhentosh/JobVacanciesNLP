@@ -1,0 +1,100 @@
+.NET Team Lead
+**GR8 Tech is a leading B2B provider of iGaming solutions that empowers
+operators to grow, lead, and win.**
+
+We deliver high-impact, full-cycle tech solutions designed to scale. From
+seamless integration and expert consulting to long-term operational support,
+our platform powers millions of active players and drives real business
+growth. It’s more than just a product — it’s the iGaming Platform for
+Champions, built for those who play to lead.
+
+We know the game and how to take it to the next level. With 1000+ talented
+professionals on board, we don’t just build tech — we build success stories
+for iGaming operators all over the world.
+
+**Our ambition drives us, our people make it real. Join us and be part of
+building champion-level success!**
+
+Our team is at the forefront of building the company’s trading ecosystem. We
+focus on integrations with external trading feed providers and develop
+advanced trading tools to empower internal traders. Alongside this, we
+contribute to B2B client-facing features that enhance market competitiveness.
+Many of these initiatives are cross-team collaborations, while our core
+product remains centered around the internal trading domain.
+
+**Why Join Us:**  
+You’ll lead a compact, ownership-driven team working on mission-critical
+trading systems where milliseconds matter.  
+We offer autonomy, modern technologies, and real impact — your decisions
+directly influence reliability, performance, and product evolution.  
+A clear growth path toward broader engineering leadership and strategic
+initiatives awaits the right person.
+
+**What You’ll Be Driving:**  
+— Leading a high-performing tech team;  
+— Server-side development using .NET 8, ASP.NET Core (Web API), Orleans
+Framework, MongoDB, RabbitMQ, Kafka, Kafka Connects, Elasticsearch, Docker,
+Kubernetes;  
+— Designing and maintaining distributed systems;  
+— Defining and evolving application architecture;  
+— Code reviewing and mentoring engineers, fostering continuous skill growth;  
+— Collaborating closely with Product, QA, and Project Managers to drive
+predictable delivery and product alignment;  
+— Improving SDLC practices and delivery predictability.
+
+**What Makes You a GR8 Fit:**  
+— Team development & people leadership — proven experience leading and growing
+engineers, fostering ownership, motivation, and trust within the team;  
+— Delivery leadership & risk management — track record of predictable
+delivery, proactive risk handling, and ensuring quality outcomes in
+Agile/Scrum environments;  
+— Hands-on technical expertise — strong background in the .NET ecosystem with
+practical experience designing and maintaining distributed, high-load systems;  
+— SDLC governance — commitment to engineering excellence through solid review
+practices, testing standards, and disciplined release management;  
+— Technical leadership — ability to shape architecture and system design using
+SOLID principles, OOD, and pragmatic, scalable solutions;  
+— Cross-team collaboration — effective partnership with Product, QA, and
+Project Managers to align on priorities, manage dependencies, and drive shared
+goals;  
+— Product mindset — understanding business impact behind every technical
+decision, focusing on value delivery, not just implementation;  
+— Adaptability — resilience and flexibility to navigate evolving contexts,
+shifting priorities, and complex technical challenges;  
+— Upper-Intermediate+ English and fluent Ukrainian.
+
+**Why You’ll Love Working Here:**
+
+**Benefits Cafeteria**  
+An annual fixed budget that you can use based on your needs and lifestyle. You
+decide how to allocate it:
+
+— Sports — gym, yoga, or any activity to keep you active;  
+— Medical — insurance and wellness services;  
+— Mental health— therapy or coaching support;  
+— Home office — ergonomic furniture, gadgets, and tools;  
+— Languages — courses to improve or learn new skills.
+
+**Work-life**  
+— Parental support with paid maternity/paternity leave and monthly childcare
+allowance;  
+— 20+ vacation days, unlimited sick leave, and emergency time off;  
+— Remote-first setup with full tech support and coworking compensation;  
+— Regular team events — online, offline, and offsite;  
+— Learning culture with internal courses, career development programs, and
+real growth opportunities.
+
+**Our Culture & Core Values**  
+GR8 Tech culture is how we win. Behind every bold idea and breakthrough is a
+foundation of trust, ownership, and a growth mindset. We move fast, stay
+curious, and always keep it real, with open feedback, room to experiment, and
+a team that’s got your back.
+
+— **FUELLED BY TRUST:** we’re open, honest, and have each other’s backs;  
+— **OWN YOUR GAME:** we take initiative and own what we do;  
+— **ACCELER8:** we move fast, focus smart, and keep it simple;  
+— **CHALLENGE ACCEPTED:** we grow through challenges and stay curious;  
+— **BULLETPROOF:** we’re resilient, ready, and always have a plan.
+
+**To keep things efficient, please apply only for roles that closely match
+your experience.**

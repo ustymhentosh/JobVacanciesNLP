@@ -1,0 +1,85 @@
+Senior Go Developer
+We are seeking a **Senior Go Developer** to join our team and play a crucial
+role in the modernization of our API Developer Portal, which serves hundreds
+of internal and external API consumers in the Gas and Oil domain.
+
+This role demands a motivated and skilled individual capable of enhancing user
+experience and the performance of our systems. The ideal candidate will
+contribute their expertise to deliver maintainable, high-quality code that
+aligns with project timelines.
+
+**Kindly note that this role supports remote work, but only from within
+Ukraine.**
+
+### Responsibilities
+
+  * Achieve a seamless user experience across web applications
+  * Enhance performance and scalability of systems
+  * Deliver high-quality, maintainable code on time
+  * Collaborate with team members to innovate and implement new features
+  * Optimize code for maximum speed and efficiency
+  * Provide technical guidance and mentorship to less experienced team members
+  * Participate in code reviews to ensure code quality and best practices
+  * Maintain clear and comprehensive documentation for developed features
+  * Troubleshoot, debug, and upgrade existing software
+
+### Requirements
+
+  * Proficiency in Go Language with at least 3 years of experience
+  * Knowledge of Angular, TypeScript, and WebAPI
+  * Understanding of HTML and CSS
+  * Excellent verbal and written communication skills with the ability to explain technical concepts to non-technical stakeholders
+  * Strong collaboration skills and a team-oriented mindset
+  * Experience working in agile environments
+  * Analytical and critical thinking skills
+  * Proactivity in identifying and resolving issues
+  * Flexibility to adapt to changing requirements and timelines
+  * Capability to work in a fast-paced environment
+  * B1+ English level proficiency
+
+### Nice to have
+
+  * Experience with cloud services
+  * Background in API security practices
+
+### We offer
+
+  * With us you can:  
+
+    * Work on a flexible schedule remotely or from any of our comfortable offices or coworking spaces in Ukraine
+    * Receive the necessary equipment to perform your work tasks
+    * Change projects and technology stacks within EPAM
+    * Gain experience in various business domains (Insurance, E-commerce, Healthcare, Finance, Travelling, Media, Artificial Intelligence, and more)
+    * Relocation opportunities may be available for eligible candidates, depending on the role and openings at other EPAM locations
+    * Participate in volunteer, charity programs and communities (both technical and interest-based)
+  * We focus on your professional growth:  
+
+    * You can plan your individual career path together with your manager
+    * Receive regular feedback from colleagues
+    * Improve your English for free with certified teachers (Speaking Clubs, client interview preparation courses, etc.)
+    * Get the opportunity to undergo free training and certification in AWS, GCP, or Azure Clouds
+    * Use the internal E-learn training program (18,200+ specialized training and mentoring programs)
+    * Access corporate accounts on LinkedIn Learning, Get Abstract and other partner resources
+    * Study at EPAM Solution Architecture School with the instructors who are practicing architects
+    * Develop as a leader, join Delivery Management, Resource Management, Leadership Essentials school and more
+    * Participate in internal communities (500+ meetups, technical discussions, brainstorming sessions, online events and conferences annually)
+  * What we offer:  
+
+    * Vacation and sick leave (including a sick leave without a medical certificate)
+    * A wide range of Voluntary Medical Insurance programs providing both medical treatment and various preventive options (including sports activities)
+    * Medical insurance for family members at corporate rates
+    * Company support during significant life events (childbirth or adoption, marriage, etc.)
+    * Support for psychological comfort: discounts on services from mental health specialists or coaches, thematic training
+    * E-kids program — a free programming language training program for EPAMers’ children
+
+Kindly be advised that the set of benefits, including learning, certification,
+and other opportunities, may vary depending on the role you apply for. Our
+recruiter will be able to share more details about the specific opportunity
+during your general interview.
+
+EPAM strives to provide its global team of over 61,700 professionals in more
+than 55 countries with opportunities for professional growth from day one of
+collaboration. Our colleagues are the source of EPAM’s success, so we value
+cooperation, strive to always understand our clients’ business and aim for the
+highest quality standards. No matter where you are, you will join a dedicated,
+diverse community that will help you realize your potential to the fullest.

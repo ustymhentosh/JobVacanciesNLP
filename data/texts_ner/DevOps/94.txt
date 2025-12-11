@@ -1,0 +1,70 @@
+IT Manager (Infrastructure and Cloud)
+At Materialise, we are dedicated to delivering reliable, scalable, and secure
+systems that empower our business and stakeholders to grow and innovate. Our
+Global IT Cloud, Security, and Infrastructure team, composed of approximately
+20 talented professionals, is at the heart of this mission. The team is
+responsible for managing Materialise’s global IT infrastructure, safeguarding
+data, and providing robust platforms for our DevOps engineers.  
+  
+
+### Job description
+
+We are currently seeking a motivated manager to lead the DevOps Tools
+Engineering and Site Reliability Engineering teams. In this role, you will act
+as both a people manager and a functional leader, guiding your team to success
+while driving technical projects to completion. You will work closely with
+business stakeholders and IT management to set a consistent technical
+direction and identify opportunities to leverage new technologies for
+organizational success.
+
+### What you will do
+
+  * Team leadership and people management   
+
+    * Lead, mentor, and develop a team of skilled engineers
+    * Foster a culture of collaboration, innovation, and continuous improvement within the team
+  * Cross-functional collaboration   
+
+    * Collaborate closely with engineering, DevOps, and product teams to align efforts and achieve shared goals
+  * Incident management   
+
+    * Oversee incident response processes, ensuring timely resolution and thorough root cause analysis
+  * Strategic planning  
+
+    * Define and execute strategies related to SRE and DTE technologies, aligning with IT Management and business stakeholders
+  * Budget oversight   
+
+    * Manage and oversee the team’s budget, ensuring cost-effectiveness while meeting project and operational goals
+  * Project management  
+
+    * Manage and prioritize SRE and DTE-related projects, ensuring clear scope, on-time delivery, and collaboration with cross-functional teams. 
+
+### Your profile
+
+### Experience:
+
+  * 5+ years of experience in Site Reliability Engineering, DevOps, or related fields
+  * 2+ years of managerial experience, with a proven track record of leading technical teams
+
+### Technical skills:
+
+  * Strong understanding of cloud (AWS, Azure) and on-premise infrastructure (Windows, Linux, Active Directory, M365, Storage, Backup, ...)
+  * Knowledge of DevOps concepts and implementation strategies, including CI/CD pipelines and deployment strategies.
+  * In-depth knowledge of DevOps practices such as Infrastructure as Code (IaC) using tools like Terraform or Ansible, as well as version control systems like Git
+  * Familiarity with monitoring and observability tools to ensure system reliability and performance
+  * Experience implementing and managing automated testing frameworks in a DevOps environment
+
+### Leadership:
+
+  * Proven ability to lead and grow high-performing technical teams 
+  * Strong skills in People Management, fostering both individual and team development 
+
+### Project management and strategic management
+
+  * Experience managing and delivering technical projects, with a focus on system reliability, scalability, and performance improvements
+  * Strategic mindset with the ability to define and execute plans that align with organizational priorities
+
+### Communication:
+
+  * Clear and effective communication skills, with the ability to translate technical concepts for non-technical stakeholders
+  * Fluency in English

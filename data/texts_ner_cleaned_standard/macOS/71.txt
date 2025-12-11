@@ -1,0 +1,36 @@
+Senior iOS Developer
+Requirements:
+
+At least 4 years of experience as an iOS Developer;
+Swift and iOS SDK proficiency, OOP;
+Experience with MVVM + C, Combine , Packet Manager;
+Knowledge of Unit / UI Tests ;
+Understanding of memory management;
+Understanding of application lifecycle;
+Deep understanding of Jira/git and Zeplin/Figma;
+Team player who can also work quite independently.
+Nice to have:
+
+Experience with SwiftUI, Apollo GraphQL , CI/CD (gitlab), KMP.
+Responsibilities:
+
+Design, build, and maintain high performance, reusable, and reliable Swift code;
+Collaborate with cross-functional teams to define, design, and ship new application features;
+Translate designs and wireframes into high quality code (integrated with a micro-service back-end);
+Accountable for application security principles including the development of secure coding standards and practices;
+Optimization of resource consumption by mobile applications;
+Development of existing mobile applications;
+Work with outside data sources and API’s;
+Work on bug fixing and improving application performance;
+Publishing applications;
+Participation in the process of evaluating and planning tasks.
+We offer:
+
+Young and friendly team of marketing professionals;
+Competitive and timely salary;
+Paid vacations, undocumented and confirmed sick leaves;
+Free medical insurance, medical assistance;
+Сompensation for relevant seminars and conferences;
+Sports activities and remarkable corporate team building events;
+Legal and financial support;
+Comfortable office (guarded parking, metro in walking distance, snacks and refreshments).

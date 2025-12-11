@@ -1,0 +1,65 @@
+Middle Frontend developer
+Who are we, and what do we aspire to?
+
+Liven builds an ecosystem of products that help people understand themselves
+better, manage their thoughts, and, as a result, feel better.
+
+We believe that self-discovery is a lifelong journey and want to help people
+navigate it every step of the way. That’s why Liven is building a system of
+tools to help people compose themselves and grow into who they want to become.
+
+People use Liven to track their mood, process emotions, and untangle thoughts
+by chatting with an AI companion. They build new routines with a task planner,
+explore how their brain and body react to trauma through personalized courses,
+take well-being quizzes, and relax or refocus with soundscapes.
+
+Our goal is to become the No.1 brand in the wellbeing category.
+
+We aim to earn global trust by building an ecosystem of context-aware products
+for self-care and improvement. Our brand is optimistic and whimsical, yet wise
+and practical. We’re Liven! We bring joy back to life!
+
+You will:
+Participate in planning upcoming app iterations and influence key
+architectural and functional decisions;
+Work on upgrading and improving the frontend infrastructure;
+Grow not only technically, but also as a product-minded professional;
+Actively contribute to improving processes, technology stack, and
+development approaches.
+
+What’s important to us:
+2+ years of experience with JavaScript;
+Ability to write unit tests;
+Understanding and applying SOLID and GRASP principles;
+Experience with TypeScript and writing reliable, well-typed code;
+Experience with at least one major frontend ecosystem — Vue, Angular, or
+React;
+Curiosity and a desire to learn new things and help people around you grow;
+Writing clean, thoughtful, and maintainable code.
+
+Why Liven?
+
+People join Liven to bring to life the aspirations they once only dared to
+imagine.
+Here’s what we offer to support you personally and professionally while you
+grow with us:
+
+A culture that values your ideas and empowers initiative.
+A growing team of over 200 passionate professionals.
+Health insurance, in-house doctor, and massage therapy.
+Internal professional clubs on marketing, development, payments, customer
+experience, and entrepreneurship.
+Sports and passion clubs: functional training, stretching, yoga, running,
+board games and more.
+Opportunities for continuous learning and growth.
+Meaningful work that makes a real impact.
+
+We also fund projects that help overcome the consequences of the war and
+contribute to Ukraine’s recovery through the SKELAR foundation, a charity
+created and run by our employees.
+
+If you want to shape a product that helps people face challenges, process
+emotions, heal from trauma, rebuild a positive self-image, and rediscover joy
+Liven is the place for you!
+
+Apply now and let’s build something meaningful together.

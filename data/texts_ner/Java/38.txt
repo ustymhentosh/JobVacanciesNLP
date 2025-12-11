@@ -1,0 +1,53 @@
+Full-Stack iOS Developer (Swift / Java Spring Boot / AWS)
+We’re looking for a skilled Full-Stack iOS Developer to join a team building a
+next-generation photo documentation and collaboration platform. The product
+helps field teams capture, annotate, and share visual information efficiently,
+supporting industries like construction, property management, and facility
+maintenance.
+
+You’ll work on refining core mobile features, implementing new UI/UX elements,
+and extending backend APIs to support enhanced sharing and collaboration
+functionality.
+
+**Responsibilities**
+
+  * Implement new UI/UX components and interactive features in Swift, based on Figma or similar design specifications.
+  * Develop and maintain RESTful APIs and backend logic using Java Spring Boot.
+  * Integrate mobile features with cloud infrastructure (AWS ECS, S3, RDS) and third-party services (e.g., authentication, messaging, file storage).
+  * Optimize photo and data handling for speed, scalability, and reliability.
+  * Participate in code reviews, maintain high code quality, and write clear technical documentation.
+
+**Tech Stack**  
+Frontend (Mobile): Swift, UIKit/SwiftUI  
+Backend: Java Spring Boot, REST APIs, MySQL  
+Infrastructure: AWS (ECS, S3, Jenkins, Docker)  
+Other Tools: Firebase, Cloud Store, Twilio (or similar), HubSpot API  
+Version Control: GitHub
+
+  
+**Requirements**
+
+  * 4+ years of professional experience in iOS app development with Swift.
+  * Experience building or maintaining backends with Java Spring Boot or similar frameworks.
+  * Solid understanding of RESTful API design and client—server communication.
+  * Familiarity with AWS services, Docker, and cloud-based deployments.
+  * Knowledge of SQL databases (MySQL or PostgreSQL).
+  * Strong problem-solving skills and the ability to work independently within a distributed team.
+
+**Nice to Have**
+
+  * Experience with Twilio, Firebase Messaging, or other communication APIs.
+  * Prior work with AI-driven photo analysis, annotation tools, or SaaS collaboration platforms.
+  * Background in construction-tech, field operations, or visual data management solutions
+
+### **We offer**
+
+  * Flexible working hours.
+  * Fair salary (regular performance-based salary reviews).
+  * 20 working days paid vacation and 15 sick leaves.
+  * Fully paid medical insurance.
+  * English classes in the office.
+  * Bookkeeping and accounting on us.
+  * No time trackers — ability to do quality work.
+  * Approachable management, open to suggestions and innovations.
+  * Friendly team and enjoyable working environment

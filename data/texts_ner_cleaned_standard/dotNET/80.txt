@@ -1,0 +1,47 @@
+Senior .NET developer
+We are looking for a Senior .NET Developer for our client — a global
+product company developing cutting-edge trading technology solutions for
+regulated brokers and trading firms. Their SaaS products power electronic
+trading, brokerage operations, risk management, and financial data analysis
+worldwide.
+
+The ideal candidate is not just a coder but an engineer with a product mindset
+someone who understands the project end-to-end, proactively asks questions,
+and strives to make a real impact. This role requires taking ownership of
+solutions, collaborating closely with cross-functional teams, suggesting
+improvements, and contributing to the growth of high-performance trading
+platforms.
+Responsibilities
+
+Analysis and Design: Studying requirements, designing architecture, and decomposing tasks.
+Development and Coding: Writing clean, structured, and optimized C# code following SOLID, DRY, and YAGNI principles, working with APIs, databases, logging, and monitoring.
+Testing and Debugging: Creating unit/integration tests, fixing bugs, and optimizing performance.
+Database Management: Designing, optimizing queries, and managing migrations.
+CI/CD: Automating builds and deployments, working with Git and release processes.
+Refactoring and Optimization: Improving code readability, performance, and architecture.
+Deep technical collaboration : Driving architectural discussions, performing advanced code reviews, and supporting cross-functional integration at a low level.
+Ownership of production reliability : Diagnosing root causes of production issues, optimizing runtime behavior, and managing incident resolution pipelines.
+Mentoring : Training colleagues, assisting with complex technical challenges, and introducing new approaches and tools.
+Requirements
+
+5+ years of working experience with C#;
+Strong knowledge of the .NET stack (we are using .net core);
+Proven experience designing and implementing complex system architectures patterns;
+Deep practical knowledge of software development lifecycle;
+Experience in building resilient, high-load microservices with asynchronous communication and distributed data storage;
+Git, GitLab, understanding of CI\CD processes;
+Hands-on experience with Docker;
+Familiarity with RabbitMQ, Apache Kafka;
+
+In-depth expertise in TCP/IP stack, gRPC, WebSockets, and low-latency network optimizations;
+Knowledge of Relational DBs and NoSQL DBs — we are using Redis, MongoDB, PostgreSQL, and MariaDB;
+Advanced experience integrating observability stacks (e.g. OpenTelemetry, Prometheus, Grafana) for real-time diagnostics and distributed tracing.
+What in it for you
+
+Care from Day One: Medical insurance starting immediately (including dental care, massages, and professional psychological support) — because your well-being matters.
+Work-Life Balance: 25 days of paid vacation + 30 days of sick leave, so you can truly rest and recover without stress.
+Energy Investment: Partial reimbursement for sports activities to help you stay active and energized.
+Continuous Growth: Partial coverage for English or Ukrainian language courses plus a fixed budget for professional development — choose the learning path that fits you best.
+Knowledge Library: Access to a well-stocked office library and Kuka online library to learn, grow, and get inspired.
+Island Retreat: 14 days per year at the company’s corporate villa in Cyprus — perfect for recharging.
+Modern Offices: Unit City (Kyiv): Future-ready workspace designed for productivity, resilient to power outages. Larnaca (Cyprus): Stylish, comfortable office with open areas, cozy lounges, and fully equipped meeting rooms.

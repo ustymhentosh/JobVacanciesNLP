@@ -1,0 +1,50 @@
+Team Lead Java
+Are you an ambitious developer with expertise in **Java**? Are you ready to
+embrace the challenge of building a next-generation **AI-powered** **business
+process management** web platform from scratch? We’re looking for an advanced
+professional who is not only proficient in coding, but also isn’t afraid to
+change the IT industry and make a significant impact.
+
+As a **Lead Java Developer** on our team, you will work with other experts,
+collaborating on high-quality solutions, and your **daily tasks** will be:
+
+  * Developing and maintaining the back-end services (Workflow Engine) of our new internal web applications.
+  * Collaborate with other developers and stakeholders to identify and implement new features that improve the platform’s usability, maintainability, and scalability.
+  * Writing clean, maintainable, and efficient code.
+  * Diagnose and resolve system problems.
+  * Keeping up to date with the latest technologies and trends.
+  * Performing reviews and providing mentorship to less experienced colleagues.
+  * Be a strong leader and voice of our Java team **(6 months).**
+
+**YOU’LL STAND OUT IF YOU HAVE:**
+
+  * **5+ years’ experience** with Java.
+  * Experience with modern frameworks, such as Spring/Spring Boot or equivalent.
+  * Analytical skills and ability to turn a concept into a working solution.
+  * Experience with distributed system development.
+  * Good understanding of software development lifecycle.
+  * Understanding of Clean Code & Clean Architecture principles.
+  * Strong communication skills & prior experience leading a team
+  * Experience in AI/ML, DevOps, IoT and engineering area will be a **nice advantage**.
+
+**WHY PICHE?**
+
+Our project is a groundbreaking initiative aimed at creating a multi-lingual,
+cutting-edge web platform utilizing the newest technologies and tools. This is
+a greenfield project, providing the opportunity to work from the ground up on
+a truly innovative product. Our aim is to utilize AI technologies wherever
+possible to enhance and optimize our product, taking advantage of the vast
+potential that AI has to offer.
+
+**WE’RE HAPPY TO PROVIDE YOU WITH:**
+
+  * **Fully remote** work opportunities.
+  * Cutting-edge **AI project** with no analogue within the industry.
+  * Paid **day-off** on your Birthday.
+  * Official national holidays are our days off.
+  * Сompensation for studies and sports.
+  * Corporate accountant support.
+
+If you’re passionate about your craft, eager to learn and grow, and ready to
+be part of a groundbreaking project that’s set to change the landscape of the
+IT industry, **we’d love to hear from you.**

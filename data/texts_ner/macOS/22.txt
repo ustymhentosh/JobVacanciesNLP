@@ -1,0 +1,54 @@
+Kotlin Multiplatform (iOS) Developer
+### What is the project, and why should you care?
+
+This is an **innovative AI-driven personal assistant platform** designed to
+function as a “second brain,” helping users **capture, organize, and analyze
+their life experiences**.
+
+We are currently developing an **MVP** that will include **voice recording,
+transcription, and data analysis** , with a long-term vision of evolving into
+a **personalized digital twin**.
+
+Our team is seeking **experienced professionals** to help build this AI
+solution from scratch.
+
+### You will be an excellent fit for this position if you have:
+
+**Core Technical Skills**
+
+  * 5+ years of experience in **mobile frontend development (iOS/Android)**.
+  * 3+ years of **iOS development** (Swift / SwiftUI / UIKit).
+  * 2+ years of **Kotlin Multiplatform (KMP)** , including **Compose Multiplatform** for UI.
+  * Solid Kotlin skills (Coroutines, Flow, async programming).
+  * Strong knowledge of **modern mobile architectures** : MVI, MVVM, multi-module setups.
+  * Hands-on with **unit/UI testing frameworks**.
+  * App Store release process experience (provisioning, certificates, TestFlight).
+  * Familiarity with **native integrations** (Bluetooth, Microphone, local storage, encryption).
+  * Comfortable working with **REST APIs, JSON, Firebase, CI/CD (Fastlane, GitHub Actions, GitLab)**.
+
+**AI/ML-Related Skills**
+
+  * Experience integrating **on-device ML/AI models** (e.g., Whisper, Google ML Kit).
+  * Familiarity with **speech recognition, transcription, and TTS workflows**.
+  * Ability to integrate **AI APIs** (OpenAI, Azure Cognitive Services, AssemblyAI).
+  * Understanding of **privacy-first mobile AI practices** (local inference, data minimization).
+
+**Soft Skills**
+
+  * Strong communication and teamwork; able to collaborate with backend and QA.
+  * Proactive, ownership-driven, and detail-oriented.
+  * Curious about AI-driven UX, user feedback loops, and digital twin interactions.
+
+###
+
+### Here are some of the things you’ll be working on:
+
+  * Develop and maintain the **iOS frontend of the app** using **Swift/SwiftUI** and **KMP modules**.
+  * Build and optimize **cross-platform UI** with **Compose Multiplatform**.
+  * Ensure **smooth interoperability** between iOS native code and shared Kotlin code.
+  * Implement **AI-driven features** (speech-to-text, contextual AI responses) in the mobile app.
+  * Collaborate with the backend (Python/AI) team on **API and AI service integrations**.
+  * Monitor and optimize **performance, battery usage, and crash reports**.
+  * Drive **frontend testing strategy** (unit, UI, snapshot testing).
+  * Work with the Product Owner and QA to refine **acceptance criteria** and deliver polished features.
+  * Support **release management** for TestFlight and App Store distribution.

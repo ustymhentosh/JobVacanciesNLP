@@ -1,0 +1,61 @@
+Senior Full Stack Engineer (React+Node.js)
+We are looking for a **Senior Full Stack Engineer** to join one of our key
+travel tech teams at Teamvoy working on a long-term project in the travel
+domain. This role focuses on building the next generation of native travel
+advertising — a premium product suite connecting top global tourism brands
+with millions of travelers worldwide. You’ll work on a high-impact, cross-
+brand initiative, designing and implementing a brand-new monetisation engine
+from scratch. This is a unique opportunity to own full-stack systems across
+backend and frontend, shaping the future of the digital advertising experience
+at global scale.  
+  
+_**Tech stack:**_ React, TypeScript, JavaScript, Node.js, Express, Nest.js,
+PostgreSQL, MongoDB, DynamoDB, REST API, Docker, Kubernetes, CI/CD.
+
+**Requirements** :  
+• **6+ years o** f professional experience in full-stack development;  
+• Bachelor’s degree in**Computer Science**(or **other related** degree);  
+• **English** level **B2+** ;  
+• Strong frontend skills in **React, TypeScript, and JavaScript;**  
+• Hands-on experience with backend development using **Node.js**(Express,
+Nest.js or similar frameworks);  
+• Deep understanding of scalable architecture, RESTful APIs, and modern
+deployment pipelines;  
+• Experience working with **relational** and/or document **databases**
+(PostgreSQL, MongoDB, DynamoDB);  
+• Familiarity with CI/CD pipelines, containerization, modern deployment
+practices and monitoring tools;  
+• Experience integrating internal systems and external APIs or platforms;  
+• Strong product mindset and interest in building high-performance, user-
+facing systems;  
+• Strong problem-solving mindset and attention to code quality.
+
+  
+_**Will be a plus:**_  
+• Experience with advertising, accommodation, or payments-related systems;  
+• Familiarity with partner integrations and data exchange between services;  
+• Interest in product development and user experience optimisation.
+
+**What you will do:**  
+• Design, build, and maintain scalable backend services and APIs for
+monetisation and ad delivery;  
+• Develop responsive and user-friendly frontend components with React and
+TypeScript;  
+• Integrate internal and external systems to ensure smooth data exchange;  
+• Define and maintain clean API contracts to guarantee consistent interactions
+between services;  
+• Shape and optimise CI/CD, monitoring, and deployment pipelines;  
+• Collaborate closely with distributed teams across different regions to
+deliver new features and enhancements;  
+• Take ownership of new products from concept to production and contribute to
+technical decision-making.
+
+**What We Offer:**  
+• Great company atmosphere and comfortable communications;  
+• 20 working days of vacation and 20 sick days;  
+• Development support;  
+• Free English classes;  
+• Financial support for learning;  
+• Financial support for sports;  
+• Accounting support;  
+• Member of Lviv IT Cluster.

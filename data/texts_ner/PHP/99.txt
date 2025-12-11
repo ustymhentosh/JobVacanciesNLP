@@ -1,0 +1,56 @@
+Middle PHP Developer
+**Title of project:**
+
+CRM/ERP App for the textile industry
+
+**Project description:**
+
+There is a warehouse management system(WMS) for logistic companies of
+different kinds. The program offers support to all warehouse processes
+required by customers and could be developed individually per customer’s
+needs.
+
+You will become part of the Development team of 6 people with different skills
+and expertise. You will mostly be working in PHP and various versions of
+Symfony. You will be a part of streamlining our backend, but also taking the
+system to new heights and getting insights into our full portfolio of systems
+from backend to frontend.
+
+**Requirements:**
+
+  * Object-oriented development
+  * Good knowledge of PHP — preferred Symfony and Laravel (at least 3 years)
+  * Comfortable with SQL (MySQL is our preferred database)
+  * GIT
+  * Fluency in Ukrainian;
+  * Upper-intermediate or higher level of English.
+
+**Would be a plus:**
+
+  * JavaScript (Vue.js, exact, jQuery, or similar)
+  * HTML, CSS
+  * Experience with CD/CI
+
+**Responsibilities:**
+
+  * Code refactoring and improvements;
+  * Implementation of a scalable and high-load App;
+  * Development of Client and API application’s structure;
+  * CRUD operations of domain entities implementation;
+  * Direct communication with the development team and customers;
+  * Taking part in sprint planning and task evaluation.
+
+**Working conditions:**
+
+  * Compensation for sick leaves (10 days with 50% of compensation), vacation (20 days per year)
+  * Compensation for specialized courses, training, etc. (from 30% to 100%) — on hold
+  * Compensation for specialized software (from 30% to 100%) — on hold
+  * Bonus for sports activities (up to 50% paid by the company) — on hold
+  * English lessons
+  * Massage at the office
+  * Lawyer Services
+  * Car and bike parking lots
+  * Helping with registration and management of the PE
+  * IT Club Loyalty Program Membership
+  * Team buildings, pizza, and beer parties, corporate events
+  * Coffee, milk, and cookies at the office

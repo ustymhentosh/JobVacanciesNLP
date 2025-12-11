@@ -1,0 +1,69 @@
+Senior Java Developer Position at CC-Interactive
+**Senior Java Developer Position at CC-Interactive **
+
+**About CC-Interactive:**
+
+For the last 20 years, CC-Interactive has been a beacon of innovation and
+excellence in the digital solutions landscape. We have developed and delivered
+a diverse range of systems to the financial and telecommunications industry.  
+  
+We do both custom development and internal development of solutions and are
+looking for a dedicated Java Developer who wants to join our team in Kyiv.
+
+**Position Description:**
+
+As a Java Developer at CC-Interactive, you will:  
+* Be part of our Java development team to develop new solutions and improve existing ones.   
+* Be a crucial part of our team that oversees and extends our system architecture.   
+* Play a vital role in the development of new solutions, integrating with third-party systems to expand our product suite. 
+
+**Desired Skills and Experience:**
+
+Backend:
+
+* At least 3 years of experience in Java application development.   
+* Strong hands-on experience with Core Java, Spring Framework (Spring Core), Hibernate (ORM), XML, JSP. 
+
+Frontend:
+
+* Experience with Angular 14+, JavaScript, RxJs, NgRx, Material Design, Chart.js. 
+
+Big Data & Analytics:
+
+* Experience with Apache Cassandra, Apache Iceberg, Apache Spark. 
+
+Search & Indexing:
+
+* Knowledge of Elasticsearch or OpenSearch. 
+
+Databases:
+
+* Proficiency with PostgreSQL, Microsoft SQL Server (MS SQL), Oracle. 
+
+APIs & Communication:
+
+* Strong experience with REST APIs and WebSockets. 
+
+Message Brokers:
+
+* Hands-on experience with RabbitMQ and Apache Kafka. 
+
+DevOps & Tools:
+
+* Experience with Git and Docker. 
+
+Optional / Nice to Have:
+
+* Knowledge of GIS (Geographic Information Systems) chart data.   
+* Familiarity with Unix environments. 
+
+**What We Offer:**
+
+* Flexible working hours to support work-life balance.   
+* A dynamic, fast-paced working environment.   
+* Opportunities to participate in the entire lifecycle of product development.   
+* A platform to be creative and bring new ideas to life.   
+* Collaboration with an international team and a diverse range of clients. 
+
+**Application Process:** We are eager to welcome more women developers into
+our team and look forward to your applications!

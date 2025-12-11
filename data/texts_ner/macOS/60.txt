@@ -1,0 +1,124 @@
+macOS Engineer (3D graphics)
+_[MacPaw](https://macpaw.com/) is a software company that develops and
+distributes software for macOS and iOS. Today, we have 20 million active users
+across all our products._
+
+_At MacPaw, we believe humans and technology can reach their greatest
+potential together._
+
+_MacPaw is proud to be Ukrainian. The support and development of Ukraine are
+significant parts of the company’s culture. MacPaw gathers open-minded people
+who support each other and aspire to change the world around us._
+
+We’re looking for a mature, independent, and proactive **macOS Engineer** to
+join the team behind Eney, a brand-new product that’s just beginning its
+journey.
+
+[Eney](https://macpaw.com/eney) is an AI companion designed to help Mac users
+stay organized, automate their routine tasks, and focus on what matters most.
+
+We’re looking for someone who enjoys diving into complex and unfamiliar
+problems, is skilled at reading and understanding other people’s code, and can
+communicate technical concepts clearly to non-technical teammates.
+
+This is a unique opportunity to directly shape how the Eney character will
+look and behave — creating a one-of-a-kind macOS experience with no real
+analogs. Your ideas and expertise will have a tangible impact on the product’s
+future, and you’ll also have the opportunity to drive key technical decisions.
+
+If you’re excited about building something unique at the intersection of AI,
+3D animation, and macOS, we’d love to hear from you!
+
+### In this role, you will:
+
+  * Add new animations to the current 3D character
+  * Extend animation composer to let other team members experiment with animations independently
+  * Collaborate closely with designers, product managers, and non-technical teammates to bring ideas to life and explain technical decisions clearly
+  * Investigate, research, and prototype solutions for complex or unfamiliar technical challenges
+
+### **Skills you’ll need to bring:**
+
+  * Proven macOS/iOS development experience
+  * Proficiency in Swift
+  * Solid knowledge of computer science fundamentals
+  * Experience with native 3D graphics frameworks (e.g., Metal, SceneKit)
+  * Experience with 3rd-party 3D solutions and engines (e.g., Spline, Unity, Unreal)
+  * Hands-on experience with real-time animation of 3D objects
+  * Experience in shader programming (in any language)
+  * Ability to understand, maintain, and build upon other developers’ custom solutions
+  * Strong communication skills, ability to explain complex technical topics to non-technical colleagues
+  * Ability for self-learning, investigation, and research
+  * Intermediate (or higher) level of English for effective team communication
+
+**As a plus:**
+
+  * Objective-C knowledge
+  * Experience with interprocess communication
+  * Familiarity with CI/CD tools (GitHub Actions, Azure)
+  * Experience developing or supporting custom graphics pipelines
+
+### **What we offer:**
+
+  * **We are a Ukrainian company, and we stand with Ukraine against the russian aggression**   
+We maintain workplaces for the mobilized Macpawians and provide financial
+support to colleagues or their families affected by the war.
+[Here](https://macpaw.foundation/), you can also read about the MacPaw
+Foundation, which intends to help save the lives of Ukrainian defenders and
+provide relief to as many civilians as possible.
+
+  * **We are committed to our veterans  
+** Our Veteran Career and Empowerment Program is designed to ensure our
+veterans and active military personnel receive the recognition, support, and
+opportunities they deserve.
+
+  * **Hybrid work model  
+** Whether to work remotely or at the hub is entirely up to you. If you decide
+to mix it, our Kyiv office, which works as a coworking space, is open around
+the clock. The office is supplied with UPS and Starlink for an uninterrupted
+work process.
+
+  * **Your health always comes first  
+** We guarantee medical insurance starting on your first working month. For
+those abroad, you can receive a yearly Medical insurance allowance as
+compensation for managing your medical expenses.
+
+  * **Flexible working hours  
+** You can choose a schedule that is comfortable for you. No one here tracks
+your clock in/out because MacPaw is built on trust and cooperation.
+
+  * **Space to grow both professionally and personally  
+** Education opportunities to grow both hard and soft skills, annual
+development reviews, and internal community.
+
+  * **Teams we are proud of  
+** We build honest, transparent, and reliable relationships within teams.
+Every Macpawian can improve processes and implement their ideas. We encourage
+open and constructive feedback and provide training for Macpawians on giving
+and receiving feedback.
+
+  * **Office designed for people (and pets)  
+** Our office has it all: a spacious workplace with enough room for sitting
+up, lying down, and running around; a gym for recreation; cozy kitchens; a
+sleeping/meditation room; and a terrace with a view where we throw summer
+parties. Also, we have two cats living in the office, and you are welcome to
+bring your pets to the office (we have separate floors for cats and dogs).
+
+  * **Time-off policy that covers life’s needs  
+** Convenient personal time-off policy to help you take care of essential
+matters in your personal life, and parental leaves. On top of all that,
+sabbaticals are open after 5 years of being with MacPaw.
+
+  * **Join social initiatives with MacPawCares  
+** MacPaw participates in numerous humanitarian aid and charity projects
+across many fields, and you are welcome to jump in to make the world a better
+place.
+
+  * **We’re an equal-opportunity employer. Here is a safe place for applicants of all backgrounds  
+** We are hiring talented humans. Meaning with all our variety of backgrounds
+and identities, including service members and veterans, women, members of the
+LGBTQIA+ community, individuals with disabilities, and other often
+underrepresented groups. MacPaw does not discriminate on the basis of race,
+color, religion, sex, sexual orientation, gender identity, national origin,
+veteran or disability status.  
+  
+_*Some benefits are under development, and new adjustments are possible._

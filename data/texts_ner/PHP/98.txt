@@ -1,0 +1,48 @@
+WordPress Full-Stack Developer (Middle+)
+### **About the Role:**
+
+We are looking for an independent and responsible Full-Stack Developer with
+strong experience in PHP and WordPress development — including custom plugin
+creation, theme development, and front-end implementation. The ideal candidate
+should also have at least 1 year of hands-on experience with React and a basic
+understanding of PHP frameworks.  
+You should be comfortable working with servers on a user level — connecting
+via SSH, setting up local environments, and handling basic deployment tasks.
+
+### **Responsibilities:**
+
+  * Develop and maintain high-quality WordPress websites (themes, plugins, custom functionality)
+  * Build front-end components using React and modern JS tooling
+  * Collaborate with designers and backend developers to deliver seamless user experiences
+  * Optimize website performance and ensure code quality through best practices (OOP, SOLID principles)
+  * Set up and maintain local environments; deploy updates via SSH or related tools
+
+### **Requirements:**
+
+  * Minimum 3 years of commercial experience in full-stack or PHP/WordPress development
+  * Strong proficiency in PHP (7.4+)
+  * Excellent understanding of OOP and SOLID principles
+  * Advanced WordPress experience — theme and plugin development
+  * Solid knowledge of JavaScript / jQuery
+  * Experience with SCSS and build tools (Webpack / Vite / Gulp)
+  * At least 1 year of experience with React
+  * Experience with Laravel or other PHP frameworks (Yii / Symfony)
+  * Basic understanding of server environments and SSH
+  * Intermediate English (B1)
+
+### **Nice-to-Haves:**
+
+  * Experience working with Shopify
+  * Deep experience with React and [Next.js](http://next.js)
+  * Deep experience with PHP frameworks
+  * Familiarity with DevOps tools (Docker, CI/CD pipelines)
+  * Experience with other front-end frameworks (Vue.js / [Nuxt.js](http://nuxt.js))
+
+### **What we offer:**
+
+  * Flexible schedule: Mon—Fri, with the option to take extra days off with prior agreement
+  * Remote-friendly setup: work from anywhere — we’ll provide the tools you need
+  * Time off: 12 paid vacation days per year + possibility to take unpaid day-offs
+  * Team support: a kind and collaborative team where your voice matters — we value people above all
+  * Competitive salary with regular reviews
+  * Hourly-based payment with bench availability

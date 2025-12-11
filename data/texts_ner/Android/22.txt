@@ -1,0 +1,31 @@
+React Native Android developer
+Our client is a Ukrainian engineering and technology company specializing in
+restoring telecommunication infrastructure and ensuring connectivity in areas
+affected by military actions using 3G/4G technologies. Their work combines
+social responsibility, innovation, and strong technical expertise to support
+national mobility and security.
+
+**Responsibilities**
+
+  * Create and maintain new features and components for our mobile applications on Android using React Native.
+  * Work on improving the speed and stability of our applications.
+  * Work closely with UI/UX designers, fellow developers, and product managers to translate functional requirements into a reality.
+  * Adhere to coding standards, write clean, well-documented code, and participate in code reviews.
+  * Diagnose and resolve bugs and technical issues.
+
+**Requirements**
+
+  * 3+ years of professional mobile development experience.
+  * Deep knowledge of React Native and the Android ecosystem.
+  * Experience with TypeScript/JavaScript (ES6+).
+  * Strong understanding of functional programming principles and design patterns.
+  * Experience working with APIs and networking libraries (e.g., Axios, Fetch).
+  * Proficiency with version control systems (Git).
+  * The ability to learn independently and solve complex technical challenges.
+
+**We offer**
+
+  * Official employment
+  * Timely and fair compensation
+  * Employee insurance/guarantees
+  * Opportunity to contribute to speeding up Ukraine’s victory

@@ -1,0 +1,50 @@
+Strong Junior Full Stack Developer
+About Bitmedia Labs:
+Bitmedia Labs — an international product IT company, has been in the industry
+since 2014, effectively functioning on a worldwide scale with a crew of 100+
+ambitious and highly skilled professionals, creating successful projects in
+domains such as online advertising systems for the crypto space, blockchain
+games and NFT products.
+
+Requirements:
+At least 1 years of professional experience with Node.js and any modern
+frontend framework (React.js, Vue.js, Angular, etc.);
+Commercial experience with any database systems (SQL or NoSQL);
+Experience with Jira/Confluence;
+Strong experience in creating adaptive and responsive layouts with HTML5 and
+CSS3, including pixel-perfect and flexbox layout techniques;
+Proficiency in using Git as a code versioning tool;
+Solid understanding of networking, DNS, and sockets;
+Experience with at least one CSS preprocessor (such as Stylus, Sass, Less,
+or SCSS) or PostCSS;
+Passion for continuous learning, with the ability to stay up-to-date with
+the latest technologies and incorporate them into your work;
+Excellent self-management skills, with a high level of autonomy;
+Strong critical thinking skills, with the ability to troubleshoot and solve
+problems independently;
+Excellent communication and collaboration skills.
+
+Nice to have:
+Experience with Clickhouse, Cassandra;
+Experience with Next.js.
+Experience with containerization technologies, Docker in particular;
+Familiarity with Blockchain technology and its potential applications;
+Familiarity with CI/CD tools;
+
+Hiring process:
+Intro call with a Recruiter — Interview with the Hiring team — Сollection of
+recommendations — Offer.
+
+We offer:
+Flexible work environment — you can work remotely anywhere or at our
+comfortable Hub in Kyiv;
+The 8-hours working day with a flexible schedule;
+Competitive salary based on your experience;
+Regular performance review and annual salary review;
+Paid sick leaves, vacation and holidays;
+Professional development tools (reimbursement of educational courses or
+workshops, conferences around the world);
+Ambitious team with a transparent communication and friendly atmosphere, no
+micromanagement;
+Apple equipment;
+Memorable gifts for holidays.

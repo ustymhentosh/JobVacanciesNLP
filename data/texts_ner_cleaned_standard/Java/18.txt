@@ -1,0 +1,40 @@
+Java Software Engineer
+Project Description
+
+Join a leading premium retail brand with over 350 stores across the U.S. and
+Canada and annual revenues exceeding $15 billion. As part of its technology
+organization, engineers apply scientific, mathematical, and social principles
+to design, build, and maintain products, devices, systems, and solutions.
+These innovations enable exceptional customer experiences while fulfilling
+core business needs.
+
+We’re currently looking for talented engineers based in Poland to join the
+team and contribute to the development of large-scale, high-impact solutions
+within a global environment. The role carries functional-level scope,
+responsibility, and accountability.
+Responsibilities
+
+Design and collaborate with local and partner teams;
+Test all scenarios and confirm to quality standards;
+Identify performance issues; apply knowledge of security coding practices and secure system fundamentals (e.g., cross-site scripting, security certificates);
+Demonstrate thorough knowledge of information technology concepts, issues, trends, and best practices as they relate to the discipline/practice;
+Demonstrate advanced knowledge of specific needs of a major line of business and the related set of applications, systems, or functions.
+Skills Required
+
+Be proficient in Java/Spring Boot and comfortable designing and implementing REST/GraphQL services
+Have practical experience with Kubernetes, Kafka, and AWS services
+Understand system design principles and be able to think through integrations with other components or systems
+
+Core Skills:
+
+Cloud: AWS (GCP experience is a plus)
+Backend: Java, Spring Boot
+Databases: MySQL, Aurora DB (or similar relational databases)
+Streaming & Messaging: Kafka streaming / REST APIs
+DevOps: GitLab/GitHub, CI/CD pipelines
+Containerization & Orchestration: Docker, Kubernetes
+
+Nice to Have:
+
+Familiarity with Confluent Cloud
+Basic knowledge of Python for scripting or tooling

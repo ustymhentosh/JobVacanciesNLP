@@ -1,0 +1,67 @@
+Middle Backend Engineer (.Net) in Remote (Poland or Romania only)
+Binariks is looking for a highly motivated and skilled Middle Backend
+Engineer(.Net) for our client, a global provider of healthcare solutions
+specializing in data analytics, software development, and digital
+transformation. You’ll join a team working on a platform for an American
+industry leader in scientific instrumentation and life sciences. The product
+supports research in pharma and healthcare by delivering digital solutions
+that drive innovation and improve outcomes.
+
+What We’re Looking For:
+
+4+ years of proven experience with .Net
+
+Hands-on experience and proficiency with C# .Net, specifically Azure Cloud usage
+
+Solid understanding of software development methodologies
+
+Knowledge of RESTful APIs and microservices architecture
+
+Strong understanding of serverless architecture and cloud computing principles
+
+Experience with building data ingestion with multiple file formats, API integration
+
+Strong knowledge of TDD, BDD, including writing unit tests, integration, and E2E testing
+
+Excellent problem-solving skills and attention to detail
+
+Bachelor’s degree in computer science, engineering, or a related field (or equivalent work experience)
+
+Strong analytical and problem-solving abilities
+
+Good written and verbal communication skills
+
+Ability to work effectively in a team setting
+
+Willingness to learn new technologies and adapt to changing requirements
+
+Ability to manage multiple tasks and prioritize effectively
+
+At least an Upper-Intermediate level of English for daily communication
+
+Your Responsibilities:
+
+Develop scalable, maintainable, and secure software applications
+
+Collaborate with engineers, product managers, and designers to understand requirements and assist in designing solutions
+
+Develop and execute automated tests to ensure software quality
+
+Participate in code reviews to ensure code quality and adherence to best practices
+
+Assist in implementing CI/CD pipelines to automate the build, test, and deployment processes
+
+Participate in the resolution of production issues and provide support in troubleshooting
+
+Contribute to a culture of continuous learning and improvement within the team
+
+Will be a Plus:
+
+Experienced with other elements of the client’s tech stack
+
+Experienced with infrastructure-as-code tools such as Bicep, ARM Templates, Terraform, or similar
+
+Contributions to open-source projects or personal projects
+Certifications:
+Microsoft Certified: Azure Developer Associate
+Microsoft Certified: Azure Solutions Architect Associate

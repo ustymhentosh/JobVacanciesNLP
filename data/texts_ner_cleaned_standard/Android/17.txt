@@ -1,0 +1,81 @@
+Team Lead Android team
+Дорогі кандидати, розглядаємо тільки тих розробників, які знаходяться в
+Україні.
+
+Якщо протягом 5 днів ви не отримаєте відповіді, це може свідчити про
+автоматичну відмову. Дякуємо за розуміння!
+
+We are looking for a person who enjoys working in a team.
+
+This person enjoys analyzing business requirements, breaking them down, and
+figuring out how to represent them in a project. He is a person who
+understands the importance of the right interaction and task set by other
+developers and QA.
+Join us with:
+
+5+ years of experience in the development of Android apps that use web
+services
+
+strong knowledge of OOP, SOLID
+
+strong knowledge of Android Architecture components
+
+strong knowledge of Android UI design principles, patterns, and best
+practices
+
+strong knowledge of Android SDK, Kotlin, Client-Server architecture, Rest
+API, SQL
+
+strong knowledge of Clean Architecture, MVVM Pattern
+
+unit tests
+
+English — intermediate+
+
+Nice to have:
+
+jetpack Compose
+
+multi-module experience
+We are offering:
+
+medical insurance and healthcare program
+
+trust-based working with a flexible schedule (from 8-10 a.m to 5-7 p.m)
+
+birthday gifts
+
+paid vacation (20 working days) and sick days
+
+work in a comfortable office/remotely in Odessa
+What should you do:
+
+design of architecture of new modules
+
+team management
+
+development of new features
+
+implementation of retail business processes
+
+fixing existing bugs
+
+writing of system requirement specifications
+
+review code
+About us
+
+Nayax is a global Fintech company, specializing in cashless payment solutions
+for unattended points of sale such as vending machines, check-out stations, EV
+chargers, Laundromats, and more.
+
+Nayax’s proprietary software and hardware provide a complete solution for
+contact, swipe, and contactless payments including credit & and debit cards,
+pre & post-paid cards, mobile apps, and QR codes.
+
+Our web-based back office provides real-time telemetry for remotely managing
+vending machines or other unattended businesses.
+
+Nayax products can be found all over the world, with branches in 9 countries,
+and 40 distributing partners. Our products serve consumers in 55 countries and
+accept 26 currencies.

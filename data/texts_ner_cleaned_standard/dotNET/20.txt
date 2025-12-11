@@ -1,0 +1,94 @@
+Middle .NET Developer for Payments Team
+GR8 Tech is a global product company that provides innovative, scalable
+platforms and business solutions for the iGaming industry.
+
+We have а great experience: GR8 Tech platform successfully handles millions of
+active players and offers best practices to develop and grow in the gambling
+industry. We are here to provide great gaming tech to satisfy even greater
+ambition!
+
+We develop complete tech coverage for gambling businesses worldwide, including
+iGaming platform solutions, consulting, integration, and long-lasting
+operation services.
+
+We are driven by our ambition to make a great product with great people!
+Together we move the world of iGaming forward — join!
+
+What You’ll Be Driving:
+Writing, testing, and debugging software applications to ensure
+functionality and efficiency;
+Developing and implementing new features based on project requirements;
+Participating in code reviews and ensuring adherence to coding standards;
+Collaborating with cross-functional teams to deliver high-quality solutions;
+Troubleshooting and resolving software issues and performance bottlenecks;
+Optimizing applications for scalability, reliability, and performance;
+Developing and maintaining unit and integration tests;
+Providing technical guidance and support to junior engineers;
+Maintaining technical documentation and contributing to project planning;
+Staying up to date with modern technologies and best development practices.
+
+What Makes You a GR8 Fit:
+3+ years of experience in a similar role;
+Strong proficiency in C# and .NET Core, including object-oriented design,
+asynchronous programming, dependency injection, and best practices for
+scalable backend development;
+Experience in designing and developing RESTful Web APIs using ASP.NET Core,
+with a focus on performance, security, and integration in microservices
+environments;
+Hands-on experience with microservices architecture and design patterns,
+including event-driven systems, CQRS, service discovery, and resilience
+patterns (e.g., circuit breaker, bulkhead, rate limiter);
+Solid understanding of databases and SQL, including schema design,
+optimization, normalization/denormalization, and experience with PostgreSQL
+(or similar relational DBs);
+Proficiency with message brokers (Kafka preferred), including
+producer/consumer integration and stream processing concepts;
+Practical experience with containerization and orchestration tools, such as
+Docker and Kubernetes, and knowledge of DevOps practices, CI/CD pipelines, and
+automation tools (e.g., GitLab CI, Terraform);
+Good grasp of cloud computing concepts (IaaS, PaaS, SaaS) and familiarity
+with major cloud providers like AWS, Azure, or GCP;
+Strong debugging, performance tuning, and profiling skills to identify and
+resolve bottlenecks in backend systems;
+Experience with unit testing and TDD, using frameworks such as MSTest,
+xUnit, or NUnit, and commitment to code quality and maintainability;
+Understanding of software architecture and security fundamentals, including
+secure coding practices, authentication/authorization, encryption, and common
+vulnerability mitigation;
+Intermediate English and fluent Russian or Ukrainian proficiency is a must.
+
+Why You’ll Love Working Here:
+
+Benefits Cafeteria
+An annual fixed budget that you can use based on your needs and lifestyle. You
+decide how to allocate it:
+
+Sports — gym, yoga, or any activity to keep you active;
+Medical — insurance and wellness services;
+Mental health— therapy or coaching support;
+Home office — ergonomic furniture, gadgets, and tools;
+Languages — courses to improve or learn new skills.
+
+Work-life
+Parental support with paid maternity/paternity leave and monthly childcare
+allowance;
+20+ vacation days, unlimited sick leave, and emergency time off;
+Remote-first setup with full tech support and coworking compensation;
+Regular team events — online, offline, and offsite;
+Learning culture with internal courses, career development programs, and
+real growth opportunities.
+
+Our Culture & Core Values
+GR8 Tech culture is how we win. Behind every bold idea and breakthrough is a
+foundation of trust, ownership, and a growth mindset. We move fast, stay
+curious, and always keep it real, with open feedback, room to experiment, and
+a team that’s got your back.
+
+FUELLED BY TRUST: we’re open, honest, and have each other’s backs;
+OWN YOUR GAME: we take initiative and own what we do;
+ACCELER8: we move fast, focus smart, and keep it simple;
+CHALLENGE ACCEPTED: we grow through challenges and stay curious;
+BULLETPROOF: we’re resilient, ready, and always have a plan.
+
+To keep things efficient, please apply only for roles that closely match
+your experience.

@@ -1,0 +1,97 @@
+Java Developer
+About us:
+
+ARRISE sets the benchmark for service delivery and excellence in the iGaming
+industry. Playing a key role in the success of its clients, which include
+Pragmatic Play, a brand relied upon by the world’s biggest online casinos for
+its cutting-edge products, ARRISE helps to deliver exceptional gaming
+experiences to millions of players worldwide.
+
+Our global team of talented and driven professionals are shaping the future of
+iGaming. Headquartered in Gibraltar, we have offices spanning Canada, India,
+the Isle of Man, Latvia, Malta, Romania, Serbia, Bulgaria, and the UAE, and
+more exciting destinations on the horizon.
+
+At ARRISE, we take pride in creating growth opportunities at all levels,
+constantly investing in our people while welcoming new colleagues and forging
+strategic partnerships that open new opportunities for success.
+
+To achieve this, we bet on ourselves. We know that success is a collective
+effort, and our team is driven by ambition, collaboration, and a shared
+commitment to grow and succeed—while embracing every step of the journey.
+
+Be part of the future of iGaming with ARRISERS! See a job that excites you?
+Apply now, and our friendly recruitment team will connect with you soon. Your
+journey starts here!
+
+Required Skills:
+
+5+ years of hands-on experience in commercial software development using Java.
+
+Solid understanding of Object-Oriented Programming (OOP) concepts and proficient in applying design patterns.
+
+Extensive expertise in Java Core and the Spring framework (including Spring Boot, Spring Web, Spring Data).
+
+Proficiency in vanilla JDBC for database interactions.
+
+Strong understanding of RDBMS concepts and SQL, with experience working with databases such as PostgreSQL.
+
+Experience with distributed messaging systems, particularly RabbitMQ.
+
+Proven track record in the development of microservices and distributed transactional systems.
+
+Knowledge of fundamental design principles for building scalable and highly available applications.
+
+Good foundation in algorithms, design patterns, and data structures.
+
+Proficiency in unit/functional testing frameworks such as JUnit 4/5, Spock, and Testcontainers.
+
+Will be a plus:
+
+Familiarity with NoSQL databases like Redis.
+
+Experience with Kubernetes and Nomad.
+
+Experience with AWS services.
+
+Experience with Oracle databases.
+
+Experience in application and infrastructure monitoring.
+
+Proven ability to troubleshoot production problems related to software applications.
+
+Exposure to high-load systems.
+
+Good spoken and written English skills.
+
+Responsibilities:
+
+As a Java Software Engineer, you will play a pivotal role in engineering and
+implementing a high-loaded enterprise system that serves tens of thousands of
+users logging into our product every day. Your responsibilities will include:
+
+Collaborating with cross-functional teams to design, develop, and maintain robust software solutions that meet the needs of our enterprise-level system.
+
+Architecting scalable and efficient Java-based components to ensure optimal performance under high load.
+
+Implementing best practices in software engineering, including code reviews, testing methodologies, and documentation standards.
+
+Optimizing system performance and reliability through continuous monitoring, troubleshooting, and performance tuning.
+
+Participating in the entire software development lifecycle, from requirements gathering and design to deployment and support.
+
+Staying up-to-date with the latest technologies and industry trends to continuously improve our system architecture and development processes.
+
+Company offers:
+
+Long-term employment.
+
+Flexible timetable.
+
+Comfortable working conditions.
+
+Paid vacation and sick leaves.
+
+English lessons, gym.
+
+Competitive salary level.

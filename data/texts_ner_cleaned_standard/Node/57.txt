@@ -1,0 +1,61 @@
+Senior Backend Developer (Node.js / NestJS / AWS)
+About us
+
+We’re a Ukrainian startup building a new generation of route-
+optimization and delivery-automation tools for couriers, drivers, and
+service businesses.
+
+Our vision — transform chaotic, inefficient deliveries into a seamless,
+intelligent ecosystem for both individuals and companies.
+
+Now building a scalable, production-grade product from scratch — the
+foundation for future B2B ecosystem
+
+We’re looking for a Senior Backend Engineer to lead the backend
+direction and help architect the foundation for a system designed to scale
+from thousands to millions of users.
+Your role
+
+Lead backend architecture for a next-generation mobile app that will scale to
+millions of users. Work directly with the founder to design the system’s
+architecture, performance, and scalability.
+What you’ll do
+
+Architect and implement backend systems using Node.js (NestJS)
+Design scalable data models with PostgreSQL or MongoDB
+Build a modular, high-performance backend ready for multi-service expansion
+Develop containerized infrastructure (Docker + Kubernetes)
+Take part in the configuration and management of AWS environments (ECS/Lambda, S3, RDS, CloudWatch)
+Collaborate with mobile developers for seamless API integration
+Optimize performance, scalability, and fault tolerance
+Required skills
+
+4+ years of backend development with Node.js / TypeScript
+Expertise with NestJS and microservice or monolithic architecture
+Proficiency in PostgreSQL or MongoDB (schema design, indexing, scaling)
+Experience building distributed, high-load systems
+Strong understanding of AWS (EC2, S3, Lambda, RDS, CloudWatch, IAM)
+Hands-on with Docker, Kubernetes, and CI/CD
+Knowledge of cloud-native design and horizontal scalability
+Strong ownership and independent decision-making
+Nice to have
+
+Event-driven systems (Kafka, RabbitMQ, SQS)
+Real-time data flows (WebSockets, Pub/Sub, Firebase)
+Clean architecture patterns
+Soft skills
+
+Strong technical leadership and architectural thinking
+Clear communication and collaboration
+Proactive problem-solving approach
+Ability to work independently in a startup environment
+What we offer
+
+Core role from day one — shape the entire backend system
+Half autonomy to architect, experiment, and define standards
+Long-term collaboration and meaningful technical growth
+Direct work with the founder, product, and design
+Remote-first, async-friendly, zero bureaucracy
+
+To apply: Send your CV and briefly describe your most technically
+challenging backend project.

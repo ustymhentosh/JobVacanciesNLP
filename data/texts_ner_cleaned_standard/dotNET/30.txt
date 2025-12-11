@@ -1,0 +1,76 @@
+Senior Full Stack (.Net) Engineer for a Norwegian provider of smart video-centric IoT services
+Norwegian provider of smart video-centric IoT services
+
+About The Company
+
+The Company is a market leader in surveillance equipment in its home market,
+Norway. We design and deliver both software and hardware, continuously
+developing digital video-detection and video-surveillance products to meet
+future security and monitoring needs. Our in-house software platforms are
+gaining increasing international recognition, serving clients who rely on
+real-time, high-performance, and scalable systems.
+
+We are now expanding our engineering team to strengthen our video-centric IoT
+ecosystem — and we’re looking for a Senior Full Stack Engineer who thrives
+at the intersection of deep system optimization and modern web technologies.
+
+About the Role
+
+You’ll be part of a highly skilled, cross-functional team building and
+optimizing video surveillance and detection systems already in production use.
+The work involves memory optimization, high-performance C# development, and
+building scalable microservice architectures with modern front-end interfaces.
+Your impact will span from core performance engineering (CPU, memory, storage
+considerations) to frontend user experience with React and Blazor. You’ll also
+contribute to architecture design and long-term technical decisions shaping
+Detec’s international product line.
+
+Responsibilities
+
+Analyze user and system requirements.
+Design and implement scalable, fault-tolerant software solutions for our clients.
+Write, test, and refine code to ensure compatibility, stability, and performance.
+Produce clear, maintainable technical documentation and specifications.
+Expand and optimize existing software to meet evolving needs.
+Collaborate across teams on architectural decisions, performance profiling, and integration strategies.
+
+Your Skills & Experience
+
+Bachelor’s degree in Software Engineering, Computer Science, or related field.
+5+ years of software development experience (open to strong mid-level engineers ready for senior responsibility).
+Deep knowledge of C# ecosystem
+Strong understanding of computer architecture, data structures, and operating systems.
+Proven experience with React, Blazor, or Angular for frontend development.
+Proven experience in designing and optimizing data storage and retrieval systems across relational (RDBMS), key-value, document-oriented, and other NoSQL databases.
+Experience with microservices (.NET Core, Kubernetes, Dapr)
+Optional: Experience with AI/ML frameworks or tools (TensorFlow, PyTorch, OpenCV).
+Comfortable working with hardware-level considerations (CPU, memory, disk I/O).
+Strong analytical thinking, attention to detail, and eagerness to learn new technologies
+
+You’ll Fit In If You
+
+Enjoy optimizing code for performance and scalability.
+Thrive in technically challenging projects with real-world impact.
+Value clean code, collaboration, and end-to-end ownership.
+Are curious, analytical, and enjoy learning across the full stack.
+
+Benefits regulated by Norwegian Law
+
+25 days of paid vacation
+Paid public holidays in your country of residence
+5 days of paid sick leave
+Additional childbirth leave
+Annual remuneration review
+Onsite onboarding (1–2 weeks in Oslo, Norway)
+Hardware support if needed
+
+Recruitment Process
+
+Screening interview with a recruiter (1 hour)
+Deep technical interview with the client, including a live coding challenge (1.5 hours)
+Reference check
+Job offer
+
+Ready to join a Norwegian market leader in smart video detection technology?
+Apply now and help shape the next generation of video-centric IoT solutions
+with The Company.

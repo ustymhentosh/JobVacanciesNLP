@@ -1,0 +1,68 @@
+Senior Full-stack Developer (Security-focused)
+### Job Description
+
+[Paybis.com](http://paybis.com/) is on the edge of the crypto-fintech
+industry, competing in a fast growing market. As one of our key components,
+our developer team is taking care and developing our platform to enable
+thousands of customers to easily acquire cryptocurrencies on a monthly basis.
+
+We are looking for a Senior Security-Focused Full-Stack Engineer with expert-
+level proficiency in JavaScript (Vue 3, Nuxt) and PHP (Symfony), extensive
+experience in commercial projects and a strong emphasis on application
+security. You are a sharp, analytical thinker with a security-first mindset,
+capable of architecting, developing and securing scalable user-facing
+applications, APIs and reusable components while anticipating and mitigating
+modern web threats such as XSS, CSRF, IDOR, SSRF and business logic
+vulnerabilities. In this role, you will lead technical decision-making,
+enforce secure coding standards and best practices and mentor mid-level and
+junior developers to strengthen both their development skills and security
+awareness. You will collaborate closely with DevOps, Security team and CISO to
+ensure secure deployments, proper configuration management and robust
+monitoring, while integrating security testing and automation into CI/CD
+pipelines. Your ability to balance performance, scalability and security,
+combined with a commitment to continuous learning, innovation and fostering a
+security-first culture, is essential for driving the team and the organization
+toward more resilient and secure software solutions.
+
+### Key competences
+
+  * Strong analytical and problem-solving skills with a proactive mindset toward risk reduction.
+  * Deep understanding of secure web development principles and OWASP Top 10.
+  * Ability to architect systems with security and scalability in mind.
+  * Experience driving secure coding standards, conducting secure code reviews.
+  * Excellent understanding of network and infrastructure security fundamentals (TLS, reverse proxies).
+  * Capable of balancing security and product requirements in real-world systems.
+  * Effective communication skills and ability to translate technical security issues into actionable recommendations.
+
+### Key responsibilities
+
+  * Design, develop and maintain secure, efficient and scalable web applications.
+  * Implement and enforce secure coding practices throughout the development lifecycle.
+  * Lead and support threat modeling for new and existing systems.
+  * Collaborate with DevOps, Security teams, and the CISO to strengthen system security and CI/CD processes.
+  * Conduct code reviews for critical components, guiding developers in identifying and fixing vulnerabilities.
+  * Educate peers, improve awareness and drive a security-first culture.
+
+### Technical experience
+
+  * 5+ years of full-stack development experience (frontend + backend).
+  * Strong experience with JavaScript/TypeScript (Vue 3, Nuxt) and PHP (Symfony 6/7).
+  * Solid understanding of OOP, DDD and secure design patterns.
+  * Proven experience with API security.
+  * Deep knowledge of web application vulnerabilities (XSS, CSRF, SSRF, IDOR, etc.) and practical mitigation techniques.
+  * Experience with application-level encryption, secrets management and secure session handling.
+  * Familiarity with static and dynamic analysis tools (e.g., SonarQube, Snyk, OWASP ZAP).
+  * Knowledge of secure CI/CD and DevSecOps practices.
+  * Understanding of infrastructure and cloud security.
+  * Strong testing experience, including unit, integration, e2e and security regression testing.
+
+### We Offer
+
+  * Exciting and challenging work in the fast-developing environment
+  * Friendly, supportive & highly skilled team, constantly focusing on improving efficiency
+  * Modern technology stack, service oriented architecture in the cloud
+  * Unique and trending fintech & cryptocurrency industry
+  * Product company that focuses on it’s product perfection
+
+If you’re ready to make an impact in the fintech world and join a forward-
+thinking company, apply now to be part of our journey at Paybis!

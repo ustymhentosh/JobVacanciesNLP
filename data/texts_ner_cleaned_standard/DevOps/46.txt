@@ -1,0 +1,28 @@
+DevOps Engineer
+We are looking for a DevOps Engineer to join our company! Open to both
+full-time and part-time cooperation.
+
+Requirements :
+
+Experience in DevOps, infrastructure, or a similar role — at least 3 years
+Fundamental knowledge of basic AWS services
+Hands-on experience with cloud infrastructure (preferably AWS)
+GitOps mindset combined with knowledge of CI/CD methodologies and tools.
+(Jenkins pipeline\ Gitlab)
+Hands-on experience in Linux
+System administration and troubleshooting experience with Linux in a
+production environment — advantage
+Experience with Docker, Docker Compose
+Technologies for automating backup tasks
+Knowledge of log collection, monitoring, and alerting solutions
+English — Intermediate and higher
+Virtualization technologies
+
+We offer:
+Competitive payment;
+Regular inspection of wages and qualifications;
+Official employment;
+Professional development;
+Conferences/certifications/seminars are paid by the company;
+Free English lessons;
+Friendly staff.

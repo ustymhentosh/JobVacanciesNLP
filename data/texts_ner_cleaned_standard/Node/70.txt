@@ -1,0 +1,87 @@
+Strong Junior NodeJS Engineer
+The UKEESS Software House team is currently looking for aStrong Junior
+NodeJS Engineer to join our team for a full-time position (remotely in
+Ukraine or in Lviv’s office).
+
+About the Client and the Project:
+
+Our customer is the world’s largest family history and consumer genetics
+company. With more than 30+ billion digitized global historical records, 100
+million family trees, and 18 million people in a growing DNA database, our
+client helps customers discover their family stories and gain a new level of
+understanding about their lives. One of our teams is working on a project that
+helps make our customers’ businesses more effective!
+
+About the team:
+
+Our team supports transactions between mobile applications and backend
+services, ensuring backward compatibility and providing an aggregation layer
+to reduce battery consumption and improve application performance. GraphQL
+enables the flexible construction of queries, allowing us to return only the
+specific fields requested by the client.
+
+Our middleware comprises several services (written on Apollo Server) combined
+into one federation service (using Apollo Federation). All our services are
+deployed in the AWS cloud. We have developed infrastructure for project
+deployment on test environments, running performance tests, and project
+deployment on production.
+
+Tech stack: NodeJS(14/18/20) / TypeScript / NestJS / Apollo Server /
+GraphQL / DynamoDB / Redis / AWS (S3, EC2, Lambda) / Terraform.
+
+Here are some other qualities we are looking for:
+
+Enjoy developing technical talent to achieve great things. You will have a passion for educating, training, and professional growth.
+Be great fun to work with. Be ready to build and maintain efficient, reusable, and reliable code and work with interesting and new technologies.
+Have a strong knowledge. Our ideal candidate must have strong knowledge to work productively in our team.
+
+Responsibilities will include:
+
+Develop and maintain scalable backend applications focused on microservices architecture
+Design, implement, and optimize RESTful APIs and web services
+Ensure high performance, reliability, and security of applications
+Work on cloud migration and tech transition initiatives
+Participate in all development lifecycle stages, including code reviews, testing, and deployment processes.
+Work in a collaborative, agile environment (SCRUM)
+
+Requirements:
+
+At least 2+ years of commercial experience with JavaScript and Node.js
+Strong knowledge and commercial experience with GraphQL / Apollo Server / Apollo Federation
+Strong knowledge of such frameworks as Nest.js or Express.js
+Strong knowledge and experience with SQL and NoSQL databases (DynamoDB is preferable)
+Knowledge or commercial experience withAWS services (S3, EC2, Lambda, etc.)
+Experience with CI/CD practices and tools (e.g., Jenkins, Git)
+English: Upper intermediate level (both spoken and written)
+
+It’ll be a plus:
+
+Experience with Terraform or CloudFormation
+Knowledge of containerization and orchestration tools (e.g., Docker, Kubernetes)
+Bachelor’s degree in Computer Science/Engineering
+
+What can we offer our new colleague?
+
+Full-time position in a highly professional team
+Competitive compensation (based on market data, but also depending on the technical level of the candidate)
+Flexible work schedule
+Individual approach to professional growth
+Free English classes (online)
+3 health packages to choose from
+Annual paid vacation and state holiday celebration
+Lack of bureaucracy and micromanagement
+Foreign business trips (after the war)
+
+Our office in Lviv has ​​generators and stable communication in case of “no
+electricity”. Also, you will have the:
+
+Modern, comfortable office facilities (a barbecue zone, kitchens, lounge rooms, coffee machines, etc.)
+On-site parking lot and charge station for Electric Cars
+Corporate gifts, celebrations, and fun activities
+Sports activities: ping-pong, soccer, workout
+
+Suppose you have a passion for solving challenging problems, building
+scalable, robust systems, love working with the latest technologies in a fast-
+paced, flexible environment, and are excited at the prospect of having a
+significant impact on products with more than 3 million paying subscribers. In
+that case, we want to talk to you! ;-)

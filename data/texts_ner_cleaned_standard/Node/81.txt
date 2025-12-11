@@ -1,0 +1,60 @@
+Senior Software Developer (React + Node.js)
+We’re opening the position of a Senior Software Developer to work with our
+Client — a leading energy SaaS company delivering highly technical insights
+and predictive/prescriptive analytics that empower customers to make decisions
+that increase profit.
+
+​You would be joining the Front-End Chapter of the team developing our premier
+energy analytics platform.
+
+EU residence is a must.
+Responsibilities:
+
+Rapidly prototype new features in a React-based web application
+Influence design and user experience of single-page applications
+Perform full-stack development and maintenance of our platform services built with Node.js, React, and Kubernetes
+Create and maintain microservices backed by document-based databases and GPU accelerated databases
+Contribute to scoping, estimating, and planning projects
+Debug, investigate, and resolve bugs and customer issues
+Write unit, integration, and end-to-end tests
+Lead code reviews, API design reviews, or technical reviews of the products
+Stay up to date on industry trends through self-study, research, and online courses
+Mentor junior team members
+Requirements:
+
+EU residence
+5+ years of software development experience building web applications with React and Node.js
+Extensive experience with modern web application development tools and libraries
+Multiple years of experience writing modern applications in JavaScript (ES2015 and later)
+Knowledge and experience with one JavaScript-based bundler (we use webpack)
+Solid understanding of proper use and design of a microservices architecture
+Understanding of the fundamental design principles behind building secure and scalable applications
+Experience working within a continuous integration and deployment (CI/CD) environment
+Familiarity with OOP and Agile methodologies
+Ability to manage source code effectively using Git (we use GitHub)
+Excellent understanding of data structure and algorithms
+Excellent communication and cross-functional collaboration skills
+English level — Upper-Intermediate or higher
+Will be a plus:
+
+Hands-on experience with Jest and/or React Testing Library
+Experience in data visualization, using Mapbox, D3, or other JavaScript-based libraries
+Familiarity with Docker and Kubernetes
+Familiarity with MongoDB and PostgreSQL
+Familiarity with Git (or an equivalent)
+Familiarity with Azure Cloud services (or an equivalent)
+Understanding of CI/CD
+Experience working in a Nix-like environment (Linux, OSX, Windows WSL2)
+We offer:
+
+Remote-first work model with flexible working hours (we provide all equipment)
+Comfortable and fully equipped office in Rzeszów
+Competitive compensation with regular performance reviews
+18 paid vacation days per year + all state holidays
+12 days of paid sick leave per year + extra paid leave for blood donation
+Mental health program which includes free and confidential consultations with a psychologist
+English, German, and Polish language courses
+Corporate subscription to learning platforms, regular meetups and webinars
+Friendly team that values accountability, innovation, teamwork, and customer satisfaction
+Inclusive environment where everyone feels valued and treated equally. We proudly partner with VeteranHub to support Ukrainian veterans
+We are committed to supporting Ukraine and actively participate in charity initiatives

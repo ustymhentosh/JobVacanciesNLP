@@ -1,0 +1,53 @@
+Senior Java Developer
+We are looking for a highly skilled Senior Java Engineer for our client — an
+innovative company building an AI-powered SaaS platform that redefines how
+users interact with enterprise products.  
+The product enables natural language and voice commands to execute complex
+workflows directly within applications, powered by advanced AI and automation.
+
+The role involves designing and maintaining high-performance backend services
+that integrate with BigQuery and other large-scale data systems. You’ll work
+closely with product and AI teams to deliver scalable, reliable architecture
+and data workflows that support the platform’s rapid growth.
+
+#### __Experience / Skills required:__
+
+* 7+ years of professional experience in backend development, primarily with Java
+* Strong expertise in Spring / Spring Boot and RESTful API design
+* Experience integrating with BigQuery or similar large-scale data systems
+* Solid understanding of SQL, data modeling, and performance optimization
+* Hands-on experience with cloud environments (preferably GCP) and CI/CD pipelines
+* Proven ability to design, build, and maintain scalable, reliable backend services
+* Passion for building reliable, maintainable systems and collaborating in a fast-moving startup
+* Upper-Intermediate English or higher
+
+####
+
+#### __Nice to have:__
+
+* Experience writing solid unit and integration tests for own code
+* Familiarity with performance testing tools
+
+####
+
+#### __Responsibilities:__
+
+* Design, build, and maintain backend services in Java, integrating with BigQuery and other data platforms
+* Collaborate with AI and product teams to design APIs and data workflows
+* Ensure high reliability, scalability, and performance through thoughtful architecture and testing
+* Write clean, efficient, and secure code following best engineering practices
+* Participate in code reviews, mentor team members, and contribute to key technical decisions
+* Continuously improve system monitoring, automation, and deployment processes
+
+####
+
+#### __We offer:__
+
+* Paid vacation (up to 20 working days)
+* Paid sick leaves (10 working days)
+* National holidays as paid time off
+* Flexible working schedule and full remote work format
+* Direct collaboration with the client’s engineering and AI teams
+* Dynamic environment with minimal bureaucracy and high ownership
+* Opportunity to work with cutting-edge AI technologies and large-scale data systems
+* Regular online teambuildings and strong team culture

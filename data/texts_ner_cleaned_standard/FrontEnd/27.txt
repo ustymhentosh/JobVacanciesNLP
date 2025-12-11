@@ -1,0 +1,51 @@
+Middle React Developer [UK project]
+We are looking for a Middle React Developer to join a project from the UK
+focused on building a modern video interviewing platform. The product helps
+companies streamline and scale their hiring process through asynchronous,
+structured video interviews. This is a great opportunity to work within an
+experienced and well-established development team, where you’ll collaborate on
+building a high-quality, scalable product used by clients worldwide.
+
+Requirements:
+
+3+ years experience as a Software Engineer with solid knowledge of JavaScript.
+Strong experience with React, Redux, Redux Toolkit, RTK Query, React Hook Form, TypeScript, etc.
+Knowledge of HTML, CSS, and Responsive Design.
+Strong proficiency in Material UI framework.
+Proficiency in version control systems, such as Git.
+Knowledge of RESTful APIs and integration of front-end interfaces with back-end systems.
+Excellent problem-solving skills and the ability to work effectively in a collaborative team environment.
+At least Upper-intermediate level of English (both written and verbal).
+
+Responsibilities:
+
+Collaborate with product management and design teams to translate requirements and Figma mockups into interactive, visually appealing front-end interfaces.
+Develop high-quality, reusable, and scalable code using React, Redux, Redux Toolkit, Material UI, React Hook Form, TypeScript, HTML, and CSS.
+Ensure the pixel-perfect coincidence with Figma mockups, performance, and required user interactions of front-end applications.
+Conduct code reviews, provide constructive feedback, and mentor junior developers.
+Collaborate with back-end developers and quality assurance teams to ensure seamless integration and proper testing of front-end components.
+Contribute to the improvement of development processes and methodologies within the team.
+Engage proactively in discussions regarding feature requirements, assuming responsibility for the development of the features.
+
+Interview stages:
+
+HR interview (30 minutes).
+Technical interview (1 hour).
+Interview with the customer (1 hour).
+Job offer🎉🎉🎉
+
+We offer:
+
+Competitive salary.
+Challenging tasks and projects.
+Opportunities for professional development and growth.
+Flexible working hours.
+New hardware.
+Free English lessons.
+Table tennis and yoga classes.
+Availability of generators and Starlinks in the office.
+Small gym in the office.
+Adjustable height tables.
+Regular office fruit delivery and other benefits.
+
+Let’s create value together!

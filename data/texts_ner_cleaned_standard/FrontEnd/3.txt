@@ -1,0 +1,77 @@
+Software Engineer
+We are Clario , a consumer-focused company on a
+mission to make digital life easy. We’re here to create smart yet simple apps
+with a human touch, empowering better productivity, security, and lifestyles.
+With mature products used by millions worldwide and years of in-house product
+development, we’re waiting to unleash your hidden talents and make you
+sparkle. Join us and let’s go together!
+About the role
+
+We are building a revolutionary system at the frontier of technology and
+AI.
+
+As a Software Engineer , you won’t just write code — you will shape the
+future of how apps are built. You’ll be part of the early execution
+engine—shipping core capabilities, refining the experience, and elevating
+reliability. Expect tight loops, clear ownership, and visible impact. You will
+engage directly with first clients, adapt the platform to their needs, and set
+the stage for the next generation of software creation.
+What we’re looking for
+
+We want someone who doesn’t just “fit the role” but defines it :
+
+Open-minded explorer — ready to try bold ideas, new approaches, and cutting-edge tools.
+Hacker mindset & problem solver — able to connect the dots across complex systems and find elegant solutions.
+Analytical & resilient — thrives in debugging intricate, interconnected architectures.
+Startup speed enthusiast — comfortable hacking fast, shipping early, learning from feedback, and polishing later.
+Experienced in Cursor or Claude Code.
+Passionate about vibe-coding — turning AI into your engineering team-mate.
+Natural leader — with the drive to inspire and guide people.
+Why join us?
+
+Be among the first engineers driving a bold, world-changing vision.
+Work at the bleeding edge of technology and AI , where experimentation is not just allowed but expected.
+Direct influence on product.
+A chance to build something that reshapes how things get done in today’s world.
+A team that values curiosity, creativity, and the pure joy of hacking together the future.
+
+This isn’t just another job. This is your chance to engineer the future of
+software itself.
+Technical stack
+
+Core technologies :
+
+TypeScript, React.js, Next.js
+ClickHouse, PostgreSQL, Redis
+Docker / Kubernetes
+Kafka
+Supabase, Inngest, Posthog
+
+Nice to have :
+
+Vue.js
+Python
+Go
+Ruby
+Hiring Process
+
+Stage 1: Interview with HR (1h).
+Stage 2: Interview with VP of Engineering.
+Stage 3: Technical assignment.
+Stage 4: Interview with the team.
+What we offer for your success
+
+Very warm and friendly working environment and flexible working schedule.
+20 days off + paid national holidays, and 12 sick days paid by the company per year.
+Medical insurance, and health protection programs (with COVID-19 and dental coverage).
+Continuous professional development and growth opportunities.
+
+We are not just a company, we are Clario! We put the customer at the heart
+of all that we do, we achieve our best together, take responsibility, and
+challenge our limits to create a difference!
+
+To apply for this position, please send your CV (in English only) with a
+detailed description of your career, experience, skills, and projects. We
+guarantee the privacy of any information received.
+
+LET’S GO TOGETHER!

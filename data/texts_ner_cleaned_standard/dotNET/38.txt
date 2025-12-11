@@ -1,0 +1,106 @@
+Senior .NET Developer_Icelandic energy project
+OUR COMPANY
+
+HBM is a European company building exciting new products from scratch for
+startups and helping mature companies in their journey towards data-driven
+innovation and AI based solutions. Our expertise refers to EnergyTech,
+FinTech, ClimateTech, SocialTech, PropTech, etc.
+
+Founded in Ukraine and developed based on Scandinavian culture, HBM is hiring
+both in Ukraine and the EU for our customers located in Europe and USA.
+
+Our values include skills, passion, excellence, equality, openness, mutual
+respect, and trust.
+
+At HBM, you can become a part of growing company, work with creative
+colleagues, and enjoy modern technologies and creating AI-based solutions.
+You’ll be part of a strong corporate culture combined with the agility and
+flexibility of a start-up backed by proven outsourcing and development
+practices, a human-oriented leadership team, an entrepreneurial mindset, and
+an approach to work-life balance.
+
+PROJECT
+
+Our customer is an Icelandic energy company providing electricity, geothermal
+water, cold water, carbon storage and optic network. The customer is running a
+big project focused on integrating several CRM systems with in-house
+solutions.
+
+We are looking for a Senior Developer skilled in .NET to join the distributed
+team located in Iceland and EU.
+
+Tech Stack: .NET, RabbitMQ, NServiceBus, MS SQL, Azure
+
+WE PROVIDE YOU WITH THE FOLLOWING EXCITING CHALLENGES
+
+Develop solution backend in .NET
+
+Develop APIs and integrations with 3rd-party systems
+
+Advise on solution architecture
+
+Identify areas for process improvement, propose and implement solutions, automate processes
+
+Cooperate with Scrum Master and Tech Lead on Customer side as well as with distributed development team
+
+WE EXPECT FROM YOU
+
+Degree (bachelor or master) in computer science or a comparable course of study
+
+6+ years of engineering experience (C#, .NET platforms)
+
+Experience of complex integration projects implementation
+
+Experience with event-driven architecture and message brokers (in particular — RabbitMQ)
+
+Experience with Azure cloud
+
+Creating and consuming Rest API
+
+Asynchronous data processing experience
+
+Experience with MS SQL and PostgreSQL databases
+
+Working with Swagger, OpenAPI
+
+Experience with CI/CD (AzureDevOps)
+
+Experience with Git
+
+Excellent communication skills, ability to communicate to stakeholders on multiple levels
+
+Action and quality-oriented
+
+Experience of work the distributed, cross-culture Agile environment
+
+English: upper-intermediate / advanced
+
+WOULD BE A PLUS
+
+Experience within energy domain
+
+Experience of building integrations with CRM systems
+
+Familiarity with NServiceBus
+
+WE OFFER YOU
+
+Modern technologies, new products development, different business domains.
+
+Start-up agility combined with mature delivery practices and management team.
+
+Strong focus on your technical and personal growth.
+
+Transparent career development and individual development plan.
+
+Flexible working mode (remote/work from office), full remote possibility.
+
+Competitive compensation and social package
+
+Focus on the well-being and human touch.
+
+Flat organization where everyone is heard and is invited to contribute.
+
+Work-life balance approach to work.
+
+Passion and Fun in everything we do.

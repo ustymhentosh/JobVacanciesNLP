@@ -1,0 +1,43 @@
+Programmer Analyst
+We are looking for a .NET Software Engineer to join our team in Kyiv.
+
+Quipu is the dedicated IT company of the ProCredit group and provides
+comprehensive end-to-end solutions for all ProCredit institutions, as well as
+for other banks and financial institutions This includes everything from
+electronic payment services to software systems, hybrid cloud hosting, and a
+host of other operations.
+
+A 100% subsidiary of ProCredit Holding, Quipu was established in March 2004
+and is headquartered in Frankfurt am Main, Germany. Quipu plays a central role
+within the ProCredit group, providing a comprehensive range of support
+services that enable the banks to become competitive and efficient.
+
+Main duties and responsibilities:
+
+Development, implementation, and maintenance of software solutions in accordance with company standards and policies
+Take active part in all stages of technical solutions preparation — analysis, estimation, documentation, coding, bug fixing and support
+Participation in solving incident reported by software users and performing changes according to the standards, suggesting corrective actions
+
+Requirements:
+
+4+ years in .NET (C#) & MSSQL work experience
+Work experience in Banking environment is a strong advantage
+Experience with WinForms/WPF
+Experience with MS Azure is a plus
+Experience in API and microservices development is a plus
+University Degree preferable in scientific field (Computer Science, Engineering, etc.)
+Good level of English, spoken and written
+Good analytical, communication and negotiation skills, attitude on learning new topics
+Self-organized, flexible and reliable on the job, team player
+
+What we offer:
+
+Excellent team-oriented, dynamic and international working environment
+Challenging, engaging and varied tasks
+Personal and technical skills development with certified trainings
+Hybrid model of working
+Travel possibilities
+Private health insurance
+
+If you like wild growth and working with happy, enthusiastic over-achievers,
+you’ll enjoy your career with us!

@@ -1,0 +1,39 @@
+Node.js Developer
+We are a fast-growing product company building scalable solutions for the
+global market. Our team is passionate about technology, product quality, and
+innovation. We’re looking for a skilled Backend Developer to join our
+engineering team and contribute to building high-performance, reliable, and
+scalable backend systems.
+Responsibilities
+
+Design, develop, and maintain backend services using Node.js
+Work with MongoDB and Redis to ensure efficient data storage and caching
+Build and manage containerized applications with Docker
+Deploy and scale applications in Google Cloud Platform (GCP)
+Collaborate with frontend engineers, DevOps, and product managers to deliver high-quality features
+Ensure system performance, security, and reliability
+Write clean, maintainable, and testable code
+Requirements
+
+3-5 years of experience in backend development
+Strong proficiency in Node.js and JavaScript/TypeScript
+Hands-on experience with MongoDB (data modeling, indexing, performance optimization)
+Experience with Redis for caching and message queues
+Knowledge of Docker for containerization
+Experience with Google Cloud Platform (GCP) or other cloud providers (AWS/Azure as a plus)
+Understanding of system design, REST APIs, and microservices
+Good communication skills and ability to work in a collaborative environment
+Upper-Intermediate English or higher
+Nice to Have
+
+Experience with CI/CD pipelines
+Knowledge of Kubernetes
+Familiarity with monitoring tools (e.g., Prometheus, Grafana, ELK)
+Previous experience in high-load systems
+We Offer
+
+Competitive salary (based on experience)
+Remote-first culture with flexible working hours
+Opportunity to work on a global product with modern technologies
+Friendly and professional team passionate about what they do
+Professional growth, learning budget, and career development opportunities

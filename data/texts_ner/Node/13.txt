@@ -1,0 +1,60 @@
+Senior Full Stack (TS/React/Node.JS) Engineer (#4105)
+The OVO Group’s mission is to drive progress towards net zero carbon living.
+We’re a collection of companies with a single vision: to power human progress
+with clean affordable energy for everyone. At OVO, we are on a mission to
+solve one of humanity’s biggest challenges, the climate crisis. And we know it
+takes all of us to change the world. That’s why we need diverse people from
+all gender identities, ethnicities, ages, sexual orientations, life
+experiences and backgrounds to join us.
+
+Being an Engineer here at OVO means being at the forefront of building
+innovative solutions that drive the sustainable energy revolution. As a part
+of our talented team, you’ll collaborate on cutting-edge initiatives, tackle
+complex challenges, and make a meaningful impact in creating a greener future.
+Join us and unleash your expertise to transform the energy industry and pave
+the way for a sustainable tomorrow.
+
+**Responsibilities:**
+
+  * Development of new features and improvements
+  * Adopting and contributing to CI/CD pipeline and ways of working
+  * Delivering product value iteratively
+  * Ensuring best practices around observability and security
+  * Working closely with other developers to ensure knowledge sharing
+  * Designing and developing new platform functionality, from inception to deployment
+  * Building on top of and integrating the existing estate
+  * Helping to refine and deliver work items across our Agile delivery process
+  * Contributing to efficiencies and improvements in Ways of Working
+  * Designing, building, and maintaining efficient, reusable, and reliable code.
+  * Sharing new ideas, techniques and methodologies.
+
+**Requirements:  
+**
+
+  * A minimum of 5 years of software development experience writing full-stack TypeScript/NodeJS/React
+  * Experience writing automated tests
+  * CI/CD principles and pipelines
+  * Cloud engineering experience (GCP)
+  * Microservices /Serverless
+  * Infrastructure as code
+  * Event-driven architectures, RESTful interfaces and SQL databases
+  * Experience using TDD principles would be an advantage
+  * Experience in Data modelling/Database engineering would be a plus
+  * Experience with Kubernetes and Terraform would be a plus
+  * Upper-intermediate level of English, Advanced level of Ukrainian
+  * Experience working in an Agile development process
+  * Critical thinking and problem-solving skills
+
+**We offer*:**
+
+  * Flexible working format — remote, office-based or flexible
+  * A competitive salary and good compensation package
+  * Personalized career growth
+  * Professional development tools (mentorship program, tech talks and trainings, centers of excellence, and more)
+  * Active tech communities with regular knowledge sharing
+  * Education reimbursement
+  * Memorable anniversary presents
+  * Corporate events and team buildings
+  * Other location-specific benefits
+
+*not applicable for freelancers

@@ -1,0 +1,50 @@
+Server Engineer — CTO Acceleration team
+Job Description
+
+As a Server Engineer, you’ll work on developing robust server-side solutions,
+and contribute to the launch and adoption of innovative AI products and
+technologies. In your day-to-day, you will:
+
+Gather product requirements and translate them into robust server-side solutions
+Write high-quality, scalable code and review pull requests
+Explore and use AI development tools to enhance team capabilities
+Collaborate with product managers and team members to launch AI-driven products
+Continuously learn and share AI knowledge and experiences with the team
+Requirements
+
+5+ years of experience in server development
+Proficiency in Java/Scala and databases
+Familiarity with AI development tools and a curiosity about AI technologies
+Openness to learning and working with frontend development (React)
+Ability to work with large codebases and a product-focused mindset
+Professional-level English communication skills
+About the Team
+
+We are Wix’s Backend Engineering Guild. We provide integrated tools for
+microservice development within Wix to help improve developer productivity and
+best practices. These tools streamline the development process and reduce
+cognitive load, allowing Wix Engineers to concentrate on their domain,
+architecture, and business logic. To handle high-scale traffic (over 500B HTTP
+requests per day) and 500+ daily deployments, our team of 500 Backend
+Engineers runs production across 19 distributed data centers and cloud vendors
+worldwide.
+About Wix
+
+Wix makes it possible for anyone to succeed online.
+
+Since 2006, we’ve grown to around 5,300 employees in 22 countries, launched
+over 40 products, and serve over 282 million users and their visitors
+worldwide.
+
+At Wix, we push you to innovate, evolve in non-traditional ways, and
+collaborate. We operate in small teams that work closely together at a high
+level.
+
+Although we’re already industry leaders in web creation and business, our work
+is nowhere near done. Our goal is to become the main engine of the Internet so
+we can create a more open web for all.
+
+We’re proud to be an equal opportunity company. Wix was built around the idea
+that everyone has the right to be successful, online. This same vision defines
+us as a company: creating a work environment where everyone is welcome, and
+anyone has the right to succeed.

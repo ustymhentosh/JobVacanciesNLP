@@ -1,0 +1,29 @@
+Str Jun Android Developer (Ukraine only)
+We are looking for a colleague (Ukraine only) to join our development team who
+will use their experience to drive the product development process for a
+product in the fintech domain. We will provide opportunities to implement
+ideas and influence product creation, not just close tasks.
+
+Requirements:
+
+Experience in banking and payment systems preferred
+Understanding of EMV technology
+Programming language Java, Kotlin
+Understanding of TCP/IP
+Experience with Git, Jira, Confluence, Bamboo, Nexus
+Intermediate level English
+
+Responsibilities:
+
+Development of software with rational costs and deadlines
+Ensuring the development process and its operational improvement, adequate architecture, quality improvement and automated development of product cycles
+Application development, code optimization
+code documentation
+initial testing and its documentation
+defect detection:
+through preventive problem analysis
+based on customer feedback
+through testing procedure automation
+optimization of software development costs by creating reusable components.
+increasing the percentage of API coverage for setting the required configuration
+software stack management

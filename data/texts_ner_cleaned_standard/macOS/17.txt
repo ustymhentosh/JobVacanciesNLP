@@ -1,0 +1,102 @@
+Senior iOS Developer (Fintech/Blockchain)
+Join a FinTech/blockchain initiative that’s redefining digital identification
+and payments. As a Senior iOS Developer, you’ll contribute to a mobile-first
+platform integrating blockchain, NFC, and QR technologies to deliver seamless
+identity verification, payments, and rewards. This role offers remote
+flexibility and the chance to work on a product with both mass-market appeal
+and B2B reach. At Sigma Software, we partner with forward-thinking companies
+to deliver innovative solutions. Here, you’ll be part of a project with global
+scale, cutting-edge tech, and strong growth potential. Why join us? You’ll
+work at the intersection of financial innovation, blockchain, and HealthTech,
+shaping solutions adopted worldwide.
+
+Customer
+Our Customer is a publicly listed technology company operating at the
+intersection of financial innovation, blockchain, and HealthTech. They focus
+on developing cutting-edge digital asset solutions, including a U.S. dollar-
+backed deposit token built with integrated digital identity and yield
+functionality. Combining blockchain with HealthTech applications, they aim for
+global adoption through strategic partnerships and strict compliance with
+financial regulations.
+
+Project
+This mobile-first platform leverages blockchain, NFC, and QR technology to
+integrate retail loyalty programs with enterprise networking tools. Users can
+instantly share verified contacts, payments, and rewards. The product combines
+hardware and software integration with global reach and significant growth
+potential. Key technologies: iOS, Swift, UIKit/SwiftUI, blockchain, NFC, and
+QR code technology.
+
+Responsibilities
+
+Develop high-quality iOS applications following SOLID principles and Clean Architecture
+Implement strong modularization of app components
+Build design systems and reusable UI components
+Collaborate with cross-functional teams, including Android developers and Back-end engineers
+
+Requirements
+
+5+ years of iOS app development experience
+Deep knowledge of SOLID principles and Clean Architecture
+Strong modularization skills
+Experience building design systems and reusable components
+Proficiency in Swift, UIKit, and SwiftUI
+Upper-Intermediate level of English
+
+Will be a plus:
+
+Experience with crypto wallets
+Experience with video processing or streaming features
+
+_______________________________________
+
+Приєднуйся до фінтех/блокчейн проєкту, який змінює підхід до цифрової
+ідентифікації та платежів. Як Senior iOS Developer, ти будеш працювати над
+мобільною платформою, яка інтегрує блокчейн, NFC та QR технології для надійної
+верифікації, платежів та винагород. Ця посада пропонує гнучкість дистанційної
+роботи та можливість працювати над продуктом, який має як масовий попит, так і
+B2B-покриття.
+
+Чому варто приєднатися до нас? У Sigma Software ти працюватимеш із
+прогресивною командою над рішеннями глобального масштабу з передовим стеком і
+сильним потенціалом зростання. Цей проєкт пропонує можливість працювати на
+стику фінансових інновацій, блокчейну та технологій охорони здоров’я, формуючи
+рішення, які застосовуються в усьому світі.
+
+Замовник
+Наш клієнт — це публічна технологічна компанія, що працює на стику фінансових
+інновацій, блокчейну та технологій охорони здоров’я. Вона зосереджується на
+розробці передових рішень для цифрових активів, зокрема депозитного токена,
+забезпеченого доларом США, з інтегрованою функцією цифрової ідентифікації та
+прибутковості. Поєднуючи блокчейн із технологіями охорони здоров’я, компанія
+прагне до глобального впровадження своїх рішень через стратегічні партнерства
+та суворе дотримання фінансових нормативних вимог.
+
+Проєкт
+Ця мобільна платформа використовує технології блокчейн, NFC та QR для
+інтеграції програм лояльності роздрібної торгівлі з корпоративними мережевими
+інструментами. Користувачі можуть миттєво обмінюватися перевіреними
+контактами, надсилати платежі та винагороди. Продукт поєднує апаратну та
+програмну інтеграцію, має глобальне охоплення і значний потенціал зростання.
+Ключові технології: iOS, Swift, UIKit/SwiftUI, блокчейн, NFC та QR-коди.
+
+Обов’язки
+
+Розробляти високоякісні iOS-застосунки, використовуючи принципи SOLID та Clean Architecture
+Запроваджувати продуману модульність компонентів застосунку
+Створювати дизайн-системи та компоненти інтерфейсу користувача, що можуть використовуватися повторно
+Співпрацювати з кросфункціональними командами, зокрема з Android-розробниками та бекенд-інженерами
+
+Вимоги
+
+5+ років досвіду розробки iOS-застосунків
+Глибокі знання принципів SOLID та Clean Architecture
+Сильні навички модульного проєктування
+Досвід розробки дизайн-систем та багаторазових компонентів
+Впевнене володіння Swift, UIKit, та SwiftUI
+Володіння англійською мовою на рівні Upper-Intermediate
+
+Перевагою буде:
+
+Досвід роботи з криптогаманцями
+Досвід реалізації відеообробки або стримінгових функцій

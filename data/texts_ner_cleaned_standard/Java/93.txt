@@ -1,0 +1,100 @@
+Senior Java Developer — Shape the Future of Legal Tech (Remote)
+Senior Java Developer (2 Positions)
+
+📍 Location: Remote — preference given to candidates based in the EU, but
+we will also consider exceptionally strong candidates from outside the EU.
+🕓 Type: Full-time, long-term (SFox Model)
+
+About the company
+
+PSA is a Nordic tech and expert advisory firm with offices in Oslo, Stockholm,
+Copenhagen, Warsaw, and Helsinki. PSA delivers cloud solutions and expert
+services to help law firms and corporate legal departments with intelligent
+digital transformation.
+
+About the Role
+
+We’re growing our engineering team and looking for experienced Java Developers
+who enjoy solving complex problems, building integrations, and working with
+modern cloud technologies.
+
+Our team builds cloud-based integration solutions and digital services for
+enterprise and legal tech clients. We work with Java, Kubernetes, OpenShift,
+REST, NoSQL, and SQL.
+
+You’ll play a key role in product development, help shape architectural
+decisions, and drive technical excellence across our systems.
+
+What You’ll Do
+
+Design, build, test, and maintain Java-based microservices and integration solutions.
+
+Deploy and operate services in Kubernetes / OpenShift environments.
+
+Design systems with scalability, reliability, and clean architecture in mind.
+
+Integrate with enterprise systems (ERP, CRM, DMS, HR/HCM, etc.).
+
+Collaborate with engineers across teams and take part in architecture discussions.
+
+Take full ownership of your code — from idea to production.
+
+What We’re Looking For
+
+Strong, hands-on experience with Java (preferably Java 21+).
+
+Solid understanding of microservices and API-driven development.
+
+Experience deploying to Kubernetes or similar container platforms.
+
+Familiarity with Spring Boot or Quarkus (Quarkus is a strong plus).
+
+Experience with CI/CD pipelines and cloud environments (Azure, AWS, or GCP).
+
+Strong knowledge of REST, messaging, and integration patterns.
+
+A team player who writes clean, maintainable, and testable code
+
+Nice to Have
+
+Experience integrating with enterprise systems (ERP, CRM, DMS, etc.).
+
+Familiarity with Microsoft Power Platform (PowerApps, Power Automate).
+
+Experience with Apache Camel.
+
+What We Offer
+
+Real ownership: Have a genuine voice in both technical and product decisions — your ideas will shape what we build.
+
+A great team culture: We care about clean architecture, collaboration, and continuous learning.
+
+Hands-on experience: Work across diverse projects and technologies, with plenty of room to explore and grow.
+
+Open, supportive environment: Your input matters here — we value transparency and trust.
+
+Benefits
+
+25 days of paid vacation
+
+Paid public holidays in your country of residence
+
+5 days of paid sick leave
+
+Additional childbirth leave
+
+Annual remuneration review
+
+Onsite onboarding (1–2 weeks in Oslo)
+
+Hardware support if needed
+
+Recruitment process
+
+Screening interview with a recruiter (1 hour)
+
+Deep technical interview with the client, including a live coding challenge (1.5 hours)
+
+Reference check, criminal record check
+
+Job Offer

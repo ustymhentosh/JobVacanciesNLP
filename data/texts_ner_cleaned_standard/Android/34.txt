@@ -1,0 +1,86 @@
+Android Developer
+Job description
+
+About Fulcrum : We’re a team of tech-savvy, creative & passionate IT
+professionals. We’ve created a vibrant and performance-driven culture for
+ourselves where everyone is free to think & act outside the box. There are
+literally no limits to what you can do here, as long as we WOW our clients and
+OVER deliver what we promise.
+
+About the role:
+
+We are building an educational platform tailored for the Middle East
+market, with a strong focus on video-based learning. The platform supports
+both Arabic and English content with full RTL/LTR layout compatibility. Key
+features include offline encrypted video playback with HLS streaming, real-
+time gamification with leaderboards, a secure quiz system with server-side
+validation, and activation code-based subscriptions.
+
+You will be working on the native Android application as part of a cross-
+functional team, bringing high-quality and scalable features to life for
+thousands of learners.
+
+Main responsibilities:
+
+Develop and maintain the native Android application using Kotlin and
+Jetpack Compose
+Implement offline encrypted video playback with support for HLS streaming
+Integrate real-time gamification features such as leaderboards and
+achievement systems
+Build a secure assessment/quiz system with server-side validation
+Ensure multilingual support with full Right-to-Left (RTL) and Left-to-Right
+(LTR) layout compatibility
+Collaborate with backend, iOS, and web teams to ensure seamless integration
+and consistency
+Follow MVVM/MVI architecture patterns and utilize modern Android tools
+(e.g., Coroutines, LiveData, Navigation)
+
+Job requirements:
+
+3+ years of experience as Android developer
+Strong proficiency in Kotlin
+Experience with Jetpack Compose
+Solid understanding of multilingual architecture with RTL/LTR
+layout support
+Hands-on experience with video player integration (preferably ExoPlayer
+or similar)
+Proficiency in MVVM or MVI architecture
+Experience working with Coroutines
+Strong knowledge of RESTful APIs
+Expertise in building native Android UI using modern frameworks
+Upper-Intermediate English or higher (B2+)
+
+Would be cool:
+
+Experience with SQLite , Room , and encrypted local storage
+Knowledge of Android file system management
+Previous experience working on an educational platform
+
+What we offer :
+Flexible schedule & opportunity to work remotely or workspace in Kyiv
+(kooperativ.cc);
+Friendly & open team who have fun creating cool projects together;
+Opportunity to boost your professional & personal growth;
+Regular team gathering activities;
+20 business days of paid vacation + UA national holidays;
+Medical insurance full coverage;
+10 + 5 days paid sick leave;
+
+How we operate :
+We promise dramatic professional growth & interesting work
+Bring ideas that will change how Fulcrum operates, and you will receive our
+gratitude and rewards
+Your opinion matters. Fulcrum is not a typical ’bureaucratic company, and
+our employees are our core value
+Your compensation grows with your responsibility zone
+If something doesn’t go smoothly or can be simplified, just let us know —
+you are welcome to do so
+You have a say in everything we do, starting from the roadmap, creating
+requirements, sprint planning, etc.
+If you feel that everything above is about you, get in touch. We’re always
+glad to welcome stubborn, enthusiastic, and result-oriented buddies to our
+team
+
+Are you interested in working with us?
+
+LET’S MOVE THE WORLD TOGETHER!

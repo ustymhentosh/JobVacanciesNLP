@@ -1,0 +1,32 @@
+Middle Full-Stack Developer (Angular + Node.js / Nest.js)
+### **Required Skills**
+
+  * **Node.js / Nest.js** — 2-3 years of commercial experience
+  * **MySQL / TypeORM** — 2-3 years of experience
+  * **Angular** — 2-3 years of experience
+  * Solid understanding of REST APIs, clean architecture, and modular design
+  * Experience with Git, code reviews, and Agile workflows
+
+### **We Offer**
+
+  * An interesting project in the healthcare domain
+  * A professional and friendly team with strong engineering culture
+  * Opportunities to learn modern technologies and influence architecture decisions
+  * Flexible working schedule (100% remote or hybrid)
+  * Stable environment and respectful management
+
+### **About the Project**
+
+Our customer is a SaaS-based **clinic and hospital management system**
+designed to help healthcare providers in **developing countries** manage their
+operations more efficiently.  
+You’ll be joining a small but experienced engineering team responsible for
+**building new features** , **refactoring existing modules** , and
+**optimizing performance**.  
+The system is actively used by real healthcare organizations, so your work
+will have **a direct positive impact** on improving access to quality medical
+services.
+
+We value developers who write clean, maintainable code, care about
+**scalability and performance** , and are not afraid to propose **technical
+improvements**.

@@ -1,0 +1,65 @@
+Senior Frontend (React/Astro.js) Developer
+Our Client is formerly known for its website builder platform — is
+transforming into a broader business enablement ecosystem, helping
+entrepreneurs build, run, and grow their businesses.  
+Beyond website creation they offer a range of digital solutions designed to
+empower small business owners with tools for marketing, financial management,
+and online presence.
+
+### Must-have for the position
+
+  * 4+ years of experience with Astro.js, React, Next.js, or Gatsby;
+  * Proven experience with Astro.js is a must;
+  * Proficiency in TypeScript, HTML, and CSS/SCSS;
+  * Solid understanding of Static Site Generation and Hybrid Rendering;
+  * Experience working with REST and/or GraphQL APIs;
+  * Familiarity with CI/CD pipelines (GitHub Actions or similar);
+  * Excellent communication skills are essential;
+  * English Level: Upper-Intermediate English or higher.
+
+### Will be a strong plus
+
+  * Experience integrating headless CMSs ([Builder.io](http://Builder.io), Strapi, Directus, etc.);
+  * Understanding of internationalization/localization and A/B testing;
+  * Familiarity with Astro Islands architecture and partial hydration patterns.
+
+### Responsibilities
+
+  * Implement and optimize the new web frontend using Astro, ensuring high performance, scalability, and maintainability;
+  * Integrate content and components from a headless CMS ([Builder.io](http://Builder.io) or similar) through APIs or SDKs;
+  * Develop responsive, accessible, and SEO-optimized web pages;
+  * Collaborate with designers and content teams to build reusable templates and UI components;
+  * Set up and maintain CI/CD pipelines (GitHub Actions) and implement performance monitoring tools.
+
+### About the project
+
+The project focuses on building a **new web frontend** using **Astro** and
+integrating it with a **headless CMS**.  
+The goal is to enable the **Marketing team** to independently create, manage,
+and update website pages without developer involvement.
+
+Tech Stack: Astro.js, React.js, Next.js, TypeScript, HTML, CSS/SCSS, REST,
+GraphQL, GitHub.
+
+### Working conditions
+
+Work schedule: Central European business hours overlap;
+
+Engagement: long-term, full-time;
+
+Fully Remote: This role offers the flexibility to work from anywhere.
+
+### Interview process
+
+  * **HR Interview:** Initial discussion with our recruiter (30-45 minutes).
+  * **KITRUM’s Technical Interview**.
+  * **Client Interview:** 60-minute Technical interview round 
+
+### Why you’ll love working here
+
+  * **Competitive Pay:** We offer compensation that reflects your skills and experience;
+  * **Remote Flexibility:** Work from anywhere — our team is distributed across the globe;
+  * **Professional Growth:** Access to continuous learning opportunities, including paid courses, certifications, and mentorship;
+  * **Work-Life Balance:** 30 days of paid vacation and 6 paid sick days per year, plus flexible hours;
+  * **Inclusive Culture:** We embrace diversity and foster a culture of trust, transparency, and mutual respect;
+  * **Cool Perks:** Join our virtual team events, get a budget for your home office setup, and enjoy access to exclusive content and tools.

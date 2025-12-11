@@ -1,0 +1,76 @@
+Principal DevOps Engineer (GCP)
+Dive deep into Digital! For 20 years Intellias has been developing top-tier
+digital solutions for the world’s leading companies, keeping them in line with
+the latest technology trends. Join in and provide innovations for the future!
+
+### **What project we have for you**
+
+Our customer is a leading global agricultural company dedicated to improving
+food security by enhancing crop yield and sustainability through innovative
+seeds and crop protection solutions. With a presence in over 100 countries,
+the company combines cutting-edge science and digital technologies to help
+farmers overcome climate challenges and grow more efficiently. It invests
+heavily in research and development, ensuring continuous advancements in
+sustainable farming and environmental stewardship
+
+Intellias mission is to help a client to support their cloud optimization
+journey by establishing a central DevOps team. This team will work across our
+organization to enhance cloud operations, focusing on AWS environments with an
+extension to GCP. The aim is to develop a center of CloudOps excellence that
+will centrally manage and optimize over 50+ AWS accounts.
+
+As a DevOps engineer you will become a part of Core Architecture Team and be
+responsible for the implementation of best practices in our Digital
+Engineering Enterprice Platform.
+
+The Platform is a set of services and internet applications that accelerate
+the development and delivery of software applications by taking care of common
+SDLC challenges. The Platform provides access and consumption for engineering
+teams to a set of services, technologies, practices for their development and
+for operating their application, ensure a set of compliance and best
+practices.
+
+### **What you will do**
+
+  * As a Principal DevOps Engineer you will take an active step in designing and guiding the development of new services for our platform.
+  * You will work as a member of a Scrum team which develops and operates a set of services which provide the backbone of a rich ecosystem of DevOps tools used in modern cloud native development and operations.
+  * You will actively participate in the development and execution of our DevOps and SRE strategy
+  * As a senior member of the team you will lead by example the other team members.
+  * Apply software engineer mindset and practices.
+
+### **What you need for this**
+
+**Required:**
+
+  * 7+ years of experience with GCP (DevOps role).
+  * 4+ years of experience with Terraform. Cloud/Enterprise is a plus.
+  * 4+ year experience with CI/CD automation
+  * Advanced proficiency of at least one modern scripting language: Python preferred, yet it’s fine to have another (Go, JS etc) and willingness to learn Python
+  * Experience in Devops Lead Engineer position — including work estimation, decomposition and mentoring less senior team members
+  * Solid foundation in Linux and networks administration and troubleshooting
+  * Excellent communication skills
+  * Experience in tech leading
+  * GCP certification
+  * English B2+
+
+**Will be considered as a plus:**
+
+  * Experience with AWS
+  * Experience in serverless architectures
+  * Experience or familiarity withDataDog
+
+### **What it’s like to work at Intellias**
+
+At Intellias, where technology takes center stage, people always come before
+processes. By creating a comfortable atmosphere in our team, we empower
+individuals to unlock their true potential and achieve extraordinary results.
+That’s why we offer a range of benefits that support your well-being and
+charge your professional growth.  
+We are committed to fostering equity, diversity, and inclusion as an equal
+opportunity employer. All applicants will be considered for employment without
+discrimination based on race, color, religion, age, gender, nationality,
+disability, sexual orientation, gender identity or expression, veteran status,
+or any other characteristic protected by applicable law.  
+We welcome and celebrate the uniqueness of every individual. Join Intellias
+for a career where your perspectives and contributions are vital to our shared
+success.

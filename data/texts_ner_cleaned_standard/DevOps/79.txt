@@ -1,0 +1,54 @@
+DevOps Engineer / System Administrator (Ukraine, Europe)
+Our client is an international product-based IT company specializing in the
+iGaming industry. Born in 2014, they rocked the CIS region, and now take the
+success to the world.
+
+The role is focused on ensuring a reliable, scalable, and resilient
+infrastructure for SEO projects. Work is carried out in a high-threat
+environment that includes parsing, attacks, DDoS, sanctions, and aggressive
+content scraping. The main priorities are security, stability, and deployment
+automation.
+
+📋 Key responsibilities and your contribution:
+
+Support and development of infrastructure for SEO projects (main websites and satellite networks)
+Configuration and administration of security solutions (primarily Cloudflare)
+Monitoring of attack attempts, parsing, unwanted crawlers, and DDoS activity
+Management of anti-scanning policies and active filtering systems
+Configuration of redundancy, backups, routing, and mirroring
+Control over IP, domain, SSL, and DNS status
+Collaboration with SEO specialists, webmasters, and account managers during new site launches
+Support of CI/CD processes and automation of repetitive tasks
+Rapid incident response (blocking, data leaks, security breaches)
+Maintenance of internal documentation and infrastructure diagrams
+
+📚 Your qualifications:
+
+Proven experience as a DevOps Engineer or System Administrator in web infrastructure
+Hands-on experience configuring and managing Cloudflare
+Strong understanding of DDoS protection, bot mitigation, anti-parsing, and crawler defense
+Experience with nginx, apache, iptables, fail2ban, DNS, and CDN solutions
+Confident Linux administration skills, including server setup and log management
+Understanding of CI/CD, deployment automation, scripting, cron, Ansible, etc.
+
+➕ Nice to have:
+
+Experience working in grey or highly competitive niches
+Knowledge of proxy, redirect schemes, clusters, and mirrors
+Skills in network obfuscation and complex architecture design
+Understanding of SEO infrastructure (satellites, cloaking, multidomain setups)
+
+Benefits:
+
+⭐ Days of recovery: 20 paid vacation day per year and unlimited sick leave
+days.
+⭐ Health: corporate medical insurance, a company psychologist and a
+Cafeteria of Benefits for personal wellness choices.
+⭐ Education: a variety of foreign languages course for you to choose from.
+Also we are open for your development and you can choose different courses
+/training for improving your skills.
+⭐Compensation: additional benefits that can be used according to company
+policy, e.g. paid business trips, international conference opportunities,
+lunch perks at our offices etc.
+⭐Work Environment: work remotely or from one of our offices in Cyprus,
+Portugal, Poland, equipped with the equipment you’ll need for success.

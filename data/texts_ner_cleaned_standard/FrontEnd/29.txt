@@ -1,0 +1,63 @@
+Team Lead (Frontend/Full Stack)
+We are seeking a Team Lead w/ strong Frontend or Full Stack (Frontend + Java)
+experience to oversee a distributed, cross-functional team of 7+ members
+(including back-end, front-end, full-stack, database developers, and QA
+engineers) while also contributing technically to our projects. Reporting
+directly to the CTO, you will ensure successful sprint delivery, maintain high
+development standards, and foster a results-oriented culture. You will be
+accountable for the team’s performance, guiding technical decisions within
+your domain and handling administrative responsibilities such as goal setting,
+mentorship, and performance reviews.
+
+Main Responsibilities:
+
+Oversee and lead design, development, and maintenance of new and existing application features.
+Oversee and lead upgrades and refactoring of existing application functionality using modern technologies and frameworks such as React and Java.
+Participate in the architectural design and development of high-quality applications.
+
+Expected Results:
+
+Strong Team Performance — Maintain a high-performing, accountable team that consistently delivers on sprint goals.
+Reliable Delivery — Ensure timely, high-quality releases that support business growth and market expansion.
+Technical Excellence — Drive Frontend (and optionally Java) best practices, ensuring maintainable, scalable, and efficient solutions.
+Operational Efficiency — Improve workflows, reduce bottlenecks, and enhance cross-functional collaboration.
+
+Professional Qualifications:
+
+Minimum of 7 years of experience as a Frontend or Full Stack (Frontend + Java) Developer, with at least 2 years in a leadership or team lead capacity.
+Proven track record of contributing to 3+ projects (a portfolio or a GitHub account will be a significant plus).
+Strong knowledge of modern Frontend technologies and frameworks.
+Expertise in JavaScript, TypeScript, React and their integrations with RESTful APIs.
+Deep understanding of micro-frontend architecture.
+Experience with state management (MobX, Redux, Zustand, etc.)
+Strong understanding of web security principles (OWASP, XSS/CSRF protection).
+Familiarity with build tools like Maven or Gradle.
+Adherence to software development best practices: SOLID, DRY, YAGNI, KISS principles, and GoF Patterns.
+Experience in CI/CD pipelines using tools such as Docker, CircleCI, or GitLab.
+Comfortable reading and refactoring existing codebases.
+Proven ability to lead and inspire a diverse technical team in a distributed environment.
+Strong sense of initiative, proactivity, and accountability for team results.
+Excellent communication and conflict resolution skills.
+Effective time management and organisational abilities.
+Results-oriented with a knack for problem-solving and decision-making.
+English — upper intermediate.
+
+Will be a plus:
+
+Previous experience in the fintech industry.
+Experience with payment integrations.
+Familiarity with BPM tools, such as Camunda.
+Experience with Next.js.
+Expertise in React Native.
+Experience with UI component library design and management.
+Expertise in Java.
+Working experience with PostgreSQL and AWS technologies (e.g., Lambdas, API Gateway, DynamoDB).
+Experience with Microservices and Hexagonal architecture.
+
+What We Offer:
+
+Join a fast-scaling FinTech company where your decisions shape the business and your contributions truly matter.
+Attractive compensation package aligned with your experience and performance, plus performance-based incentives.
+Enjoy 20 paid days off annually, flexible scheduling, and a supportive, people-first culture.
+Comprehensive medical coverage to keep you and your family protected.
+Work in an international, agile team with ambitious goals, modern tools, and a strong sense of purpose.

@@ -1,0 +1,68 @@
+Senior Full- stack .NET Engineer (with React)
+### **About the Role**
+
+We are looking for a talented and motivated **Full Stack .NET Developer** with
+strong experience in **React** to join our growing development team. You will
+be responsible for designing, developing, and maintaining modern web
+applications using the latest technologies.
+
+You will work closely with our BAs, designers, and QA team to deliver high-
+quality solutions that bring value to our customers.
+
+### **Responsibilities**
+
+  * Design, develop, and maintain web applications using **.NET (C#)** and **React**
+  * Build RESTful APIs and integrate them with front-end components
+  * Collaborate with cross-functional teams to define, design, and ship new features
+  * Write clean, scalable, and well-documented code
+  * Participate in code reviews and provide constructive feedback
+  * Ensure the best possible performance, quality, and responsiveness of applications
+  * Troubleshoot and fix bugs or performance issues, stay updated with the latest technologies and best practices in software development
+
+### **Requirements**
+
+  * 5+ years of experience with **.NET (C#)****  
+  
+**
+
+  * 3+ years of experience with**React****  
+  
+**
+
+  * Strong understanding of**HTML5, CSS3, JavaScript, TypeScript****  
+  
+**
+
+  * Experience with**REST APIs** , **Entity Framework** , and **Relational Databases****  
+  
+**
+
+  * Familiarity with**Git** , **CI/CD pipelines** , and Agile development practices  
+  
+
+  * Solid understanding of software architecture and design patterns
+  * Good problem-solving and communication skills
+
+### **Nice to Have**
+
+  * Experience with **AWS** or other cloud platforms  
+  
+
+  * Experience with **Docker** and containerized deployments  
+  
+
+  * Knowledge of **Event-driven** architecture  
+  
+
+  * Experience with **NoSQL** databases
+
+### YOU CAN LOOK FORWARD TO
+
+  * Contributing to a high scale, complex product and seeing the real-time impact of your work
+  * Healthcare insurance
+  * Educational budget
+  * Challenging tasks and professional development, knowledge & best practice sharing
+
+### READY TO JOIN US?
+
+Apply now and become part of Evolved Ideas team!

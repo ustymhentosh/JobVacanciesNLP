@@ -1,0 +1,28 @@
+Senior Fullstack Developer
+Must have skills : React, TypeScript, Python
+
+Nice to have skills : Golang
+
+We are looking for a Senior Fullstack Developer to join our agile, cross-
+functional team. In this role, you will participate in a project developing a
+user-friendly web application for a file hosting service.
+
+Sounds interesting? Apply!
+
+Your tasks
+
+Create and maintain intuitive, high-performance web interfaces using React and TypeScript, ensuring accessibility and long-term maintainability
+Deepen expertise in React frontend engineering, covering state management, performance tuning, component libraries, and scalable UI architecture
+Collaborate with backend teams to integrate services, contribute to API design, and deliver smooth, reliable workflows for engineers
+Promote excellent usability and developer experience by applying strong UI/UX judgment to simplify complex engineering processes
+Support backend development by building production-ready services in Golang (preferred) or Python, contributing to scalable distributed systems
+
+Requirements
+
+At least 7 years of experience as a Frontend Developer including minimum 2 years with Golang or Python
+Proficient in React and TypeScript
+Strong user experience, intuition, and solid API design skills
+Able to develop production-quality backend services
+Ukrainian — B2
+Good verbal and written English skills
+Tax residence in Ukraine is required

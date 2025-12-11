@@ -1,0 +1,68 @@
+Middle PHP Developer
+About Us
+
+We are looking for an experienced **Middle PHP Developer** to join our team
+and work on developing and maintaining high-quality applications. You will
+work with a modern tech stack, build scalable solutions, and implement best
+development practices.
+
+**Technologies used in the project:**  
+Kubernetes, GitLab CI, Ansible, PostgreSQL, Redis, RabbitMQ, Elasticsearch,
+PHP, Python, Node.js, ClickHouse, Kafka, Graylog, InfluxDB, MongoDB, PHP 8.3,
+Symfony ^6.4, Yii2.
+
+**Responsibilities**
+
+  * Develop and maintain high-quality PHP applications using the Symfony framework
+  * Design and implement RESTful APIs for various business requirements
+  * Work with message queuing systems (RabbitMQ, Kafka) for asynchronous processing
+  * Collaborate with cross-functional teams to deliver scalable solutions
+  * Optimize application performance using caching strategies (Redis)
+  * Participate in code reviews and maintain coding standards
+  * Deploy and manage applications using Docker containers
+  * Troubleshoot and resolve complex technical issues
+
+**Requirements**
+
+**Hard Skills:**
+
+  * PHP 8.0+ — Strong proficiency in modern PHP development
+  * Symfony — Extensive experience with the Symfony framework
+  * RabbitMQ — Knowledge of message queuing and asynchronous processing
+  * Apache Kafka — Experience with distributed streaming platforms
+  * REST API — Proven experience in designing and implementing RESTful services
+  * Docker — Experience in containerization and deployment
+  * Redis — Experience in caching and data structure storage
+  * 2+ years of experience in PHP development  
+
+**Nice to Have:**
+
+  * Experience with Yii2 or Symfony framework 
+
+****
+
+**Soft Skills:**
+
+  * Strong analytical thinking and problem-solving abilities
+  * Excellent verbal and written communication skills for effective team collaboration
+  * Ability to work effectively in cross-functional teams
+  * Adaptability and willingness to learn new technologies
+  * Attention to detail and code quality
+  * Time management skills with the ability to prioritize and meet deadlines
+  * Mentoring experience and knowledge sharing
+  * Critical thinking and the ability to evaluate technical approaches and make informed decisions
+
+  
+**We offer:**
+
+  * ✨ Real-world product experience with millions of users
+  * 👨‍🏫 Mentorship from mid- and senior-level developers
+  * 🚀 A growth-oriented environment with exciting, challenging tasks
+  * 🧠 Code reviews and regular internal knowledge-sharing sessions
+  * 🤝 A friendly team and open, honest communication
+  * 🏢 Office-based teamwork in Kyiv Cherkasy or Poznań
+
+**Required:**
+
+  * 🇬🇧 English: A2+ and above (for internal documentation and communication)
+  * 🏢 Hybrid work format: Kyiv, Cherkasy, or Poznań — office attendance required occasionally

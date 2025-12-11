@@ -1,0 +1,63 @@
+Senior FrontEnd Developer
+FAVBET Tech develops software that is used by millions of players around
+the world for the international company FAVBET Entertainment.
+We develop innovations in the field of gambling and betting through a complex
+multi-component platform which is capable to withstand enormous loads and
+provide a unique experience for players.
+FAVBET Tech does not organize and conduct gambling on its platform. Its
+main focus is software development.
+
+Main areas of work:
+
+Highload Development — development of highly loaded services and systems.
+CRM System Development — development of a number of services to ensure a high level of customer service, effective engagement of new customers and retention of existing ones.
+Big Data — development of complex systems for processing and analysis of big data.
+Cloud Services — we use cloud technologies for scaling and business efficiency.
+
+Responsibilities:
+
+Develop and maintain reusable React components with a focus on clean architecture and scalability.
+Implement state management using React Context API and other suitable tools to ensure smooth data flow across the application.
+Integrate and manage WebSocket connections for real-time data updates and interactive user experiences.
+Ensure responsive design and cross-browser compatibility using modern CSS techniques and frameworks.
+Optimize application performance , including code-splitting, lazy loading, and efficient rendering practices.
+
+Requirements:
+
+Proficiency in React.js: Strong expertise in developing web applications using React.js, including a deep understanding of component architecture, JSX syntax, and modern React features such as hooks.
+State Management: Proficient in using the React Context API for state management. Familiarity with other solutions such as Redux or Zustand is a plus.
+WebSockets: Experience integrating WebSockets into applications for real-time communication. Ability to manage connections, handle events, and synchronize data effectively.
+Responsive Design: Solid understanding of responsive web design principles and modern CSS techniques. Ability to build visually appealing, responsive, and cross-browser compatible UI components.
+Version Control: Proficient in using Git or similar version control systems for collaborative development and code management.
+Debugging and Troubleshooting: Strong problem-solving skills to identify and resolve frontend issues. Familiarity with browser developer tools and debugging best practices.
+Web Performance: Knowledge of performance optimization techniques such as minimizing render times, reducing network requests, and lazy loading assets.
+Code Quality and Testing: Ability to write clean, maintainable, and well-documented code. Familiar with unit testing and tools like Jest and React Testing Library.
+Collaboration and Communication: Effective communication skills to work closely with backend developers, UI/UX designers, and other team members. Ability to give and receive constructive feedback.
+Agile Methodology: Experience working in Agile teams and familiarity with iterative and collaborative development workflows.
+
+Will be a plus:
+
+Redux: Experience with Redux or similar libraries for managing complex application state.
+TypeScript: Familiarity with TypeScript for static typing and improved development experience.
+CSS Preprocessors: Experience with Sass or Less to enhance CSS structure and maintainability.
+CSS-in-JS: Hands-on experience with libraries like styled-components or Emotion.
+Web Accessibility: Understanding of WCAG standards and ability to build accessible UI components.
+Server-Side Rendering (SSR) / Static Site Generation (SSG): Knowledge of SSR or SSG using frameworks like Next.js for performance and SEO benefits.
+RESTful APIs: Experience integrating frontend applications with RESTful APIs.
+UI/UX Design Skills: Basic design skills to interpret and implement UI/UX designs effectively.
+Webpack: Understanding of Webpack and frontend build tools for asset bundling and optimization.
+CI/CD: Experience with Continuous Integration and Continuous Deployment pipelines.
+
+We offer:
+
+30 days of paid day-off — we value rest and recreation. We also comply with the national holidays.
+Medical insurance for employees and the possibility of training employees at the expense of the company and gym membership.
+Remote work or the opportunity — our own modern lofty office with spacious workplace, and brand-new work equipment (near Pochaina metro station).
+Flexible work schedule — we expect a full-time commitment but do not track your working hours.
+Flat hierarchy without micromanagement — our doors are open, and all teammates are approachable.
+
+During the war, the company actively supports the Ministry of Digital
+Transformation of Ukraine in the initiative to deploy an IT army and has
+already organized its own cyber warfare unit, which makes a crushing blow to
+the enemy’s IT infrastructure 24/7, coordinates with other cyber volunteers
+and plans offensive actions on its IT front line.

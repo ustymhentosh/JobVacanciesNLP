@@ -1,0 +1,48 @@
+Middle+ Node.js Developer (Ohayu)
+Hello.
+We are looking for a Middle+ Node.js Developer to join our growing team
+and contribute to the quality of a fast-scaling B2C product in the travel
+and telecommunication market , part of the Genesis ecosystem. This role
+offers the opportunity to make a real impact on a live product used by
+thousands of travellers worldwide, with excellent prospects for professional
+growth.
+
+Work format: Possibility to work fully remotely or from our offices in
+Warsaw, Kyiv orLviv.
+
+About us:
+
+We are a mobile and web application (Web, iOS, Android) that enables easy and fast purchases of mobile data packages in any country in the world, leveraging eSIM technology;
+Our product allows seamless use of internet services while traveling at rates much lower than roaming and without having to search for local operators or purchase physical SIM cards;
+With grand ambitions, we aim to evolve our services into a comprehensive Travel App that caters to all travel-related needs, making every journey smoother.
+
+Your tasks:
+
+Take ownership of integrating with third-party APIs and platforms
+Responsibility for the backend development direction
+Implement constant and rapid changes for A/B tests
+
+About you:
+
+5+ years of backend with OOP experience
+5+ years of Node.js and Typescript experience
+2+ years of Nest.js framework experience
+5+ years of Mysql/Mariadb/Postgres experience
+Production maintaining experience (logging, migrations, alerts, pm2/supervisor)
+Independence at work
+At least intermediate English level (all work communication in English)
+
+Nice to have:
+
+High load production experience
+Experience with A/B tests
+
+Why to join us:
+
+Direct impact on the newly developed product
+Building product-driven applications with a strong emphasis on UX/UI
+Modern tech stack and engineering practices
+Access to all Genesis resources, expertise and networking opportunities
+Benefits: Health insurance, 20 paid vacation days per year, Annual performance review with clear salary progression
+
+Join us in reshaping the future of connectivity.

@@ -1,0 +1,69 @@
+Senior Full-Stack JavaScript (BE leaning) Engineer
+_We are looking for a**Senior Full-Stack JavaScript (Backend-leaning)
+Engineer** to help our client build the backbone of private markets and power
+their next-generation investment management platform._
+
+Are you passionate about building meaningful, high-impact technology that goes
+beyond just writing code? This is your chance to join a product-driven team
+shaping the future of private markets through secure, scalable, and user-
+friendly solutions.
+
+Beetroot is a trusted partner for startups and established brands worldwide,
+helping them grow by building strong, long-term tech teams. We’re looking for
+a talented engineer to join one of our fintech partners and play a key role in
+their product evolution. Our client is redefining the private investment
+industry by combining exceptional expertise, operational excellence, and
+frictionless technology. Their platform enables funds and private investors to
+seamlessly and securely set up and manage investment entities — creating the
+backbone of modern private markets.
+
+As a **Senior Full-Stack JavaScript (Backend-leaning) Engineer,** you’ll play
+a key role in developing the technology that drives this mission. You’ll have
+the freedom and ownership to influence the product roadmap, design the right
+solutions, and help build something that truly matters.
+
+**What you’ll do in this role**
+
+  * Design and implement robust, scalable, and secure backend services that address real customer needs;
+  * Collaborate with Product Managers and cross-functional teams to discover problems, create solutions, and deliver impactful features;
+  * Optimize and maintain backend systems and ensure seamless integration with frontend and third-party services;
+  * Contribute to architecture decisions, proactively address technical debt, and improve overall team productivity;
+  * Drive communication and collaboration within the engineering team to ensure smooth delivery.
+
+  
+**We’re looking for**
+
+  * Proven experience as a Full-Stack or Backend Engineer;
+  * Solid knowledge of TypeScript and Node.js (Nest.js);
+  * Experience with relational databases (MySQL preferred);
+  * Familiarity with Kubernetes (K8S) and AWS infrastructure;
+  * Understanding of secure API design, scalability, and performance optimization;
+  * Strong ownership and problem-solving mindset;
+  * Passion for building simple, efficient, and impactful solutions;
+  * Excellent communication and collaboration skills;
+  * Upper-Intermediate English level.
+
+  
+  
+
+**How to knock our socks off**
+
+  * Experience with Svelte or similar modern frontend frameworks;
+  * Hands-on experience with FusionAuth, Twilio, SendGrid, Retool, or Tally;
+  * Interest in fintech or investment technology;
+  * Naming five or more dishes that include beetroot besides borshch.
+
+  
+  
+
+✔ **Not checking every box?**
+
+This job looks very exciting, but you hesitate to apply because of the
+confidence gap? Reach out to us anyway! Beetroot is an inclusive workplace
+that considers all applicants. We’re committed to openness — promoting
+equality and fostering an environment where different backgrounds, ideas, and
+experiences are not just accepted, but embraced. So let’s discover together
+whether we could be an excellent fit for each other.
+
+Please send us your CV in English, and we’ll be happy to discuss your
+application further.

@@ -1,0 +1,65 @@
+BackEnd (Node.js) Developer
+Moon Active is one of the world’s top mobile game companies, our teams
+leverage cutting-edge technologies to craft fun and interactive games enjoyed
+by millions worldwide. We produce exciting and engaging entertainment for
+players across the globe and pride ourselves on developing top-quality casual
+games that invite and allow players to connect with one another.
+
+As a BackEnd Engineer, you will be working in a scrum team implementing new
+features and improving existing code for our most popular game. We are looking
+for a Strong developer to join an engineering team that is responsible for
+building complex, high-scale, and real-time systems.
+
+We work with Node.js/Redis/K8s/Microservices, 24/7 serving 100k req/sec,
+200k+ req/sec at peaks , Redis used as the main storage, handling terabytes
+of data and 200M ops/min.
+
+Responsibilities:
+
+Delivering new game features every few weeks;
+Building distributed systems and microservices;
+Mainly developing real-time mobile game server with Node.js and Redis;
+Working with the Kyiv-based cross-functional team that also includes Unity developers and QAs.
+
+Requirements:
+
+Backend development experience (any OOP language, ex. Node.js, Java, C#, etc.);
+Familiarity with Node.js — must;
+Willingness to operate within an AI-first approach for development productivity and feature integration;
+Focuses on delivering tangible value and features that drive product success, not just writing code.
+Experience with distributed systems and microservices architecture;
+Experience with NoSQL databases (ex. Redis);
+Experience with Backend development of real-time web services;
+Experience in a high scale system will be a plus;
+Experience working with Scrum teams will be a plus;
+Good spoken and written English is a MUST.
+
+Benefits:
+
+A global data-driven company, with a unique product and strong R&D center;
+Exceptional innovative and dynamic work environment;
+Promote transparency & open employee communication;
+Tremendous growth & career advancement opportunities;
+Encourage, support, and empower learning exploration and career development opportunities;
+Directly impact and build personalized product experiences for our players.
+
+We offer:
+
+Generous compensation with regular performance reviews;
+Paid vacation and sick leaves;
+Comprehensive medical insurance for you and your family member free of charge;
+Sports expenses reimbursement;
+Comfortable office in BC Gulliver;
+Daily lunches in the office and fully stocked kitchen with the greatest coffee;
+Newest technical equipment (macOS);
+Training & Development / Tuition reimbursement; online courses of your choice;
+Parental leave;
+Employee Referral Program with great bonuses;
+Regular team buildings and Company Happy Hours;
+Relocation bonus for nonlocal candidates;
+Reimbursement of car parking.
+
+We celebrateall kinds of entertaining events — brought to us by our amazing
+Employee Experience and never forget about gifts!
+
+Join us on the Moon!

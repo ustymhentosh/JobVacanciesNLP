@@ -1,0 +1,56 @@
+Senior Backend Developer (Remote)
+We’re seeking an experienced and driven Senior Backend Developer (Remote)
+who excels in Go and has hands-on expertise with large-scale systems.
+
+You’ll join a fast-paced, mission-driven team building the future of scalable
+marketing infrastructure. We’re looking for a builder, a systems thinker, and
+someone who enjoys leading by example — collaborative, vocal, and hungry to
+make an impact.
+
+If you’re a natural communicator, love clean architecture, and have an
+entrepreneurial spirit, we want to talk.
+
+🛠️ What You’ll Do
+
+Architect, design, and implement backend systems using Go.
+Build and maintain high-volume systems serving email, SMS, RCS, and other marketing communications.
+Champion best practices in API design, distributed systems, and messaging reliability.
+Take a technical leadership role: mentoring other engineers, participating in code reviews, and helping set engineering standards.
+Collaborate cross-functionally with Product, DevOps, and Front-end to deliver business-critical features.
+Be a proactive communicator and driving force in team meetings and product planning.
+
+✅ You Have
+
+5+ years of backend experience in Go.
+Deep understanding of REST APIs, gRPC, scalable microservices, and modern backend architecture.
+Strong experience with cloud platforms (GCP preferred) and containerized environments (Docker, Kubernetes).
+Excellent communication skills — you thrive in meetings, love collaborating, and know how to rally a team.
+
+🌟 Bonus Points
+
+Experience with message deliverability, carrier compliance, or A2P messaging workflows.
+Experience with data streaming and other data tools, Kafka, Airflow, Apache Beam, BigQuery.
+Familiarity with real-time systems, WebSockets, or push notifications.
+Prior startup experience or technical founder background.
+Contributions to open source or tech community presence.
+Experience working with messaging protocols: SMTP, SMPP, Twilio, Mailgun, RCS APIs, or similar.
+
+💼 What We Offer
+
+Competitive salary and equity.
+Fully remote flexibility with strong team culture.
+Opportunity to take ownership and lead in a fast-growing environment.
+Budget for learning, tools, and conferences.
+A team that values transparency, integrity, and getting things done.
+
+🙋‍♂️ You’re a Great Fit If You...
+
+Prefer fast iterations over drawn-out roadmaps.
+Can jump on a call and pitch a better solution to a complex problem.
+Have experience shipping real-world products that involve messaging or notifications.
+
+Queen One is the brand technology platform bringing life, energy, and
+guaranteed revenue to websites and communication programs. Connect replaces
+outdated email and text tools with AI-powered 1-to-1 messaging, while Frames
+turns static product pages into dynamic experiences—both built to drive growth
+and cut costs.

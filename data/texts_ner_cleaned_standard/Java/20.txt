@@ -1,0 +1,93 @@
+Java Developer with Low-latency Experience
+We are the creators of a new fintech era!
+Our mission is to revolutionize the world by making blockchain technology
+accessible to everyone in everyday life. WhiteBIT is a global team of more
+than 1,200 professionals united by a shared vision of shaping the Web3 future.
+We are building our own blockchain ecosystem, ensuring maximum transparency
+and security for over 8 million users worldwide. Our cutting-edge solutions,
+rapid adaptation to market challenges, and technological excellence set us
+apart from traditional companies.
+Our official partners include the National Football Team of Ukraine, FC
+Barcelona, Lifecell, FACEIT, and VISA.
+
+The future of Web3 starts with you: join us as a Java Developer!
+
+Requirements
+
+Education & Experience:
+Bachelor’s or Master’s degree in Computer Science, Computer Engineering, or
+a related STEM field.
+3+ years of experience in Java development, ideally within financial markets
+or algorithmic trading.
+Hands-on experience in system architecture design, ensuring scalability,
+reliability, and low latency.
+
+Technical Skills:
+Strong Java programming skills (Core Java, Multithreading, Asynchronous
+Programming).
+Solid understanding of algorithms and data structures, with a focus on
+performance optimization.
+Networking and protocols knowledge, including client-server communication
+and low-latency optimizations, WebSockets.
+Experience with databases (MySQL, MongoDB) for handling large-scale
+financial data.
+Strong understanding of operating systems, networks, and performance tuning.
+Experience with distributed systems and microservices architecture.
+Familiarity with high-performance computing (HPC) and large-scale model
+training is a plus.
+C++ knowledge is a strong plus, particularly for performance optimization
+and understanding low-level system behavior.
+
+Problem-Solving & Analytical Skills:
+Strong analytical and problem-solving skills, with a commitment to testing
+and quality assurance.
+Track record of independently solving complex technical challenges with real
+industry impact.
+Strong ability to debug, profile, and optimize performance in production
+systems.
+Experience with automated testing, continuous integration, and deployment
+processes.
+
+Mindset & Soft Skills:
+Passion for technology, problem-solving, and continuous learning.
+Intellectual curiosity and a strong drive to grow within the quantitative
+finance industry.
+Team player, with strong communication skills and a collaborative attitude.
+Reliable and predictable availability to ensure smooth operation of
+production trading systems.
+
+Responsibilities
+
+Design and implement innovative solutions for algorithmic trading strategies
+Develop and optimize functionality for trading systems, ensuring low
+latency, high availability, and scalability
+Work on microstructure research, developing tools for market data analysis
+and feature engineering
+Build an risk management platform to enhance trading operations and risk
+control
+Engage in full-cycle development, including research, coding, testing, and
+production deployment
+Optimize the performance of trading architecture to maximize execution
+efficiency
+Maintain and improve data pipelines and system infrastructure
+
+Work conditions
+
+Immerse yourself in Crypto & Web3:
+Master cutting-edge technologies and become an expert in the most innovative
+industry.
+Work with the Fintech of the Future:
+Develop your skills in digital finance and shape the global market.
+Take Your Professionalism to the Next Level:
+Gain unique experience and be part of global transformations.
+Drive Innovations:
+Influence the industry and contribute to groundbreaking solutions.
+Join a Strong Team:
+Collaborate with top experts worldwide and grow alongside the best.
+Work-Life Balance & Well-being:
+Modern equipment.
+Comfortable working conditions, and an inspiring environment to help you
+thrive.
+30 calendar days of paid leave.
+Additional days off for national holidays.
+Health insurance.

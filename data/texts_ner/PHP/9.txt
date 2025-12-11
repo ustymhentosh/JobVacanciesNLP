@@ -1,0 +1,41 @@
+Senior PHP Developer
+**FAVBET Tech** develops software that is used by millions of players around
+the world for the international company FAVBET Entertainment.  
+  
+**Main areas of work:**
+
+  * **Game Development** — driving the end-to-end engineering process for innovative, engaging, and mathematically precise games tailored to global markets.
+  * **Mechanics & Player Experience **— overseeing the creation of core gameplay logic and features that maximize engagement and retention while also leading the development of back office admin panels for game configuration, monitoring, and operational efficiency.
+  * **Data-Driven Game Design** — implementing analytics and big data solutions to measure player behavior, guide feature development, and improve monetization strategies.
+  * **Cloud Services** — we use cloud technologies for scaling and business efficiency.
+
+**Requirements:**
+
+  * 5+ years of experience in developing production applications using PHP and PostgreSQL.
+  * Proven experience working on high-load projects (mandatory)
+  * Excellent knowledge of PostgreSQL, Redis, RabbitMQ, and php-fpm (mandatory).
+  * Strong experience with PHP MVC frameworks.
+  * Experience integrating multiple data sources and databases into a unified system.
+  * Hands-on experience with web service integration (XML, SOAP, REST).
+  * Experience in building RESTful JSON web services.
+  * Experience with Git for version control and familiarity with development tools such as JIRA, Composer, GitLab CI/CD, and Docker.
+  * Experience with agile development methodologies.
+  * Knowledge of Domain-Driven Design (DDD) and/or Clean Architecture is a strong plus.
+
+**Responsibilities:**
+
+  * Build efficient, testable, and reusable PHP modules.
+  * Develop and maintain high-performance solutions addressing service efficiency and scalability under heavy load.
+  * Participate actively in quality assurance activities, including design and code reviews, unit testing, defect resolution, and operational readiness.
+  * Collaborate with teams to ensure agile delivery of robust and maintainable software.
+  * Work within agile methodologies to deliver high-quality software.
+  * Integrate multiple data sources and databases into a unified system.
+  * 
+
+**We offer:**
+
+  * 30 day off — we value rest and recreation.
+  * Medical insurance for employees and the possibility of training employees at the expense of the company and gym membership.
+  * Remote work or the opportunity — our own modern lofty office with spacious workplace, and brand-new work equipment (near Pochaina metro station).
+  * Flexible work schedule — we expect a full-time commitment but do not track your working hours.
+  * Flat hierarchy without micromanagement — our doors are open, and all teammates are approachable.

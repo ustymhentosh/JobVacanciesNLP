@@ -1,0 +1,44 @@
+Senior Node.js Developer
+We are looking for an experienced Backend Engineer with a strong software
+engineering background and an entrepreneurial mindset. You will work on
+challenging, large-scale backend systems, contribute to our client’s technical
+architecture, and help shape the future of the platform.
+
+Project — a digital manufacturing platform that streamlines the process of
+sourcing custom metal parts. It connects customers with a network of certified
+manufacturing partners, combining inquiry, ordering, and delivery into one
+efficient, fully digital workflow.
+
+#### __Experience / Skills required:__
+
+#### __Must have:__
+
+* 5+ years of professional experience as a backend engineer 
+* Proven expertise in TypeScript, JavaScript, Node.js, MongoDB, MySQL, AWS (S3, SQS, RDS, etc.), Docker, and ORMs (e.g., Prisma, TypeORM, Sequelize) 
+* Hands-on experience with medium-to-large-scale backend applications 
+* Strong software engineering fundamentals and an entrepreneurial mindset 
+* Passion for solving complex problems using well-designed patterns and thoughtful decision-making 
+* Excellent communication skills and Upper-Intermediate English (or higher)
+* Reliable, innovative, and proactive — you take ownership and deliver quality solutions 
+
+#### __Responsibilities:__
+
+* Design, implement, and evolve backend services deeply integrated across multiple company systems 
+* Take full ownership of projects — from design and architecture through CI/CD deployment and observability to long-term maintenance 
+* Develop high-quality, scalable system architectures capable of handling complex business logic and rapid change 
+* Continuously improve system performance by identifying bottlenecks, refactoring legacy components, and introducing automation 
+* Collaborate closely with other senior engineers and stakeholders to define technical strategy and raise engineering standards company-wide 
+
+#### __We offer:__
+
+* Competitive salary
+* Vacation (up to 20 working days)
+* Paid sick leaves (10 working days)
+* National Holidays as paid time off
+* Online English courses
+* Accountant assistance and legal support
+* Flexible working schedule, remote format
+* Direct cooperation with the customer
+* Dynamic environment with low level of bureaucracy and great team spirit
+* Challenging projects in diverse business domains and a variety of tech stacks
+* Communication with Top/Senior level specialists to strengthen

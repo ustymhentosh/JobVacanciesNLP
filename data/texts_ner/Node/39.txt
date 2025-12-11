@@ -1,0 +1,33 @@
+Node.js Developer
+### **Appexoft — More Than a Software Company, We Build the Future!**
+
+We provide a full range of high-quality IT services, helping businesses turn
+their boldest ideas into powerful, real-world solutions. Our mission is
+simple: **to create top-notch web applications and websites that drive
+results, boost profits, and help brands shine online**.
+
+Ready to work on exciting projects and grow with a passionate, talented team?
+Here’s what we’re looking for:
+
+### **Requirements:**
+
+  * Strong knowledge of **HTML, CSS**
+  * Proficiency in **JavaScript, TypeScript, Node.js**
+  * Experience with **ExpressJS, NestJS**
+  * Familiarity with ORMs: **Mongoose, PrismaJS, TypeORM, Sequelize**
+  * Database expertise: **PostgreSQL, MySQL, MongoDB, Redis**
+  * Solid understanding of **REST API standards**
+  * Experience with **Git**
+
+### **What We Offer:**
+
+**Challenging and exciting projects** where your ideas matter  
+**Plenty of growth opportunities** to level up your skills  
+**Competitive salary** that matches your expertise  
+**Comfortable workspace** in our modern Lviv office  
+A **friendly, supportive team** that values your input  
+And also — **great coffee, tea, and snacks** to keep your energy up
+
+**If you’re passionate about technology, love solving problems, and want to
+work in a company where innovation meets creativity — Appexoft is your
+place!**

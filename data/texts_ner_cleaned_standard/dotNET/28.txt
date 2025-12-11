@@ -1,0 +1,53 @@
+Full-Stack .NET/Angular Developer
+Eastoner is a technology consulting and custom software development company,
+helping businesses transform ideas into digital solutions. We specialize in
+building scalable web platforms and intuitive mobile applications for clients
+across the US, EU, and other strategic markets. With a strong engineering
+culture, deep industry expertise, and a focus on delivering real business
+outcomes, we help startups and established companies innovate, grow, and stay
+ahead of the curve. Our team works closely with clients to ensure every
+product we develop is functional, user-centric, and market-ready.
+
+About the Project
+
+We are looking for a skilled Full-Stack .NET/Angular Developer to join our
+remote team. You will be working on international projects, building and
+maintaining high-quality applications, and collaborating closely with other
+developers, testers, and product managers.
+
+Requirements:
+
+3–4 years of hands-on full-stack development with .NET (Core & Framework) and Angular.
+Basic understanding of Authentication & Authorization (OAuth 2.0, OpenID Connect).
+Strong proficiency in C#, Entity Framework, and LINQ.
+Deep knowledge of TypeScript, RxJS, Angular CLI, and component-based architecture.
+Experience with MongoDB (data modeling, aggregation framework).
+Proven ability to build RESTful APIs and work with HTTP protocols.
+Familiarity with Git and CI/CD pipelines (Azure DevOps, GitHub Actions).
+Azure Cloud: basic to medium knowledge
+Microservices and Service Bus: a plus (optional).
+English: Intermediate+ (for technical documentation and team communication).
+
+Responsibilities:
+
+Develop and maintain the front-end using Angular (v10+).
+Build and support back-end services with .NET Core (3.1 / 5+) and .NET Framework 4.7 Web API.
+Integrate with external services (REST, OAuth, OAuth 2.0, OpenID Connect).
+Work with MongoDB for document-oriented data storage and querying.
+Write unit and integration tests (xUnit, Jest).
+Optimize performance and refactor existing code.
+Participate in sprint planning, code reviews, and architectural discussions.
+
+We Offer:
+
+15 Days of vacation: Recharge and unwind with 15 business days of paid vacation each year.
+12 Paid Sick Days: We care about your well-being — take time off whenever you need to feel your best.
+Public Holidays: Take time to celebrate, relax, and feel your best during official holidays.
+Accounting Support: Focus on your work — our accountant will take care of the paperwork.
+English Courses: Improve your communication skills with English lessons from native speakers.
+Professional Growth: We support your development by covering the cost of professional training and courses.
+Medical Insurance: Your well-being matters — we’ve got you covered with full medical support.
+Office: Work from our cozy Lviv office, fully equipped with generators and Starlink to keep you connected.
+Team Buildings: We love bringing people together — enjoy time with the team beyond work.
+IT Cluster Membership: Be part of the local tech community and enjoy exclusive perks.
+Work Equipment: Everything you need for comfortable work — laptop, mouse, keyboard,

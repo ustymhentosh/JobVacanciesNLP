@@ -1,0 +1,40 @@
+Senior back-end Engineer (Go)
+### ABOUT CLIENT
+
+This is an AI-powered platform designed to support content creators. It
+enables them to build personalized and interactive services available across
+multiple devices and platforms. The system functions as an all-in-one space
+for managing memberships and communities, distributing premium content, and
+using engagement tools. Everything is brought together in a single environment
+that can be flexibly configured to meet the needs of each creator.
+
+### PROJECT TECH STACK
+
+Go, Postgres, MySQL
+
+### PROJECT STAGE
+
+Live product
+
+### QUALIFICATIONS AND SKILLS
+
+  * Proven experience as a backend engineer (5+ years preferred)
+  * Strong hands-on experience with Golang (experience with Rust or Java is a plus)
+  * Experience with relational databases (e.g., Postgres, MySQL)
+  * Solid understanding of algorithms, data structures, and API design
+  * Strong communication and ability to collaborate across teams
+
+### NICE TO HAVE
+
+  * Experience with cloud technologies
+  * Experience in video streaming or OTT platforms.
+  * Experience with graphql
+  * Knowledge of DevOps best practices
+
+### RESPONSIBILITIES
+
+  * Architect, implement, and maintain highly scalable backend systems.
+  * Collaborate with product, design, and frontend teams in order to build the right solutions.
+  * Balance short-term deliverables and long-term vision to design solutions that can evolve with the business.
+  * Write reusable, testable, and efficient code.
+  * Maintain high development standards through code reviews, documentation, and collaboration.

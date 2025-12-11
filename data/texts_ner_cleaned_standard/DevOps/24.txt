@@ -1,0 +1,44 @@
+Senior DevOps Engineer
+Innovecs is a global digital services company with a presence in the US,
+the UK, the EU, Israel, Australia, and Ukraine. Specializing in software
+solutions, the Innovecs team has experience in Supply Chain, Healthtech,
+Collaboration Tech, and Gaming.
+
+For the fifth year in a row, Innovecs is included in the Inc. 5000, the list
+of fastest-growing private companies in the US, and a ranking of the best
+global outsourcing service providers by IAOP. Recently, Innovecs was honored
+with the prestigious Global Good Awards for the Employee Engagement &
+Wellbeing, won gold at the Employer Brand Management Awards, and was included
+in the Global Top 100 Inspiring Workplaces Ranking.
+
+Requirements:
+
+Strong Linux administration skills with at least 5 years of experience in production environments
+In-depth knowledge of at least one major cloud platform (AWS, GCP, Azure, or OCI)
+Proficiency in Python programming
+Extensive experience with Kubernetes and container technologies like Docker
+Solid understanding of infrastructure-as-code principles and experience with tools like Terraform
+Familiarity with monitoring and alerting systems for DevOps operations
+At least 5 years Prior experience as a DevOps Engineer.
+Strong problem-solving skills and the ability to work in a fast-paced environment
+Experience with VMware or bare metal server management
+Networking knowledge and experience
+Familiarity with Go programming language
+Experience designing and implementing CI/CD processes and build systems
+Knowledge of security best practices for cloud and on-premises environments
+
+Responsibilities:
+
+As a Senior DevOps Engineer, your primary responsibility will be collaborating with other team members on our high-performance filesystem solution and releasing our kernel driver, which is written in C on top of Linux, as part of the Weka filesystem product.
+What you’ll be doing: Client is at the forefront of automation, continuously striving to streamline our operations across all aspects of our infrastructure. We maintain a vast multi-cloud environment spanning AWS, GCP, Azure, and OCI, as well as a robust on-premises infrastructure. Our team is responsible for maintaining and optimizing these diverse environments.
+Key Responsibilities: As a Senior DevOps Engineer, you’ll play a crucial role in supporting and expanding our automation efforts. You’ll be responsible for designing, implementing, and maintaining scalable and reliable infrastructure solutions across our multi-cloud and on-premises environments.
+
+Our value to you:
+
+Flexible hours and remote-first mode,
+Competitive compensation,
+Complete Hardware/Software setup — anything you need for work,
+Open-door culture, transparent communication, and top management at a handshake distance,
+Health insurance, vacation, sick leaves, holidays, paid maternity/paternity leave,
+Access to our learning & development center: workshops, webinars, training platform, and edutainment events,
+Virtual team buildings and social activities.

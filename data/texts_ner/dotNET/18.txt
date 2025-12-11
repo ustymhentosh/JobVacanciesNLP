@@ -1,0 +1,53 @@
+Middle .NET Developer
+We’re seeking a talented and experienced .NET Engineer to join our client’s
+team and help scale and enhance a cloud-based Property Management Software
+platform. This is an ideal opportunity for experienced engineers who thrive in
+distributed, high-performance teams and are passionate about building clean,
+scalable systems.
+
+Our client is a rapidly growing TravelTech company offering industry-leading
+Property Management, Rate Management, Channel Management, and Guest Conversion
+solutions.
+
+#### __Must have:__
+
+* 4 years of experience with C#, including building scalable ASP.NET Core Web APIs
+* Strong grasp of OOP, Design Patterns, TDD, and software engineering principles
+* Proficiency with data structures, algorithms, Big O Notation, and system performance optimization
+* Experience with SQL Server and cloud databases (e.g., AWS RDS)
+* Familiarity with Git, Git workflows, and CI/CD pipelines
+* Strong problem-solving and analytical skills
+* Must have:Upper-Intermediate English
+
+#### __Good to have:__
+
+* Familiarity with event-driven and distributed systems architecture
+* Hands-on experience with AWS, Kubernetes, Terraform, GitOps
+* Background in DevOps practices or infrastructure-as-code
+* Experience with PostgreSQL, Apache Kafka, or cloud messaging systems
+
+#### __Responsibilities:__
+
+* Write high-quality, maintainable, and reusable code consistent with SOLID principles
+* Build and optimize ASP.NET Core Web APIs used across our distributed system
+* Solve complex integration problems involving external partners and internal systems
+* Actively participate in Agile team ceremonies (grooming, planning, reviews, retros)
+* Apply TDD, OOP, and modern development best practices in daily work
+* Work with architects and peers to evolve platform architecture and cloud deployment strategies
+
+#### __We offer:__
+
+* Competitive salary 
+* Medical Insurance after 3 months probation period (can be used in Ukraine)
+* Vacation and sick leaves (20 working days)
+* National Holidays as paid time off (10 days)
+* Online English courses
+* Accountant assistance and legal support
+* Flexible working schedule, remote, office-based or hybrid format
+* Fully-equipped perfect office space located in the city center (ready for work in blackouts)
+* Direct cooperation with the customer
+* Dynamic environment with low level of bureaucracy and great team spirit
+* Challenging projects in diverse business domains and a variety of tech stacks
+* Communication with Top/Senior level specialists to strengthen your hard skills
+* Online/offline teambuildings
+* Volunteering culture development and support

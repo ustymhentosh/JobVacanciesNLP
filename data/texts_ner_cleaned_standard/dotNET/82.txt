@@ -1,0 +1,50 @@
+Full-stack Technical Leader
+Leobit is looking for a Technical Leader. The ideal candidate will possess a
+strong background in software design and industry-standard architectures. This
+role involves engaging in pre-sales activities, discovery, developing proof of
+concepts, and providing technical leadership throughout project lifecycles. A
+solid understanding of .NET, distributed systems, cloud architectures, and
+front-end frameworks is required.
+
+Requirements:
+
+Five-year working experience in .NET (at least)
+Excellent knowledge of C#, .NET, ASP.NET, Entity Framework
+Profound knowledge of OOP, SOLID, multitier architecture
+Profound knowledge in MS SQL
+Experience with NoSQL (would be a plus)
+Experience in designing and implementing distributed systems and cloud-based architectures
+Experience with CQRS and Event sourcing (would be a plus)
+Experience with front-end frameworks e.g. Angular, React or Vue
+Experience in unit/integration/acceptance testing, and CI/CD
+Strong analytical skills
+Bachelor’s or Master’s degree in computer science (or similar technical field)
+Level of English: Upper-Intermediate (at least)
+
+Responsibilities:
+
+Develop well-designed, easily maintainable, scalable, and reusable software
+Design, document, and demonstrate software architecture
+Provide technical assistance in presale activities
+Assist in the collection of requirements and writing related technical documentation
+Estimate complex projects using different techniques
+Research, study and develop new or complex technical solutions/technologies (R&D)
+Develop automated unit tests, collect code coverage
+Assist in the implementation of performance/load/stress testing procedures according to project needs
+Provide continuous integration practices on the projects
+Setup integration with external software
+Ensure risks and issues that affect the project delivery
+Guide team development efforts toward successful project delivery
+Provide technical leadership to teammates through coaching and mentorship
+Analyze and resolve technical problems
+
+We offer:
+
+Interesting and challenging projects
+Competitive compensation and regular results-based salary review
+A broad range of professional education and personal development possibilities
+Comfortable and cozy working environment
+Motivated colleagues with profound knowledge of the technical field
+Attractive compensation package
+
+Accelerate your career with Leobit!

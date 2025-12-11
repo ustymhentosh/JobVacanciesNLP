@@ -1,0 +1,42 @@
+Frontend Developer (SurgiCase Ortho Planners)
+If you are passionate about knowing that what you do is important and what you
+create matters, then we have the right job for you. Value is not just an empty
+word to us here at Materialise — it means developing software solutions to
+help people walk, run, and jump again. It means engineering to help customers
+develop better products and add more functionality.  
+  
+
+### Job description
+
+Materialise Medical has pioneered many leading medical 3D printing
+applications, enabling researchers, engineers, and clinicians to revolutionize
+innovative patient-specific treatment that helps improve and save lives. As an
+engineer, you will be responsible for implementing features and ensuring they
+meet rigorous medical software quality standards, with the end result being a
+product used by hundreds of surgeons throughout the world.
+
+### What you will do
+
+  * Participate in technical discussions and bring new ideas to the table 
+  * Design, implement, test, deploy, maintain, and improve our software components and services 
+  * Own the quality of your code (i.e., unit tests, TDD, and other test methodologies) 
+  * Work with product managers, product owners, and architects to design and specify new features from the engineering standpoint 
+  * Author internal tools that improve the team’s quality and productivity 
+  * Contribute to the positive, solution-focused, and creative team spirit 
+  * Throughout your tasks, you will work closely with other software engineers to optimize the design, quality, and functionality of the product
+
+### Your profile
+
+  * Understanding of OOP, design patterns, and SOLID principles 
+  * Experience with JavaScript, HTTP protocol, REST, Typescript, CSS, and preprocessors
+  * Fluent in English (written and spoken)
+  * 3+ years of industry experience designing, building, testing, and shipping software 
+  * Exceptional problem-solving skills 
+  * Able to handle competing priorities in fast-paced environment 
+  * Able to perform at a high level in a fast-paced, dynamic environment 
+  * Good influencing skills; able to bring colleagues along with your vision 
+  * Good communication skills 
+  * React, WebGL, Three.js
+  * Mathematical background 
+
+**Please note that we work in a hybrid model with the office in Kyiv.**

@@ -1,0 +1,75 @@
+Senior iOS Product Engineer — Documents Team
+We have been delivering a powerful suite of productivity apps for iOS and Mac
+for many years now, and our Documents app has been on the forefront of making
+file management usable on iOS devices. The team is looking for a creative iOS
+Engineer to help us deliver the best file manager for iPhone and iPad to
+people worldwide. You’ll face the most challenging tasks in your career and
+opportunities to make a great impact — build a productivity app, that really
+helps millions of people.
+
+What you’ll do:
+
+Implement new functionality
+
+Maintain and refactor the existing code base
+
+Use and optionally improve infrastructure
+
+Essential for the role:
+
+Swift
+
+Common programming principles (OOP, POP, SOLID)
+
+Architectures
+
+Custom UI experience
+
+Multithreading
+
+Will be a plus:
+
+Experience with Objective-C
+
+Algorithms and Data Structures
+
+CI/CD
+
+Automated Testing
+
+Xcode Instruments
+
+Cool things about this role:
+
+Rich functionality allows gaining experience in many areas
+
+Cooperation with the team of experienced developers to facilitate self-
+development
+
+Openness to controlled experiments with new technologies
+
+Healthy atmosphere within the team
+
+You can learn more about the team at the link: Documents by
+Readdle
+
+What will you get:
+
+Customer-centric culture. We put our customers first. It means that every
+employee can benefit from interacting with our customers directly. It enables
+us to create and deliver the best solutions for millions of our users
+
+Professional growth. We are professionals at everything we do. It means we
+own our decisions, our work, and our results. We provide quality feedback to
+others and welcome feedback as an opportunity to learn and improve
+
+A team of amazing people. The greatest power we have is the team. It means
+we care about each other, ensure transparency, and invest in everyone’s
+success
+
+Impact on our products. We aim to create valuable products. It means that we
+improve ourselves constantly by overcoming constraints, simplifying our
+processes, and improving our capacity
+
+Innovative culture. We try to be innovative and creative in everything we
+do. It means that we expect, appreciate and value new ideas

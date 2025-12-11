@@ -1,0 +1,98 @@
+Senior Voice Engineer ( Node js ) - Jobix.ai
+Senior Voice Platform Engineer
+
+Location: Remote
+
+Employment Type: Full-time
+
+Department: Voice & AI Infrastructure
+About Us
+
+Jobix.ai builds real-time voice systems that power modern
+AI communication.
+
+Our platform combines programmable telephony, low-latency audio streaming, and
+multilingual TTS/STT pipelines — all built on a Node.js backbone.
+
+This role focuses on taking technical ownership of critical voice
+infrastructure and helping shape its evolution.
+Role Overview
+
+We’re looking for an experienced engineer to work on the core voice platform,
+ensure its reliability, and drive its technical growth.
+
+You’ll work on real-time systems with strict performance requirements,
+collaborate closely with the engineering team, and become a key point of
+expertise for voice and streaming infrastructure.
+Responsibilities
+
+Take ownership of existing voice and telephony systems, including:
+
+Real-time TTS and STT streaming
+
+Inbound and outbound programmable call handling
+
+Browser widget integrations for voice calls
+
+Improve and extend backend services for performance, scalability, and maintainability.
+
+Implement new voice-related features end to end, from signaling to audio delivery.
+
+Ensure production systems are stable, observable, and well-documented.
+
+Act as a technical counterpart for other teams when issues or new requirements arise.
+
+Contribute to architectural decisions and long-term infrastructure direction.
+Requirements
+
+5+ years of backend development experience with strong Node.js skills.
+
+Proficiency with NestJS, Next.js, and React.
+
+Experience with Prisma ORM and Redis for caching and real-time data.
+
+Solid understanding of real-time systems and event-driven architectures.
+
+Strong knowledge of telephony protocols, including:
+
+SIP (Session Initiation Protocol) for signaling
+
+RTP (Real-time Transport Protocol) for audio streaming
+
+Familiarity with SDP negotiation, NAT traversal, and media routing
+
+Experience working with VoIP or telephony platforms (e.g., Asterisk, FreeSWITCH, Kamailio, Twilio, or similar).
+
+Familiarity with TTS/STT streaming and audio processing pipelines.
+
+Ability to quickly understand and work with complex existing systems.
+
+Proactive and reliable — takes ownership and solves problems effectively.
+
+Clear communication skills for collaborating with distributed teams.
+Nice to Have
+
+Experience with WebRTC, ICE/STUN/TURN, or real-time browser communication.
+
+Knowledge of audio codecs (Opus, G.711, G.729) and media handling.
+
+Background in SIP trunking, call routing, or SBCs (Session Border Controllers).
+
+DevOps skills (Docker, Kubernetes, CI/CD, monitoring, load testing).
+
+Experience building scalable, low-latency voice infrastructure in production.
+Why Join
+
+This is a high-impact engineering role working on technically demanding real-
+time systems at the heart of our Ai products.
+
+You’ll have meaningful ownership, real responsibility, and the opportunity to
+work deeply with modern telephony technologies, real-time streaming, and AI
+voice pipelines.
+Apply
+
+If this matches the kind of work you’re looking for, send us your CV and a
+short note on your relevant experience. [[email protected]](/cdn-cgi/l/email-
+protection#f9918bb993969b9081d79890)
+
+We value clarity, technical ability, and initiative.

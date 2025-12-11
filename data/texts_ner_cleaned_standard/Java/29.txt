@@ -1,0 +1,40 @@
+Java Developer
+Project Description:
+Our partner, an EU-based company, has an opening for a Senior Java/Kotlin
+Developer. You will be responsible for building a robust, cloud-based
+Financial Planning and Analysis (B2B) solution using new and widely spread
+technologies. You will have a chance to join the expert team working on the
+maintenance and development of the customer project management system doing a
+budget process on top of it.
+
+Responsibilities:
+
+Working closely with the team in the Agile environment:
+Developing new features and improvements.
+
+Required Skills:
+
+Experience in work with Java no less than two years;
+Sound knowledge of OOP and design patterns;
+Understanding of the software development process;
+Theoretical knowledge and practical experience in work with J2EE (Servlets, AJAX, Web Services);
+Knowledge of SQL;
+Good communication skills.
+Fluent English
+
+Additional Skills:
+
+Upper-intermediate spoken and written English;
+Knowledge of JavaScript;
+Unit testing experience;
+Linux experience;
+
+We offer:
+
+transparency in communication between the company and an employee;
+paid vacation (20 business days) and paid sick leave;
+opportunity to join advanced, innovative projects;
+accounting as a service;
+competitive salary;
+friendly working environment;
+language classes.

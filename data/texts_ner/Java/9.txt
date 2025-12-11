@@ -1,0 +1,45 @@
+Senior Java Full-Stack Engineer with React (#4188)
+We are looking for a **Senior Full-Stack Engineer with React** to join our
+team!
+
+The client is looking for an Engineers to accelerate product development and
+get more done for the overall roadmap for their flagship workforce management
+system. Currently the team is international with developers and QA from
+Ukraine, Latin America and the US. Most engineers in the team are full-stack
+although the backlog is heavier on backend tasks, hence some experience in
+front end development (ReactJS) will be needed.
+
+**Responsibilities:**
+
+  * Develop new features from the product backlog
+  * Develop REST services to support high-volume, low-latency web and mobile apps
+  * Design and implement DB schema to allow new functionality
+  * Maintain existing codebase
+
+**Requirements:**
+
+  * Strong proficiency in Java 11; familiarity with Java 17 or newer versions is a plus
+  * Hands-on experience with the Spring framework
+  * Solid understanding of JavaScript, HTML, and CSS
+  * Practical experience working with ReactJS
+  * Familiarity with cloud platforms such as AWS or Azure is a bonus
+  * Knowledge of Kubernetes and Terraform is considered an advantage
+  * Familiarity with a range of AI tools is expected
+  * English language skills at an upper-intermediate level or higher
+
+  
+  
+
+**We offer*:**
+
+  * Flexible working format — remote, office-based or flexible
+  * A competitive salary and good compensation package
+  * Personalized career growth
+  * Professional development tools (mentorship program, tech talks and trainings, centers of excellence, and more)
+  * Active tech communities with regular knowledge sharing
+  * Education reimbursement
+  * Memorable anniversary presents
+  * Corporate events and team buildings
+  * Other location-specific benefits
+
+*not applicable for freelancers

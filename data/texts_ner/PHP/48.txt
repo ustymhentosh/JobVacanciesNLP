@@ -1,0 +1,30 @@
+Middle PHP Developer
+**Specific responsibilities include**  
+— Participate in agile processes and contribute in all phases of the
+development lifecycle  
+— Write and maintain well designed, testable, reusable, reliable and efficient
+code  
+— Translate application storyboards and use cases into functional applications  
+— Ensure the best possible performance, quality, and responsiveness of the
+applications and their components  
+  
+**Requirements/ Who you are**  
+— Strong expertise in PHP 8.2+  
+— Strong understanding of REST API, GIT, Docker, Linux  
+— Strong knowledge of MySQL or PostgreSQL, Redis  
+— 2+ years of work experience in a similar role or position  
+  
+**Beneficial skills**  
+— Symfony or Laravel 9+ framework  
+— HTML, CSS, JavaScript  
+— Understanding Kafka  
+— Understanding microservice architecture  
+— Understanding distributed cloud computing services  
+— Understanding modular system architecture principles  
+— Good written English
+
+**We offer**  
+— Remote work  
+— A competitive salary corresponding to your level of knowledge, skills, and
+experience  
+— Flexible working hours

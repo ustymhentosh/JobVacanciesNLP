@@ -1,0 +1,43 @@
+Android & Django Opportunities, full-time and part-time
+We are looking for mid-level (3-7 years) and senior (7+ years) Android
+developers to work on our Common Health Android app.
+
+Quick Summary:
+
+  * You will be collaborating with developers from Google to fully migrate Common Health to the Google Health Connect framework ([developer.android.com/...​ess/guides/health-connect](https://developer.android.com/health-and-fitness/guides/health-connect)).
+  * The most important aspect is the Android component, but the app also includes a back-end component using Django, via AWS. Some experience with Android apps using AWS backends is great, but not required.
+  * Full-time and Part-time roles are possible.
+
+All Details:
+
+The Commons Project Foundation
+([https://www.thecommonsproject.org](https://www.thecommonsproject.org/)) is a
+global tech nonprofit building solutions that empower people to access,
+manage, and share their data.
+
+CommonHealth ([www.commonhealth.org](https://www.commonhealth.org)) is our
+Android app which helps you collect and manage your personal health data and
+share it with the health services, organizations and apps you trust.
+
+You should be able to demonstrate experience in the following:
+
+  * Android app development in Kotlin-bin and React-Native.
+  * Deploying releases to the Play Store
+  * CI/CD practices via GitHub Actions & Workflows
+  * Ability to communicate with Engineering managers in English
+
+If you can show that you’ve worked on an Android app which includes a front-
+end that retrieves data from an AWS (or other cloud) backend, this will go a
+long way to show you are a good fit.
+
+Additionally, experience in the below fields is a plus:
+
+  * Basic Python development via AWS (together with Django, PostgreSQL)
+  * Basic management of AWS ECS, Ephemeral, and Cloudfront modules
+  * FHIR and “SMART on FHIR” Electronic Health Record APIs.
+
+Full time and part time remote contracts are available. Payment will be
+monthly. The program for which these positions are available is over the next
+two years (2025-2026) with possibility for extension. We are most interested
+in candidates who are prepared to stay involved for at least the duration of
+the program.

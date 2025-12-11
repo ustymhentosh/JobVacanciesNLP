@@ -1,0 +1,43 @@
+Middle PHP developer (Symfony)
+We seek a PHP (Symfony) developer to join our tech team. You will create and
+maintain the ticketing system of a famous First Bundesliga Football Team. This
+includes the generation of tickets for a huge Stadium, control of access to
+the stadium, calculation of ticket prices, analysis and statistics, and many
+more things.
+
+Tech Stack: PHP8.2, Symfony 6.4, TypeScript, React.js., Mongo.DB, Redis,
+ElasticSearch, RabbitMQ, Docker, Bitbicket CI/CD.
+
+Requirements:
+
+3 years+ of commercial experience with Symfony (Laravel or other PHP frameworks);
+Experience with PHP 8.2+;
+Knowledge of HTML, CSS;
+Experience with JavaScript (including ES6);
+Proficiency in MySQL or MongoDB;
+Understanding of the basics of software development (REST API design, OOP, design patterns, SOLID);
+Experience with GIT and branching workflows;
+Experience with RESTful APIs and standards;
+Ability to analyze and identify problematic points in the code;
+Ability to write clean code;
+Motivation to learn and develop;
+Spoken and written English.
+
+Nice to have:
+
+Experience with UNIX systems;
+Docker;
+React.js;
+Experience with message brokers;
+Test writing;
+Experience with Linux/Unix.
+
+What we offer:
+
+Long-term cooperation with an opportunity for professional and personal development;
+Salary paid in USD, flexible banking choice;
+18 vacation days and 21 sick leaves which are fully covered;
+Extra bonuses for weddings and childbirth;
+Free English classes during working time;
+Dynamic environment with a low level of bureaucracy;
+Office in Lviv (generator, Starlink, coffee, fruit).

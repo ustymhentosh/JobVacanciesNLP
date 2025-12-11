@@ -1,0 +1,60 @@
+Senior .NET Developer
+We are toogeza , a Ukrainian recruiting company that is focused on hiring
+talents and building teams for tech startups worldwide.
+
+We’re looking for a Senior .NET Develope r to join the Entravel team.
+
+Entravel is a company that shapes the future of hotel booking. They are a
+crypto-native brand, leveraging the power of blockchain to transform how
+travellers experience the world. With a forward-thinking marketing strategy,
+Entravel is set to disrupt the industry by offering the world’s hotel rooms at
+the best prices.
+
+As a key member of Enravel’s development team, you will help architect and
+implement robust backend solutions that power their innovative hotel booking
+platform.
+
+Responsibilities:
+
+Design and develop scalable, high-performance backend services using .Net Core;
+Collaborate with cross-functional teams to define and implement new features;
+Ensure the security and integrity of our backend systems;
+Optimize and maintain existing codebase for improved performance;
+Participate in code reviews and provide constructive feedback to peers.
+
+Requirements:
+
+5+ years of professional experience with C# and .NET Core(3.1–8).
+Strong understanding of asynchronous programming, LINQ, anddependency injection.
+Proven experience building scalable, distributed systems andmicroservices.
+Proficiency with PostgreSQL (schema design, query optimization, migrations), MongoDB (for document-oriented data models), Redis (for caching and distributed state management).
+Hands-on experience with RabbitMQ and familiarity with Kafka.
+Experience integrating and using Kibana, Prometheus, andGrafana for logging, metrics, and alerting.
+Strong understanding of Docker containerization and image optimization.
+Practical experience deploying and managing services on Google Cloud Platform (GCP) (e.g., GKE, Cloud Run, Pub/Sub, Cloud SQL).
+Deep knowledge of RESTful APIs and gRPC service design.
+Solid grasp of CI/CD pipelines and Git-based workflows.
+Commitment to clean architecture, unit testing, andcode quality.
+Strong communication skills , able to collaborate effectively across teams in both English and Ukrainian.
+High sense of ownership , accountability , and responsibility for deliverables and system reliability.
+
+Nice to Have:
+
+Experience withIaC tools(Terraform, Pulumi).
+Knowledge of performance profiling and application security best practices.
+Familiarity with domain-driven design (DDD) and event sourcing.
+
+What Entravel Offers:
+
+Flexible Start: Set your own comfortable working hours that accommodate your individual needs.
+Competitive Salary: High standards of remuneration reflecting your contribution and skills.
+Vacation: Enjoy 22 days of vacation for full rejuvenation and life enjoyment.
+Sick Leave: Ensure your health with 15 days of sick leave per year.
+Special Leave Cases: Support for significant life events such as weddings, childbirth, or the loss of a close family member.
+
+We’ll review your CV and everything you have sent us within five working days.
+If your background meets our needs — we’ll set up a call to get to know each
+other better. Otherwise, we aren’t quite ready for you at this moment. But no
+worries — our journey has just started, and we’d love to stay in touch as our
+team grows and more opportunities emerge. We wish you the best of luck with
+your aspiration.

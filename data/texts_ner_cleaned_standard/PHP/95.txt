@@ -1,0 +1,9 @@
+PHP Developer
+4+ years of experience with PHP and Symfony
+Proficiency in designing, modeling, and using REST APIs
+Solid experience with relational databases, preferably MySQL or MariaDB
+Deep understanding of Object-Oriented design (e.g., SOLID Principles) and
+caching
+Strong skills in automated testing
+Proficiency with Git
+Level of English — Upper-Intermediate and higher

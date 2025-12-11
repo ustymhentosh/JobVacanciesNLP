@@ -1,0 +1,61 @@
+{
+  "filename": "macOS/13.txt",
+  "text": "Technical Writer (with Swift background)\nEvoPlay is looking for a skilled technical writer with experience in\ndocumenting code. The ideal candidate will be responsible for creating well-\nstructured and understandable documentation that improves code interaction for\nour developers.\n\nRequirements:\n2+ years of experience in the position of Technical Writer;\n2+ years of experience working with the Swift programming language;\nExperience with JIRA/Confluence;\nDeep understanding of software development processes and related technical\nconcepts;\nAbility to work independently and in cooperation with technical teams;\nAttention to detail and commitment to creating high-quality and user-\nfriendly documentation.\n\nNice to have:\nExperience in writing unit tests;\nExperience in the position of QA Engineer will be an advantage.\n\nResponsibilities:\nCreate and maintain complete code documentation;\nCollaborate with the development team to translate technical information\ninto user-friendly manuals;\nRegularly update documentation to reflect changes in features and software\nupdates;\nMake a description of the documentation directly in the code itself;\nEnsure documentation meets standards and best practices, ensuring clarity\nand consistency.",
+  "entities": [
+    [
+      0,
+      16,
+      "ROLE"
+    ],
+    [
+      23,
+      28,
+      "SKILL_HARD"
+    ],
+    [
+      41,
+      48,
+      "COMPANY_NAME"
+    ],
+    [
+      74,
+      90,
+      "ROLE"
+    ],
+    [
+      297,
+      305,
+      "EXPERIENCE_YEARS"
+    ],
+    [
+      339,
+      355,
+      "ROLE"
+    ],
+    [
+      357,
+      365,
+      "EXPERIENCE_YEARS"
+    ],
+    [
+      397,
+      402,
+      "SKILL_HARD"
+    ],
+    [
+      441,
+      456,
+      "SKILL_HARD"
+    ],
+    [
+      614,
+      633,
+      "SKILL_SOFT"
+    ],
+    [
+      787,
+      798,
+      "ROLE"
+    ]
+  ]
+}

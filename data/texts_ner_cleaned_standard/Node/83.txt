@@ -1,0 +1,38 @@
+Senior Node.js Developer (Blockchain)
+We are looking for a Senior Node.js Developer. The role is primarily backend-
+focused, involving the design and development of scalable services, APIs, and
+integrations. Basic knowledge of frontend technologies (Next.js, React.js) is
+expected, but your main responsibility will be building robust backend
+solutions that power our application.
+
+Requirements:
+
+4+ years of experience in Node.js;
+
+Experience with microservice architecture and ability to build it.
+
+Experience with graphql.
+
+Experience with Nest.js;
+
+Experience or understanding of Blockchain (Web3) domain.
+
+Experience with architecting and managing both relational and NoSQL
+databases
+
+Demonstrate experience with architecting design patterns;
+
+Commitment to a software development workflow that includes robust testing
+through the use of Jest, Mocha, or other similar tools;
+
+Experience with AWS infrastructure.
+
+Experience on average level with Frontend development (Next.js, React.js)
+
+English: Upper-Intermediate.
+
+What’s on offer
+
+Long-term (at least 1 year) contract.
+
+B2B contract in Ukraine.

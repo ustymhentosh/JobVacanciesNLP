@@ -1,0 +1,34 @@
+Android Developer
+We are looking for a skilled **Android Developer** to join our team for part-
+time collaboration or per-project involvement. You will work on innovative
+solutions within the Internet of Things (IoT) domain, including Smart Home,
+Smart City, and a range of other intelligent automation systems.
+
+**Requirements**  
+— 3+ years of commercial mobile development experience  
+— Strong knowledge of Java and/or Kotlin  
+— Proficiency with Android SDK  
+— Solid understanding of Bluetooth SDK and BLE  
+— Experience integrating with backend services via APIs  
+— Familiarity with Jetpack  
+— Experience with SQL / SQLite databases
+
+**Nice to Have**  
+— Experience with Material Design  
+— Skills in UI/UX implementation
+
+**Responsibilities**  
+— Develop and maintain Android applications for BLE and IoT-enabled devices  
+— Integrate mobile apps with Bluetooth peripherals and backend services  
+— Collaborate with cross-functional teams to design scalable solutions  
+— Optimize app performance and ensure code quality  
+— Participate in feature planning and propose technical improvements
+
+**We Offer**  
+— Flexible engagement formats — part-time or per-project  
+— Opportunity to work on cutting-edge IoT solutions  
+— A collaborative and innovative environment  
+— Long-term potential for growth and ongoing involvement  
+— Competitive compensation based on experience and project scope
+
+Send us your CV and let’s talk!

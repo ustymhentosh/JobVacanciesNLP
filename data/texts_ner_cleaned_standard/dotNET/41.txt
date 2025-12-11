@@ -1,0 +1,80 @@
+Senior Automation QA Engineer (.NET) (#3910)
+About the client:
+
+Our customer is a leading North America online broker. The Senior
+Automation QA Engineer (.NET) will work within a Mobile development team.
+They will create and execute test cases for mobile applications using a
+combination of manual and automated testing strategies. A commitment to
+collaborative problem solving, design, and delivery of a quality product is
+essential. This individual must be a critical thinker who can efficiently
+solve problems and work well with a diverse team. The QA Engineer will
+contribute to team meetings and the overall engineering process. Must be
+detail oriented, diligent and coordinate multiple tasks within the team and
+understand the entire software development life cycle. Our esteemed client, a
+prominent online broker in North America, seeks an Automation QA Engineer to
+join their Mobile Development team. The successful candidate will be
+responsible for developing and executing test cases for mobile applications,
+employing both manual and automated testing methodologies. A steadfast
+commitment to collaborative problem-solving, meticulous design, and the
+consistent delivery of high-quality products is paramount. This individual
+must possess exceptional critical thinking abilities, efficiently resolve
+issues, and collaborate effectively within a diverse team environment. The QA
+Engineer will actively contribute to team discussions and the overarching
+engineering process. Attention to detail, diligence, the ability to coordinate
+multiple tasks, and a comprehensive understanding of the entire software
+development lifecycle are essential.
+
+About the team:
+This a new team of 3 engineers: 2 .Net developers and an AQA who will work in
+the new PoC project. The goal of PoC is to build the services that provide an
+API for internal service usage. The project is related to the core trading
+platform of the customer. It requires a lot of work with transactions, SQL and
+a lot of data. So the AQA roles is to automate the testing process to ensure a
+smooth development and high quality standards for the customer. This new team
+comprises three engineers: two .Net developers and one AQA, who will be
+integral to a new Proof of Concept (PoC) project. The objective of this PoC is
+to develop services that offer an API for internal service consumption. The
+project is directly linked to the customer’s core trading platform and
+necessitates extensive work with transactions, SQL, and substantial data
+volumes. Consequently, the AQA’s responsibilities include automating the
+testing process to guarantee seamless development and uphold elevated quality
+standards for the customer.
+
+Responsibilities:
+
+Review business requirements to write test cases and test plans Identify and document all levels of testing including functional, integration, user acceptance and exploratory
+Analyze test results, troubleshooting issues and write up defects with a high level of detail
+Build and execute automated test cases
+Participate in the Agile ceremonies: story grooming, sprint planning, daily stand-ups, and retrospective
+Responsible for communicating daily progress, issues, risks
+Be highly collaborative with test and dev engineers and business partners to deliver the highest quality
+Be self-managed, but identify when escalation is needed
+
+Requirements:
+
+5+ years of professional experience in software testing with a strong focus on test automation.
+Proven expertise in .NET (C#) and the ability to deeply analyze and test complex backend code.
+Hands-on experience building and maintaining automation frameworks (UI/API/DB), with the ability to independently utilize and extend existing frameworks.
+Strong experience in API test automation (REST, gRPC, message-driven systems).
+Solid understanding of microservices architectures, distributed systems, and integration testing.
+Experience with unit, integration, and end-to-end testing frameworks (xUnit, NUnit, MSTest, Moq, etc.).
+Experience with SQL and databases (SQL Server, Entity Framework), including complex query validation.
+Experience with CI/CD pipelines (Azure DevOps, Jenkins, GitHub Actions) and test integration into release workflows.
+Knowledge of cloud platforms (preferably GCP)
+Proven experience in Agile/Scrum teams with ownership of QA processes.
+Upper-Intermediate English level
+Ukrainian language — Advanced or higher
+
+We offer:*
+
+Flexible working format — remote, office-based or flexible
+A competitive salary and good compensation package
+Personalized career growth
+Professional development tools (mentorship program, tech talks and trainings, centers of excellence, and more)
+Active tech communities with regular knowledge sharing
+Education reimbursement
+Memorable anniversary presents
+Corporate events and team buildings
+Other location-specific benefits
+
+*not applicable for freelancers

@@ -1,0 +1,79 @@
+Senior Kubernetes Engineer — Storage
+About Mirantis
+
+Mirantis is the Kubernetes-native AI infrastructure company, enabling
+organizations to build and operate scalable, secure, and sovereign
+infrastructure for modern AI, machine learning, and data-intensive
+applications. By combining open source innovation with deep expertise in
+Kubernetes orchestration, Mirantis empowers platform engineering teams to
+deliver composable, production-ready developer platforms across any
+environment—on-premises, in the cloud, at the edge, or in sovereign data
+centers. As enterprises navigate the growing complexity of AI-driven
+workloads, Mirantis delivers the automation, GPU orchestration, and policy-
+driven control needed to manage infrastructure with confidence and agility.
+Committed to open standards and freedom from lock-in, Mirantis ensures that
+customers retain full control of their infrastructure strategy.
+
+We serve global leaders including Adobe, PayPal, Liberty Mutual, Splunk, and
+Volkswagen. Learn more atwww.mirantis.com.
+
+Job Description
+
+We are looking for a talented engineer, focused on Kubernetes specific storage
+and integration development, and support with design decisions.
+
+You will be working internally with our professional services team, cloud
+operations, and engineering teams to develop integration of various storage
+subsystems for our solutions. Among your core responsibilities will be support
+in design decisions, working with open source projects and contributing to
+internal and external projects. You would be working closely with partners for
+integration in an agile (Scrum) methodology.
+
+Main Responsibilities
+
+Develop Kubernetes storage integrations for various storage subsystems
+Develop LCM methodology for software defined storage (SDS) products
+Create automation for provisioning storage with our infrastructure
+Operational support, triage and solve issues with internal and customer systems, prioritizing based on customer impact
+Working with technologies like: Ceph, SAN, NAS, NVMeoF, Helm, Grafana dashboard platform, monitoring & alerting tools, CI/CD tooling, various language frameworks and more...
+Lots of collaboration with customer application developer teams
+
+Qualifications
+
+Advanced Kubernetes expertise — Hands-on experience operating production clusters, including:
+
+Deep understanding of Kubernetes architecture, controllers, and operators
+Experience with Cluster API lifecycle management and upgrades
+Custom Resource Definitions (CRDs) and operator patterns
+Bare metal infrastructure management — Direct experience provisioning and managing physical servers, BIOS/firmware management, and hardware lifecycle automation
+Strong experience with development of Helm charts
+Virtualization technologies — Practical experience with KVM, LibVirt, and VM management on Linux
+Strong development experience with Go andPython
+
+Nice to Have:
+
+Experience in performance testing
+Production operations experience, preferably in mission critical environments
+Experience with operating AI related workloads
+Experience with storage technologies, especially network storage protocols and products (e.g. NVMeoF, FC, Ceph, iSCSI, NFS, S3)
+Strong scripting and automation skills (Bash, Python, Ansible, Terraform)
+General experience with overall system architecture, scalability, reliability, and performance experience
+Openstack experience — familiarity with the APIs as a user
+Preferably a university/master degree in Software Engineering or adjacent fields
+Excellent communication in English — written and spoken
+
+Additional information
+
+What does Mirantis offer you?
+Work with an established Silicon Valley leader in the cloud infrastructure
+industry;
+Work with exceptionally passionate, talented and engaging colleagues,
+helping Fortune 500 and Global 2000 customers implement next-generation cloud
+technologies;
+Be a part of cutting-edge, open-source innovation;
+Thrive in the high-energy environment of a young company where openness,
+collaboration, risk-taking, and continuous growth are valued;
+Professional development and training;
+Attend conferences and working groups;
+Company outings, happy hours, hackathons, and tech talks;
+Receive a competitive compensation package with a strong benefits plan.

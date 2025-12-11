@@ -1,0 +1,66 @@
+{
+  "filename": "ML/61.txt",
+  "text": "Front-End Developer (AI)\n+2 years of experience in front-end development;\nExperience with React Native for mobile development;\nStrong expertise in React, including Hooks, Context API, and component-\ndriven architecture;\nHands-on experience with modern React libraries and tools, such as Next.js,\nReact Query, Zustand, or similar state management solutions;\nUnderstanding of modern AI-powered development tools and their practical\napplication in coding, automation, and optimization;\nExperience with TypeScript and best practices for scalable front-end\ndevelopment;\nEnglish proficiency at B2 level or higher (spoken and written).\nAI user;\nConfident PC user :D",
+  "entities": [
+    [
+      0,
+      19,
+      "ROLE"
+    ],
+    [
+      26,
+      33,
+      "EXPERIENCE_YEARS"
+    ],
+    [
+      90,
+      95,
+      "SKILL_HARD"
+    ],
+    [
+      147,
+      152,
+      "SKILL_HARD"
+    ],
+    [
+      171,
+      182,
+      "SKILL_HARD"
+    ],
+    [
+      252,
+      257,
+      "SKILL_HARD"
+    ],
+    [
+      287,
+      294,
+      "SKILL_HARD"
+    ],
+    [
+      296,
+      301,
+      "SKILL_HARD"
+    ],
+    [
+      309,
+      316,
+      "SKILL_HARD"
+    ],
+    [
+      381,
+      409,
+      "SKILL_HARD"
+    ],
+    [
+      499,
+      509,
+      "SKILL_HARD"
+    ],
+    [
+      588,
+      596,
+      "ENGLISH_LEVEL"
+    ]
+  ]
+}

@@ -1,0 +1,73 @@
+Android Engineer
+Lemberg Solutions is, above all, a group of passionate professionals led by a
+core team that have been meticulously selected over the last 15 years. We are
+based in Lviv, Rivne, and Lutsk, and opened GmbH in Hamburg, Germany.
+
+At LS, people come first. We know that our success is based on our people’s
+achievements. Each and every one of our 200 team members is highly valued for
+their hard work, and we’re always excited to welcome new specialists ready to
+embrace challenges with us.
+
+**Pay attention: only those candidates who meet the listed requirements will
+receive an answer!**
+
+**Necessary skills and qualifications:**
+
+  * 3+ years of experience with Kotlin;
+  * Practical experience with the Android SDK;
+  * Strong knowledge of Kotlin coroutines;
+  * Deep knowledge of OOP/SOLID;
+  * Profound understanding of design patterns, OOD;
+  * Understanding of Clean Architecture;
+  * Experience with MVVM;
+  * Understanding of Android UI principles, creating custom UI elements, UI animation techniques, and creating interactive UX on Android;
+  * Knowledge of Jetpack Compose; 
+  * Experience with integrating third-party libraries;
+  * Familiarity with SQLite, Room; 
+  * Practical experience with web service technologies (REST, JSON);
+  * Experience with unit testing;
+  * Acquaintance with source-code repositories, GIT;
+  * Strong soft skills and proven experience in direct communication with a client;
+  * At least an Upper-Intermediate level of English
+
+**Will be a plus:**
+
+  * General understanding of Java and multithreading techniques;
+  * Knowledge of reactive programming;
+  * Experience with dependency injection frameworks (Hilt or Koin);
+
+**What we offer:**
+
+Time Off
+
+  * 21 days paid annual leave 
+  * Unlimited sick leaves with a medical statement 
+  * 30 working days off for personal reasons without compensation 
+  * 5 days additional paid time off following your wedding or your child’s birth
+  * Paid public holidays
+
+Workplace Benefits
+
+  * Free English classes in groups
+  * Flexible work schedule
+  * Fully equipped workstation
+  * Comfortable office
+  * Access to a video library of soft skill workshops
+
+Financial Benefits
+
+  * Relocation support program
+  * Financial support from LS in case of emergency (reviewed individually)
+  * Overtime pay
+  * In-house accounting service
+
+Fun
+
+  * Lviv IT Cluster gifts & discounts 
+  * Team building & industry events
+
+**About the project:**  
+A US-based client delivers an enterprise IoT fleet management platform for
+transportation and logistics. Lemberg Solutions engineers build, test, and
+support the client’s Android platform and backend, including a variety of
+Android apps for both drivers and back-office staff.

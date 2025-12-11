@@ -1,0 +1,55 @@
+Senior Full-Stack Developer (Node+Angular)
+The CHI Software team is not standing still. We love our job and give it one
+hundred percent of us! Every new project is a challenge that we face
+successfully. The only thing that can stop us is... Wait, it’s nothing! The
+number of projects is growing, and with them, our team too. And now we need a
+Senior Full-Stack Developer (Angular + Node.js).
+About the Role
+
+Location: Remote or Hybrid (EU / UA time zone)
+
+Time Overlap: Must intersect with India Standard Time (IST)
+
+Employment: Full-time, Long-term
+
+Experience: 5+ years
+Requirements:
+
+5+ years of experience as a Full-Stack or Frontend Developer
+Strong knowledge of Angular (v14—19) , RxJS , and TypeScript
+3+ years of experience with Node.js (NestJS or Express)
+Production-grade experience with REST API development
+Solid understanding of HTML5 , SCSS , Webpack or Vite
+Experience with SQL (PostgreSQL/MySQL) and NoSQL (MongoDB)
+Familiarity with Docker , Docker Compose , and CI/CD pipelines (GitHub Actions / GitLab CI)
+Confident in unit testing (Jest, Jasmine, Mocha) and E2E testing (Cypress, Playwright)
+Upper-Intermediate English level or higher (B2+)
+Responsibilities:
+
+Design and implement new features using Angular 17–19 and Node.js (NestJS / Express)
+Build and optimize RESTful APIs and real-time services (WebSockets)
+Collaborate closely with designers and product managers to deliver intuitive UX
+Participate in architecture decisions and code quality improvements
+Integrate external cloud services (AWS) and third-party APIs
+Maintain strong test coverage: unit, integration, and E2E
+Conduct code reviews , mentor team members, and promote best practices
+Ensure scalability , performance , and accessibility across the system
+Will Be a Plus:
+
+Experience with AWS services (Lambda, RDS, S3, CloudWatch, etc.)
+Familiarity with real-time communication protocols (WebSockets, gRPC)
+Experience with Redis , RabbitMQ , or Kafka
+Previous participation in high-load or distributed systems
+Our perks
+
+Covered vacation period: 20 business days and 5 days off
+Free English classes
+Flexible working schedule
+Truly friendly and supporting atmosphere
+Working remotely or in one of our offices
+Medical insurance for employees from Ukraine
+Compensation for psychological counseling
+Legal support
+
+Thank you for your interest! If your profile aligns with the key requirements,
+we will reach out to you.

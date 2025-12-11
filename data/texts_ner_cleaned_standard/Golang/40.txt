@@ -1,0 +1,19 @@
+Golang Engineer (AI project)
+We’re looking for aGolang Engineer to join our team and help shape a high-
+performance product from scratch. You’ll work on an ambitious US-based AI
+project — fully remote and long-term.
+
+What you’ll bring:
+
+Strong hands-on experience with Golang in commercial projects.
+Solid understanding of cloud infrastructure , microservices , and distributed systems.
+Experience working with PostgreSQL and optimizing database performance.
+Proficiency in debugging, performance tuning, and scaling applications.
+Upper-Intermediate English.
+
+Why this role:
+
+Work on cutting-edge AI innovation.
+Flexible hours and fully remote setup.
+Collaborate with senior-level engineers in a high-trust, high-output environment.
+Opportunity for long-term growth and impact.

@@ -1,0 +1,71 @@
+Senior Java Developer
+The full production cycle IT company **“Nabuto”** specializes in the
+development of software products/services in the field of information
+technologies. The company’s team is working on creating a realtime Digital
+Assets Trading platform that allows companies and traders to interact in a
+cryptocurrency market.
+
+We are looking for a **Senior Java Developer** to join our team. You will help
+build a cutting edge innovative realtime trading platform with modern cloud
+technologies.
+
+**Responsibilities:**
+
+  * Defining the project’s technical strategy, making key technical decisions.
+  * Designing the system architecture, developing technical, security, and documentation standards.
+  * Writing code, conducting code reviews, optimization, and refactoring.
+  * Conducting training sessions, mentoring developers, organizing knowledge sharing.
+  * Regular interaction with other teams and product managers.
+  * Researching new technologies, evaluating their suitability, and implementing them in projects.
+
+**Requirements:**
+
+  * 6+ years of professional experience in software development.
+  * Strong proficiency in **Java (preferred 21)** ,**algorithms and data structures, concurrency.**
+  * Experience with Spring Framework**,** Hibernate.
+  * Experience with **Apache Kafka, RabbitMQ**
+
+  * Experience with SQL (preferred PostgreSQL).
+
+  * Proficiency with unit and integration testing.
+  * Ability to design and implement**high-available and scalable microservice architectures.**
+
+**Would be a plus:**
+
+  * Reactive frameworks (WebFlux)
+  * Experience with realtime streaming technologies: Hazelcast Platform, Apache Flink etc.
+  * Caching systems (Redis, Hazelcast).
+  * Authentication/Authorization frameworks
+  * Understanding of a clean code, SOLID principles and event-driven design
+  * Experience with AWS cloud
+
+**What will you do in the first 90 days?**
+
+  * Understand the Product and System Architecture (we pay attention of the onboarding process quality)
+  * Build Relationships with the Team
+  * Implement new business features
+  * Optimize existing high-load services
+  * Code coverage with unit and integration tests
+  * Drive Innovation and Continuous Improvement
+
+  
+  
+
+**Company offers**
+
+  * ‍**Care from Day One** — medical insurance immediately upon starting work, including dental care, massage and professional psychological support because your well-being matters
+  * **Work-Life Balance** — 24 days of paid vacation + 30 days of sick leave, so you can recover without unnecessary stress
+  * **Investment in your energy** — partial reimbursement for any sports activities that empowers you.
+  * **Growth** — partial coverage for English or Ukrainian language courses + a fixed budget for professional development. Choose what suits you best!
+  * **Knowledge Library** — books in the office and access to the Kuka online library to learn, grow, and find inspiration.
+  * **Island Relaxation 14 days a year** — enjoy a getaway at the corporate villa in Cyprus.
+
+Join the Nabuto team, where your talents and aspirations will be recognized!
+We offer a dynamic work environment, opportunities for professional growth,
+and support at every step of your career path. Start your journey to success
+with us—apply today and take the first step towards your bright future!  
+  
+Nabuto is an equal opportunity employer. We encourage applications from
+candidates of all backgrounds and experiences. Please note, that only
+shortlisted candidates will be contacted. Thank you for considering Nabuto as
+your next career move!

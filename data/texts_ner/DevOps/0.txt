@@ -1,0 +1,66 @@
+SRE Team Lead
+📍 Location: Kyiv (Ukraine)  
+💼 Cooperation type: Full-time  
+🧭 Work format: Office-based, 5/2.
+
+We’re looking for an **SRE Team Lead** to establish and guide the SRE function
+from the ground up and join our tech team that powers thousands of customers
+around the globe. Our infrastructure spans GCP and Scaleway and includes
+various cloud-independent solutions, ensuring an exciting and diverse
+technical environment.  
+  
+
+**About us:**
+
+**[Stape](https://stape.io/)** — is a global product-driven IT company and the
+#1 leader in the server-side tracking market. We’re building a powerful,
+technically complex product that simplifies server-side tracking for marketers
+and website owners. Our platform processes over 10 billion requests daily,
+helping improve tracking accuracy and data privacy for more than 200, 000
+clients worldwide. We work closely with top partners like Meta and Snapchat to
+provide advanced tracking capabilities.  
+  
+**Key tasks:**
+
+  * Train and launch the SRE team
+  * Ensure 24/7 support of the main products and services
+  * Implement DevOps and SRE best practices
+  * Ensure availability of 60+ Kubernetes clusters
+  * Optimize infrastructure and application observability
+  * Ensure sufficient capacity and reliability
+  * Create meaningful and reasonable documentation.  
+  
+  
+
+**Your background:**
+
+  * Over a year of experience leading DevOps/SRE teams. 
+  * Proven hands-on experience with Kubernetes (3+ years).
+  * Extensive experience (3+ years) with various cloud platforms. 
+  * Deep understanding of Linux/Unix systems, including networking and system internals. 
+  * Proficiency in Terraform. Demonstrated experience with monitoring, logging, and alerting tools.
+  * Skilled in building and maintaining CI/CD pipelines.  
+  
+  
+
+**Will be a plus:**
+
+  * Experience within an SRE role 
+  * Experience with GCP 
+  * Experience with Loki, Prometheus, Grafana 
+  * Experience with Argo CD and/or GitHub Actions.  
+  
+  
+  
+
+**We offer:**
+
+  * **Innovative product:** Make a meaningful difference by contributing to a globally recognized solution that shapes the future of the server-side tracking market.
+  * **Collaborative culture:** Thrive in a friendly and open team environment that encourages initiative, creativity, and collaboration.
+  * **Cozy office in Kyiv:** Join us at our office in the heart of the city near the Zoloty Vorota metro station, with up to 10 free taxi rides to ensure a smooth and hassle-free commute.
+  * **Career growth support:** The company provides a dedicated budget for your professional development.
+  * **Paid parental leave:** Paid parental leave is available to support employees during key life moments, helping to maintain a healthy balance between work and family life.
+  * **Work-Life Harmony:** Unlimited sick leave, 20 paid vacation days, and official Ukrainian holidays to help you stay healthy and recharge.  
+  
+
+Excited to join us? Submit your CV and let’s get started!

@@ -1,0 +1,49 @@
+Middle Android Developer (Jetpack Compose / Compose Multiplatform)
+About us
+
+We’re a Ukrainian startup building a new generation of route-
+optimization and delivery-automation tools for couriers, drivers, and
+service businesses.
+
+Our vision — transform chaotic, inefficient deliveries into a seamless,
+intelligent ecosystem for both individuals and companies.
+
+We have an MVP in the App Store and Play Store, and are now creating a
+scalable cross-platform product from scratch.
+What you’ll do
+
+Develop features using Jetpack Compose and Compose Multiplatform
+Maintain MVVM architecture and reactive state (ViewModel, StateFlow)
+Work with Firebase (Auth, Firestore, Realtime DB, Cloud Messaging)
+Integrate Google Maps SDK (markers, polylines, location tracking)
+Handle async operations with Kotlin Coroutines
+Participate in code reviews and follow clean code practices
+Required skills
+
+Experience with Jetpack Compose and Compose Multiplatform
+Knowledge of MVVM , ViewModel , StateFlow
+Strong command of Kotlin Coroutines
+Experience with Firebase and Google Maps SDK
+Koin for dependency injection
+Confident use of Git
+Nice to have
+
+iOS builds or Compose Multiplatform experience on iOS
+CI/CD (GitHub Actions, Fastlane)
+Unit/UI testing (JUnit, Mockk, Compose UI Test)
+Understanding of Clean Architecture
+Soft skills
+
+Clear communication and problem-solving mindset
+Responsibility for quality and delivery
+Proactive learning approach
+Ability to work in a fast-paced startup environment
+What we offer
+
+Direct product impact with real users
+Modern tech stack and path to Lead Android Engineer
+Remote, async-friendly culture, minimal meetings
+Startup format: speed, autonomy, zero bureaucracy
+
+To apply: Send your CV and briefly describe your latest Compose
+project.

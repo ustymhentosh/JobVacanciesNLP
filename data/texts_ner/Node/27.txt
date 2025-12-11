@@ -1,0 +1,77 @@
+Middle Node.js Developer
+Our mission at Geniusee is to help businesses thrive through tech partnership
+and strengthen the engineering community by sharing knowledge and creating
+opportunities 🌿Our values are Continuous Growth, Team Synergy, Taking
+Responsibility, Conscious Openness and Result Driven. We offer a safe,
+inclusive and productive environment for all team members, and we’re always
+open to feedback💜 If you want to work from home or work in the city center of
+Kyiv, great — apply right now.
+
+**Requirements:  
+** ● 3 + years of relevant experience in the IT industry, strong knowledge of
+JavaScript including ECMAScript;  
+● Experience with Node.js;  
+● Experience with Typescript;  
+● Experience with AWS: 1 year+;  
+● Experience with Serverless: 0,5 years;  
+● Experience with GIT and branching workflows;  
+● Knowledge of building tools for JavaScript projects;  
+● English: Intermediate Strong.  
+● Strong proficiency with JavaScript, including ES6+ features and TypeScript.  
+● Experience with advanced Node.js frameworks like NestJS, and proficiency in
+creating scalable, production-ready applications.  
+● Knowledge of optimizing applications for maximum speed and scalability,
+including performance tuning and load balancing.  
+● Experienced in database schema creation, advanced database management, and
+writing complex queries.  
+● Solid understanding of object-oriented programming, functional programming,
+and MVC design patterns.  
+● Familiarity with cloud services (e.g., AWS, Azure) and DevOps practices,
+including CI/CD pipelines.
+
+**_Responsibilities:  
+_** ● Design, build, and maintain efficient, reusable, and reliable Node.js
+code, adhering to industry best practices and coding standards;  
+● Implement security and data protection measures in applications, including
+encryption and secure API development;  
+● Set up and deploy applications, ensuring seamless integration of user-facing
+elements developed by front-end developers;  
+● Improve application performance through system analysis, identifying
+bottlenecks, and implementing optimized solutions;  
+● Lead the integration of multiple data sources and databases into unified
+systems, utilizing technologies such as PostgreSQL, MySQL, and MongoDB;  
+● Collaborate with cross-functional teams, participating in code reviews and
+providing mentorship to junior developers.
+
+**Nice to have**  
+● Experience with LMS, SCORM/ xAPI  
+● Experience with Stripe  
+● Experience with Vimeo
+
+What you will get  
+● Competitive salary and good compensation package;  
+● Exciting, challenging and stable startup projects with a modern stack;  
+● Corporate English course;  
+● Ability to practice English and communication skills through permanent
+interaction with clients from all over the world;  
+● Professional study compensation, online courses and certifications;  
+● Career development opportunity, semi-annual and annual salary review
+process;  
+● Necessary equipment to perform work tasks;  
+● VIP medical insurance or sports coverage;  
+● Informal and friendly atmosphere;  
+● The ability to focus on your work: a lack of bureaucracy and
+micromanagement;  
+● Flexible working hours (start your day between 8:00 and 11:30);  
+● Team buildings, corporate events;  
+● Paid vacation (18 working days) and sick leaves;  
+● Cozy offices in 2 cities ( Kyiv & Lviv ) with electricity and Wi-Fi
+(Generator & Starlink);  
+● Compensation for coworking (except for employees from Kyiv and Lviv);  
+● Corporate lunch + soft skills clubs;  
+● Unlimited work from home from anywhere in the world (remote);  
+● Geniusee has its own charity fund.
+
+**Please apply via[this
+site](https://geniusee.peopleforce.io/careers/v/156914-middle-nodejs-
+developer?source_id=41094) and add your Telegram name**

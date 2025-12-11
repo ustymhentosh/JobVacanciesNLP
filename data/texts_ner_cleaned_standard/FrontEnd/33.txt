@@ -1,0 +1,64 @@
+Junior Frontend Developer (with commercial experience)
+Hello, VRB Tech is looking for a Frontend Developer to join our
+team,working from an office in Lviv.
+
+Requirements:
+Strong understanding of core JavaScript concepts and its fundamentals;
+
+Familiarity with React/React Native and its core principles;
+
+Experience with Redux and its usage with React;
+
+Understanding of HTML and CSS, and experience working with responsive
+design;
+
+Familiarity with web development tools such as Webpack, Babel, and npm;
+
+Knowledge of TypeScript and its features;
+
+Basic understanding of API design and development;
+
+Familiarity with version control systems, such as Git;
+
+Experience with debugging, testing, and troubleshooting web application;
+
+Upper-intermediate level of English.
+
+Responsibilities:
+
+Write reliable, reusable, and supportable code;
+
+Develop and deliver optimized front-end features/components;
+
+Maintain and continuously improve front-end code base on the project;
+
+Closely collaborate with the team members for seamless development;
+
+Implement small fixes on the back-end side (validations, data mapping, etc).
+
+What we offer:
+
+Knowledge sharing and training opportunities;
+
+Projects from all over the world;
+
+Opportunities for career and professional growth;
+
+Flexible working hours Mon-Fri, we start from 8-11 AM and work 8 hours;
+
+Comfortable office in Lviv.
+
+About the company:**
+
+VRB Tech is a software development company based in Lviv, Ukraine, we take
+pride in being a Ukrainian company and strive to contribute to the growth of
+the IT industry in our region.
+
+Specializing in outsourcing and outstaffing IT services. We offer high-quality
+solutions to our clients, developed using the latest technologies and best
+practices.
+
+Our team of professionals provides the full cycle of software development,
+including requirements analysis, design, development, testing, and product
+support. We work with various industries and sectors, including startups and
+mid-size businesses.

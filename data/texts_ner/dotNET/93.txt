@@ -1,0 +1,106 @@
+Senior Full Stack Engineer (706)
+**Ciklum** is looking for a **Senior Full Stack Engineer** to join our team
+full-time in Ukraine.
+
+We are a custom product engineering company that supports both multinational
+organizations and scaling startups to solve their most complex business
+challenges. With a global team of over 4,000 highly skilled developers,
+consultants, analysts and product owners, we engineer technology that
+redefines industries and shapes the way people live.
+
+**About the role:**
+
+As a Senior Full Stack Engineer, become a part of a cross-functional
+development team engineering experiences of tomorrow.
+
+Our client is a fast-growing, profitable, well-funded, and dynamic global
+payments company. It is serving thousands of corporates and millions of end-
+users (payment receivers), in over 200 countries. You will be a part of the
+Data Collection team.
+
+## Responsibilities:
+
+  * Back-end and Front-end development to meet customer’s business needs and implement components according to a modern software development environment (microservice architecture)
+  * Taking part in the decision-making process in design application architecture, solution development, architecture, and code review
+  * Develop and review feature design documents and provide inputs/updates to specifications for the solution
+  * Design and implement a set of various types of tests (unit, integration, functional, etc)
+  * Proactive position in solution development, process improvements
+  * Working in an international distributed team in an Agile environment
+  * Communicate with PMs, engineers, Architects, QA, and other colleagues and stakeholders
+  * Delivering the product roadmap and planning
+  * To use high coding standards, software best practices, and write highly testable, automatable, and performant code over the whole SDLC
+
+## Requirements:
+
+  * Experience in software development for more than 5 years  
+
+  * Excellent knowledge in: clean code practices, OOP, and OOD  
+
+Programming:
+
+  * Paradigm & Principles (OOP, SOLID, DDD, TDD, BDD)
+  * Database theory (RDBMS, NoSQL)
+  * Code testing practices
+  * Algorithms
+  * Data structures
+  * Architectural, Enterprise, and Design Patterns
+  * Security patterns, Reverse engineering resistance, Common attacks types (OWASP)
+
+Understanding of network interactions:
+
+  * protocols
+  * conventions (e.g., REST, RPC)
+  * authentication and authorization flows
+  * standards and practices (e.g., OAuth, JWT)
+  * Excellent knowledge and experience in C#,.NET , and ReactJS
+
+Practical commercial experience with:
+
+  * REST API development
+  * .NET Framework, .NET Core, ASP.NET (Core, MVC, WebAPI)
+  * Testing frameworks ( e.g. NUnit, XUnit, MSTest) (more than 2 years)
+  * ORM (e.g., Entity Framework, Dapper)
+  * RDBMS (e.g. SQL Server, MySQL/MariaDB, PostgreSQL)
+  * Key-value storages — strong experience with Redis
+  * Messaging systems (e.g., RabbitMQ, Azure ServiceBus, Apache Kafka, Active MQ, AWS SQS, Google Pub/Sub)
+  * Web Servers
+  * Version control systems (GIT)
+  * Continuous Integration tools (e.g., Gitlab Pipeline, Jenkins, Azure DevOps)
+  * Builders
+  * NoSQL (e.g., MongoDB, ElasticSearch, CouchDB)
+
+Experience with:
+
+  * Troubleshooting, profiling and debugging applications
+
+## What’s in it for you?
+
+  * Strong community: Work alongside top professionals in a friendly, open-door environment
+  * Growth focus: Take on large-scale projects with a global impact and expand your expertise
+  * Tailored learning: Boost your skills with internal events (meetups, conferences, workshops), Udemy access, language courses, and company-paid certifications
+  * Endless opportunities: Explore diverse domains through internal mobility, finding the best fit to gain hands-on experience with cutting-edge technologies
+  * Flexibility: Enjoy radical flexibility — work remotely or from an office, your choice
+  * Care: We’ve got you covered with company-paid medical insurance, mental health support, and financial & legal consultations
+
+**About us:**
+
+At Ciklum, we are always exploring innovations, empowering each other to
+achieve more, and engineering solutions that matter. With us, you’ll work with
+cutting-edge technologies, contribute to impactful projects, and be part of a
+One Team culture that values collaboration and progress.  
+  
+As one of Ukraine’s largest IT companies and a top employer recognized by
+Forbes, we’ve spent over 20 years delivering meaningful tech solutions. We
+proudly support diverse talent and military veterans, recognizing their unique
+skills and perspectives they bring to shaping the future.  
+  
+Want to learn more about us? Follow us on **[
+_Instagram_](https://www.instagram.com/ciklum/),
+[_Facebook_](https://www.facebook.com/Ciklum/),
+[_LinkedIn_](https://www.linkedin.com/company/ciklum/)**.
+
+**Explore, empower, engineer with Ciklum!**
+
+Interested already?  
+We would love to get to know you! Submit your application. Can’t wait to see
+you at Ciklum.

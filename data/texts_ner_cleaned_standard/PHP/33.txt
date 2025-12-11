@@ -1,0 +1,50 @@
+Senior PHP Engineer
+About Us:
+
+Liki24 is a marketplace of healthcare products and services.
+Our mission is making health affordable and accessible for everyone.
+We aim to deliver an exceptional customer experience, providing seamless
+access to various goods across multiple markets, enhancing customer
+satisfaction, and solidifying our place as a leading health and wellness
+marketplace.
+
+We are currently searching for a talented PHP Engineer to join our team
+and help us expand our reach and impact.
+As a PHP Engineer, you will take ownership of specific services and features,
+delivering scalable, performant, and maintainable code that drives both
+product functionality and platform growth.
+
+What We’re Looking For:
+
+Bachelor’s degree in IT, Engineering, or other related fields.
+Minimum of 5+ years of experience in Engineering field.
+Self-motivated and results-oriented, with a passion for driving growth and achieving targets.
+Familiarity with e-commerce platforms would be a plus.
+Technical Expertise with PHP with deep understanding of OOP.
+Strong system design and problem decomposition ability.
+Strong knowledge of MySQL (query optimization, indexes, migrations).
+Proficient with caching tools and solutions.
+Experience deploying PHP apps to Azure VMs or similar cloud infrastructure.
+Ownership mentality — delivers outcomes, not just code.
+Continuous learner who stays up to date on backend best practices and ecosystem updates.
+
+Key Responsibilities:
+
+Design & deliver high-quality features end-to-end.
+Design APIs and services for long-term maintainability and backward compatibility.
+Optimize database queries and PHP runtime performance.
+Ensure high availability and graceful degradation strategies in production systems.
+Lead incident response and root-cause analysis for production issues.
+Maintain application observability and detect anomalies.
+
+What We Offer:
+
+Opportunity to work in a global company with a strong social mission.
+Ability to transform your ideas into impactful realities.
+Chance to be part of an open-minded and innovative team.
+Exceptional opportunities for personal and professional growth.
+20 paid vacation days, 21 paid sick leaves, and paid national holidays.
+Flexible schedule with the option to work from home.
+
+We are making Health! If you’re excited about growth challenges, passionate
+about impact, and not afraid to experiment — join us!

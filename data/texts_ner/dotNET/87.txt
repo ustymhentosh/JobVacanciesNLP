@@ -1,0 +1,54 @@
+Senior .NET Cloud Engineer
+We’re looking for an experienced Cloud Software Engineer with a strong
+background in **.NET and Azure** to join our team focused on building
+developer-first tools for creating fast, scalable and task-based applications
+on our platform.
+
+In this role, you’ll help design and develop modern, cloud-native solutions
+using technologies like React, Vue.js, Carbon Design System, OAuth 2.0, OData,
+Azure, Kubernetes, and Terraform. You’ll collaborate closely with other
+engineers to deliver powerful, enterprise-grade toolkits that enable customers
+and partners to quickly build, deploy, and scale applications in the cloud.
+
+### Requirements:
+
+  * Bachelor’s or Master’s degree in Computer Science or a related field
+  * 5+ years of hands-on experience working on commercial software projects
+  * Strong proficiency in .NET 6+ and C#
+  * Solid experience with command-line interfaces (CLI), including Bash or PowerShell
+  * Practical experience with containerization and orchestration tools such as Docker, Kubernetes, Helm, and infrastructure-as-code using Terraform
+  * Strong working knowledge of Microsoft Azure services, including AKS, Storage Accounts, Key Vault, Cosmos DB, Azure Functions, etc.
+  * Familiarity with modern web technologies and protocols
+  * Ability to design and implement robust, maintainable software using established software engineering principles such as OOP, design patterns, dependency injection, SOA, MVVM, and SOLID principles
+  * Experience with both SQL and NoSQL databases
+  * Proficient with Git version control and collaborative development workflows
+  * Experience working in agile development teams with a focus on iterative delivery, continuous improvement, and team collaboration
+  * Enthusiasm for solving complex technical challenges and working on innovative projects
+  * Exposure to frontend technologies (e.g., React, Vue.js, or similar frameworks)
+  * Excellent English communication skills (written and verbal)
+
+**Nice to have:**
+
+  * Experience working with AI-based coding assistants or agents
+  * Familiarity with test-driven development (TDD) and experience writing unit and integration tests
+
+**Responsibilities:**
+
+  * Analyze and interpret business and technical requirements to design scalable, maintainable software architecture
+  * Lead the full software development lifecycle — from concept and design through implementation and deployment
+  * Design and develop cloud-native services using Microsoft Azure technologies to expand and enhance the platform
+  * Build, maintain, and optimize CI/CD pipelines to ensure smooth and automated development workflows
+  * Actively participate in agile team ceremonies, including sprint planning, stand-ups, reviews, and retrospectives
+  * Continuously learn and adopt new technologies, best practices, and patterns to improve team performance and product quality
+
+### Benefits
+
+  * 35 paid absence days per year for work-life balance
+  * Up to 15 unused absence days can be add to income after 12 month of cooperation
+  * Health insurance
+  * Depreciation coverage for personal laptop usage for project needs
+  * Udemy courses of your choice
+  * English courses with native-speaker
+  * Regular soft-skills trainings
+  * Excellence Сenters meetups
+  * Online/offline team-buildings

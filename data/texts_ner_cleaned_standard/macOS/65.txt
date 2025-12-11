@@ -1,0 +1,90 @@
+iOS Engineer (Skillsta)
+Headway Inc is a global tech company,
+revolutionizing lifelong learning by creating digital products for over 150
+million users worldwide. Our mission is to help people grow. We’re proud to be
+ranked 4th among the World’s Top EdTech
+Сompanies by
+TIME magazine. We believe lifelong learning should be accessible,
+personalized, and impactful to each individual. That’s how we change the world
+and why we bring together exceptional minds.
+
+The core of our achievements is our team. We believe in people and shared
+values
+SELECT.
+That’s why, together with Volodymyr
+Korniienko, Engineering
+Manager at Skillsta by Headway Inc, we’re looking for an iOS Engineer, who
+will look for and implement product improvements to increase user value.
+
+What product will you be working on?
+
+Skillsta is an app that helps
+users worldwide improve their social skills through short, interactive lessons
+based on real-life situations. The app ranked among the top 20 in the
+Education category on the US App Store.
+
+Tech stack: SwiftUI, The Composable Architecture (TCA), Swift Concurrency,
+Firebase, Analytics.
+
+Why this is exciting:
+
+Develop and optimize our iOS app to drive product growth, boost user engagement, and deliver measurable business impact.
+Work in a cross-functional team. You will participate in team brainstorming sessions, test product hypotheses, create new features, and formulate a technical strategy for product development.
+Openness of the team to changes in approaches and the use of new technologies: TCA, SwiftUI.
+
+This job is perfect for you if:
+
+You are passionate about education and self-development
+You love independence and don’t just want to complete tasks from a task tracker, but also offer your ideas and influence product strategy
+Freedom of action is important to you, and you know how to find a balance between development speed and code quality
+You know how to ask questions and dive into business problems to understand why you do something, not just ‘how to do it’
+
+What will you do:
+
+To own the iOS area within the Product Marketing team
+Develop A/B tests of varying complexity
+Brainstorm ideas and identify areas for improvement
+Collaborate closely with the Product team
+Implement features aimed at user base growth and increased monetization
+Participate in architectural decision-making and propose improvements
+
+What do you need to join us:
+
+3+ years of experience as an iOS Engineer
+Closed product tasks and prepared releases independently
+Confident in using Swift, SwiftUI, Concurrency
+Work with TCA architecture (or at least at the level of pet projects)
+Strong understanding of UI development
+Experience with Firebase, Networking, Debugging, and Memory Management
+Understanding and hands-on experience with implementing analytics (Tableau, Amplitude)
+Ability to handle tasks without clear requirements in a fast-paced startup environment
+Alignment with the values of our team (SELECT).
+
+Would be a big plus:
+
+Experience with A/B testing in mobile applications
+Experience in test automation, TDD, and BDD
+Experience with reactive programming
+Experience working with performance analysis tools
+
+What do we offer:
+
+Work within an ambitious team on a socially impactful education product.
+An office with a reliable shelter, generators, satellite internet, and other amenities.
+Access to our corporate knowledge base and professional communities.
+Personal development plan.
+Compensation for English language learning, external training, and courses.
+Medical insurance and full sick leave compensation.
+Company doctor and massage in the office.
+Sports activities: running, yoga, boxing, and more.
+Corporate holidays: we go on a week-paid holiday to rest and recharge twice a year.
+Supporting initiatives that help Ukraine. Find out more about our projects here.
+
+Working schedule
+
+This is a full-time position with a hybrid remote option. It means that you
+can decide for yourself: whether you want to work from the office, remotely,
+or combine these options.
+
+Are you interested?
+Send your CV!

@@ -1,0 +1,59 @@
+Strong Junior Full-Stack Developer
+At Zade Space, we validate ideas, build products, and scale ventures that
+secure real traction. Our startups have gone from concept to investor-backed
+companies — raising funding, winning users, and entering global markets.
+Joining our team means working directly with founders, taking ownership of
+entire product directions, and seeing your work shape businesses from day one.
+We are committed to growing the startup community and give our people real
+startup exposure, global challenges, and the chance to grow alongside the
+ventures we build. Now, we’re looking for an proactive Strong Junior Full-
+Stack Developer to join our team**for a project-based role**.
+
+**Required skills:**
+
+▪️ 1.5+ years of prior industry development experience Node.JS;
+
+▪️ Solid knowledge of Node.js, TypeScript, MySQL;
+
+▪️ Good knowledge of HTML5, CSS3, JavaScript, REST;
+
+▪️ Solid knowledge of ReactJS 17.X+;
+
+▪️ Experience with third-party API integrations;
+
+▪️ Strong understanding of data structures and design patterns;
+
+▪️ Continuous Integration/Continuous deployment experience;
+
+▪️ Engaged in current technology trends, experience researching and evaluating
+new techniques, concepts, and tools;
+
+▪️ Upper-Intermediate English;
+
+### **Would be a plus:**
+
+▪️ Node.js frameworks like — Nest.js;
+
+▪️ Good knowledge of React.js framework;
+
+▪️ Experience with AWS Services or Google Cloud;
+
+### **Responsibilities:**
+
+▪️ Development, debugging, testing of web services and real-time apps;
+
+▪️ Interaction with other members of the project team;
+
+▪️ Estimation management;
+
+▪️ Direct communication with the client;
+
+▪️ Proper resource, time, and quality management;
+
+**Interview stages:**
+
+▪️ HR interview (30 minutes).
+
+▪️ Technical interview (1 hour).
+
+▪️ Job offer.

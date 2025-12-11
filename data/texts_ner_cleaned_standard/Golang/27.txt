@@ -1,0 +1,72 @@
+Senior Golang Engineer
+Company Overview
+
+Our partner is a global leader in the food technology industry , on a
+mission to transform the way people eat. Founded in 2011 in one of Europe’s
+most dynamic tech hubs, the company has grown into the world’s leading meal-
+kit provider, serving millions of households across multiple continents.
+
+The Engineering, Data, Product, and Security teams are spread across major
+global cities and are at the core of the business. They work on a broad range
+of impactful challenges — from procurement tools and conversion optimization
+to live pricing engines, payment services, and upselling features. The teams
+operate in a high-output environment, constantly building and releasing new
+features that generate real financial impact and help the business thrive.
+Tech Stack
+
+Backend & Services
+
+GoLang
+PHP (legacy monolith)
+Kotlin
+gRPC
+
+Databases & Storage
+
+PostgreSQL
+Redis
+S3
+
+Messaging & Streaming
+
+Apache Kafka (event-driven architecture)
+Kafka Streams (data processing)
+
+Infrastructure & Cloud
+
+AWS
+Docker & Kubernetes (контейнеризація і оркестрація)
+Terraform
+
+CI/CD & DevOps
+
+GitHub Actions / GitHub CI/CD
+ArgoCD or Helm
+
+We offer:
+
+Work with a highly motivated and dedicated team
+Competitive salary
+Flexible schedule
+Benefits package — medical insurance, sports
+Corporate social events
+Professional development opportunities
+Well-equipped office
+
+About us
+
+Grid Dynamics is a leading provider of technology consulting, platform and
+product engineering, AI, and advanced analytics services. Fusing technical
+vision with business acumen, we solve the most pressing technical challenges
+and enable positive business outcomes for enterprise companies undergoing
+business transformation. A key differentiator for Grid Dynamics is our 8 years
+of experience and leadership in enterprise
+AI,
+supported by profound expertise and ongoing investment in
+data,
+analytics,
+cloud & DevOps,
+application
+modernization and
+customer experience. Founded in 2006, Grid Dynamics is headquartered in Silicon Valley
+with offices across the Americas, Europe, and India.

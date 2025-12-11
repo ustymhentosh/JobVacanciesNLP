@@ -1,0 +1,47 @@
+Middle ASP.NET Developer (C#)
+We are looking for a proficient and motivated Middle ASP.NET Developer
+(C#) to join our dynamic team. At Brights, you’ll have the opportunity to
+work on innovative web applications using C# and stay at the forefront of
+technology trends 🚀
+
+Requirements:
+2+ years of experience with C#, .NET, ASP.NET;
+Strong knowledge of OOP, SOLID principles, design patterns, DRY, KISS;
+Experience with Entity Framework;
+Experience with PostgreSQL, SQL Server, Redis;
+Hands-on experience with cloud services (primarily AWS);
+Understanding of web application architecture and design approaches;
+English level B2 or higher (written and spoken);
+Strong communication and collaboration skills;
+Responsibility, critical thinking, and ownership of tasks;
+Good time management and adaptability in a fast-paced environment.
+
+Would be a plus:
+Experience with JavaScript, Vue.js or Angular;
+Understanding of microservices, RabbitMQ/Kafka, MassTransit;
+Experience with Dapper;
+Familiarity with Docker;
+Understanding of logging and tracing tools;
+Ability to solve complex technical challenges creatively.
+
+We offer:
+Remote workplace or a comfortable office in the center of Kyiv;
+18 working days of paid leave annually;
+Unlimited sick days;
+Salary review twice a year;
+Compensation for our English-speaking club — 100%;
+Compensation for coworking spaces — 100%;
+Compensation for gym memberships and professional courses — 80% (after the
+trial period);
+Compensation for any English courses — 50% (after the trial period);
+Compensation for sessions with a psychologist — 50% (after the trial
+period);
+Medical insurance (after the trial period).
+
+Interview Stages:
+Screening Interview ➡️ Technical Interview ➡️ Job Offer
+
+If you’re ready to take ownership of HR in a growing tech company and make a
+real impact — we’d love to hear from you! Our hiring team will carefully
+review all applications, and we will reach out to you if your CV is
+shortlisted for the next stage ⭐️

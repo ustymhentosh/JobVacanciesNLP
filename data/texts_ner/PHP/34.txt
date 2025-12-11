@@ -1,0 +1,46 @@
+Senior CMS WordPress Developer
+We are looking for an experienced **Senior CMS WordPress developer** , who
+will become a part of our talented team and will actively participate in our
+projects development and support.
+
+The position is open in Cherkasy, Lviv, remote in Ukraine
+
+### We are looking for:
+
+  * 4+ years of commercial experience with CMS (WordPress as a core focus)
+  * Strong expertise in WordPress: template hierarchy, theme architecture, child themes, custom plugins, hooks (actions/filters), custom post types, taxonomies, AJAX
+  * ACF Pro: repeater/relationship fields, options pages, JSON sync
+  * WP Bakery: custom blocks, widgets, shortcodes
+  * WooCommerce: template customization, checkout flows, filters, pricing rules, Stripe integration
+  * SEO & performance optimization: Yoast, XML sitemaps, caching, security best practices
+  * API integrations (REST, JSON/XML) with external services (HubSpot, Cerbo, MS Dynamics 365)
+  * Strong knowledge of HTML5, CSS3/SCSS, JS/jQuery, PHP (OOP)
+  * Git (branching, PRs), experience with GitHub/GitLab/Bitbucket
+  * Experience with environments (Docker, Lando, Pantheon, AWS, CPanel)
+  * Mentoring team members, distributing and prioritizing tasks, and knowledge sharing across the team
+  * English — Intermediate or higher
+
+### Responsibilities:
+
+  * Develop and maintain WordPress themes and plugins with focus on performance and security
+  * Configure ACF Pro, WP Bakery, and customize WooCommerce
+  * Integrate WordPress with third-party APIs (HubSpot, Cerbo, MS Dynamics 365)
+  * Ensure SEO, performance, and security optimization
+  * Work with Git repositories, manage deployments across environments
+  * Plan and prioritize development tasks to meet project deadlines
+
+### We offer:
+
+  * Competitive reward for the provided services
+  * Collaborative and supportive team of professionals
+  * Growth through a Mentorship Program, regular feedback, and one-on-one meetings with PM and HR
+  * Partial reimbursement for medical insurance, sports activities, and English language courses
+  * Generous leave policy — 22 days of annual leave, 10 paid sick days per year
+  * Personal equipment policy offering MacBooks along with all necessary hardware and software for work
+  * Financial support for employees during specific life events (weddings, childbirth, etc)
+  * A people-focused corporate culture that prioritizes employee well-being
+
+If you think you are the one whom we are looking for, do not hesitate to send
+your CV — email — [[email protected]](/cdn-cgi/l/email-
+protection#b4dedbd6c7f4d1dfc6d1d5c0ddc2d19ad7dbd9). We will contact you as
+soon as possible. We will be glad to have an interview with you!

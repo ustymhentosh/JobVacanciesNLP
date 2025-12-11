@@ -1,0 +1,47 @@
+DevOps Team Lead
+Automat-it is where high-growth startups turn when they need to move faster,
+scale smarter, and make the most of the cloud. As an AWS Premier Partner and
+Strategic Partner, we deliver hands-on DevOps and FinOps and GenAI support
+that drives real results.
+
+We work across EMEA and the US, fueling innovation and solving complex
+challenges daily. Join us to grow your skills, shape bold ideas, and help
+build the future of tech.
+
+In this DevOps Team Lead position, you will be a key member of the expansion
+of our DevOps teams. You will join, mentor and coach them to deliver the best
+infrastructure solutions for our customers.
+
+📍 Work location — remote Ukraine
+
+If you are interested in this opportunity, please submit your CV in English.
+
+Responsibilities
+
+Lead and manage a team of 6-8 DevOps Engineers.
+Lead and be responsible for on-time, great-quality project deliveries.
+Define or participate in creating Architecture and Designs for the infrastructure and CI/CD solutions for the projects.
+Facilitate team’s communication with the customers.
+Conduct code reviews, coaching and make sure technical best practices are applied.
+Manage and track SOW for projects together with customers, PMO and higher management.
+Hands-on implementation and/or closely monitored guidance of the key complex elements in developing build automation flows, continuous release and deployment automation flows, automated resources, and infrastructure provisioning.
+Provide and manage estimations for pre-sale and sale stages for new projects.
+Drive the learning process within the team for the latest technology trends in the DevOps field
+
+Requirements
+
+Proven experience in successfully leading IT projects from the start to delivery.
+Team Lead (or similar) experience leading DevOps and/or SysAdmin teams.
+5+ years of hands-on experience with AWS infrastructures. AWS certification is a plus.
+5+ years of hands-on experience with Docker containers, Kubernetes, and Infrastructure as code (Terraform, CloudFormation, etc.)
+Familiarity with Configuration Management (Ansible, Puppet, Chef, etc.)
+Experience with CI/CD tools such as Jenkins, GitHub actions, etc.
+Linux OS knowledge.
+Network knowledge.
+Fluent written and verbal communication skills in both English and Spanish.
+Good task management skills.
+
+Automat-it is committed to fostering a workplace that promotes equal
+opportunities for all. We firmly believe that fostering a diverse workforce is
+crucial to our success. Our recruitment decisions are grounded in your
+experience and skills, recognizing the value you bring to our team.

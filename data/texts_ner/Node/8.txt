@@ -1,0 +1,40 @@
+Full-stack JavaScript developer
+We’re looking for **Mid+/Senior FullStack JS developers** who love technical
+interviews. Your primary responsibility is to pass client technical
+assessments (live coding, architecture/system-design conversations) across
+**both frontend and backend** (Node.js/NestJS). You’ll help us win projects by
+demonstrating deep technical capability and clear communication — while
+sharpening your own skills across many interview styles and stacks.
+
+**What you’ll do:**
+
+  * Join client technical screens as the hands-on engineer, solve problems live, and explain trade-offs with clarity.
+  * Navigate a variety of interview formats: algorithmic/DSA rounds, **frontend** architecture/performance/testing/accessibility, **backend** design with Node.js/NestJS, API design, testing, networking, and security basics.
+  * Discuss modern FE stacks (TypeScript, React or Vue, Vite/Webpack, SSR/ISR) and robust BE stacks:  
+
+    * Node.js with NestJS (or Express/Fastify), TypeScript first.
+    * API patterns: REST/GraphQL, WebSockets, pagination, versioning, error models.
+    * Data layer: PostgreSQL/MySQL, MongoDB, Redis (caching, sessions, rate limiting), ORMs (Prisma/TypeORM), migrations, indexing.
+    * Integration: queues/streams (RabbitMQ/Kafka/SQS), file/object storage, third-party auth/payments.
+    * Cloud & ops: Docker, basic CI/CD, env/config management, logging/metrics (e.g., ELK/EFK, OpenTelemetry), 12-factor sensibilities, some experience with Cloud (AWS/Azure/GCP).
+
+**You’re a great fit if you:**
+
+  * Have 5+ years of professional experience in frontend + backend engineering.
+  * Are fluent in **TypeScript** ; expert in **React** (preferred) or **Vue** , and confident with **Node.js/NestJS** (routing, modules, DI, pipes/guards/interceptors).
+  * Can reason about **rendering** (CSR/SSR/SSG/ISR), **state** (local/global/query), **performance** (code-splitting, memoization, hydration), and **accessibility** (ARIA, WCAG).
+  * Can design **backends** with solid domain boundaries, data modeling, **transactionality** , **caching** , and **consistency** ; you understand **indexes** , **query plans** , and when to choose SQL vs NoSQL.
+  * Are comfortable with **live coding** (practical FS tasks + algorithms), **system design for the web** (load shedding, CDNs, caching layers, queues, pub/sub, eventual consistency), and **security basics** (OAuth2/OIDC/JWT, CSRF/CORS, CSP, input validation, OWASP Top 10).
+  * Write tests when it matters: **Jest/Vitest** , **RTL** , **Supertest** , contract tests; can discuss coverage vs. ROI.
+  * Communicate clearly in **English (B2+)** , keep calm under pressure, and enjoy explaining your thinking.
+
+**Compensation & schedule:**
+
+  * Hourly pay + success bonuses tied to passed interviews/closed engagements.
+  * Part-time & flexible (typ. 8–20 hours/week).
+  * Contractor engagement; remote-first.
+
+**Apply:**  
+Send your CV/LinkedIn + GitHub/portfolio + a short note on your strongest
+interview topics. If you have preferred stacks, mention them. We’ll invite you
+to a brief intro call followed by a friendly mock round.

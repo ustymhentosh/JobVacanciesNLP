@@ -1,0 +1,80 @@
+Full Stack (Node.js) Developer in Engagement Product Team (#1057)
+Location: Remote
+
+Your expertise:
+
+Strong proficiency with JavaScript (ES6+).
+Minimum of 3 years of professional software development experience.
+Knowledge of TypeScript and willingness to work with it.
+Knowledge and experience with NodeJS server-side development.
+Knowledge and experience with SQL (MySQL, PostgreSQL).
+Knowledge and experience with Docker.
+Solid understanding of client-side scripting.
+Knowledge of performance best practices for web pages.
+Production experience with Vue/ReactJS and its infrastructure.
+Understanding the nature of asynchronous programming and its quirks and workarounds.
+A strong culture of clean code and engineering excellence.
+Understanding of the object-oriented programming paradigm.
+Understanding of SOLID principles in practice.
+Understanding of the HTTP protocol.
+Knowledge of web security threats and ways to mitigate them.
+Understanding of cross-browser compatibility issues and ways to work around them.
+Proficient understanding of Git.
+Systematic approach to problem solving.
+Competent use of English (reading, writing, and speaking).
+
+Will definitely be a plus:
+
+Experience with DevOps and DBA practices — the ability to work with an application on all lifecycle stages: development and maintenance in real environments.
+Experience with one of the big cloud providers (AWS).
+Experience with Message Queue brokers (AWS SNS/SQS, Kafka, RabbitMQ).
+Knowledge of software design patterns & ability to apply them consciously.
+Knowledge and experience with automated testing platforms and unit tests.
+
+What’s in it for you?
+
+Opportunity to deal with top-notch technologies and approaches in a world-leader product company with millions of customers
+Opportunity to make a difference for online privacy, freedom of speech, and net neutrality
+Decent market rate compensation depending on experience and skills
+Developed corporate culture: no micromanagement, culture based on principles of truth, trust, and transparency
+“You build it, you own it” mentality in most contexts
+Support of personal and professional development
+coverage of costs of external trainings, conferences, professional literature
+support of experienced colleagues
+in-house events and trainings
+regular knowledge sharing in teams
+English classes and speaking clubs
+Life-balance support
+truly flexible schedule, no time-tracking at all
+25 working days of vacation
+5 days of paid sick leave per month (if necessary) without providing a medical certificate
+generous maternity / paternity leave program
+Professionally strong environment, friendly and open atmosphere, ability to influence the product development and recognition for it
+
+You will be involved into:
+
+Full cycle development (BE, FE, etc).
+Сoding, and testing a system according to the product vision.
+Collaboration with other teams and support of their integration.
+Participation in the definition.
+
+About the company and project:
+
+ZONE3000 is proud to represent its partnership with Namecheap
+(www.namecheap.com). Namecheap was founded in
+2000 on the idea that all people deserve value-priced domains delivered
+through stellar service. Today, Namecheap is a leading ICANN-accredited domain
+name registrar and web hosting company with over 16 million customers and 19
+million domains under management — and we’re just getting started.
+
+Our culture is built on the values that we live every day: the way we work,
+the way we collaborate with our global network of colleagues and the way we
+relentlessly innovate solutions that meet the emerging needs of our customers.
+
+We are building an Engagement Platform to provide fast and effective customer
+support and feedback.
+
+We are building the Engagement Platform to provide fast, convenient, and
+effective customer support, allowing users to get support and help using a
+convenient communication channel. We aim to provide a seamless and
+straightforward solution for customers, and user support agents.

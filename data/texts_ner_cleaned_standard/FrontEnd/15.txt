@@ -1,0 +1,80 @@
+Middle Front-End Developer
+Gamzix company, a dynamic player in the iGaming industry:
+
+was founded in March 2020 with a vision to redefine the world of online slot
+games
+
+has already successfully produced 60 slot games
+
+the team has grown to over 100 skilled professionals and we continue to grow
+
+two strategically located offices in Europe
+
+with a strong focus on quality and compliance, we hold the prestigious MGA
+B2B Critical Supply License
+
+and certifications from industry leaders iTechLabs and GLI, ensuring the
+highest standards
+
+Hi! 👋
+
+Gamzix is a fast growing game provider in the iGaming industry, known for
+delivering engaging, high-quality slot games with cutting-edge technology and
+visual excellence. As we expand, we’re looking for a passionate Front-End
+Developer
+
+Responsibilities:
+
+Game engine development and support
+Development of tools for creating, debugging, testing games
+Write clean code
+Implement new core-features in games
+Support games after release
+
+Requirements:
+
+3+ years of front-end software development experience
+2+ years of experience with Pixi within the gambling / game industry
+Understanding the principles of asynchronous programming
+Understanding of the principles of SOLID, GRASP, KISS, DRY, YAGNI
+Understanding OOP principles
+Stay updated with the latest trends and technologies in frontend development
+Propose and implement innovative solutions to improve the development
+process
+Experience in developing process automation tools
+
+Will be a plus:
+
+Experience in game engine development
+
+Hiring process:
+
+1st interview — Recruiter
+2nd — Hiring manager
+3nd — PM interview
+final interview — CTO, HRD
+
+What we offer:
+
+Market-level salary in the IT/Gaming industry
+Relocation support to Warsaw
+Referral bonus — bring in awesome people and get rewarded
+Home-Office coverage
+7-hour working day 10:00–18:00 (including lunch break)
+Hybrid model in Warsaw; full remote — for other locations
+Paid Sick Leave: up to 10 working days per year
+Paid Time Off: 18 vacation days, 10 days off, paid state holidays
+Corporate benefits: medical coverage, sport compensation, compensation for psychological services
+Professional Development Support: reimbursement for external courses, training & certifications
+Corporate English classes (Business or General) — flexible timing
+Buddy Program
+Internal Gamzix Store (earn coins & exchange for branded gifts)
+Corporate team building and activities
+Open and friendly communication
+
+Please note that feedback on your application will be provided within two
+weeks if a positive decision is made regarding your candidacy.
+
+I give my consent in accordance with the Law on the Protection of Personal
+Data dated June 1, 2010, No. 2297, effective from January 1, 2011, for the
+processing of information classified as personal data

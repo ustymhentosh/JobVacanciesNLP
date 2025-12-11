@@ -1,0 +1,36 @@
+Golang developer
+Responsibilities:
+
+Design & Develop: Build robust backend services and RESTful APIs in Golang to power our cloud-based CRM system, ensuring high performance and scalability.
+Microservices Architecture:Implement and maintain an event-driven microservices architecture, including inter-service communication and data pipelines.
+Database & Optimization: Work extensively with PostgreSQL(complex queries, indexing, performance tuning) to handle large volumes of data efficiently.
+DevOps Collaboration:Collaborate with DevOps engineers to deploy and operate services using Docker, Kubernetes, Terraform, and AWS (EC2, S3, RDS, Lambda, etc.), following CI/CD best practices.
+Code Quality:Ensure high code quality by writing unit/integration tests and participating in code reviews, following best practices for maintainability and security.
+Team Collaboration:Work closely with front-end developers, QA, and product managers in an Agile environment to deliver features from concept to production, and troubleshoot issues in a timely manner.
+
+Requirements:
+
+Experience: 5+ years of software development experience, including strong expertise in Golang development for production systems.
+Cloud & DB: Hands-on experience with AWS services (EC2, S3, RDS, Lambda, API Gateway, etc.) and proficiency in PostgreSQL (query optimization, indexing, replication).
+Architecture: Solid understanding of microservices and distributed system design (concurrency, event-driven architecture, messaging).
+Containers: Experience with Docker and Kubernetes for containerization and orchestration.
+Best Practices: Commitment to writing clean, maintainable code with proper testing (TDD/unit tests) and documentation.
+Soft Skills: Excellent communication skills (English upper-intermediate or higher) for teamwork and stakeholder interaction. Problem-solving mindset with a proactive, results-driven attitude.
+
+Nice to Have:
+
+Experience with high-load systems and performance optimization techniques.
+Knowledge of additional databases or caching (e.g., Redis, MongoDB) and message brokers (Kafka, RabbitMQ).
+Infrastructure as Code:Familiarity with Terraform or CloudFormation for managing cloud infrastructure.
+Previous work in healthcare or pharmaceutical software domains.
+Familiarity with security standards and data protection regulations (GDPR, HIPAA) in software development.
+
+We Offer:
+
+Competitive Compensation:Attractive salary with regular reviews, plus performance-based bonuses.
+Remote & Flexible Work: 100% remote work opportunity with a flexible schedule, so you can work in the way you perform best.
+Paid Time Off:24 working days of paid vacation per year, plus paid sick leaves and national holidays
+Great Team & Culture:Join a dynamic international team of talented professionals. We value open communication, no micromanagement, and a positive, innovation-driven culture.
+
+Join us and shape the future of Proxima’s cloud CRM platform!Send your CV,
+and let’s build something great together.

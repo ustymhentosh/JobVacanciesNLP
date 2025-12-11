@@ -1,0 +1,79 @@
+Senior Full Stack Developer (Laravel/React) — Remote for Marketing Tracking Software
+AboutLeadJourney.io
+
+We’re solving the biggest pain in performance marketing: “Which ads bring
+my best leads?”
+
+Our SaaS platform delivers real attribution clarity to:
+
+Performance marketers
+Lead generation companies
+Agencies & freelancers spending money on ads
+
+We’re lean, profitable, and ready to scale. Want to build with us?
+
+🔧 Tech Stack
+
+Backend
+
+Laravel 11 + Octane (Swoole)
+Laravel Sanctum (SPA Auth)
+FrankenPHP (WebSocket Server)
+PHP 8.2 | MySQL 8.0.31 | Redis 5
+
+Frontend
+
+Nuxt (Vue 3 + Vite)
+Pinia | Scss | ESLint + Prettier (auto-fix)
+
+Infrastructure
+
+DigitalOcean + Kubernetes + Traefik
+GitLab CI/CD
+
+Your Role
+
+You’re not just writing code. You’re:
+
+Architecting, building, deploying, and testing core features
+Working 1:1 with the founder on product direction and strategy
+Shipping APIs, UIs, WebSockets, and full-stack magic fast
+Owning your output — from idea to QA
+
+What You Bring
+
+3+ years in full stack development
+Expertise in Laravel + Vue/Nuxt
+Experience with scalable systems, containers, and CI/CD
+Self-management, proactive attitude, and speed
+Optional bonus points for:
+
+Ad tech or attribution experience
+Familiarity with Meta / Google / LinkedIn Ads APIs
+Building tracking or data pipeline tools
+
+Why This Role Rocks
+
+Autonomy, not micromanagement
+Freedom to work your way — remote, async, results-focused
+Core team member — influence product, culture, and architectur
+Fast-growing product — what you build is what users use
+
+Not the Right Fit If You...
+
+Need hand-holding or corporate structure
+Avoid ambiguity or wearing multiple hats
+Expect everything sorted on Day 1
+Are part of an agency, studio, or development shop ❌
+
+We’re looking for one excellent individual — not a team or agency.
+
+How to Apply
+
+Send us:
+
+A short intro (why you’re excited about this role)
+Links to your GitHub, portfolio, or real code samples
+A CV or LinkedIn — we care more about your actual work than a formal resumeOnce we checked your profile the next step is a test task to show us your skills.
+
+We’re excited to meet great builders. No polished cover letter needed.

@@ -1,0 +1,51 @@
+Middle Strong .NET Engineer
+About Elitex:
+
+ELITEX is a Software Development company, founded in 2015, with the core
+expertise & focus on JavaScript, DevOps, and Staff Augmentation services.
+
+Our company has devoted teams of professionals with strong technical expertise
+and mentoring backgrounds, providing a full cycle of software development.
+
+At ELITEX every employee’s voice matters, processes are smooth and deprived of
+useless bureaucracy, and working conditions are great. Apply for a job and
+check it for yourself!
+About Project:
+
+Software-as-a-Service (SaaS) hotel software solution that seamlessly
+integrates property management, global distribution, bookings, and
+marketing—all on a single, easy-to-use platform designed exclusively for
+independent hoteliers, small hotel chains and hotel management companies.
+Responsibilities:
+
+Write high-quality, maintainable, and reusable code consistent with SOLID principles
+Operate as part of an agile-based development team, actively participating in grooming and planning discussions and sharing ownership of the problem and solution
+Tackle complex system integration challenges with internal and external team members
+Requirements:
+
+Experience in modern application design and event-driven architectures, microservices-based architectures
+Understanding of cloud architecture and distributed system design
+4+ years of technical experience in building back-end APIs using C# / .NET Core or equivalent languages (e.g., C, C++, Rust, Java, Python, Go)
+2+ years of experience implementing cloud-based applications
+Experience implementing API governance concerns (including authentication, authorization, resource modeling, endpoint design, etc.)
+Strong knowledge of Git fundamentals and branching strategies
+Professional working proficiency in English (B2)
+Strong sense of ownership, urgency, and drive
+Excellent problem-solving skills
+Nice to have:
+
+Knowledge of modern DevOps technologies and processes, including Kubernetes, GitOps, Terraform, etc.
+Experience with AWS cloud infrastructure
+Strong knowledge of SQL Server, PostgreSQL, and/or Apache Kafka
+Company benefits:
+
+Modern workplace (iMac/MacBook or other preferred hardware);
+Cozy office in the very center of Lviv;
+Office/remote/hybrid work models — pick the one that’s perfect for you;
+Regular performance reviews;
+15 paid business days off per year;
+Maternity leave policy;
+English classes;
+Health insurance;
+Compensation for educational and training programs;
+Team buildings and corporate events

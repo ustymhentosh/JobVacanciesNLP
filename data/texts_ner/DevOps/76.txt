@@ -1,0 +1,50 @@
+DevOps engineer
+**DEVOPS ENGINEER**
+
+**ABOUT TERASKY**
+
+TeraSky is a global solution integrator, empowering organizations with
+innovative digital foundations and hybrid cloud solutions. We combine
+Artificial Intelligence (AI), cloud-native agility, and enterprise-grade
+infrastructure with a focus on long-term partnerships and value-driven
+strategies. TeraSky pushes the boundaries of innovation — powered by
+proprietary engineering frameworks and certified expertise spanning GenAI, Any
+Cloud,
+
+Platform Engineering, Application Infrastructure, Data Strategy, and Digital
+Workspace.
+
+At TeraSky, our DNA is rooted in expertise, mastery, dedication, and
+continuous innovation. We partner long-term with clients, solve complex
+technology challenges, and set industry trends. As an official partner for
+Google Security Operations in the CEE region and leading cybersecurity
+providers, we offer comprehensive, cost-efficient protection for our clients.
+
+**KEY RESPONSIBILITIES:**
+
+  * Design, build, and maintain complex DevOps infrastructures in cloud-based and hybrid environments.
+  * Develop, configure, and support CI/CD pipelines and orchestration processes.
+  * Collaborate with clients: Participate in discovery meetings and gather requirements.
+  * Automate processes and champion best practices for configuration management and infrastructure as code.
+  * Troubleshoot and optimize complex, distributed systems in multi-cloud environments.
+
+**REQUIREMENTS:**
+
+  * Hands-on expertise in GCP or AWS, experience with Azure is a plus.
+  * Multicloud experience: Ability to architect and support solutions spanning multiple cloud providers is a plus.
+  * Expertise in Kubernetes, Docker, and cloud-native infrastructure.
+  * Experience implementing and maintaining CI/CD pipelines.
+  * Skilled with automation and configuration management tools (e.g., Ansible, Terraform).
+  * Knowledge of databases and messaging technologies (e.g., PostgreSQL, MySQL, Redis, Kafka, PubSub) is a plus.
+  * Proactive learning mindset: stay up-to-date with evolving DevOps and cloud technologies, share insights with the team.
+  * Excellent English communication skills for effective collaboration in multicultural environments and with clients.
+
+**WHY JOIN TERASKY?**
+
+  * Be at the forefront of AI, cloud-native, and enterprise-grade infrastructure.
+
+  * Collaborate with an experienced team.
+
+  * take advantage of flexible, hybrid work, a modern office, and regular team events
+
+  * Benefit from a healthy work-life balance, annual bonus, and career advancement.

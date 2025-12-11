@@ -1,0 +1,71 @@
+Senior .NET Engineer (#3801)
+### The Company:
+
+Since 2002, the client has been a market leader in automotive claims
+management, processing over 18 million vehicle claims annually with a global
+team of more than 1,000 employees. Operating in over 30 countries, the company
+specializes in digital solutions that optimize vehicle damage processing for
+insurance companies, car dealerships, repair shops, leasing firms, and
+automotive manufacturers. By leveraging automation, advanced technologies, and
+industry expertise, the client continuously enhances efficiency and accuracy
+in claims handling. An in-house research and development team drives
+innovation, tailoring solutions to local market needs while advancing digital
+transformation in the industry. At the core of this evolution is a strong
+development team, building scalable, high-performance software solutions that
+integrate data-driven processes with human expertise to reshape automotive
+claims management.
+
+As a **Senior .NET Developer,** you will play a key role in designing,
+developing, and maintaining high-quality software solutions. You will work
+closely with an agile team, contributing to architecture decisions, ensuring
+code quality, and driving continuous improvement.
+
+**Key Responsibilities:**
+
+  * Design and develop software solutions based on microservices architecture.
+  * Develop, test, document, and maintain backend services using .NET (C#).
+  * Write clean, scalable, and well-tested code that adheres to SOLID principles.
+  * Implement and integrate software modules and services into a broader system.
+  * Work closely with your agile teammates to achieve sprint goals.
+  * Participate in Scrum ceremonies (daily stand-ups, refinements, sprint planning, retrospectives).
+  * Provide mentorship and support to fellow developers, fostering a culture of knowledge sharing.
+  * Estimate tasks and contribute to sprint planning with realistic timeframes.
+  * Develop and maintain unit and integration tests (Test-Driven Development (TDD)).
+  * Contribute to continuous integration and deployment (CI/CD pipelines using GitLab).
+  * Support the automation and optimization of business processes.
+
+**Tech Stack & Tools:**
+
+  * NET (C#), microservices architecture (.NET 6, .NET 8, some legacy .NET 4.5).
+  * Frontend: ReactJS, Blazor.
+  * Storage: SQL Server, AWS S3, MongoDB.
+  * Messaging & Async Processing: RabbitMQ, Hangfire.
+  * Cloud & Hosting: On-premise with strategic migration to AWS or Azure, VMware Tanzu for hybrid environments.
+  * CI/CD & DevOps: GitLab, ELK stack, Grafana, Sentry.
+
+### Requirements:
+
+  * Bachelor’s degree in Computer Science, IT, or a related field (or relevant experience).
+  * 5+ years of experience in the Microsoft development stack (C#/.NET, SQL Server).
+  * Strong understanding of ASP.NET, microservices architecture, and SOLID principles.
+  * Experience with CI/CD pipelines, Git, and cloud platforms (AWS, Azure).
+  * Knowledge of ReactJS, Blazor, TypeScript (a plus).
+  * Experience with Kubernetes, containerization, and cloud-native development (preferred).
+  * Proactive, self-organized problem solver with an innovative mindset.
+  * Strong team player who enjoys mentoring and helping colleagues.
+  * Passion for continuous learning and staying up to date with the latest technologies.
+  * Excellent verbal and written communication skills in English or German.
+
+**We offer*:**
+
+  * Flexible working format — remote, office-based or flexible
+  * A competitive salary and good compensation package
+  * Personalized career growth
+  * Professional development tools (mentorship program, tech talks and trainings, centers of excellence, and more)
+  * Active tech communities with regular knowledge sharing
+  * Education reimbursement
+  * Memorable anniversary presents
+  * Corporate events and team buildings
+  * Other location-specific benefits
+
+*not applicable for freelancers

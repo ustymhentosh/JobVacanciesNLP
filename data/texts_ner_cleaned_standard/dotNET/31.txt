@@ -1,0 +1,78 @@
+Middle .NET Developer (ASP.NET MVC)
+We’re looking for a Middle .NET Developer to join our team! You’ll be
+involved in two projects — one in the automotive insurance domain, and the
+other focused on a life insurance platform.You’ll join a strong, cross-
+functional team where you can learn from colleagues across different business
+domains, share knowledge, and take on diverse tasks that help you grow
+technically and professionally.If you’re comfortable switching between
+projects and enjoy dynamic teamwork and direct collaboration with clients,
+this role is for you!
+
+Work mode: full-time employee. Opportunity for work in the Lviv office or
+remotely.
+
+Client: UK, USA
+Current projects status: two ongoing projects — one in the automotive
+insurance domain, and the other focused on a life insurance platform.
+
+Required Skills:
+2+ years of commercial experience with .NET
+Real production work in ASP.NET MVC (.NET Framework + .NET Core)
+Commercial experience with SQL
+English — Upper Intermediate (B2) or higher — written and verbal communication
+
+Nice to have:
+EF Core / Dapper (micro-ORMs)
+Basic understanding — Azure cloud services and core principles of CI/CD
+Experience with Azure Application Insights for logging/monitoring
+AI and prompt engineering
+
+What do we offer:
+Salary $2500-3000 (depends on the results of the interview and can be
+discussed)
+Performance review every six months
+Professional development in a team of highly qualified specialists
+Dynamic and interesting work
+Opportunities for career and professional development
+Strong mentorship offers valuable guidance and support to help individuals
+grow into skilled specialists
+Direct communication with English-speaking clients
+Recognition gifts and awards
+Employee referral program
+New benefit program with the opportunity for compensation to cover the
+following expenses of their choice:
+▪ Sports activities (these can be one-time sessions or monthly or annual
+subscriptions)
+▪ Payment of medical expenses (treatment and preventive procedures at the
+dentist, services, and consultations with doctors, medical examinations, and
+tests)
+▪ Psychologist consultations
+▪ Medical insurance
+▪ Training for the development of professional skills (hard and soft skills),
+including the purchase of necessary educational literature
+▪ Courses in traditional arts and creativity (such as drawing, music,
+photography).
+▪ Individual English language improvement classes
+21 working days — paid vacations
+10 paid sick leaves
+IT club membership
+Offices equipped with generators and Starlinks
+
+If you would like more details, please feel free to contact me or submit
+your resume through the site.
+
+The next step is a short interview with me, 15-30 minutes.
+Then — an interview with your future manager — 60 minutes.
+In case of success — offer!
+
+I will organize all stages ASAP
+
+We highly value transparency and communication. Our recruitment process
+includes feedback at every stage, ensuring you are consistently informed and
+engaged.
+
+So if you’re a person who loves teamwork and communicating with interesting
+people, you’re more than welcome to our team :)
+
+Olha Melnychuk
+HR Managers, DevCom

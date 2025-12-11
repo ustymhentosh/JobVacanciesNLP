@@ -1,0 +1,95 @@
+Strong Middle iOS Engineer
+**Hi!**  
+
+We are looking for a skilled and self-driven **iOS Engineer** to join our team
+and contribute to **innovative fintech and e-commerce products.** You’ll play
+a key role in developing high-performance iOS applications that serve
+thousands of users and ensure seamless user experiences.
+
+As part of our team, you’ll collaborate with PMs, QAs, back-end engineers, and
+mobile developers to deliver secure, scalable, and high-quality solutions.  
+
+_**This position is available both full-time and part-time.**_  
+
+**Required Skills**  
+
+  * 2–4+ years of experience in iOS application development
+  * Strong expertise in Swift and SwiftUI
+  * Knowledge of Objective-C
+  * Experience with UIKit, Core Data, and Core Animation
+  * Solid understanding of iOS SDK principles
+  * Hands-on experience working with APIs and collaborating with back-end teams  
+
+**Responsibilities**  
+
+  * Develop and maintain iOS applications
+  * Plan, implement, and test user stories
+  * Ensure app performance, stability, and quality
+  * Debug, fix issues, and optimize performance
+  * Introduce new technologies to improve development efficiency  
+
+**Nice-to-Have**  
+
+  * Experience with GraphQL and third-party SDK integrations
+  * Background in the crypto industry
+  * Familiarity with AI tools to accelerate development
+  * Proactive mindset and ability to work independently
+  * Comfortable working in distributed teams  
+
+**Tech Stack**
+
+  * **Back-end:** Node.js · Next.js · Apollo GraphQL
+  * **iOS:** Swift  
+  
+**What we offer:**
+
+  *   
+Interesting, influential projects;  
+Long-term cooperation with a full-time involvement;  
+Flexible work schedule and Remote or hybrid cooperation;  
+Professional development with an individual plan of growth;  
+Stable salary and planned reviews;  
+Paid vacation and sick leave (21 vacations and 10 sick days);  
+Weekends on all public holidays;  
+Medical insurance package;  
+Corporate team building including trips;  
+Professional workshops and training;  
+Excellent team of dedicated professionals;  
+Development budget for each employee;  
+Corporate English;  
+Strong corporate culture.
+
+### Про компанію Tallium
+
+Tallium — це команда вже з понад 100 осіб, яка розробляє класні комплексні
+рішення та продукти у сфері IT. Компанія розпочала свій шлях у 2012 році, і за
+цей час успішно реалізували безліч проєктів різної складності. В основному ми
+займаємося аутсорсингом та аутстаффінгом. Також у нас є власний продукт —
+iDealer, який ми активно розвиваємо і яким пишаємося. iDealer — це система
+управління сервісними шатлами для автодилерів у Канаді та США. Він уже став
+офіційним партнером Uber, адже ми додали вбудовану інтеграцію з Uber в саму
+програму. Ми активно працюємо над проектами в таких напрямках: — Banks and
+fintech; — E-commerce; — Education; — Real Estate; — Social Apps etc. Ми
+допомагаємо бізнесам розвиватися. Ми з легкістю знаходимо спільну мову як зі
+стартапами, так і з давно відомими та успішними компаніями. Ми знаходимо точки
+дотику і допомагаємо їм переосмислити їх поточні рішення і разом вигадуємо та
+створюємо нові. Наша команда використовує для цього сучасні технології
+розробки та можливості ведення проєктів. У нас дуже сильна експертиза в UX/UI:
+ми тісно співпрацюємо з клієнтом та кінцевими користувачами, аби створювати
+рішення, які вони справді полюблять. З прикладами наших робіт можна
+ознайомитись на сайті компанії. Ми намагаємося урізноманітнити наше сервіс-
+портфоліо проєктами різної користі та складності, і надати нашим
+співробітникам свободу у виборі технологій та рішень, а також можливості для
+розвитку та кар’єрного зростання. Починаючи працювати в Tallium, ти приходиш,
+в першу чергу, в команду, а не на проєкт. Ми не змушуємо потенційних
+співробітників проходити співбесіду із замовником, і якщо проєкт закінчився,
+ми відразу ж підберемо тобі новий. Наш стек включає, але не обмежується такими
+технологіями, як: * PHP (Laravel, Symfony), Java; * JavaScript (Angular,
+React); * Kotlin, Swift, Flutter.  
+Наш офіс знаходиться в самому серці Києва, поруч з метро Золоті Ворота та
+Театральна. Наразі ми активно працюємо в режимі віддаленої роботи, проте
+кожен, хто бажає, може повернутися до нашого затишного простору.  
+У Tallium ми дуже активно ведемо соціальне життя, у нас є окрема ігрова
+кімната зі зручними диванами, де ми граємо на PS4, настільний теніс та
+настільні ігри. Ми дуже любимо корпоративні зустрічі, спільне дозвілля онлайн
+та оффлайн.

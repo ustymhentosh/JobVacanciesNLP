@@ -1,0 +1,72 @@
+Middle Java Developer
+### About us:
+
+Atlaslive is a dynamic iGaming platform that provides the best quality
+software solutions for iGaming business. We create a live connection between
+business ambitions and opportunities. Atlaslive is recognized worldwide as one
+of the leading Sportsbook Platforms, as well as the Best Sports Betting
+Provider and a Rising Star in Sports Betting Technology within the CEE, Baltic
+and Nordic markets. Atlaslive, the tech behind the game.
+
+**Requirements:**
+
+  * 3+ years experiences in production development
+  * Java 21 (Core, StreamAPI, Collections)
+  * Spring Framework ecosystem(Boot, Data, Security, AMQP, MVC ..) 3+
+  * Relational database systems Postgres and related frameworks (SQL, Hibernate, SpringData)
+  * Experience with NoSQL
+  * Experience with message brokers like RabbitMQ
+  * AWS and K8S high level understanding
+  * Experience with distributed systems and microservices 3+
+  * Experience with high loaded systems is a plus
+  * Experience in CI/CD is a plus
+
+**Responsibilities:**
+
+  * Participate in architectural guidance for the development of microservices using Spring Boot.
+  * Participate in ensuring high code quality to standards.
+  * Participate in optimizing and improving the performance of microservices.
+  * Participate in ensuring high availability and fault tolerance.
+  * Participate in managing conflicts and deadlocks in operations.
+  * Participate in the implementation and automation of CI/CD processes.
+  * Participate in monitoring and debugging the system to identify and resolve issues.
+  * Participate in integration with third-party services and APIs
+
+**Career Growth & Opportunities:**
+
+  * Become part of a global leader in iGaming innovation.
+  * Access to professional development programs and industry events.
+  * Opportunity to work with top-tier experts in cutting-edge technology.
+  * Drive real impact in a fast-growing international market.
+  * Flexible career progression within a scalable and adaptable platform.
+
+**Working Conditions:**
+
+_— Vacation:_ 22 working days per year, plus official public holidays.
+
+_— Sick Leave:_
+
+*5 paid sick days annually (no certificate required).
+
+*Up to 10 additional days covered at 100% with a valid medical certificate.
+
+_— Equipment:_ Personal budget for necessary hardware and tools.
+
+_— Education:_ Annual learning & development budget to support your
+professional growth.
+
+_— Health & Wellness: _Access to a personal limit within our benefit cafeteria
+system for health-related expenses.
+
+Join our passionate and talented team and be at the forefront of transforming
+the iGaming industry with groundbreaking live tech solutions. If you’re a
+visionary professional eager to shape the future of iGaming, Atlaslive invites
+you to apply and drive our continued success in this dynamic market.
+
+**Atlaslive — The Tech Behind the Game.**
+
+***** All submitted resumes undergo a thorough review. If we do not contact
+you within 5 business days after your application, it means that we are unable
+to proceed with your candidacy at this time. However, we appreciate your
+interest in our company and will keep your contact details on file for future
+opportunities.

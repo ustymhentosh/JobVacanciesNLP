@@ -1,0 +1,97 @@
+Middle QA Automation Engineer (Java) for Sport Frontend team
+GR8 Tech is a leading B2B provider of iGaming solutions that empowers
+operators to grow, lead, and win.
+
+We deliver high-impact, full-cycle tech solutions designed to scale. From
+seamless integration and expert consulting to long-term operational support,
+our platform powers millions of active players and drives real business
+growth. It’s more than just a product — it’s the iGaming Platform for
+Champions, built for those who play to lead.
+
+We know the game and how to take it to the next level. With 1000+ talented
+professionals on board, we don’t just build tech — we build success stories
+for iGaming operators all over the world.
+
+Our ambition drives us, our people make it real. Join us and be part of
+building champion-level success!
+
+We’re looking for a highly motivated and self-driven QA Engineer with 3+ years
+of experience who is passionate about delivering high-quality products through
+both manual and automated testing. You’ll play a key role in ensuring the
+reliability, performance, and overall quality of our software solutions — from
+initial development through to production.
+This role is ideal for someone who thrives on independence, takes ownership of
+their work, and enjoys problem-solving, continuous learning, and uncovering
+issues others might miss.
+
+What You’ll Be Driving:
+Designing, developing, and maintaining automated test scripts for web, API,
+and backend systems;
+Performing thorough manual testing across multiple platforms and
+environments;
+Collaborating closely with developers, product managers, and other QA
+engineers to ensure seamless integration and quality delivery;
+Analyzing requirements, identifying edge cases, and creating detailed test
+plans, test cases, and reports;
+Troubleshooting complex issues, reproducing defects, and verifying bug
+fixes;
+Continuously researching and adopting new tools and frameworks to improve
+testing efficiency and coverage;
+Ensuring adherence to quality standards and contributing to process
+improvement initiatives;
+Driving testing independently with minimal supervision, from planning
+through execution.
+
+What Makes You a GR8 Fit:
+Proven experience as a QA Engineer with both manual and automation testing
+skills;
+Strong understanding of QA methodologies, tools, and processes;
+Hands-on experience with one or more automation frameworks (e.g., Selenium,
+Playwright, Cypress, Postman/Newman, JUnit, Pytest, etc.);
+Solid knowledge of API testing, CI/CD pipelines, and version control systems
+(e.g., Git);
+Analytical mindset with excellent troubleshooting and debugging abilities;
+Self-learner who can independently find solutions and stay up to date with
+QA best practices;
+Strong communication skills and the ability to work collaboratively in a
+cross-functional environment;
+Passion for testing, attention to detail, and a relentless drive for
+quality;
+Ukrainian or Russian will be a plus;
+Intermediate level of English.
+
+Why You’ll Love Working Here:
+
+Benefits Cafeteria
+An annual fixed budget that you can use based on your needs and lifestyle. You
+decide how to allocate it:
+
+Sports — gym, yoga, or any activity to keep you active;
+Medical — insurance and wellness services;
+Mental health— therapy or coaching support;
+Home office — ergonomic furniture, gadgets, and tools;
+Languages — courses to improve or learn new skills.
+
+Work-life
+Parental support with paid maternity/paternity leave and monthly childcare
+allowance;
+20+ vacation days, unlimited sick leave, and emergency time off;
+Remote-first setup with full tech support and coworking compensation;
+Regular team events — online, offline, and offsite;
+Learning culture with internal courses, career development programs, and
+real growth opportunities.
+
+Our Culture & Core Values
+GR8 Tech culture is how we win. Behind every bold idea and breakthrough is a
+foundation of trust, ownership, and a growth mindset. We move fast, stay
+curious, and always keep it real, with open feedback, room to experiment, and
+a team that’s got your back.
+
+FUELLED BY TRUST: we’re open, honest, and have each other’s backs;
+OWN YOUR GAME: we take initiative and own what we do;
+ACCELER8: we move fast, focus smart, and keep it simple;
+CHALLENGE ACCEPTED: we grow through challenges and stay curious;
+BULLETPROOF: we’re resilient, ready, and always have a plan.
+
+To keep things efficient, please apply only for roles that closely match
+your experience.

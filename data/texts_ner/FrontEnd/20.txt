@@ -1,0 +1,50 @@
+Full-Stack Developer (JS+Python)
+**What makes you a great fit:**
+
+  * 3+ years of experience in developing web applications using **Angular, React, or Vue**
+  * 2+ years of backend development experience, preferably with **Python**
+  * Experience working with **cloud environments** like AWS (advantage) or Google Cloud
+  * Knowledge of modern databases
+  * Experience working on large-scale projects with multiple customers
+  * Understanding of CI/CD processes for automation
+  * Ability to develop large-scale, high-performance web applications in the cloud
+  * Degree in Computer Science, Software Engineering, or equivalent experience
+  * At least an **upper-intermediate** level of **English**
+
+**Why work with us?**
+
+  * People-oriented management without bureaucracy
+  * The friendly climate inside the company is confirmed by the frequent comeback of previous employees
+  * Flexible working schedule
+  * 29 paid time off (18 working days per year, plus 11 days — all national holidays)
+  * 10 sick leave days
+  * Full financial and legal support for private entrepreneurs
+  * Free English classes with native speakers or with Ukrainian teachers (for your choice)
+  * Dedicated HR
+
+**Your day-to-day in this position:**
+
+  * Design, develop, and maintain end-to-end features in a high-scale, high-performance SaaS-based multitenant cloud environment
+  * Take part in architectural and technical decision-making processes for both backend and frontend components
+  * Collaborate closely with Product, UX, DevOps, and QA teams to deliver high-quality, scalable, and maintainable software solutions
+  * Optimize application performance and ensure high availability and responsiveness across the system
+  * Contribute to a culture of innovation, continuous improvement, and engineering excellence
+
+**What is your new project?**
+
+  * Domain: Email Security
+  * Location: Israel
+  * Company size: 51-200 employees
+  * Founded in: 2009
+
+**Our next steps:**
+
+✅ Intro call with a Recruiter — ✅ Client intro interview — ✅ Live-coding
+interview — ✅ Managerial interview — ✅ HR client interview — ✅ Background
+check — ✅ Offer
+
+**Who We Are:**  
+[Website](https://jobs.mwdn.com/careers/): more about us and vacancies  
+[Instagram](https://www.instagram.com/mwdn/): follow MWDN’s life  
+[Facebook](https://www.facebook.com/mwdn.ukraine): follow our FB  
+Feel free to contact us without any hesitation!

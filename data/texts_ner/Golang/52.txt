@@ -1,0 +1,55 @@
+Senior AI-first FullStack Engineer (Svelte, Golang, Claude Code)
+We are seeking a **Senior Svelte Front-end Developer** with experience in
+**Golang** (so that they are full-stack). It is essential that the person is
+highly product-driven, self-motivated, speaks **excellent English** , and
+enjoys using coding AI tools like **Claude Code**.
+
+**Our stack:**
+
+  * Frontend: SvelteKit, turbo monorepo, Vercel
+  * Backend: Golang monorepo
+  * AI: Claude Code (mandatory), other agentic coding tools
+
+**What you’ll actually do:**
+
+  * Own features end-to-end: from specs to deployment to fixing bugs
+  * Use Claude Code to generate SvelteKit frontend and Golang backend code
+  * Review AI output for quality and architectural fit
+  * Fix bugs to learn our codebase, then rapidly build new features
+  * Make quick decisions on what to build vs buy vs generate with AI
+  * Talk to customers when they report issues and ship fixes the same day
+
+**You must have:**
+
+  * Ownership mentality with a strive for elegantly simple, high-quality solutions
+  * Strive for max quality — you test your own work thoroughly since we have no QA team, everything you ship MUST work
+  * Product mindset — you care about WHY we’re building something
+  * Proven experience using Claude Code or similar agentic AI (Cursor, Windsurf) 
+  * Strong SvelteKit and Golang experience — you’ll review AI’s code in these, and you must understand how it works
+  * Broad architectural knowledge of building modern full-stack applications
+  * Excellent spoken English and a good internet connection for daily video calls
+
+**You are a great fit if you:**
+
+  * Get frustrated when development takes weeks instead of days
+  * You think in features and architecture, and not single lines of code
+  * Can spot subtle bugs in AI-generated code quickly
+  * You ship fast, but always verify it actually works
+  * Have shipped real products that customers actually use
+  * Think “how can AI build this?” as your first instinct
+
+**‼️ Red flags (don’t apply if):**
+
+  * You’ve never used Claude Code or similar AI coding tools
+  * Your English is intermediate
+  * You need detailed specs before starting
+  * You see AI as a threat rather than leverage
+
+**When you apply for this role, please answer the following questions:**
+
+  1. Do you have commercial experience using Claude Code? Do you have it listed on your CV?
+  2. How much commercial experience do you have with Svelte?
+  3. How much commercial experience do you have with Golang?
+  4. What is your current level of proficiency in English?
+  5. Please share your monthly salary expectations (gross amount in USD).
+  6. Where are you based?

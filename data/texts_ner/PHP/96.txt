@@ -1,0 +1,69 @@
+E-commerce Developer
+We are looking for a skilled **E-commerce Developer** to join our team. This
+is a **full-time** role where you will work on the continuous development and
+integration of our platform with leading e-commerce systems.
+
+**About the project**
+
+Our platform enables online stores to launch **Loyalty, Referral, and
+Affiliate Marketing programs**. It integrates with a wide range of modern
+e-commerce platforms and multiple third-party services.
+
+The system is **large-scale and high-load**. The candidate will be responsible
+for implementing new features, maintaining existing integrations, and ensuring
+stability and performance of the platform.
+
+**About the Company**
+
+GroupBWT is a consulting firm specializing in web data extraction, large-scale
+scraping, and the development of custom data platforms. With over 16 years of
+experience, we are trusted by some of the most demanding clients globally. Our
+focus: building tailored solutions for businesses that can’t settle for off-
+the-shelf software.
+
+**Requirements**
+
+— **4+ years of experience in web and e-commerce development**  
+— Strong knowledge of **PHP (Laravel)** and composer  
+— Experience with **Shopify, WooCommerce, Magento, BigCommerce** , including
+development for their respective marketplaces  
+— Familiarity with **Shopify Liquid** , **GraphQL** , and REST APIs  
+— Solid skills in **JavaScript** , **TypeScript** , **React** , and **Vue.js**  
+— Good understanding of **HTML5** , **CSS3** , and modern front-end practices  
+— Experience with **MySQL**  
+— Proficiency with **GIT** workflows  
+— Hands-on experience in **performance and speed optimization** for web
+applications  
+— English level: **Upper-Intermediate or higher** (able to communicate with
+clients)
+
+**Will be a plus**
+
+— Experience with **adaptive / responsive** and **cross-platform** design  
+— Experience with **other e-commerce platforms** beyond the major ones  
+— Hands-on experience in **custom web applications** development
+
+**Responsibilities**
+
+— **Develop, extend, and maintain integrations** between our platform and
+major e-commerce systems (Shopify, WooCommerce, Magento, BigCommerce)  
+— Build and maintain **custom apps, connectors, and APIs** used by
+
+— Work closely with product and backend teams to **implement new features**
+and **enhance existing functionality**  
+— Troubleshoot and resolve **integration issues** across different platforms  
+— Contribute to **architecture decisions** , **code quality** , and **process
+improvements**
+
+****
+
+**What We Offer:**
+
+  * **Cooperation with a company trusted by renowned clients —** work in a company with extensive experience, a diverse portfolio of cases, and a client base that includes well-known and respected brands
+  * **Opportunities for professional and financial growth** \- we offer a clear path for development in a leading niche market, helping you grow both professionally and financially
+  * **Collaboration with technical experts** — You’ll work alongside highly skilled technical specialists who will provide the necessary support to achieve your goals 
+  * **Corporate learning and professional development** — access to internal training programs, workshops, and mentorship, as well as financial support for external courses, certifications, and professional growth.
+  * **English Speaking Club —** we invest in our team’s growth through regular sessions with a native speaker to enhance conversational and professional English skills
+  * **Corporate sports benefits —** exclusive discounts for employees and their families at one of the largest gym networks in Ukraine, along with special offers from our wellness and fitness partners.
+  * **21 paid vacation calendar days, 15 paid sick leaves and additional days off** — enjoy a well-balanced work-life schedule with paid vacation, sick leave, and extra days off when needed.
+  * **Support for the Armed Forces of Ukraine** — the company contributes to donations and initiatives supporting the Ukrainian Armed Forces.

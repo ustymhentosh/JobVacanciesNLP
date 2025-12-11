@@ -1,0 +1,64 @@
+Senior .NET Engineer
+We are looking for a talented, professional and hard-working individual to
+serve as a Backend software developer to join the development team. Our
+environment is fast-paced, challenging, and exciting along with respect for
+work-life balance. You’ll work with a team of passionate, engaged individuals.
+
+Our client is the first global aggregator of official information in real-
+time. The system tracks and collects all content issued by relevant
+organizations and companies, as soon as the content is disclosed online by the
+official sources. The content is normalized and categorized to highly relevant
+tags and codes and is then distributed and seamlessly integrated with third-
+party systems in the media industry, in financial platforms and more.
+
+####
+
+#### __Must have:__
+
+* 4+ years of professional experience in backend development
+* .NET Core & .NET Framework and C# programming language
+* Familiarity with AWS services such as S3, EC2 and SQS
+* Microsoft SQL databases, MongoDB
+* Excellent interpersonal skills, especially in listening and questioning
+* Proactive attitude
+* Upper-Intermediate English and better
+
+####
+
+#### __Good to have:__
+
+* VB. NET
+* Web development and/or knowledge in HTML, XPath, CSS selectors
+* ElasticSearch, Redis, NCache
+* AWS Cloud
+* GNU/Linux OS
+* Experience in geographically distributed environments
+
+####
+
+#### __Responsibilities:__
+
+* Write clean, scalable and testable code using .NET programming language C#
+* Revise, update, refactor and debug code
+* Improve existing software
+* Remain up to date with the terminology, concepts and best practices for coding desktop apps and services
+
+####
+
+#### __We offer:__
+
+* Competitive salary with the regular review 
+* Medical Insurance after 3 months probation period (can be used in Ukraine) 
+* Vacation (up to 20 working days) 
+* Paid sick leaves (10 working days) 
+* National Holidays as paid time off (11 days) 
+* Online English courses 
+* Accountant assistance and legal support 
+* Flexible working schedule, remote, office-based or hybrid format 
+* Fully-equipped perfect office space located in the city center (ready for work in blackouts) 
+* Direct cooperation with the customer 
+* Dynamic environment with low level of bureaucracy and great team spirit 
+* Challenging projects in diverse business domains and a variety of tech stacks 
+* Communication with Top/Senior level specialists to strengthen your hard skills 
+* Online/offline teambuildings 
+* Volunteering culture development and support

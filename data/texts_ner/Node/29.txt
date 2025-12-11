@@ -1,0 +1,101 @@
+Senior Backend Engineer (NestJS / TypeScript, AWS)
+We’re looking for a **Senior Backend Engineer** to lead the development of our
+internal tools and backoffice systems.
+
+> In this role, you’ll architect and build services that power critical
+> internal workflows — support dashboards, admin tools, data integrations, and
+> operational automation. You’ll work primarily with **NestJS (TypeScript)** ,
+> deploying to **AWS** , and collaborate across Engineering, Product,
+> Operations, and Data teams to deliver reliable and scalable systems that
+> keep the business running smoothly.
+
+**Location:** Remote
+
+**Type:** Full-time Contract  
+  
+
+> **What you will do:**
+
+— Architect and implement scalable backend services and APIs using **NestJS**
+and
+
+**TypeScript**
+
+— Lead the development of internal tools that support business teams (e.g.,
+Support,
+
+Compliance, Ops)
+
+— Build and maintain event-driven systems and services using AWS tools such as
+**SNS** ,
+
+**SQS** , or similar
+
+— Integrate backend systems with external services and internal data sources
+
+— Drive engineering best practices around testing, observability, and
+maintainability
+
+— Guide and mentor junior engineers through code reviews and technical
+discussions
+
+— Collaborate closely with cross-functional stakeholders to understand
+internal needs and
+
+translate them into technical solutions  
+  
+
+> **What we’re looking for:**
+
+— **5+ years of backend engineering experience** , including production work
+with **TypeScript**
+
+and **NestJS** (or similar Node.js frameworks)
+
+— Strong experience designing and implementing **event-driven architectures**
+using tools
+
+like **SNS** , **SQS** , or **Kafka**
+
+— Deep understanding of service architecture, **API design** , and relational
+databases
+
+(especially **PostgreSQL**)
+
+— Hands-on experience deploying services in **AWS** (e.g., ECS/Fargate,
+Lambda, RDS)
+
+— A track record of building tools or systems that improve internal efficiency
+and visibility
+
+— **Excellent communication skills** and comfort working across teams to
+gather
+
+requirements and deliver thoughtful solutions
+
+— A strong sense of ownership and the ability to drive projects from concept
+to completion
+
+> **Will be a plus:**
+
+— Experience building custom admin panels or leveraging internal tooling
+frameworks like
+
+Retool or Superset
+
+— Background in supporting analytics, BI, or data operations
+
+— Familiarity with CI/CD pipelines and infrastructure as code (e.g.,
+Terraform, CDK)
+
+— Experience with logging, monitoring, and alerting systems (e.g., Datadog,
+Sentry)
+
+> **You’ll play a key role in enabling our teams to operate efficiently and
+> scale confidently**. From internal APIs to custom dashboards and messaging
+> infrastructure, your work will directly support our mission by unlocking
+> better visibility, automation, and control across the company. In accordance
+> you will **have 20 days of vacation and sick lives, bureaucracy-free and
+> people oriented culture.**
+>
+> **We are waiting for your CV!**

@@ -1,0 +1,57 @@
+Senior Golang Developer
+### Job description
+
+Our client is an international product-based IT company specializing in the
+iGaming industry. Founded in 2014, the company quickly became a leader in the
+CIS region and is now expanding globally.
+
+We are currently looking for a **Senior Golang Developer.**
+
+**📋 Key responsibilities and your contribution:**
+
+  * Developing and maintaining microservices in Go
+  * Participating in architectural design (DDD, Event Sourcing, SOLID, Design Patterns)
+  * Integrating with external systems via API (REST, gRPC, WebSocket)
+  * Optimizing performance and resiliency (Pprof, tracing, etc.)
+  * Implementing and maintaining monitoring and logging systems (Prometheus, Grafana, ELK, etc.)
+  * Working with message brokers (Kafka, RabbitMQ)
+  * Writing tests: unit, integration, TDD
+  * Working with SQL and NoSQL databases, caches, and migrations
+  * Code review, participation in CI/CD processes (GitLab CI, linters)
+  * Participating in task planning, decomposition, and estimation (Agile, Scrum/Kanban)
+  * Mentoring junior developers and contributing to the hiring process
+
+**📚 Your qualifications:**
+
+  * Expertise in Go with 4+ years of hands-on experience
+  * Strong understanding of Go core concepts: data structures, interfaces, goroutines, channels, defer, context, memory model
+  * Experience with Go packages and frameworks: sync, runtime, profiling tools, race detector, Gin, Echo, Go-Kit, Beego
+  * Knowledge of software architecture and design: DDD, Event Sourcing, 12-Factor App, SOLID principles, design patterns, microservices
+  * Experience building fault-tolerant, observable systems
+  * Proficiency in testing and related tools: unit, integration, performance, security; go test, httptest, Testify
+  * Strong understanding of algorithms, data structures, and complexity
+  * Hands-on experience with monitoring and logging tools: Sentry, Prometheus, Grafana, Alertmanager, ELK stack, OpenTelemetry, Jaeger
+  * Experience working with databases and caching: PostgreSQL, MySQL, MongoDB, ACID, indexes, transactions, replication, migrations
+  * Good understanding of APIs and networking: HTTP/1.1, HTTP/2, REST, gRPC, WebSocket, OSI model, TCP/UDP
+  * Experience in API debugging and network troubleshooting
+
+**➕ Nice to have:**
+
+  * Experience with Highload systems
+  * Understanding of ISO 27001, GDPR, PCI/DSS compliance
+  * Contributions to Open Source or a public GitHub profile
+
+**Benefits:**
+
+⭐ **Days of recovery:** 20 paid vacation day per year and unlimited sick leave
+days.  
+⭐ **Health:** corporate medical insurance, a company psychologist and a
+Cafeteria of Benefits for personal wellness choices.  
+⭐ **Education:** a variety of foreign languages course for you to choose from.
+Also we are open for your development and you can choose different courses
+/training for improving your skills.  
+⭐**Compensation:** additional benefits that can be used according to company
+policy, e.g. paid business trips, international conference opportunities,
+lunch perks at our offices etc.  
+⭐**Work Environment:** work remotely or from one of our offices in Cyprus,
+Portugal, Poland, equipped with the equipment you’ll need for success.

@@ -1,0 +1,35 @@
+Lead Full-Stack Engineer — Fintech (B2B Banking)
+Spendbase is building the next-generation finance platform for modern
+companies. We optimize SaaS, cloud, and corporate card spend, and now we’re
+expanding our banking and card issuing team.
+
+We’re looking for a **Lead** **Full-Stack Engineer** with hands-on fintech
+experience (banking/cards/payments) to lead a small but growing engineering
+team. If you love building scalable systems in a highly regulated environment
+and want to shape how corporate payments work — this is for you 🚀
+
+**What you’ll do:**
+
+  * Lead and mentor a team of backend engineers (Node.js, Golang, Java).
+  * Design and develop high-load systems for card issuing, processing, and payments integration.
+  * Work closely with compliance/legal to implement PCI DSS, PSD2, AML/KYC requirements.
+  * Collaborate with Product, Ops, and Security teams to launch new banking features.
+  * Ensure code quality, architecture decisions, and delivery timelines.
+  * Drive technical discussions, propose improvements, and own part of the roadmap.
+
+**What we’re looking for:**
+
+  * 5+ years in backend development, with at least 1–2 years leading a team.
+  * Strong knowledge of Node.js and Golang 
+  * Solid experience in **fintech/banking/payments is a must** , ideally with card systems (issuing/processing, Visa/Mastercard integration).
+  * Understanding of microservices, event-driven architecture, cloud (AWS/GCP).
+  * Familiarity with security & compliance in financial systems.
+  * Upper-Intermediate English, ability to collaborate cross-functionally.
+
+**What we offer:**
+
+  * Good pay with regular check-ins about how you’re doing
+  * We pay for overtime — your time matters
+  * Paid vacation and sick leave
+  * Online medical consultations
+  * Chance to build core banking products from scratch in a fast-scaling fintech

@@ -1,0 +1,57 @@
+DevOps Engineer/System Administrator
+We are an Israeli company with a background in product development of 9+
+years. Due to staff expansion, we are looking for a DevOps Engineer/System
+Administrator to work together to build progressive products.Full-time,
+remote work.
+
+We value professionalism, proactivity, and taking responsibility for yourself,
+your decisions, and your results. We offer you inspiring challenges and
+complex tasks within an ambitious product without unnecessary bureaucracy.
+
+Candidate Expectations:
+
+1 year or more experience with Azure infrastructure. Including knowledge and experience administering the following services: Azure Active Directory, Application Services & Slots, Event Grid, MS SQL database, Service Bus, Monitor, Azure Storage, Deployment tools, Backup service, Networking, Security;
+Experience with Azure DevOps for 1 year or more;
+Experience and hands-on experience with Azure DevOps Pipelines for Windows and UNIX VM and Azure Application Service applications;
+Experience administering Windows & Unix servers to run .NET Framework, .NET Core, Node.js applications;
+IIS administration;
+Understanding of cloud technology principles. Scaling, microservices, monolithic applications, continuous availability;
+Knowledge and experience with Git and any project management system;
+Fundamentals of SQL, JavaScript, XML, JSON and principles of HTTP, TCP, IP, DNS.
+Experience in MS SQL Server administration. Scaling, indexes, access control;
+Experience with Docker and Kubernetes from 1 year;
+Knowledge and experience in Penetration Testing of WEB-sites, WEB information protection, load testing, DDoS protection systems/services.
+
+What to do:
+
+Continuously optimize and improve CI/CD processes to improve performance and scalability;
+Develop, configure and maintain infrastructure on the Azure platform;
+Create and configure DevOps Pipelines to deploy applications to various Azure operating systems and services;
+Administer Windows & Unix servers to ensure applications run on .NET Framework, .NET Core and Node.js;
+Managing and scaling MS SQL Server to ensure database performance and availability;
+Working with application containerization using Docker and Kubernetes;
+Conducting security and load testing to ensure reliability and security of applications and infrastructure.
+
+Job Requirements:
+
+Remote work in a friendly and comfortable team of professional developers WITHOUT the oppression of marketers;
+On-time salary starting from $4,500;
+2 weeks paid holiday a year;
+Paid sick days;
+Paid time off on major Slavic holidays;
+Opportunity to attend professional courses at company’s expense;
+Working week: Sunday-Thursday, 10 a.m. to 7 p.m. Israel time.
+
+We would love to give you all the details about the position! Send your CV
+now and we will contact you!
+
+!!! IMPORTANT TO KNOW !!!
+
+We have a multinational development team, which was formed more than 9 years
+ago. Our team includes people living in different CIS countries, so the
+language of communication is russian. But the company and all our employees
+are strongly opposed to Russia’s invasion of Ukraine. The company provides
+humanitarian aid to Ukraine and helps our employees living there.
+
+We believe in the victory of Ukraine! Glory to Ukraine! Glory to ZSU! Glory
+to the Ukrainian nation!

@@ -1,0 +1,56 @@
+Full Stack Developer (React + Go)
+We’re collaborating with a European digital health platform that empowers
+healthcare and nutrition professionals to deliver personalized, high-quality
+care to their clients.
+
+The product simplifies supplement management, enhances transparency, and
+builds trust between practitioners and patients.  
+The platform already supports thousands of users across Europe and continues
+to grow rapidly.
+
+You’ll join a small, experienced, and collaborative team consisting of a **CTO
+(backend)** , **Frontend Engineer** , **UI/UX Designer** , and **business and
+sales professionals**.
+
+### **Your Responsibilities**
+
+  * Develop and maintain core product features used daily by healthcare professionals.
+  * Participate in backend modernization (Go + NestJS).
+  * Implement business logic and e-commerce integrations using Shopify’s headless API.
+  * Collaborate with the CTO and design team to build scalable, maintainable architecture.
+  * Use AI-assisted tools to accelerate and enhance your development workflow.
+
+### **Tech Stack**
+
+  * **Frontend:** React, TypeScript
+  * **Backend:** Go (required), NestJS (TypeScript)
+  * **Database:** PostgreSQL
+  * **Integrations:** Shopify (headless API)
+  * **Infrastructure:** AWS, Docker, GitHub Actions, Auth0, Sentry
+  * **AI tools:** Cursor, Notion
+
+### **Requirements**
+
+  * 2–5 years of experience in software development (full stack or strong frontend/backend focus).
+  * Solid experience with **Go** is mandatory.
+  * Proficiency in **TypeScript** , **React** , and understanding of REST API architecture.
+  * Strong focus on clean code, testing, and maintainability.
+  * Proactive, detail-oriented, and communicative team player.
+  * English — Intermediate+ (for daily communication).
+
+### **We Offer**
+
+  * Long-term cooperation with a European product company.
+  * Remote-friendly setup and flexible schedule.
+  * A product that makes a real impact on people’s health and wellbeing.
+  * Collaborative team, startup mindset, and freedom to influence the product.
+  * Growth opportunities as the project scales.
+
+**About Brocoders**  
+We’re an IT outsourcing company with over 11 years on the market, building web
+and mobile solutions for clients in Europe and the US.  
+At Brocoders, we value professionalism, transparency, and a human approach —
+both in our teams and in our partnerships.
+
+We appreciate every application and will get in touch with candidates whose
+experience best matches the role.

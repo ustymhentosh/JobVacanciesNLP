@@ -1,0 +1,54 @@
+Project Manager (Android Team)
+**What you’ll be doing:**
+
+  * Managing projects throughout the delivery lifecycle;
+  * Risk, issue and change management;
+  * Collaborating with design and delivery teams to produce coherent project outcomes.
+  * Communicating with a range of stakeholders;
+  * Management of the developers team;
+  * Resource planning;
+  * People management.
+
+**Skills Required:**
+
+  * Experience with Atlassian suite tools (Jira, Confluence);
+  * Experience in launching mobile products;
+  * Experience with analytics tools like FireBase Analytics, Google Analytics, etc;
+  * Experience with RESTful API;
+  * Strong understanding of SDLC;
+  * Understanding of CI/CD pipeline for Mobile development;
+  * Strong understanding of Android ecosystem;
+  * Experience in R&D projects for the Android platform will be an advantage.
+
+**Will be an advantage:**
+
+  * Minimum of 3-4 years of experience in mobile application management;
+  * Understanding of Android best practices for application development;
+  * Strong understanding of agile development methodologies;
+  * Flexible and proactive/self-motivated working style with strong personal ownership of problem resolution;
+  * Ability to multitask and work independently with minimal supervision;
+  * Excellent verbal and written communication skills;
+  * Ability to work in a fast-paced environment.
+
+**What we offer:**
+
+  * Working in a stable company with more than 13-years history in the media market;
+  * The opportunity to participate in the creation of a service of the future;
+  * Free English lessons;
+  * Table tennis lessons;
+  * Corporate psychologist;
+  * Discounts from partner brands for company employees.
+
+We don’t just want to be an employer — we want to be your employer of choice.  
+
+We’d appreciate it if you could take a moment to fill out a short survey about
+what matters most to you. It will help us better understand candidates’
+expectations and create an even more comfortable environment at MEGOGO. Here’s
+the link: [bit.ly/43YaxBH](http://bit.ly/43YaxBH)  
+
+By responding to the vacancy and sending your CV to the Company (LLC
+“MEGOGO”), registered and operating in accordance with the laws of Ukraine,
+registration number 38347009, address: Ukraine, 01011, Kyiv, Rybalska Street,
+building 22 (hereinafter “the Company”), you confirm and agree that the
+Company processes your personal data presented in your CV in accordance with
+the Law of Ukraine “On Personal Data Protection” and GDPR.

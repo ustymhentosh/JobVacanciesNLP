@@ -1,0 +1,58 @@
+Senior Kotlin Multiplatform Engineer (#4163)
+About the Client:
+
+Our customer is a leading provider of onboard retail technology and mobile
+solutions for the travel and retail industries. The company designs and builds
+digital products that transform how airlines, trains, and retailers manage in-
+motion sales, inventory, and customer experiences.
+
+We are forming a dedicated Kotlin Multiplatform (KMP) team to build a new
+cross-platform mobile application from the ground up — one codebase, two
+native experiences: iOS and Android. You’ll join a small, highly skilled Scrum
+team that owns the full delivery pipeline — from architecture and development
+to testing, optimization, and release.
+Responsibilities:
+
+End-to-end development of high-performance mobile applications for both iOS and Android using Kotlin Multiplatform (KMP).
+Design and implement shared business logic and platform-specific layers to ensure native user experience and optimal performance on each platform.
+Architect the application using Clean Architecture / MVVM / MVI, ensuring modularity, scalability, and maintainability.
+Experience with device-to-device communication protocols, especially Bluetooth/BLE.
+Develop rich, responsive UI layers using Jetpack Compose (Android) and SwiftUI (iOS) where necessary, leveraging Compose Multiplatform when appropriate.
+Integrate with backend APIs (REST / GraphQL), manage data synchronization, caching, and offline capabilities.
+Optimize app performance, memory usage, and responsiveness for both platforms.
+Implement comprehensive testing: unit, integration, and UI tests across platforms.
+Configure and maintain automated build, test, and release pipelines (CI/CD) for Android and iOS using tools like GitHub Actions, Bitrise, or Fastlane.
+Participate in code reviews, technical discussions, and agile ceremonies, ensuring continuous improvement and delivery excellence.
+Collaborate closely with backend engineers, designers, and QA to deliver polished, high-quality user experiences.
+Must-Have Skills:
+
+6+ years of experience in mobile application development.
+At least 2–3 years of proven hands-on experience delivering production apps using Kotlin Multiplatform (KMP) for both Android and iOS.
+Deep expertise in Kotlin, including coroutines, flows, multiplatform libraries, and shared data management.
+Experience with Bluetooth/BLE.
+Strong understanding of platform interoperability — bridging shared Kotlin code with Swift / SwiftUI on iOS and Jetpack Compose on Android.
+Experience developing and optimizing native UI components for each platform.
+Solid understanding of mobile performance optimization (memory management, rendering, startup time, network performance).
+Experience integrating RESTful APIs or GraphQL using Ktor Client or Retrofit with offline caching (SQLDelight / Room).
+Experience with CI/CD for mobile (Bitrise, GitHub Actions, Fastlane, Jenkins) and mobile release processes (Google Play, App Store).
+Strong Git workflow and experience with agile development environments (Scrum / Kanban).
+Fluent in English, both spoken and written.
+Clear communication skills: being able to explain complex technical issues to non-technical stakeholders.
+Experience in offline-first architectures, synchronization logic, and push notifications.
+Would be a plus:
+
+Experience of mesh networking protocols and device-to-device communication.
+
+We offer:*
+
+Flexible working format — remote, office-based or flexible
+A competitive salary and good compensation package
+Personalized career growth
+Professional development tools (mentorship program, tech talks and trainings, centers of excellence, and more)
+Active tech communities with regular knowledge sharing
+Education reimbursement
+Memorable anniversary presents
+Corporate events and team buildings
+Other location-specific benefits
+
+*not applicable for freelancers

@@ -1,0 +1,38 @@
+Middle Full Stack .NET Developer +React
+**REQUIREMENTS:**
+
+  * 2+ years of working experience in the related field;
+  * Understanding of OOP and OOD, SOLID principles;
+  * Deep knowledge of C#, .NET Core, Entity Framework Core;
+  * Knowledge of SQL (T-SQL), Dapper;
+  * Experience with TypeScript or JavaScript;
+  * Experience working with React and Redux Toolkit;
+  * Knowledge of HTML, CSS;
+  * Experience with GIT, Azure DevOps;
+  * Experience with Unit tests.
+
+**WILL BE PLUS:**
+
+  * Knowledge of architecture patterns, such as CQRS;
+  * Experience with SQL Stored Procedures;
+  * Experience with Integration tests;
+  * Experience with REST web services development;
+  * Availability of GitHub profile, portfolio or any other proof of experience;
+  * Experience with SCRUM.
+
+**RESPONSIBILITIES:**
+
+  * Design and develop applications based on requirements specification;
+  * Enhancing the software for continuous improvement; 
+  * Ensure proper testing and consistent stable releases are met;
+  * Ensure timely delivery of solutions according to specification and design given;
+  * Develop new web-based applications, modules and components;
+  * Code review;
+  * Enhance and develop existing applications.
+
+**WE OFFER:**
+
+  * Competitive salary;
+  * Flexible working schedule;
+  * 21 days of annual leave;
+  * 5 sick-paid days.

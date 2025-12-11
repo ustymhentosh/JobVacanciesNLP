@@ -1,0 +1,54 @@
+Junior Strong iOS Developer
+🧪 **About Tetalab**  
+We create digital products that solve real-world problems — from mobile apps
+to web platforms and IoT solutions.  
+Our team works at the intersection of technology and creativity, so we value
+those who don’t just write code but build meaningful, user-friendly
+experiences.  
+  
+💡 **Who We’re Looking For**  
+We’re looking for a **Junior Strong iOS Developer** who’s passionate about
+Swift, eager to dive into new technologies, and ready to grow alongside
+experienced mentors.  
+  
+You’ll take part in building real products, influence key decisions, and see
+your features come alive on users’ screens.  
+  
+⚙️ **Requirements**  
+— Degree in Computer Science, Software Engineering, or a related field  
+— 1+ year of commercial experience  
+— English level: Intermediate or higher (spoken & written)  
+— Strong knowledge of Swift  
+— Experience with MVVM, UIKit, SwiftUI  
+— Experience working with Firebase (Auth, Realtime DB, Cloud Storage)  
+— Understanding of OOP and architectural patterns  
+— Independence, curiosity, and desire to grow  
+  
+🔍 **Responsibilities**  
+— Develop and implement new features in iOS apps using Swift  
+— Collaborate with designers and developers to create smooth and intuitive
+user interfaces  
+— Work with Firebase and REST APIs  
+— Participate in code reviews and maintain code quality  
+— Stay up to date with iOS development trends and best practices  
+  
+🌟 **Nice to Have**  
+— Experience with BLE (Bluetooth Low Energy)  
+— Integration with Apple Watch  
+— Experience with Google Maps SDK
+
+🌱 **What We Offer**  
+— Remote-first or hybrid work format  
+— Flexible schedule 🕐  
+— 20 paid vacation days, sick leave, and day-offs  
+— Accounting support  
+— Transparent communication, friendly culture & no micromanagement  
+— Growth opportunities together with the team 🚀  
+— Membership in IT Cluster Lviv
+
+🔬 **Recruitment Process**  
+Screening call with HR (30 min) → Technical interview (up to 1 hour) → Final
+talk with the CEO → Offer 🎉  
+  
+Want to join Tetalab 🧪? Send us your CV — we’re waiting for you to bring your
+Swift energy into our lab!

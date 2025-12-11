@@ -1,0 +1,52 @@
+Middle DevOps
+TechTellent is looking for a DevOps Engineer to join our team.
+
+What you will do:
+
+Create and maintain CI/CD pipelines for several development teams
+
+Automate infrastructure creation and maintenance with Terraform, Ansible, and self-written tools
+
+Maintain and improve several Kubernetes clusters in the cloud
+
+Create, improve and maintain Helm charts for multiple services
+
+Continuously develop observability and monitoring tooling
+
+Participate in engineering discussions and future products development
+
+Write documentation for other engineers
+
+Requirements:
+
+3+ years of experience working with Linux-based systems
+
+Strong experience with CI/CD tools (Gitlab is preferable)
+
+Working with monorepo and monorepo manager Rush.js or similar.
+
+Work with pnpm and Nexus storage.
+
+Strong experience Kubernetes (provisioning and supporting clusters in the cloud), writing and maintaining Helm charts 2+ years
+
+Hands-on experience with AWS
+
+Experience with scripting languages (Bash, Python)
+
+Maintaining reverse-proxy VPS (nginx)
+
+Experience with DB (PostgreSQL, MS SQL), no-SQL DB (Redis, Elasticsearch, Cassandra)
+
+Monitoring: Prometheus/VictoriaMetrics + Grafana, EFK stack
+
+Setting up Vault mechanism (particular tool to be selected) for managing secrets
+
+Experience with IAC and configuration management tools (Terraform, Ansible)
+
+Knowledge of GitOps approach (Flux)
+
+Good knowledge of containerization and virtualization
+
+Practical experience in with Docker, kaniko
+
+Advanced level of English

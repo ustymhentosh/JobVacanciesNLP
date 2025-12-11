@@ -1,0 +1,58 @@
+Senior Full-Stack (Node/React)
+**Mealco** is transforming how restaurants manage their online presence
+through our comprehensive SaaS platform. We help restaurants streamline
+operations across major delivery platforms like UberEats and DoorDash while
+providing powerful analytics and AI-driven insights to optimize their
+business.
+
+We believe in high-impact, AI-driven development where small, focused teams
+deliver exceptional results through smart engineering, automation, and deep
+product ownership.
+
+**Who You Are:** We’re looking for a senior-level engineer who thrives in a
+lean, high-performance environment where every team member makes a significant
+impact. You’re self-directed, take ownership of complex problems, and use AI
+tools to work smarter and faster.
+
+In our small team, there’s no room for passengers—we need A-players who can
+handle ambiguity, drive projects to completion, and contribute meaningfully to
+our mission of empowering restaurants.
+
+**Key Requirements:**
+
+  * **Full-stack expertise** — Strong experience with TypeScript, Node.js, and React
+  * **Backend & infrastructure** — Deep knowledge of PostgreSQL, GraphQL, API design, and serverless systems
+  * **Integration experience** — Comfortable working with third-party APIs and partner platforms
+  * **Autonomous execution** — You translate business needs into technical solutions independently
+  * **System thinking** — You understand how your work impacts restaurant operations and business outcomes
+  * **AI-native approach** — You leverage AI tools like Cursor, and custom automation to build, debug, and optimize efficiently
+  * **Advanced English** — Clear communication in our remote-first environment
+
+**What You’ll Do:** You’ll own significant features and technical initiatives
+that directly impact how restaurants operate online. This includes building
+integrations with delivery platforms, developing operational tools for menu
+and inventory management, and creating AI-powered analytics that help
+restaurants make better business decisions.
+
+  * Build and maintain integrations with major delivery platforms
+  * Develop operational tools for restaurants (menu management, inventory, orders)
+  * Create AI-powered analytics and reporting features
+  * Lead technical initiatives and system improvements
+  * Use AI to automate development workflows and increase team efficiency
+  * Collaborate with our lean team and external partners
+
+**Why Join Mealco?**
+
+  * **Direct impact** — Your work immediately affects real restaurants and their success
+  * **Lean team environment** — Every contribution matters; no bureaucracy or politics
+  * **AI-first culture** — We build workflows around AI tools to maximize output and minimize friction
+  * **Extreme ownership** — Lead entire features and technical tracks with full autonomy
+  * **Real-world problem solving** — Help restaurants thrive in an increasingly digital marketplace
+
+**You’re a Fit If You:**
+
+  * Thrive in small, high-performance teams where everyone must contribute significantly
+  * Enjoy solving complex operational challenges for real businesses
+  * Want to build technology that directly impacts restaurant success
+  * Take ownership of problems without waiting for direction
+  * Believe AI tools are essential for modern development

@@ -1,0 +1,46 @@
+Senior Mobile Engineer
+**iOS-first, Android-optional**
+
+### **How You Will Make an Impact**
+
+ThredUp is transforming the way people shop—and think—about secondhand
+fashion. Our iOS app is the primary way millions of customers discover and
+purchase secondhand clothing, making it one of the most critical drivers of
+our business. As a Senior iOS Engineer, you’ll play a pivotal role in
+strengthening and evolving this app—stabilizing core systems, modernizing
+architecture, and shaping new features that deliver seamless and delightful
+experiences for our users.
+
+Reporting to the Engineering Manager of Core Ecomm, you’ll join a small team
+working cross-functionally that owns the end-to-end shopping journey—from
+first-time sign-up through checkout and post-purchase. Your work will directly
+impact growth and retention, improving reliability while building the
+foundation for new product innovations.
+
+We are looking for an impact-driven and collaborative engineer who is
+passionate about delivering stable, performant, customer-focused apps. This
+candidate should possess the technical excellence and pragmatism to tackle
+challenging problems, balancing strategic architectural investment with the
+need to ship fast.
+
+### **In This Role You’ll Get To**
+
+  * Own and improve core areas of ThredUp’s iOS application, ensuring performance, stability, and scalability across critical user flows (onboarding, browsing, checkout, promotions, and post-order).
+  * Leverage crash reporting and performance monitoring tools (e.g., Instruments, Crashlytics, Sentry) to proactively identify and resolve issues.
+  * Collaborate closely with product managers, designers, and engineers across disciplines to deliver impactful features that improve customer trust, conversion, and retention.
+  * Contribute to architectural modernization of the app, introducing patterns and best practices that accelerate development velocity.
+  * Explore strategies to reduce redundant development and improve velocity across mobile platforms (e.g., Kotlin Multiplatform), while maintaining a high-quality native iOS experience.  
+  
+
+### **What We’re Looking For**
+
+  * 8+ years of professional experience developing native iOS applications at scale.
+  * Deep expertise with Swift and Objective-C, with strong knowledge of UIKit and working familiarity with SwiftUI, with experience in modern iOS architectural patterns.
+  * Strong experience with concurrency, memory management, performance tuning, and monitoring & observability.
+  * Proficiency in working with REST and GraphQL APIs, networking, and data integration.
+  * Experience working with continuous integration and release pipelines for iOS applications.
+  * A product mindset: ability to connect technical decisions to user experience and business outcomes.
+  * Curiosity and excitement about leveraging AI to accelerate mobile development (e.g., code generation, testing, performance optimization).
+  * Familiarity with Android (Kotlin/Java) and an interest in collaborating with Android engineers to ensure platform parity is a plus.
+  * Exposure to Kotlin Multiplatform or other shared-code strategies, along with experience in consumer-facing e-commerce, search, or other high-scale user engagement applications is a plus.
+  * Experience mentoring peers or leading feature-level initiatives is a plus.

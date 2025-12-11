@@ -1,0 +1,47 @@
+Senior .NET Engineer (#4019)
+N-iX is looking for a **Senior .NET Engineer** for one of our clients.
+
+About the project: we are developing a cutting-edge web-based AI application
+tailored for manufacturing companies. The solution leverages modern
+architectural patterns and robust technologies to ensure scalability,
+maintainability, and high performance.  
+  
+
+**Responsibilities:**
+
+  * Design, develop, and maintain scalable backend services using .NET and C#.
+  * Implement clean, maintainable, and testable code following best practices and design principles.
+  * Build and expose secure APIs and integrate with external systems and services.
+  * Design and optimize data access layers using EF Core and SQL databases.
+  * Contribute to architecture decisions, ensuring performance, scalability, and reliability.
+  * Implement monitoring, logging, and alerting to maintain system health and observability.
+  * Collaborate with cross-functional teams to deliver features from concept to production.
+  * Participate in code reviews, mentoring, and continuous improvement of development processes.
+
+**Requirements:**
+
+  * 5+ years of professional experience with C# and .NET
+  * Strong understanding of software architecture principles — SOLID, DDD, Clean Architecture, and design patterns.
+  * Experience in building and securing RESTful APIs with ASP.NET Core (MVC/Minimal API, JWT/OIDC).
+  * Proficiency in relational databases, preferably PostgreSQL, with hands-on experience in EF Core and query optimization.
+  * Familiarity with event-driven architectures and messaging systems (e.g., Azure Service Bus, RabbitMQ, or Kafka).
+  * Experience with cloud-based development, Azure services, Docker, and CI/CD pipelines.
+  * Knowledge of testing practices (unit/integration testing, static analysis) and code quality standards.
+  * Understanding of security best practices (OWASP Top 10, secure coding, OAuth2).
+  * Exposure to observability tools like Serilog, OpenTelemetry, or Application Insights.
+  * Strong problem-solving skills, sense of ownership, and ability to work in a collaborative, cross-functional team.
+  * Upper-intermediate English and effective communication in distributed teams
+
+**We offer*:**
+
+  * Flexible working format — remote, office-based or flexible
+  * A competitive salary and good compensation package
+  * Personalized career growth
+  * Professional development tools (mentorship program, tech talks and trainings, centers of excellence, and more)
+  * Active tech communities with regular knowledge sharing
+  * Education reimbursement
+  * Memorable anniversary presents
+  * Corporate events and team buildings
+  * Other location-specific benefits
+
+*not applicable for freelancers

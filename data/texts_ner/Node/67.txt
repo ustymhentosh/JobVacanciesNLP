@@ -1,0 +1,57 @@
+Senior Fullstack Developer [Node.js + Angular]
+**We’re looking for a Senior Fullstack Developer (Node.js + Angular) to join
+our team for a project from the USA — a B2B SaaS platform that provides
+insights into work processes and productivity. The solution helps companies
+optimize workflows and support hybrid work through data-driven analytics.**
+
+**Requirements:  
+** — 6+ years of professional software development experience.  
+— Strong skills in JavaScript and TypeScript.  
+— 3+ years developing server-side applications with Node.js.  
+— 3+ years building front-end applications (experience with modern frameworks
+like Angular preferred).  
+— Solid understanding of software design, architecture, and best practices.  
+— Experience with databases (NoSQL such as MongoDB is a plus).  
+— Comfortable writing and maintaining automated tests (unit, integration, and
+E2E).  
+— Experience integrating front-end with back-end services via REST APIs.  
+— Collaborative mindset and ability to work effectively in cross-functional
+teams.  
+— Upper-intermediate or higher level of English.  
+  
+**Nice to have:**  
+— Background in microservices or distributed systems.  
+— Familiarity with UI libraries and real-time technologies.  
+— Exposure to cloud or containerized environments.
+
+**Responsibilities:**  
+— Develop and maintain full-stack applications with clean, reusable, and
+efficient code.  
+— Build front-end components and integrate them with back-end systems and
+APIs.  
+— Optimize performance, reliability, and scalability across the stack.  
+— Write and maintain automated tests to ensure code quality.  
+— Refactor and improve existing modules and workflows.  
+— Participate in code reviews, knowledge sharing, and team decision-making.  
+— Contribute to hiring and evaluation of new team members.
+
+**Interview stages:  
+** — HR interview (30 minutes).  
+— Technical interview (1 hour).  
+— Interview with the customer (1 hour).  
+— Job offer🎉🎉🎉
+
+**We offer:  
+** — Competitive salary.  
+— Challenging tasks and projects.  
+— Opportunities for professional development and growth.  
+— Flexible working hours.  
+— New hardware.  
+— Free English lessons.  
+— Table tennis and yoga classes.  
+— Availability of generators and Starlinks in the office.  
+— Small gym in the office.  
+— Adjustable height tables.  
+— Regular office fruit delivery and other benefits.
+
+**Let’s create value together!**

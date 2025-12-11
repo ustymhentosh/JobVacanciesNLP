@@ -1,0 +1,50 @@
+DevOps Engineer
+We are seeking a skilled and proactive DevOps Engineer to join our technology
+team. The ideal candidate will take ownership of the infrastructure, build and
+deploy pipelines, and operational reliability of our platforms. A key aspect
+of this role will be collaborating closely with our external hosting provider,
+who delivers Infrastructure as a Service (IaaS), to ensure secure, scalable,
+and resilient environments.
+Key Responsibilities:
+
+Infrastructure Management:
+Work with our hosting partner to design, implement, and maintain cloud-based
+infrastructure. Ensure optimal performance, scalability, and cost-efficiency
+across environments.
+
+Test Automation & CI/CD:
+Build and manage continuous integration and deployment pipelines. Automate
+build, test, and release processes to enable rapid and reliable software
+delivery.
+
+Monitoring & Reliability:
+Implement robust monitoring, alerting, and logging solutions to ensure high
+system availability. Perform root-cause analysis of production issues and
+drive improvements.
+
+Security & Compliance:
+Collaborate with the IaaS provider to apply security best practices, including
+access control, encryption, patch management, and compliance monitoring.
+
+Collaboration with Hosting Partner:
+Act as the technical liaison between internal development teams and the IaaS
+hosting company. Define service-level expectations, manage infrastructure
+changes, and coordinate incident response and performance optimization.
+
+Infrastructure as Code (IaC):
+Develop and maintain infrastructure through code using tools such as
+Terraform, Ansible, or similar. Ensure version-controlled, repeatable, and
+auditable configurations.
+
+System Optimization:
+Continuously evaluate and enhance system performance, scaling, and cost
+efficiency
+Requirements
+
+Proven experience as a DevOps Engineer, Site Reliability Engineer, or similar role.
+Hands-on experience with CI/CD tools (e.g., TeamCity, Octopus, GitHub Actions, GitLab CI or similar).
+Experience working with Windows-based environments, Cloud/Private-Cloud and containerization (Azure, VM, Docker, Kubernetes).
+Familiarity with monitoring and logging tools (e.g., Prometheus, Grafana, ELK, Datadog).
+Strong understanding of networking, security, and cloud fundamentals.
+Experience collaborating with external vendors or hosting providers (IaaS or managed services).
+Excellent communication and problem-solving skills.

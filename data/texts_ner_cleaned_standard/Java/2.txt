@@ -1,0 +1,94 @@
+Senior Java Engineer
+Dive into the pulse of cutting-edge solutions with Patrianna LTD! 🚀
+
+Are you ready to dive into the dynamic world of social gaming and be part of a
+rapidly expanding team? We’re on the lookout for a talented Senior Java
+Engineer to join our Patrianna LTD team on a full-time basis.
+
+🌟 What You Gain?
+
+Dynamic Environment: Step into the heart of a super fast-growing social gaming
+company, where innovation and creativity thrive.
+
+Global Impact: Be at the forefront of crafting a global social entertainment
+platform, with a primary focus on captivating the North American market.
+
+Limitless Growth: Take your career to new heights with opportunities for
+advancement and personal development. Join us in the exhilarating journey of
+continuous growth.
+
+Massive Reach: Contribute to the development of client web and mobile apps
+that engage with up to 150 million customers worldwide.Commitment to
+Excellence: We’re dedicated to delivering high-quality code, ensuring
+predictable behavior in production, seamless scaling, and automation every
+step of the way.
+
+We’re seeking a skilled Senior Java Engineer to join our backend team in
+Ukraine/EU and contribute to the development of new products and features. In
+this role, you will:
+
+Design and deliver clean, scalable, and testable code with minimal supervision
+Collaborate with backend, web, mobile, QA, and product teams to ensure smooth development processes
+Take ownership of specific services or functionalities
+
+If you’re passionate about building high-quality solutions and ready to make
+an impact, we’d love to have you on our team.
+Requirements:
+Must have:
+
+6+ years of production experience with Java and its ecosystem
+Solid Java knowledge and understanding of JVM internals
+Excellent knowledge of relational database principles (preferably PostgreSQL)
+Solid understanding of messaging concepts (preferably Kafka ecosystem)
+Good understanding of concurrency concepts and principles
+Exceptional troubleshooting skills
+Good understanding of relevant security best practices
+At least upper-intermediate proficiency in English
+Would be a plus:
+
+Expertise in multithreading and high-load systems
+Deep understanding of Kafka internals and principles
+Our Tech Stack
+
+Java 23 🔥
+Spring Boot 3.5.4 🔥
+Google Cloud Platform:
+
+Kubernetes
+Kafka
+AlloyDB for PostgreSQL
+Spanner
+
+Ebean ORM
+Flyway
+Redis
+Quartz
+Websockets
+Retool
+Test Containers
+Locust for perf testing
+Jenkins/ArgoCD
+ELK/Sentry/Grafana
+Jira/Confluence/Slack/Bitbucket
+We offer
+
+Modern tech stack
+Fresh, well-maintained codebase featuring high test coverage
+Minimal bureaucracy and fast approval processes
+Ability to work with highly skilled, passionate, and supportive teammates
+Chance to make a global impact by contributing to projects experiencing exponential user growth
+
+Benefits
+
+Full Remote Work : Enjoy the flexibility of working remotely from wherever
+you feel most productive.
+
+Generous Leave Policy: Take advantage of paid time off, encompassing both
+vacation and sick leave, to ensure you can recharge and recover when needed.
+Take your time on bank holidays as well.
+
+Company Events: Engage in our vibrant company culture through a variety of
+informal events designed to foster camaraderie and teamwork.
+
+Continuously Development: Get an opportunity to join a fast-growing
+business where the sky’s the limit.

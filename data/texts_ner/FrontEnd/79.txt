@@ -1,0 +1,43 @@
+Middle/Senior Full Stack (Angular&PHP) Engineer (Project Work)
+CodeIT is a **service product development company** that knows how to turn
+business ideas into successful IT products.
+
+Right now, we invite an experienced **Full Stack (Angular &****PHP) Engineer**
+to join a **long-term project** — a cutting-edge **workplace management
+platform** that helps organizations:
+
+  * boost productivity
+  * streamline operations
+  * foster collaboration across all workspaces
+
+**Project duration:** long-term full-time engagement.
+
+**YOUR SKILLS AND EXPERIENCE**
+
+  * 5+ years relevant experience in a software engineering role
+  * Experience building large-scale consumer web/mobile applications and distributed systems
+  * Knowledge of TypeScript (Angular preferred) to create interactive user interfaces
+  * Knowledge of PHP + Symfony framework. But will be a plus to know Laravel or at least desire to learn Laravel
+  * Up to date with the latest frontend libraries, frameworks, and practices
+  * Passionate about writing clean code
+  * You must be a quick learner and be flexible about what technologies you use
+  * Good understanding of MVC and SOLID principles
+  * Experience with multi-tenancy would be a plus
+  * Experience in implementing web services with a REST and Web API architecture
+  * You must be comfortable with rapid development in a Scrum / Agile environment and iterating based on market and customer feedback
+  * Knowledge of Unit testing
+  * English level: upper-intermediate and higher
+  * Excellent collaborator and communicator within your team and the wider company
+  * BSc in a related field such as Computer Science, Computer Engineering, or other software/design discipline
+
+**YOUR RESPONSIBILITIES**
+
+  * Build highly performant, scalable PHP based SaaS applications
+  * Craft beautiful frontend applications using Angular 17 and Typescript
+  * Develop solutions to deliver new innovative products for web and mobile platforms using the project RESTful APIs running in AWS
+  * Work closely with the wider engineering team (full-stack, backend), designers, and product
+  * Be included in decisions and challenge our technical direction
+  * Design and develop code with performance, usability, maintainability, and security in mind
+  * Resolve technical issues through debugging, research, and investigation
+  * Write and maintain automated tests to ensure we deliver quality work for our customers
+  * Create and maintain internal technical documentation for deliverables

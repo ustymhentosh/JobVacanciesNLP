@@ -1,0 +1,92 @@
+Senior Java Developer
+We are looking for a SeniorJava Developer to help build a next-
+generation Web3 and AI-powered fintech platform that bridges traditional
+finance and decentralized technologies. The platform serves as a borderless,
+crypto-native neobank, combining banking, a crypto wallet, a crypto card, and
+a secure messenger into one seamless, regulation-compliant ecosystem. It
+empowers Millennials, Gen Z, and Gen Alpha to bank, transact, earn, and
+connect effortlessly in a self-sovereign and future-ready digital environment.
+REQUIREMENTS
+
+We are looking for a developer who has:
+
+More than 5 years of relevant experience in the IT industry.
+Java Expertise and strong track record of working with:
+Java core, OOP/OOD knowledge, design patterns;
+Spring framework, IOC, templates;
+ORM, Hibernate (Spring Data JPA);
+SQL knowledge, any MySQL or PostgreSQL is a plus;
+Elastic Search, LogStash, Kibana (ELK);
+Microservice architecture patterns knowledge;
+REST.
+
+Java:
+
+Perfect knowledge of Java Core 8+;
+Good understanding of multhreding;
+Design patterns in action.
+Spring Framework:
+
+Spring Boot;
+Spring Security;
+Spring MVC;
+Spring Data JPA;
+other Spring components.
+Database:
+
+Experience with relational databases (MySQL, PostgreSQL, Oracle, etc);
+Advanced knowledge of SQL querying;
+Experience with microservice architecture.
+Other:
+
+Good knowledge of Maven technology;
+Good knowledge of Docker.
+Base understanding of Kubernetes, ElasticSearch, etc.
+Communication: can speak and write in English at an upper-intermediate or higher level, and efficiently communicate ideas, design, and document artifacts concisely.
+Cultural fit: manifests our corporate values — trust, transparency, social responsibility, and a sense of beauty.
+
+Will be a plus:
+
+Experience with the fintech domain;
+Experience with AWS S3, RabbitMQ;
+Familiarity with CI/CD pipelines;
+Experience with TDD & Feature Teams;
+Knowledge of Python.
+RESPONSIBILITIES
+
+As a Java Developer, you will :
+
+Develop High-Quality Code: Contribute to the implementation of the solution code with a strong focus on detail and adherence to Java development best practices.
+Write Reusable and Testable Code: Ensure code is functional, practical, and well-documented.
+Collaborate with Team Members and Clients: Work closely with other team members and directly communicate with the client’s management to implement designs.
+Proactively Address Technical Issues: Identify and resolve technical issues and risks that could impact the project’s schedule and the application environment’s integrity.
+Participate in Code Reviews: Engage in regular code reviews to maintain high code quality and share knowledge with the team.
+Stay Updated on Emerging Technologies: Keep up with industry trends and advancements to continuously improve the platform.
+
+ABOUT PROJECT
+High-growth Web3 & AI-powered EU-based fintech startup. It’s a borderless,
+crypto-native neobank designed for Millennials, Gen Z, and Gen Alpha,
+combining banking, a crypto wallet, a crypto card, and a secure messenger into
+a user-friendly, self-sovereign, and regulation-compliant ecosystem bridging
+the gap between traditional finance and WEB3. At this project, we’re
+redefining banking by building a next-generation, all-in-one financial
+platform where users can bank, transact, earn, and connect seamlessly.
+Project Team: 5 people
+
+WHAT WILL YOU GET WITH KINDGEEK
+We want you to thrive and feel supported
+
+Professional growth: at Kindgeek, we want our employees to grow and achieve ambitious professional goals. We support professional development with training and certification refunds and provide regular feedback and technical reviews.
+Benefits package: Kindgeek offers all team members competitive compensation and a benefits package that includes 18 working days of fully paid vacation, 10 compensated by 50% sick leaves without a note from the doctor, and an opportunity to take study leaves. Depending on how long you stay in the company, you can receive different health insurance packages from our partners.
+Personal growth: as a part of our team, you will have access to corporate English courses with a 50% reimbursement, take advantage of our offline library and access a large selection of corporate training and classes. Also, every employee can request any internal or external training or certification if it applies to his or her work responsibilities.
+Geek community: at Kindgeek, we value community — even in the full-scale invasion times, we take every opportunity to stick together. Our geeks organise various online and offline clubs — from stretching and skiing to English. We volunteer together and support each other.
+Flexibility: Kindgeek offers a hybrid working model. Team members can work remotely or from the office or Kindgeek London Hub — an innovative cafe-style co-working in Lviv (it’s pet-friendly!).
+
+We encourage you to apply
+At Kindgeek, we encourage everyone to apply — regardless of nationality, race,
+gender, marital status, disability, sexual identity, or religion. We are
+growing into an inclusive, equal-opportunity company where only
+professionalism, competence, and ideas matter. We are committed to supporting
+mobilised employees and veterans joining Kindgeek and facilitating their
+career development. We aim to bring equal opportunities to all team members
+and candidates — especially those underrepresented in technological companies.

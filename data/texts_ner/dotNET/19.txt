@@ -1,0 +1,88 @@
+Middle .NET Developer (779)
+**Ciklum** is looking for a **Middle .NET Developer** to join our team full-
+time in Ukraine
+
+We are a custom product engineering company that supports both multinational
+organizations and scaling startups to solve their most complex business
+challenges. With a global team of over 4,000 highly skilled developers,
+consultants, analysts and product owners, we engineer technology that
+redefines industries and shapes the way people live.
+
+**About the role:**
+
+As a Middle .NET Developer, become a part of a cross-functional development
+team working for our Client, who is a producer of automated test equipment and
+virtual instrumentation software.
+
+## Responsibilities:
+
+  * Develop parts of features or modules with acceptable quality with moderate supervision
+  * Efficiently use development toolset, follow code standards and team agreed rules
+  * Create tests to cover their own code and cover most cases for business logic
+  * Investigate and fix application bugs
+
+## Requirements:
+
+We know that sometimes, you can’t tick every box. We would still love to hear
+from you if you think you’re a good fit!
+
+Software Design:
+
+  * Use of the best practices and patterns when designing and implementing application components
+  * Describing own code within technical documents and simple diagrams
+
+Software Development:
+
+  * Knowledge and experience in C# and .NET. Use of main supporting third-party libraries
+  * Prior record of web applications development with using and configuring framework features
+  * Practical experience in writing complex queries to relational or NoSQL databases
+
+Quality Assurance:
+
+  * Background in writing unit and integration tests
+  * Proposing code improvements
+
+Software Deployment:
+
+  * Following the CI/CD process established on the project
+  * Using project infrastructure for development and troubleshooting
+
+## Desirable:
+
+  * Experience with Angular
+  * Participation in code reviews
+  * Knowledge and experience in application security concepts
+  * Practical experience with any message broker systems
+  * Practical experience in the use and configuration of ORM framework features
+
+## What’s in it for you?
+
+  * Strong community: Work alongside top professionals in a friendly, open-door environment
+  * Growth focus: Take on large-scale projects with a global impact and expand your expertise
+  * Tailored learning: Boost your skills with internal events (meetups, conferences, workshops), Udemy access, language courses, and company-paid certifications
+  * Endless opportunities: Explore diverse domains through internal mobility, finding the best fit to gain hands-on experience with cutting-edge technologies
+  * Flexibility: Enjoy radical flexibility — work remotely or from an office, your choice
+  * Care: We’ve got you covered with company-paid medical insurance, mental health support, and financial & legal consultations
+
+**About us:**
+
+At Ciklum, we are always exploring innovations, empowering each other to
+achieve more, and engineering solutions that matter. With us, you’ll work with
+cutting-edge technologies, contribute to impactful projects, and be part of a
+One Team culture that values collaboration and progress.  
+  
+As one of Ukraine’s largest IT companies and a top employer recognized by
+Forbes, we’ve spent over 20 years delivering meaningful tech solutions. We
+proudly support diverse talent and military veterans, recognizing their unique
+skills and perspectives they bring to shaping the future.  
+  
+Want to learn more about us? Follow us on **[
+_Instagram_](https://www.instagram.com/ciklum/),
+[_Facebook_](https://www.facebook.com/Ciklum/),
+[_LinkedIn_](https://www.linkedin.com/company/ciklum/)**.
+
+**Explore, empower, engineer with Ciklum!**
+
+Interested already?  
+We would love to get to know you! Submit your application. Can’t wait to see
+you at Ciklum.

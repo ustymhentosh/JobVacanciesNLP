@@ -1,0 +1,72 @@
+MacOs System Administrator
+About Bitmedia Labs:
+Bitmedia Labs — an international product IT company, has been in the
+industry since 2014, effectively functioning on a worldwide scale with a crew
+of 100+ ambitious and highly skilled professionals, creating successful
+projects in domains such as online advertising systems for the crypto space,
+blockchain games and NFT products.
+
+Requirements:
+2+ years experience as a System Administrator;
+Hands-on experience with centralized management systems for MacOS (Mac
+Server);
+Good knowledge of personal operational systems — Mac OS;
+Knowledge of protocols LDAP, SAML, OAuth;
+Strong experience with MacOS in a corporate environment;
+Ability to manage G Suite accounts and other corporate software;
+Familiarity with remote hardware setup and maintenance;
+Experience liaising with vendors and providing remote technical support;
+Ability to maintain accurate documentation and ensure compliance with legal
+requirements;
+English — Intermediate level or higher;
+Experience in developing remote work security policies and training
+programs.
+
+Nice to have:
+Experience with SQL/NoSQL databases (accounts management);
+Experience with Docker, GitHub, and Ansible (user experience);
+Experience with password manager tools, like Passwarden;
+Experience with monitoring/alerting systems such as Prometheus, Grafana;
+Experience in network administration and ensuring stable remote connections;
+Familiarity with incident response and cybersecurity best practices.
+
+Responsibilities:
+Oversee and manage remote access to corporate G Suite accounts and other
+team service accounts;
+Facilitate the setup, maintenance, and remote troubleshooting of company-
+managed laptops and hardware, with an emphasis on MacOS devices;
+Administer and monitor access to company databases, software, and other
+resources, implementing security protocols as needed;
+Ensure stable and secure remote connections, with expertise in VPNs and
+firewalls;
+Serve as the primary contact with vendors and provide remote technical
+support to employees;
+Comply with legal IT practices, maintain accurate documentation, and offer
+virtual training to employees;
+Collaborate remotely with various departments to understand their IT needs
+and provide tailored solutions;
+Develop and implement remote work security policies and train employees in
+best practices;
+Proactively monitor system health and security alerts, coordinating incident
+response efforts;
+Maintain records of access permissions, software subscriptions, and
+associated costs;
+Active cooperation with the DevOps team.
+
+Hiring process:
+Intro call with a Recruiter — Test Task — Interview with the Hiring team
+Сollection of recommendations — Offer.
+
+We offer:
+Flexible work environment — you can work remotely anywhere or at our
+comfortable Hub in Kyiv;
+The 8-hours working day with a flexible schedule;
+Competitive salary based on your experience;
+Regular performance review and annual salary review;
+Paid sick leaves, vacation and holidays;
+Professional development tools (reimbursement of educational courses or
+workshops, conferences around the world);
+Ambitious team with a transparent communication and friendly atmosphere, no
+micromanagement;
+Apple equipment;
+Memorable gifts for holidays.

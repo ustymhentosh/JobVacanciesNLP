@@ -1,0 +1,29 @@
+Architect/Senior Full Stack .NET developer — Tietoevry Create (m/f/d)
+Tietoevry Create Ukraine welcomes talented professionals to join our team as
+an Architect/Senior Full Stack .NET developer remotely in Ukraine/Poland.
+
+Areas of Responsibility
+
+Design Architecture of solution’s new features
+Developing a new mobile and web application
+Head development team
+Building quality code adhering to industry standard coding practices
+Designing and developing highly modular object-oriented code with extensibility
+Collaborating in a fast-paced, continual learning environment, which requires the ability to quickly adapt and learn new technologies so as to solve business issues
+
+Qualifications
+
+Deep knowledge of C#,.NET Core frameworks, ASP.NET Entity Framework, Microservices Architecture
+Profound knowledge of HTML, CSS, JavaScript, JQuery, Embedded JavaScript, React/React Native
+Knowledge and understanding of Design Patterns and SOLID
+Experience in SQL
+Experience in Azure services, DevOps
+Storage in GIT
+Strong analytical and problem-solving skills
+Ability to communicate effectively and collaborate in a team
+Upper-Intermediate level of English
+
+We are inviting a talented professional to join our team as a Architect/Senior
+Full Stack .NET Developer. The Leader of Agro sector is looking for a
+Architect to extend the current team to continuously develop mobile
+applications for farmers as a global strategy to digitalize works in fields.

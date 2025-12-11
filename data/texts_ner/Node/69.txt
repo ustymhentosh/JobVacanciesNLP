@@ -1,0 +1,56 @@
+Backend Engineer (MezePay)
+**About us:**  
+At **MezePay** , we’re revolutionizing how restaurants in Greece operate. From
+seamless QR-based menus and ordering systems to modern, cloud-first POS
+solutions, we empower hospitality businesses with tools built for the digital
+era. We’re a fast-growing startup on a mission to bring simplicity, speed, and
+efficiency to the traditional restaurant experience- one taverna at a time.
+
+**About the role:**  
+We’re looking for a skilled **Backend Engineer** to join our founding
+engineering team and help build the backbone of MezePay’s restaurant platform.
+You’ll design and develop secure, scalable backend systems and APIs that power
+our customer-facing apps and restaurant operations — from ordering and
+payments to analytics and delivery integrations.
+
+**Main responsibilities:**  
+You will be a key contributor in designing and building the core of our
+product:
+
+  * Design, implement, and maintain RESTful APIs and backend services (Orders, Menus, Payments, etc.).
+  * Architect secure, high-performing, and scalable systems following modern best practices.
+  * Integrate with third-party systems such as payment gateways and delivery platforms.
+  * Write clean, testable, and well-documented code.
+  * Participate in code reviews, technical design sessions, and sprint planning.
+  * Ensure uptime, reliability, and smooth operation of all backend services.
+
+**Your experience:**  
+We would expect you to have:
+
+  * 3+ years of experience in backend development, ideally in startups or fast-paced environments.
+  * Strong proficiency with **Node.js** and **TypeScript** (or similar modern backend languages).
+  * Experience with **PostgreSQL** , **Redis** , or other SQL/NoSQL databases.
+  * Familiarity with containerization (**Docker**) and CI/CD pipelines.
+  * A passion for clean, maintainable, and scalable code.
+  * **Bonus:** Experience with POS systems, payments, or hospitality tech.
+
+**Nice to have:**
+
+  * GraphQL or gRPC API development.
+  * Experience with Kafka or other event-driven architectures.
+  * Exposure to Firebase, Supabase, or other Backend-as-a-Service platforms.
+  * Familiarity with DevOps or Infrastructure-as-Code tools like Terraform.
+
+**What’s in it for you?**
+
+  * Work directly with the customer, in a culture of ownership and impact.
+  * Be part of the **founding engineering team** , shaping the product from the ground up.
+  * Work on technology that directly impacts small businesses across Greece.
+  * Opportunity to grow into **Tech Lead** or **Engineering Manager** roles as we scale.
+  * 20 fully paid vacation days.
+  * 15 fully paid sick leaves.
+  * Paid public holidays.
+  * Compensation for **health insurance** and **sports club membership** (after trial period).
+  * Hybrid and remote work flexibility.
+
+**Join the meze-lution!** ✨

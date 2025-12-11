@@ -1,0 +1,22 @@
+Shopify Developer (with POS Experience)
+We’re looking for an experienced Shopify Developer (with POS Experience) to
+join our team and help us bridge the gap between online and offline sales.
+
+**Requirements**
+
+  * Proven experience with Shopify or Shopify Plus development.
+  * Strong knowledge of JavaScript (ES6+), React, TypeScript.
+  * Experience working with Shopify APIs (GraphQL/REST) and Webhooks.
+  * Understanding of POS systems or omnichannel retail operations.
+  * Familiarity with backend tools (Node.js, Express, or similar).
+  * Good command of English (written & spoken).
+  * Self-motivated, detail-oriented, and able to work independently.
+  * Experience with Shopify POS SDK / POS UI Extensions.
+  * Familiarity with Shopify Polaris design system.
+  * Previous work integrating hardware (e.g. payment terminals, receipt printers).
+  * Knowledge of ERP or inventory management integrations.
+  * Experience with Celigo, Flows, or webhook-based inventory sync across multiple channels.
+  * Multibrands POS management (deployment, monitoring).
+  * React Native — for mobile POS apps.
+  * Understanding of Shopify Functions and Checkout Extensibility for retail flows.
+  * Familiarity with Shopify App Bridge, Session Tokens, and App Proxy flows.

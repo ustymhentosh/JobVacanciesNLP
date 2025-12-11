@@ -1,0 +1,119 @@
+Full-Stack Developer (React / PHP / Symfony)
+**About[SimplyBook.me](http://SimplyBook.me)**  
+[SimplyBook.me](http://SimplyBook.me) is a global SaaS booking and appointment
+system helping millions of businesses stay organized and connect with their
+clients.  
+We’re part of **team.blue** , a European digital-enablement group with 3,000+
+professionals across 17 countries.
+
+Our product is growing fast, and we’re expanding our development team.
+
+### **What you’ll do**
+
+  * Build new features for the [SimplyBook.me](http://SimplyBook.me) platform  
+  
+
+  * Improve performance and scalability of the existing codebase  
+  
+
+  * Ensure seamless integration between front-end and back-end components  
+  
+
+  * Debug, troubleshoot, and optimize system performance  
+  
+
+  * Write clean, reusable, well-tested code  
+  
+
+  * Collaborate with developers, QA, and product teams  
+  
+
+  * Participate in code reviews and share knowledge  
+  
+
+### **Tech stack**
+
+  * **React, PHP, Symfony, SQL****  
+  
+**
+
+  * JavaScript (ES6+), jQuery, Git  
+  
+
+  * Bonus: Testing frameworks, DevOps basics, or AI/automation interest  
+  
+
+### **Requirements**
+
+  * 2+ years of commercial JavaScript development experience  
+  
+
+  * Strong knowledge of **React, PHP, SQL, Symfony (or similar)****  
+  
+**
+
+  * Solid understanding of**OOP, design patterns, and best practices****  
+  
+**
+
+  * English — intermediate or higher  
+  
+
+### **Nice to have**
+
+  * Experience with SaaS products  
+  
+
+  * Familiarity with testing or CI/CD  
+  
+
+  * Interest in cloud deployment or AI-related projects  
+  
+
+### **Who you are**
+
+  * A problem-solver who loves writing clean, efficient code  
+  
+
+  * Independent, proactive, and collaborative  
+  
+
+  * Someone who thrives in a flat, idea-driven environment  
+  
+
+### **We offer**
+
+  * Hybrid or fully remote setup  
+  
+
+  * Competitive salary based on experience  
+  
+
+  * 24 paid vacation days + flexible leave policies  
+  
+
+  * Friendly, supportive international team  
+  
+
+  * Real product ownership and visible impact  
+  
+
+### **Right to work**
+
+We’d love to hire **local talent in Cyprus 🇨🇾** — people who already have the
+legal right to work here.  
+However, we’re open to **remote candidates from other locations** as well.
+
+### **How to apply**
+
+Please apply **preferably through our official careers page:**  
+🔗 [simplybook.teamtailor.com](https://simplybook.teamtailor.com/)
+
+Alternatively, you can also send your CV directly to:  
+📧 [**[email protected]**  
+  
+](/cdn-cgi/l/email-protection#6a02182a1903071a06130805050144070f)**Privacy
+Notice**  
+**Learn more about how we protect your personal information in
+our[SimplyBook.me](http://SimplyBook.me) Privacy Policy here:
+[simplybook.me/en/legal/jobs_privac](https://simplybook.me/en/legal/jobs_privac)**

@@ -1,0 +1,58 @@
+Middle Software Developer
+Our client is one of the biggest players in the population health management
+sector and leading it several years in a row by supporting healthcare
+organizations to achieve financial success in value-based care(recognized as
+Best in KLAS in Value-Based Care Managed Services). The company delivers
+enterprise-level transformational healthcare outcomes.
+
+The project is a DaaS (Database as a Service) solution for operating with
+population health data. The main focus is 1) building an API around the
+database to allow other components of the ecosystem to reach the data; 2)
+building analytics over the data. Every month we process about 1 petabyte of
+data to identify new data, normalize it, store it and build analytics
+dashboards based on it.
+
+**Responsibilities**
+
+  * Participate in the entire application lifecycle, focusing on coding and debugging;
+  * Write clean code to develop functional services;
+  * Troubleshoot and debug applications;
+  * Address technical and design requirements;
+  * Build reusable code and libraries for future use;
+  * Collaborate with architect, developers, and system administrators to deliver new features;
+  * Follow emerging technologies;
+  * Build the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources using SQL and AWS technology;
+  * Develop and maintain optimal data pipeline architecture — including development related to data acquisition and monitoring, data quality, integration, normalization, and analytics development.
+
+**Qualification and skill set**
+
+  * At least 4 years’ experience in Java-based programming;
+  * Significant coding skills in Java;
+  * Exceptional problem-solving and analytical abilities;
+  * Knowledge of modern frameworks;
+  * Experience with the CI/CD (Jenkins, GitHub Actions, Terraform) and Docker containerization;
+  * Experience with the AWS cloud (EC2, EMR, RDS, Redshift, Apache Airflow for orchestration);
+  * Advanced SQL knowledge and experience working with relational SQL databases and NOSQL databases;
+  * Experience with developing microservices and understanding the peculiarities of microservices architecture;
+  * Ability to work with other developers and assist junior team members;
+  * Good English written and verbal communication.
+
+**Would be a plus**
+
+  * AWS Certification (DevOps, BigData, Data Analyst);
+  * Experience with enterprise-class RDBMS (SQL-Server), Cloud Data warehouse (Snowflake/Redshift/BigQuery);
+  * Experience with big data tools: Hadoop, Spark, Kafka etc;
+  * Python programing language;
+  * Work in Agile Development environment;
+  * Degree in computer science, coding, or a related field.
+
+**Why join VITech?**
+
+  * Work in an agile team with a high-quality code environment and use modern technologies to deliver software that provides value;
+  * Interesting projects with a focus on the Healthcare industry, where communication with clients is a part of daily work;
+  * Professional growth opportunities with our corporate development programs;
+  * People-oriented corporate culture where your individuality is appreciated.
+
+We thoughtfully create and adapt benefits to improve your life. Unlimited free
+treats and coffee are not the main things we can offer. We strive to simplify
+your life and we take care of your mental and physical health.

@@ -1,0 +1,38 @@
+Full-stack Developer (React+MUI, ASP.NET)
+We are seeking Full-stack Developers (React, ASP.NET) to join a full-time,
+long-term project.
+
+Preferred Qualifications:
+
+Education related to software development
+Solid experience in software development can replace formal education
+Minimum 3 years of experience in software development
+Experience with front-end technologies such as React+MUI
+Experience with back-end technologies such as Microsoft’s ASP.NET and Azure services
+Experience with C# and TypeScript programming languages
+Experience with SQL Server
+Fluency in English, written and spoken.
+
+Critical skills — absolute must-have: (React+MUI, ASP.NET Core), minimum
+Upper-Intermediate English.
+
+Important : The client would like the developer to come to Norway for 2-3
+months, potentially less, for onboarding purposes. Therefore, ideally, you
+must be able to travel to Norway for onboarding purposes. The client will
+cover the expenses related to this.
+
+Start date : asap.
+
+About the projec t: The client is working on developing a product for the
+maritime industry that will analyze and help plan energy-saving measures to
+reduce fuel use and greenhouse gas emissions and, accordingly, reduce the
+taxes that owners currently pay for their environmental footprint.
+
+When you apply for the role, please answer the following questions:
+
+1. How much commercial experience do you have with ASP.NET Core?
+2. How much commercial experience do you have with React.js?
+3. Do you have commercial experience with MUI?
+4. What is your current level of proficiency in English?
+5. Can you travel to Norway for 2-3 months onboarding?
+6. What are your monthly salary expectations?

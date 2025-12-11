@@ -1,0 +1,67 @@
+Golang Engineer (Solidgate — Fintech)
+Our Mission and Vision
+
+At Solidgate, our mission is clear: to empower outstanding entrepreneurs to
+build exceptional internet companies. We exist to fuel the builders — the ones
+shaping the digital economy — with the financial infrastructure they deserve.
+To achieve that, we’re on a bold path: to become the #1 payments orchestration
+platform in the world._
+About the Team and Role
+
+We’re looking for a proactive, business-minded Go Engineer to join the
+team building products that help our customers cut down on fraud-related
+risks. You’ll get to work on our brand newRepresentment
+product — saving our merchants
+hundreds of thousands of dollars.
+
+If you thrive in a high-performing team that moves fast, aims high, and values
+ownership above all, this is your stage. Our culture is demanding,
+transparent, and deeply collaborative. It’s not for everyone — but if you want
+to raise the bar every day alongside equally driven teammates, this is where
+you belong.
+
+Explore our technology stack ➡️here.
+
+What you’ll need to do
+
+Build the Dispute module: collect data from payment systems and make it clear for clients
+Launch the Representment module: create interfaces and APIs for merchants to upload evidence and push it to the Schemes
+Integrate with global payment giants: Stripe, Adyen, PayPal
+Roll out new products with Mastercard, Visa, and AMEX
+Develop the financial backbone: invoicing, billing, reconciliation at scale
+You’re a great fit if you have
+
+3+ years of backend development experience
+1.5+ years with Go
+Proficiency with PostgreSQL
+Proven track record with microservices
+Strong grasp of high-load system design
+Solid test coverage: unit, integration, functional, and e2e
+Proactive and results-driven mindset
+Initiative and strong decision-making skills
+Solid understanding of business processes
+Nice to have
+
+Background in fintech or the financial sector
+Knowledge of Apache Kafka or RabbitMQ
+Familiarity with AWS and modern CI/CD
+Why Solidgate?
+
+High-impact role. You’re not inheriting a perfect system — you’re building one.
+Great product. We’ve built a fintech powerhouse that scales fast. Solidgate isn’t just an orchestration player — it’s the financial infrastructure for modern Internet businesses. From subscriptions to chargeback management, fraud prevention, and indirect tax — we’ve got it covered. We hold financial licenses in key regions and are a direct Visa & Mastercard partner and sub-reseller (top 5 globally).
+Massive growth opportunity. Solidgate is scaling rapidly — this role will be a career-defining move.
+Huge scale. Every month, we process 700k prevention alerts, 150k fraud alerts, and 150k chargebacks.
+Top-tier tech team. Work alongside our driving force — a proven, results-driven engineering team that delivers. We’re also early adopters of cutting-edge fraud and chargeback prevention technologies from the Schemes.
+Modern engineering culture. TBDs, code reviews, solid testing practices, metrics, alerts, and fully automated CI/CD.
+
+_
+
+💌 The Extras: 30+ days off, unlimited sick leave, free office meals,
+health coverage, and Apple gear to keep you productive. Courses, conferences,
+sports and wellness benefits — all designed for ideas, focus, and fun.
+
+Tomorrow’s fintech needs your mindset. Come build it with us.
+
+🫂 Know top talent? We’re always on the lookout. Recommend
+someone for our role, and if they
+get hired, there’s a bonus waiting for you — simple as that.

@@ -1,0 +1,104 @@
+iOS Developer
+### ob description
+
+About **Fulcrum** : We’re a team of tech-savvy, creative & passionate IT
+professionals. We’ve created a vibrant and performance-driven culture for
+ourselves where everyone is free to think & act outside the box. There are
+literally no limits to what you can do here, as long as we WOW our clients and
+OVER deliver what we promise.  
+  
+  
+
+**About the role:  
+  
+** We are building an educational platform tailored for the Middle East
+market, with a strong focus on video-based learning. The platform supports
+both Arabic and English content with full RTL/LTR layout compatibility. Key
+features include offline encrypted video playback with HLS streaming, real-
+time gamification with leaderboards, a secure quiz system with server-side
+validation, and activation code-based subscriptions.
+
+You will be working on the native iOS application as part of a cross-
+functional team, bringing high-quality and scalable features to life for
+thousands of learners.  
+  
+
+**  
+Main responsibilities:  
+**
+
+—**** Develop and maintain the native iOS application using **Swift** and
+**SwiftUI**  
+— Implement **offline encrypted video playback** with support for HLS
+streaming  
+— Integrate **real-time gamification** features such as leaderboards and
+rewards  
+— Build a secure **assessment/quiz system** with server-side validation  
+— Ensure **multilingual support** with full **Right-to-Left (RTL)** and
+**Left-to-Right (LTR)** layout compatibility  
+— Follow modern architectural patterns like **MVVM** or **MVI** , and utilize
+tools such as **Combine** and **async/await**  
+— Collaborate closely with Android, web, and backend teams to deliver
+consistent functionality across platforms.  
+  
+  
+
+### Job requirements:
+
+—**** 3+ years of experience as iOS developer  
+—**** Strong proficiency in **Swift  
+** —**** Experience with **SwiftUI** and **Combine  
+** — Familiarity with **MVVM** or **MVI** architecture patterns  
+— Hands-on experience with **async/await** for asynchronous operations  
+— Proficiency in working with **RESTful APIs  
+** —**** Solid understanding of **multilingual architecture** with **RTL/LTR
+layout support  
+** —**** Experience integrating a **video player** (e.g., AVPlayer or third-
+party solutions)  
+— Expertise in building native iOS UI using modern frameworks  
+— **Upper-Intermediate English** or higher (B2+)  
+  
+  
+**Would be cool:**  
+  
+
+— Experience with **Core Data** , **encrypted local storage** (AES-256), or
+**Keychain  
+** —**** Familiarity with **iOS file system management** for offline video
+storage  
+— Prior experience working on an **educational platform** or e-learning app  
+— Understanding of **HLS encryption** or **FairPlay DRM** for secure video
+streaming  
+  
+  
+
+**What we offer** :  
+— Flexible schedule & opportunity to work remotely or workspace in Kyiv
+([kooperativ.cc](http://kooperativ.cc/));  
+— Friendly & open team who have fun creating cool projects together;  
+— Opportunity to boost your professional & personal growth;  
+— Regular team gathering activities;  
+— 20 business days of paid vacation + UA national holidays;  
+— Medical insurance full coverage;  
+— 10 + 5 days paid sick leave;  
+  
+  
+
+**How we operate** :  
+— We promise dramatic professional growth & interesting work  
+— Bring ideas that will change how Fulcrum operates, and you will receive our
+gratitude and rewards  
+— Your opinion matters. Fulcrum is not a typical ’bureaucratic company, and
+our employees are our core value  
+— Your compensation grows with your responsibility zone  
+— If something doesn’t go smoothly or can be simplified, just let us know —
+you are welcome to do so  
+— You have a say in everything we do, starting from the roadmap, creating
+requirements, sprint planning, etc.  
+— If you feel that everything above is about you, get in touch. We’re always
+glad to welcome stubborn, enthusiastic, and result-oriented buddies to our
+team  
+  
+**Are you interested in working with us?**  
+  
+**LET’S MOVE THE WORLD TOGETHER!**

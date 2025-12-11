@@ -1,0 +1,65 @@
+Senior iOS Developer
+Are you passionate about developing apps that truly impact people’s lives?
+
+Join us at Breeze as a **Senior iOS Developer** and help develop innovative
+features for our flagship mobile app, Breeze: Self-Discovery. In this role,
+you’ll participate in the development of the app and deliver a valuable, user-
+centric experience that drives user engagement and business growth.
+
+**Who We Are:**
+
+Our mission is to provide access to tools for deep self-discovery. Our
+product, [**Breeze: Self-Discovery**](https://apps.apple.com/us/app/breeze-
+start-self-discovery/id1450365119), empowers over 14 million users with:
+
+  * Self-discovery tests that help reveal your true essence.
+  * A personalized routine plan to help find daily happiness and foster useful habits.
+  * Gain clarity, foster gratitude, and find peace with daily journaling and self-reflection questions.
+
+Our dedication has earned us a user rating of 4.6. We’ve been featured as one
+of Apple’s “New Apps We Love”.
+
+**Why You’ll Love Working With Us:**
+
+  * Flexible Work Model: Work remotely, from our Warsaw office, or a blend of both — whatever suits you best.
+  * Generous Time Off: Enjoy 28 days of vacation, 12 personal days, and unlimited sick leave.
+  * Career Growth: We prioritize your career advancement with opportunities to enhance your skills and expand your impact.
+  * Psychological Support: We cover therapy or counseling sessions to support your well-being.
+  * Fitness Allowance: Stay active with financial support for sports-related activities.
+  * Language Courses: Improve your English skills with reimbursement for courses, tutors, books, and language apps.
+  * Supportive Team: Join a collaborative community of enthusiastic and ambitious professionals.
+
+**Your Role:**
+
+  * Design, build, and maintain high-quality iOS applications across the full development lifecycle: from planning and coding to testing, deployment, and support.
+  * Collaborate with cross-functional teams (product, design, backend, QA) to deliver seamless, user-centric mobile experiences.
+  * Write clean, scalable, and maintainable code using the latest Apple technologies and UI paradigms.
+  * Participate in code reviews, mentor team members, and uphold the best development practices.
+  * Introduce new features, support existing ones, and continuously improve app performance, accessibility, and security.
+  * Own architectural decisions, define technical direction, and uphold high coding standards.
+  * Estimate work accurately and deliver tasks on time.
+  * Stay updated with the latest trends in iOS development and integrate best practices into the development process.
+  * Demonstrate strong communication and problem-solving skills, with a solid grasp of Apple’s design and engineering principles.
+
+**About You:**
+
+  * 5+ years of experience in iOS development.
+  * Proficient in Swift 5/6; experience migrating to Swift 6 is a plus.
+  * Solid understanding of architectural patterns: MVVM / MVVM-C, Clean Architecture, Protocol-Oriented Programming (POP), Dependency Injection, and TDD.
+  * Hands-on experience with SwiftUI, UIKit, Auto Layout, Frame Layouts (e.g., PinLayout), and animations.
+  * Strong grasp of asynchronous programming using GCD, Operations, Async/Await, and Combine.
+  * Experience with CoreData / SQL.
+  * Skilled in development tools and environments: Xcode, Git, CI/CD tools (e.g., Codemagic), TestFlight, Firebase, App Store Connect.
+  * Familiar with Tuist, SPM, Cocoapods.
+  * Knowledge of accessibility standards (VoiceOver, Dynamic Type), performance tuning, and experience with modern build and distribution pipelines.
+  * Proficient in testing with XCTest, XCUITest, Snapshot Testing, and using Instruments for profiling and debugging.
+
+**Will be a plus:**
+
+  * AWS Amplify.
+  * GraphQL.
+  * Objective-C.
+
+**Ready to make a meaningful impact through your talents and expertise? Apply
+now and join a mission-driven team dedicated to improving daily life for
+millions!**

@@ -1,0 +1,13 @@
+WordPress Developer
+4+ years of experience in development and support of commercial products in
+WordPress
+Experience with Woocommerce
+Basic knowledge PHP, OOP
+Expirience with HTML5, CSS3, Gulp or Webpack
+Knowledge JS(Vanilla/jQuery)
+Experience in REST API development
+WP Multisite and Multilanguage
+Knowledge in MySQL, PDO
+Git
+Intermediate level of English (both writing and speaking) is a must
+Ability to find balance between quality and efficiency

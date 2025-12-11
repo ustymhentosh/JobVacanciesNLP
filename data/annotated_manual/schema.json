@@ -2,11 +2,11 @@
   "SKILL_HARD": "Specific technical tools, programming languages, frameworks, or methodologies. Examples: 'Python', 'React.js', 'Docker', 'machine learning', 'REST API', 'CI/CD'",
   "SKILL_SOFT": "Personal, communication, or team-related abilities that describe behavioral or interpersonal skills. Examples: 'problem-solving', 'team player', 'attention to detail', 'leadership'",
   "ENGLISH_LEVEL": "Any explicit or implied mention of English proficiency or fluency level. Examples: 'Upper-Intermediate', 'fluent English', 'B2 level', 'advanced English communication'",
-  "DEGREE": "Formal education requirements or mentions of degree type or study field. Examples: 'Bachelor’s degree', 'Master’s in Computer Science', 'PhD in Engineering'",
-  "EXPERIENCE_LEVEL": "Seniority or professional rank associated with the role. Examples: 'Junior', 'Middle', 'Senior', 'Lead', 'Intern', 'Principal Engineer'",
+  "DEGREE": "Formal education degrees or academic qualifications. Examples: 'Bachelor’s degree', 'Master’s in Computer Science', 'PhD in Engineering'",
+  "EXPERIENCE_LEVEL": "Seniority or professional rank associated with the role. Examples: 'Junior', 'Middle', 'Senior', 'Lead', 'Intern'",
   "EXPERIENCE_YEARS": "Duration or number of years of experience required or mentioned. Examples: '3+ years', 'at least two years'",
-  "BENEFIT": "Offered perks, bonuses, or employment benefits and work conditions. Examples: 'medical insurance', 'flexible schedule', 'remote work', 'paid vacation', 'stock options'",
-  "LOCATION": "Mention of workplace location or work setting type. Examples: 'Kyiv', 'Lviv', 'remote', 'Poland'",
-  "COMPANY": "Employer, recruiter, or company name appearing in the text. Examples: 'EPAM Systems', 'SoftServe', 'Google'",
+  "BENEFIT": "Offered perks, bonuses, or employment benefits and work conditions by company. Examples: 'medical insurance', 'flexible schedule', 'remote work', 'paid vacation', 'stock options'",
+  "LOCATION": "Mention of workplace location or work formats. Examples: 'Kyiv', 'Lviv', 'remote', 'Poland', 'hybrid'",
+  "COMPANY_NAME": "Official company or employer names only; must be a real proper noun. Examples: 'Google', 'EPAM Systems', 'SoftServe'",
   "ROLE": "Job title or position name describing the primary role. Examples: 'Frontend Developer', 'DevOps Engineer', 'Data Scientist'"
 }

@@ -1,0 +1,36 @@
+Senior DevOps/SRE Engineer
+You’ll play a critical role in designing, implementing, and maintaining the
+infrastructure and processes that support our products and engineering teams.
+You will be a hands-on leader, building robust CI/CD pipelines, ensuring high
+availability and scalability of systems, and championing best practices for
+automation, observability, and reliability.
+
+Responsibilities:
+
+Infrastructure Ownership: Design, build, and manage scalable, reliable, and secure cloud-based infrastructure (AWS preferred).
+CI/CD Pipelines: Develop and maintain automated build, test, and deployment pipelines to enable rapid and reliable software releases.
+Monitoring and Observability: Implement monitoring, alerting, and logging systems to ensure system health and reliability.
+Incident Management: Lead incident response, postmortems, and remediation to minimise downtime and prevent recurrence.
+Cost Optimisation: Monitor and optimise cloud resources to balance performance with cost efficiency.
+Security Best Practices: Ensure robust cloud and infrastructure security.
+Collaboration: Work closely with engineering teams to embed DevOps principles in development workflows.
+Scalability: Ensure infrastructure can scale to support our growing user base and product portfolio.
+Documentation: Create and maintain comprehensive documentation for infrastructure, processes, and tools.
+Leadership: Define the DevOps strategy, build processes, and (in the future) help hire and mentor additional team members.
+
+Requirements
+
+Experience: 5+ years in DevOps, SRE, or a similar role, preferably in a startup or SaaS environment.
+Cloud Expertise: Proficiency with cloud platforms (AWS preferred) and infrastructure-as-code tools (Terraform, CloudFormation, etc.).
+CI/CD: Deep experience with CI/CD tools (GitHub Actions preferred)
+Containerization & Orchestration: Strong knowledge of Docker and Kubernetes
+Monitoring Tools: Experience with tools like DataDog, Prometheus, Grafana, or equivalent for observability.
+Programming Skills: Proficiency in scripting and automation
+Problem Solver: Proven ability to diagnose and resolve complex technical issues.
+Collaboration: Strong communication and collaboration skills to work effectively with cross-functional teams.
+Security Awareness: Knowledge of security principles and best practices in DevOps workflows.
+
+Nice to Have
+Experience with tools like Snowflake, DBT in data engineering pipelines.
+What do we propose:
+jobs.dou.ua/companies/codify

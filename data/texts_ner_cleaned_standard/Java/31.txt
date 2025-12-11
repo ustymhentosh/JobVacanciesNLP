@@ -1,0 +1,59 @@
+Middle/Senior Java Developer
+This role is 100% remote. Please note that for your application to be
+reviewed, you will need to pass the first step of our process, which is a
+test task. More details on this below.
+
+Required skills:
+
+Computer Science knowledge: Algorithms, Data structures, Performance, etc.
+3-5 year’s experience
+Java fundamentals, OOP, Concurrency
+Knowledge of Design patterns
+English communication skills
+
+Will be a plus but not requred:
+
+Having participated in Computer Science or Math contests (e.g. ACM, ICPC, Olympiads etc.)
+
+What we offer
+
+100% remote work
+Paid annual & sick leave
+Compensation of new equipment and software (various options based on type of equipment)
+Sponsorship of training and english lessons
+A great international team and friendly environment
+
+Test task
+
+As a part of the hiring process we would appreciate if you can solve a test
+task. It is expected to take 90 min on average and we offer $100 compensation
+for the correctly completed tasks. Compensation will be paid only if you agree
+to participate in an interivew.
+
+devtest2.hr.bookmap.com/task
+
+Your solution will be tested against a few input files, some of which are
+different from the example provided in this document. Performance will be
+taken into account so solutions that are too slow will be rejected. Note that
+we will only inform if your test task passed or failed. In case you passed, we
+will continue the process, however, we may not provide detailed feedback in
+case of a failure.
+
+About Bookmap
+
+Bookmap is a professional high-performance visualization & trading platform
+which have set a new standard for accurate visualization of market data.
+
+One of the challenges in the industry is large amounts of market data. This
+data represents the activity and interactions between buyers and sellers and
+on certain markets may reach dozens of thousands of events per second. Bookmap
+is the leading company in providing visually intuitive representation of the
+entire process and its historical evolution. The result is equivalent to an
+interactive HD video with unlimited resolution. Bookmap achieves its goals by
+utilizing modern technologies such as GPU rendering and by developing its own
+proprietary solutions.
+
+Our customers include brokers, hedge funds, proprietary trading firms,
+individual professional and retail traders. Bookmap is mainly used for trading
+futures, US stocks and digital- cryptocurrencies at CME, Eurex, Nasdaq, GDAX
+and many other exchanges.

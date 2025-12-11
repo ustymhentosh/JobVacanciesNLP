@@ -1,0 +1,56 @@
+{
+  "filename": "ML/46.txt",
+  "text": "Strong Junior/Middle ML Engineer\n2+ years experience in ML development;\nStrong technical skills in data analysis, statistics, and programming;\nWorking experience in using Python;\nExperience with DNN frameworks as PyTorch, or TensorFlow;\nKnowledge of machine learning and deep learning technologies;\nResearch mindset and math-oriented intelligence;\nGood technical written and spoken English.",
+  "entities": [
+    [
+      7,
+      13,
+      "EXPERIENCE_LEVEL"
+    ],
+    [
+      14,
+      20,
+      "EXPERIENCE_LEVEL"
+    ],
+    [
+      21,
+      32,
+      "ROLE"
+    ],
+    [
+      33,
+      41,
+      "EXPERIENCE_YEARS"
+    ],
+    [
+      171,
+      177,
+      "SKILL_HARD"
+    ],
+    [
+      213,
+      220,
+      "SKILL_HARD"
+    ],
+    [
+      225,
+      235,
+      "SKILL_HARD"
+    ],
+    [
+      250,
+      266,
+      "SKILL_HARD"
+    ],
+    [
+      271,
+      284,
+      "SKILL_HARD"
+    ],
+    [
+      320,
+      346,
+      "SKILL_SOFT"
+    ]
+  ]
+}

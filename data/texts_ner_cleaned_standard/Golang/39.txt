@@ -1,0 +1,34 @@
+Backend Golang Developer (web3 project)
+Location: Remote
+Type: Full-time (exclusive focus required, no concurrent or part-time
+jobs)
+
+About Spell
+Spell is building an MPC-powered crypto wallet with gaming features ,
+using threshold signatures to deliver a secure and seamless Web3 experience.
+We’re a fast-moving, seed-funded startup looking for proactive engineers who
+take ownership and ship reliable infrastructure.
+
+About the Role
+You’ll own the backend that powers Spell’s wallet, building scalable and
+secure services that drive core functionality.
+
+Your work will include:
+
+Developing wallet backend services: transaction creation, validation, and lifecycle management.
+Implementing MPC/threshold signing flows across multiple networks.
+Integrating on- and off-chain protocols and services (swaps, bridges, staking).
+Aggregating blockchain and off-chain data for analytics and dashboards.
+Building APIs and data services for user features and internal monitoring.
+Ensuring service reliability, scalability, and security of cryptographic operations.
+
+What We’re Looking For:
+
+Strong Golang skills and production backend experience.
+Hands-on with Postgres, Docker , Redis , Grafana.
+Solid SQL expertise (joins, aggregations, performance tuning); ClickHouse experience a plus.
+Web3 experience: transaction building, signing, and cross-chain differences.
+Familiarity with blockchain cryptography (ed25519 , secp256k1).
+Experience integrating and maintaining third-party APIs.
+Ownership mindset, detail orientation, and comfort in a fast-paced startup.
+Strong communication and collaboration skills.

@@ -1,0 +1,48 @@
+Middle DevOps Engineer
+We are a leading digital sports publisher in Ukraine. We do not limit our
+growth to the country and are actively developing websites and mobile
+applications for the global market.
+
+Our goal is to develop independent media and bring high-tech products to the
+world. Everyone’s contribution to the product creation process is important to
+us, as our specialist is an expert and is directly involved in all processes.
+
+We are currently looking for an SRE/DevOps Engineer who will support, develop,
+and optimize the current infrastructure.
+
+Requirements:
+
+Support, development, and optimisation of the current infrastructure.
+Automation of deployment processes for systems, applications, and environments.
+Restoration of systems, applications, and environments from backups and/or disaster recovery.
+Monitoring of application stability, identification of infrastructure bottlenecks.
+Collaboration with other teams in the project.
+
+From you:
+
+At least two years of commercial experience as an SRE, DevOps Engineer
+Knowledge of any CMS (Ansible (preferred), Chef, Puppet), as well as Pulumi (optional)
+Experience in full support of Linux infrastructure using CMS (2 years of experience).
+Knowledge of bash and/or any other scripting language (Python, Go, etc.) for automation and/or scripting.
+Willingness to administer Bare Metal, including Hetzner, OVH or similar hosting providers (we do not have a big three cloud and do not plan to).
+Experience in supporting the production of a Kubernetes cluster from 5 worker nodes.
+Knowledge of Kubernetes API resources and Kubernetes components.
+Strong knowledge and experience with MySQL, MongoDB, PostgreSQL databases, replication, load balancing, HA, backup.
+Knowledge and experience in setting up and updating Gitlab and Gitlab CI.
+Knowledge and experience in monitoring (metrics, logs, traces) and alerting (Prometheus, VictoriaMetrics, grafana, Percona Performance and Monitoring, Sentry, ElasticStack, Coroot), as well as solving infrastructure problems.
+
+It will be an advantage if you have:
+
+Have deployed and upgraded Kubernetes clusters using kubespray.
+Have experience with varnish/nginx and/or CDN providers.
+Technically supported redash, superset, airflow for analytics in k8s.
+Knowledge and experience with CNI (we have calico), SMI (we have linkerd), HashiCorp Vault.
+
+For you:
+
+Working on a successful and cool product used by millions of sports fans every day.
+The challenge of moving a successful, profitable project to a new technical level.
+The opportunity to be directly involved in the selection of technical and product solutions.
+A strong product culture and great colleagues.
+A flexible schedule with the possibility of remote work, participation in training courses and conferences.
+Market salary.

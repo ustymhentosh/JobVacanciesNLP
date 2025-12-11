@@ -1,0 +1,109 @@
+Senior Full Stack Developer
+**Job Overview:**
+
+We are seeking a **Senior Full Stack Developer** to join our remote
+development team. You will be responsible for maintaining and developing our
+complex cybersecurity platform, working with both backend PHP systems and
+modern React frontend applications. This role requires strong technical skills
+across the full stack and the ability to work independently in a remote
+environment.
+
+**Key Responsibilities:**
+
+  * Backend Development: Maintain and enhance PHP-based backend systems using Laminas Framework
+  * Frontend Development: Develop and maintain React/TypeScript applications with complex data visualizations
+  * Database Management: Work with Postgres and Elasticsearch for data storage and search functionality
+  * API Development: Create and maintain RESTful APIs and gRPC services
+  * Integration Work: Implement third-party integrations (AWS, Stripe, SAML, etc.)
+  * Performance Optimization: Optimize application performance and scalability
+  * Code Quality: Maintain high code quality standards and implement best practices
+  * Collaboration: Work closely with the development team and stakeholders
+  * Documentation: Create and maintain technical documentation
+
+**Required Technical Skills:**
+
+**1\. Backend Technologies:**
+
+  * PHP 8.4 — Advanced PHP development with modern features
+  * Laminas Framework (Zend Framework) — MVC framework experience
+  * Postgres — Database design, optimization, and complex queries
+  * Elasticsearch — Search implementation and data analytics
+  * Redis — Caching strategies and session management
+  * gRPC — Microservice communication and API development
+  * Composer — Dependency management and package development
+
+**2\. Frontend Technologies:**
+
+  * React — Advanced React development with hooks and context
+  * TypeScript — Type-safe development and complex type definitions
+  * Redux & Redux Toolkit — State management and data flow
+  * Webpack 5 — Module bundling and build optimization
+  * SASS — Advanced CSS preprocessing and styling
+
+**3\. Development Tools & Practices:**
+
+  * Git — Version control and collaborative development
+  * ESLint — Code quality and linting
+  * Yarn/NPM — Package management
+  * Rector — PHP refactoring and code modernization
+  * Testing — Unit and integration testing practices
+
+**Nice to Have Skills:**
+
+**1\. Additional Technologies:**
+
+  * AWS SDK — Cloud services integration
+  * Stripe API — Payment processing implementation
+  * JWT & SAML — Authentication and SSO systems
+  * Monolog — Advanced logging and monitoring
+  * Sentry — Error tracking and performance monitoring
+  * Symfony Messenger — Message queue systems
+
+**2\. Data Visualization:**
+
+  * AmCharts & ApexCharts — Interactive data visualization
+  * Sigma.js & Dagre — Graph visualization and network diagrams
+  * ReactFlow — Flow diagram implementation
+  * Chart.js — Custom chart development
+
+**3\. Security & Performance:**
+
+  * Cybersecurity Domain Knowledge — Understanding of threat detection and SIEM systems
+  * Performance Optimization — Application performance tuning
+  * Security Best Practices — Secure coding and vulnerability prevention
+
+**Experience Requirements:**
+
+  * 5+ years of professional full-stack development experience
+  * 3+ years of PHP development with modern frameworks (Laminas/Zend, Laravel, or Symfony)
+  * 3+ years of React development with TypeScript
+  * 2+ years of database design and optimization (MySQL, Elasticsearch)
+  * 2+ years of API development (REST, gRPC)
+  * Experience with complex, enterprise-level applications
+  * Experience with microservices architecture
+  * Experience with CI/CD pipelines
+
+**Soft Skills:**
+
+  * Strong Problem-Solving Abilities — Ability to debug complex issues and find innovative solutions
+  * Excellent Communication Skills — Clear written and verbal communication in English
+  * Self-Motivation — Ability to work independently in a remote environment
+  * Attention to Detail- Thorough code review and testing practices
+  * Adaptability — Ability to learn new technologies and adapt to changing requirements
+  * Collaboration — Strong team player with experience in collaborative development
+  * Time Management — Ability to manage multiple tasks and meet deadlines
+
+**What we can offer:**
+
+  * Competitive salary
+  * Paid annual leave
+  * Medical insurance
+  * Minimum bureaucracy
+  * Remote work
+  * Work in a product company
+  * Team of strong IT professionals working in a vibrant product environment.
+
+**Working conditions:**
+
+  * 5-day work week
+  * 8-hour working day (flexible schedule).

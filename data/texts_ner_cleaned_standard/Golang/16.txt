@@ -1,0 +1,101 @@
+Middle/Senior Golang Developer
+Ready for a career upgrade?
+
+As part of this journey, we’re looking for a Golang Developer who excited
+about solving real tech challenges. We offer a product-focused environment,
+growth opportunities, and the freedom to make engineering decisions that
+matter.
+
+We are open to considering PHP developers who want to learn Golang.
+
+What you’ll be doing:
+
+Implementing new features and functionality in the application;
+
+Delivering developed code to production while ensuring its quality and
+performance;
+
+Actively participating in discussions about architecture, approaches, and
+best practices;
+
+Maintaining system stability by monitoring its performance and responding to
+alerts;
+
+Conducting code reviews, mentoring team members, and sharing knowledge
+within the team.
+
+Skills you’ll apply:
+
+At least 3 years of experience with Golang, including web server
+development, concurrency, and context handling;
+
+Proficiency in SQL/NoSQL databases, including understanding indexes,
+transactions, and query optimization;
+
+Solid knowledge of design patterns, clean architecture principles, and SOLID
+design;
+
+Experience with MongoDB, MySQL/PostgreSQL;
+
+Knowledge of Queuing systems such as RabbitMQ or Kafka.
+
+Familiarity with Redis.
+
+Highload systems, including database locks, concurrency, isolation levels,
+and replication.
+
+Familiarity with SOA/Microservices architecture and REST API development.
+
+Strong communication skills and a proactive approach to work.
+
+Intermediate level of English or higher.
+
+Additional Considerations:
+
+We are open to considering PHP developers who are willing to learn and work
+with Go.
+
+Bonus points:
+
+Experience with PHP and Symfony;
+
+Knowledge of GraphQL;
+
+Familiarity with Kubernetes (K8s) and Google Cloud Platform (GCP).
+
+A few words about us:
+
+We are a product-driven company actively expanding our presence in the
+iGaming market. Our mission is to create technologically advanced,
+flexible modular solutions for the industry.
+
+Our key product is a gaming SaaS platform that integrates 200+
+services and provides the best gaming experience for millions of players
+worldwide. It includes everything iGaming operators need: game management,
+payments, analytics, CRM, and more.
+
+Now, we are actively developing our B2B segment and entering the global
+market. Want to grow with us?
+
+What we offer:
+
+Flexible schedule —work from home, the office, or hybrid. Extra day off
+for your birthday — take a break any day within the month. Competitive
+compensation that matches your skills. Medical insurance (in Ukraine)
+and health support. 20 paid vacation days \+ an additional 15 personal
+leave days. 22 sick leave days , including mental health days. Gifts
+and support for life’s key moments (wedding, childbirth, kindergarten).
+Professional development — conferences, training, courses, and learning
+opportunities. We care about your comfort and help you maintain work-life
+balance!
+
+What’s next?
+
+1. HR interview
+2. Technical interview
+3. Final interview
+
+Additional steps may include an interview with the department head, a test
+assignment, and a security check.
+
+Feel like this is the right fit? Send your resume—we’re waiting for you!

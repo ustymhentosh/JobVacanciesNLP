@@ -1,0 +1,46 @@
+Java Developer
+**Description  
+** Introduct Group is an international company delivering software development
+excellency in tailored solutions to our customers worldwide. The company is
+originally from Estonia, with headquarters in Kyiv and offices in other
+countries.  
+The client is a financial technology software company. They specialize in
+revolutionizing transactional communication processes and spearheading
+innovation and transformation for global enterprises. Their robust software
+and deep industry expertise empower organizations to streamline recurring
+transactional communication processes via hyper-personalized messaging across
+channels, in-video interaction, automated workflows, and real-time customer
+insights.  
+  
+**Key Skills Required:**  
+— 4+ years of experience with Java/Kotlin  
+— Strong knowledge of Java 8+, Spring Boot, Hibernate, JPA  
+— Hands-on experience with MySQL, MongoDB, Redis  
+— Familiarity with Kafka and microservices architecture  
+— Proficiency with Docker, Kubernetes, AWS, and CI/CD pipelines  
+— Experience working in Agile/Scrum environments  
+— Solid understanding of design patterns, performance tuning, and system
+integration  
+— Ability to analyze requirements and work independently  
+— English level: Upper-Intermediate or higher  
+— Tools: JIRA, Confluence, GitLab  
+  
+**Responsibilities:**  
+— Develop and maintain Java-based applications based on technical requirements  
+— Collaborate with the team to define features and goals  
+— Write clean, high-quality code aligned with project standards  
+— Work closely with the Product Manager and Architect to deliver key
+components  
+— Participate in code reviews and ensure best practices  
+— Contribute to cloud-native development with Docker, AWS, and Kubernetes  
+— Support and maintain CI/CD workflows and version control systems  
+  
+**Working Conditions:**
+
+  * Competitive salary
+  * Flexible remote working schedule, with the opportunity to work on high-profile global projects.
+  * Diverse, multinational team serving clients in over 10 countries.
+  * Access to an international online office for seamless connectivity and collaboration.
+  * Optional English classes for language proficiency enhancement.
+  * Dedicated learning budget for courses and certifications to support professional development.
+  * Necessary equipment provided for optimal performance (in Ukraine).

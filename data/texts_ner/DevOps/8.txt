@@ -1,0 +1,55 @@
+Senior Java Engineer (with DevOps skills) (#4020)
+We are looking for a highly skilled and enthusiastic **Senior Java Engineer
+(with DevOps skills)** to become an integral part of our dynamic team in
+**Kyiv**.
+
+This role offers an exciting opportunity to work on cutting-edge projects
+involving the integration of third-party hardware, the development of
+sophisticated in-system customisations, and the creation of robust Java web
+applications with intuitive front-end interfaces. Beyond development, you will
+also play a key role in designing, implementing, and supporting Docker setups
+across various environments and building essential emulators for endpoint
+devices.
+
+**Responsibilities:**
+
+  * Design, develop, and maintain high-performance Java applications for seamless integration with diverse third-party hardware systems.
+  * Implement tailored in-system customisations to meet specific client requirements and enhance application functionality.
+  * Build and enhance Java web applications, encompassing both back-end logic and front-end components, ensuring a responsive and engaging user experience.
+  * Develop, deploy, and support Docker container setups for various development and testing environments, ensuring efficient resource utilisation and application portability.
+  * Create and maintain emulators for endpoint devices, facilitating robust testing and development cycles.
+  * Work closely with the client team to understand requirements, provide technical insights, and deliver solutions that align with business objectives.
+  * To work from the Kyiv office at least twice per week. 
+
+**Requirements** :
+
+  * Extensive experience with Java 17+
+  * Proficiency in Spring-Boot and developing RESTful APIs.
+  * Hands-on experience with Docker.
+  * Experience with Quarkus for building lightweight, high-performance applications.
+  * Solid understanding of Thymeleaf and JQuery/JavaScript for building interactive user interfaces.
+  * Experience with RabbitMQ for asynchronous communication.
+  * Strong knowledge of PostgreSQL for database management.
+  * Proficiency with Maven.
+  * Confident use of standard Linux commands and shell environment.
+  * Understanding of TCP/UDP and SNMP for network communication.
+
+**Nice to have:**
+
+  * Experience with JavaScript/Typescript and modern front-end frameworks such as Vue.js, Angular, or React.
+  * Knowledge of Kubernetes for managing containerised applications at scale.
+  * Familiarity with network management concepts and tools.
+
+**We offer*:**
+
+  * Flexible working format — remote, office-based or flexible
+  * A competitive salary and good compensation package
+  * Personalized career growth
+  * Professional development tools (mentorship program, tech talks and trainings, centers of excellence, and more)
+  * Active tech communities with regular knowledge sharing
+  * Education reimbursement
+  * Memorable anniversary presents
+  * Corporate events and team buildings
+  * Other location-specific benefits
+
+*not applicable for freelancers

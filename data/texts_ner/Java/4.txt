@@ -1,0 +1,53 @@
+Middle QA Automation Engineer (Java, office, Kyiv)
+**Delasport — Implementing Technological Solutions Here and Now**
+
+Delasport is an iGaming Software company providing Sports Betting & Online
+Casino software, and turnkey B2B solutions. Established in 2010, Delasport
+delivers a one-stop-shop solution of Sports Betting and Online Casino from a
+White-Label, with a full range of management services to a Plug&Play iFrame
+and a complete Turnkey. We are establishing an R&D centre in Kyiv, and are
+looking for top talents to join our team.
+
+**RESPONSIBILITIES**
+
+  * Participate in test automation framework development, configuration, and maintenance 
+  * Backend and Frontend tests development and maintenance 
+  * Automated test results analysis 
+  * Participate in feature team daily life 
+
+**REQUIREMENTS**
+
+  * At least 2+ years of automation experience in Java 
+  * OOP knowledge 
+  * Java Streams knowledge 
+  * Experience with Selenium WebDriver and/or Selenide 
+  * REST API knowledge 
+  * Excellent knowledge of Git 
+  * Basic experience with databases (PostgreSQL, MongoDB) 
+  * Experience with Postman or any of the API testing tools 
+  * Agile and Scrum understanding 
+  * Good understanding of QA processes and SDLC 
+  * Upper-intermediate English level 
+
+**NICE TO HAVES**
+
+  * Experience with JUnit and Spring Boot 
+  * Integration testing experience 
+  * Basic Linux shell knowledge 
+  * Basic knowledge of Docker 
+  * Experience with microservice architecture 
+
+**WHAT WE CAN OFFER YOU**
+
+  * Modern office in Podil with an uninterruptible power supply and the Internet
+  * Personal time off (21 business days of paid vacation, paid days on special occasions, sick leaves, emergency days off)
+  * Public holidays
+  * Health insurance with the broker, which is available from the first month of cooperation
+  * Life insurance with the broker, which is available from the first month of cooperation
+  * Modern technical equipment
+  * English courses with native speakers
+  * Ukraine-based educational programs
+  * Sports activities reimbursement
+  * Corporate entertainments
+  * Happy hours on Fridays
+  * Gig contract support

@@ -1,0 +1,72 @@
+Java Team Lead
+**Dripify** is a pioneering, remote-first IT product company specializing in
+outreach automation products. Our platform empowers businesses by
+revolutionizing hiring, sales, and marketing communication processes, making
+interactions more efficient and seamless.  
+  
+Project — [dripify.com](http://dripify.io/)  
+  
+We’re looking for a **Java Team Lead** who will split their time between
+hands-on backend development (50%) and technical/team leadership (50%). You’ll
+lead a team of 5 engineers, ensure delivery quality, and own architectural
+decisions, while also contributing code and driving technical excellence.  
+  
+**Requirements**
+
+— 5+ years of hands-on Java development experience (Java 21+).  
+— 2+ years leading a development team.  
+— Deep practical experience with Spring Boot modules (Web, Security, Data,
+Messaging).  
+— Strong knowledge of Java concurrency, multithreading, and backend system
+design.  
+— Proficient in SQL databases (PostgreSQL preferred).  
+— Experience with REST APIs and asynchronous messaging (SNS/SQS).  
+— Skilled in CI/CD, code quality gates, and automated testing.  
+— Hands-on with Docker, Linux, and system-level debugging.  
+— Familiar with monitoring/logging tools (ELK, Prometheus, Grafana).  
+— Strong focus on security best practices: auth, validation, access control.  
+— Working knowledge of AWS: IAM, EC2, RDS, S3, CloudWatch, Secrets Manager.
+
+**Responsibilities**
+
+Development (50%)  
+— Build modular, secure, and maintainable backend systems using Java 21+ and
+Spring Boot.  
+— Design and implement RESTful APIs and event-driven services (SNS/SQS).  
+— Write tested, high-quality code with strong focus on unit/integration
+testing.  
+— Ensure CI/CD integration, monitoring, and production readiness.  
+— Drive system performance and scalability improvements.  
+  
+Leadership & Delivery (50%).  
+— Lead a backend team: mentorship, code reviews, and engineering growth.  
+— Own delivery quality: scope planning, progress tracking, risk mitigation.  
+— Document and communicate architectural decisions.  
+— Coordinate cross-functionally with product managers, DevOps, and QA.  
+— Promote best practices in secure development and clean architecture.
+
+**Would be a plus**
+
+— Experience in designing and operating microservice-based architectures.  
+— Familiarity with Kubernetes (EKS or self-managed).  
+— Experience with Terraform and Infrastructure-as-Code.  
+— AWS Certifications (e.g., Developer Associate, Solutions Architect).  
+— Bachelor’s or Master’s in Computer Science or related field.
+
+**Work conditions**
+
+— 100% remote position, providing flexibility and work-life balance.  
+— Competitive salary reflecting your skills and expertise.  
+— 24 days of paid vacation per year to recharge and relax.  
+— 10 days of paid sick leave.  
+— Educational opportunities.  
+— Compensation budget for medical and hobby/sport expenses.  
+— Generous budget for birthdays and anniversaries.  
+— Online and offline team events.  
+— A collaborative and innovative work environment with passionate team
+members.
+
+**Hiring process**
+
+✅Interview with Recruiter (45min) — ✅Tech interview with Tech Leader (1.5
+hour) — ✅Interview with CTO (45min) — ✅Reference check — ✅Offer

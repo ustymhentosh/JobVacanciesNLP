@@ -1,0 +1,37 @@
+DevOps Engineer
+We are looking for a DevOps Engineer to help us build functional systems
+that improve customer experience.
+
+DevOps Engineer responsibilities include deploying product updates,
+identifying production issues and implementing integrations that meet customer
+needs. If you have a solid background in software engineering and are familiar
+with Azure, Jenkins, Bash or Python, we’d like to meet you.
+
+Ultimately, you will execute and automate operational processes quickly,
+accurately, and securely.
+
+Responsibilities:
+Developing and implementing a platform that will automate deployment,
+operations, and repetitive tasks
+Documenting technical procedures, standards, and policies
+Cloud Optimization
+Cloud and DevOps Assessment
+Assist the R&D team with services deployment
+
+Requirements:
+Experience 3+ years in administering cloud platforms: Azure, AWS cloud
+platforms
+Strong experience in administering Windows Server OS
+Experience in administering Linux OS
+Working knowledge of automation, configuration management software (Jenkins)
+Web servers (IIS)
+SQL Databases (MSSQL, PostgreSQL)
+Non-SQL Databases (MongoDB)
+Monitoring and logging systems (ELK, Zabbix, Grafana, Prometheus)
+Experience with queue management (RabbitMQ)
+Experience with Kubernetes, Docker
+Good knowledge networking
+Experience in programming using script languages (Bash, Python, PowerShell)
+Experience working with HighLoad, High Availability systems
+Experience in backup and recovery
+Good spoken/written English

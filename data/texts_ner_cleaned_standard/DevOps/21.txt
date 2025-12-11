@@ -1,0 +1,42 @@
+Senior DevOps Engineer (Azure)
+PROJECT OVERVIEW
+
+Founded in 2002, AU10TIX is the global leader in AI-driven identity
+verification and management, protecting the world’s largest brands against
+advanced fraud. The company’s future-proof product portfolio helps businesses
+provide frictionless customer onboarding and verification in 4-8 seconds while
+staying ahead of emerging threats and evolving regulatory requirements.
+
+We are looking for an experienced DevOps Engineer with a strong background in
+building and maintaining cloud-based infrastructure and services. This role
+involves close collaboration with backend development teams and ownership of
+CI/CD processes in a modern cloud environment.
+REQUIREMENTS
+
+5–6 years of experience in DevOps roles
+Hands-on experience with Microsoft Azure cloud environment
+Proficiency with CI/CD tools such as Azure DevOps, GitHub Actions, Jenkins
+Experience with Docker and Kubernetes
+Strong scripting skills (Bash, PowerShell, Python, etc.)
+Familiarity with infrastructure-as-code tools, Terraform, and Ansible
+NICE TO HAVE
+
+Experience working closely with backend development teams
+Deep understanding of build, deployment, and monitoring processes
+Strong problem-solving skills in complex distributed environments
+Knowledge of microservices architecture
+RESPONSIBILITIES
+
+Provision and manage infrastructure and services to support backend systems
+Work closely with backend developers to streamline development, testing, and deployment processes
+Automate and maintain development, staging, and production environments
+Lead and implement CI/CD pipelines and DevOps best practices in the Azure cloud
+WE OFFER
+
+20 vacation days (workdays)
+7 sick days
+Personalized career growth
+Internal English classes
+Education reimbursement
+Corporate events and team buildings
+Equipment provided

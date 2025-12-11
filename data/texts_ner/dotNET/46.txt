@@ -1,0 +1,77 @@
+Middle .NET Developer
+**Company Description:**  
+The team in Ukraine has been working since 2016, it includes 16 professionals
+in their field working with clients Worldwide. We offer the market IConduct
+Self Service Integration Platform, which integrates between various custom
+information systems. The platform consolidates the data of all required
+business applications into a single dashboard that can operate as a cloud
+service, on-premises, or hybrid solution.  
+  
+The uniqueness of the IConduct Self- Service Integration Platform lies in its
+flexibility and the possibility of additional customization for the needs of a
+particular company.  
+  
+Product stack: ASP.NET, ADO.NET, Entity Framework, JavaScript/TypeScript,
+React/Redux, MS SQL, Microservices  
+  
+**Project Description:**  
+IConduct is a leading IPaaS platform company, that provides integration
+solutions, which in turn enables its users to easily and elegantly configure
+an interaction between various systems with a zero-coding on cloud, cross-
+platform, or hybrid environment, looking for an experienced and highly
+motivated Middle Developer.  
+  
+The platform is located in AWS and consumes AWS-managed services (EC2, RDS).  
+  
+IConduct platform is a large-scale application that uses a variety of .NET
+technologies (.NET Framework, .NET Core, .NET 7).  
+  
+The platform uses Relational databases (MS SQL Server) and NoSQL databases
+(Cassandra, Elasticsearch).  
+  
+We use advanced pub/sub-concepts and message brokers (NATS).  
+  
+**As a Middle Developer, you will:**
+
+  * Implement new features using .NET, React/Redux and ASP.NET.
+  * Work in a multi-technology environment & learn new technologies.
+  * Improve product architecture and technologies and be a part of the product technical committee.
+  * Have an influence on the product development.
+
+**Requirements:**  
+Must have:
+
+  * 2+ years with C# and .NET/.NET Core
+  * Good knowledge of MS SQL
+  * Experience with async programming, threading, and message brokers (e.g., NATS, RabbitMQ, Kafka)
+  * Solid understanding of distributed systems and high-load environments
+  * Upper-intermediate English
+
+  
+Nice to have:
+
+  * Basic understanding of networking concepts and data flows
+  * 1+ year of experience with front-end technologies (JavaScript/TypeScript, HTML, CSS, Angular/React/Vue)
+  * Familiarity with Microservices architecture and development principles
+  * Knowledge of ASP.NET Web Forms or legacy .NET applications
+  * Basic performance optimization skills (SQL queries, Entity Framework tuning, caching)
+  * Experience with application profiling and debugging (memory, CPU, network)
+  * Ability to refactor and migrate legacy code to modern .NET technologies
+  * Understanding of algorithm efficiency and clean code principles
+  * Experience working in Agile/Scrum environments
+
+  
+**We offer:**  
+Working in our dynamic environment, you will get the freedom of action, the
+trust of  
+management, and the ability to implement projects from “0” to output to
+production  
+Also:
+
+  * Challenging tasks
+  * Opportunity to learn new approaches in highly demanded cloud technologies
+  * Career growth
+  * Paid vacation (20 working days per year)
+  * Paid sick leaves
+  * Fixed working hours
+  * A friendly team of experts who inspire and support you

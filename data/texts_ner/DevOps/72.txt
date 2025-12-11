@@ -1,0 +1,60 @@
+Senior DevOps Engineer
+Leobit ([leobit.com](http://leobit.com)) is a full-cycle web and mobile
+application development provider for the technology companies and startups
+primarily located in the US, Canada, Australia, the UK, and the EU. Our
+technology focus covers .NET, Angular, React, iOS, Android, Ruby, PHP and a
+comprehensive range of other technologies from Microsoft, Web, and Mobile
+Stacks.
+
+We are looking for a full-time **DevOps Engineer** to join our team.
+
+**Requirements:**
+
+  * Five-year of Microsoft Azure experience involving design, deployment, configuration, and optimization or DevOps Engineer (at least)
+  * Cloud Expertise: Proven experience managing and maintaining large-scale environments in Azure, databases, and application systems
+  * Experience with Azure Cloud Services (PaaS and IaaS), Azure storage capabilities, and Azure DevOps
+  * CI/CD Mastery: experience with tools like Github Actions for CI/CD pipeline automation, TeamCity/Bamboo, SonarQube, Artifactory/Nexus, and Azure Artifacts (workflows, runners, reusable workflows, self-hosted runners)
+  * Hands-on ‘Infrastructure As Code’ knowledge using Ansible/Terraform/ARM Templates/ Azure Bicep and GIT source control to provision and deploy cloud resources
+  * Proficient in scripting languages such as Python, AzurePowershell, Bash, Ruby, Go, and Azure CLI for containerized application deployment and scaling
+  * Experience using build tools such as Maven, MS Build, Cake, and Node
+  * Experience in migrating and transforming existing systems to the cloud using Azure tools and best practices
+  * Strong communication skills and ability to work effectively with multiple stakeholders and collaborate with others
+  * Excellent problem-solving and analytical skills with attention to detail to handle complex challenges and issues
+  * GitHub Ecosystem: Experience managing GitHub repositories, secrets, environments, branch protection rules, and security best practices
+  * Bachelor’s or Master’s degree in computer science (or a similar technical field)
+  * Level of English: Upper-Intermediate (at least)
+
+**Would be a plus:**
+
+  * .NET Knowledge: Familiarity with .NET environments (as the client’s integration components are built using .NET)
+  * Infrastructure as Code (IaC) Alternative: Experience with Terraform/Terragrunt is a plus
+  * Networking: Experience with Azure networking constructs, including Private Endpoints, Service Endpoints, Virtual Networks (VNet), NSGs, Azure Firewall, VPN, ExpressRoute, and DNS management
+  * Azure Governance & Cost Management: Experience with Azure Policy, Budgets, Cost Management, and FinOps for optimizing cloud expenditures and enforcing compliance
+  * Database Management: Experience managing SQL/NoSQL databases in Azure, including backup strategies, high availability, and performance tuning
+  * Additional Monitoring Tools: Experience with Kibana, Grafana, or other observability tools
+  * Security & Code Analysis Tools: Experience with security scanning tools and code analysis tools like SonarQube
+
+**Responsibilities:**
+
+  * Assisting with establishing a plan that includes collaboration, code, infrastructure, source control, security, compliance, etc.
+  * Assisting in the build-out of the Department’s application portfolio on the Azure public cloud, leveraging cloud-native design, microservice architecture, and containerisation
+  * Create and promote tools that enhance overall productivity and security in an Azure environment
+  * Designing, building, and maintaining efficient, reusable, and reliable Azure infrastructure
+  * Implementing and managing build infrastructure and understanding build automation in the context of .NET 
+  * Implementing, managing, and optimizing the Continuous Integration and Continuous Delivery/Deployment (CI/CD) pipeline with various Azure DevOps tools
+  * Identifying areas and processes to automate and improve the development and release process
+  * Overseeing the release process, working closely with development and operations teams, ensuring deployments, and having contingency plans for rollbacks if required
+  * Troubleshooting and resolving issues or errors in applications proactively
+  * Creating and maintaining policies and procedures related to infrastructure, deployment processes, and standard operation procedures that align with the DevOps philosophy and practices
+  * Implementing backup and disaster recovery strategies to ensure data protection and business continuity
+  * Acting as an internal expert in the assigned system and being aware of what changes have been made to the base system
+
+**We offer:**
+
+  * Interesting and challenging projects
+  * Competitive compensation and regular results-based salary review
+  * A broad range of professional education and personal development possibilities
+  * Comfortable and cozy working environment 
+  * Motivated colleagues with profound knowledge of the technical field
+
+**Accelerate your career with Leobit!**

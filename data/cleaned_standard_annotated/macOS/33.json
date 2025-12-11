@@ -1,0 +1,66 @@
+{
+  "filename": "macOS/33.txt",
+  "text": "Senior iOS Product Engineer — Documents Team\nWe have been delivering a powerful suite of productivity apps for iOS and Mac\nfor many years now, and our Documents app has been on the forefront of making\nfile management usable on iOS devices. The team is looking for a creative iOS\nEngineer to help us deliver the best file manager for iPhone and iPad to\npeople worldwide. You’ll face the most challenging tasks in your career and\nopportunities to make a great impact — build a productivity app, that really\nhelps millions of people.\n\nWhat you’ll do:\n\nImplement new functionality\n\nMaintain and refactor the existing code base\n\nUse and optionally improve infrastructure\n\nEssential for the role:\n\nSwift\n\nCommon programming principles (OOP, POP, SOLID)\n\nArchitectures\n\nCustom UI experience\n\nMultithreading\n\nWill be a plus:\n\nExperience with Objective-C\n\nAlgorithms and Data Structures\n\nCI/CD\n\nAutomated Testing\n\nXcode Instruments\n\nCool things about this role:\n\nRich functionality allows gaining experience in many areas\n\nCooperation with the team of experienced developers to facilitate self-\ndevelopment\n\nOpenness to controlled experiments with new technologies\n\nHealthy atmosphere within the team\n\nYou can learn more about the team at the link: Documents by\nReaddle\n\nWhat will you get:\n\nCustomer-centric culture. We put our customers first. It means that every\nemployee can benefit from interacting with our customers directly. It enables\nus to create and deliver the best solutions for millions of our users\n\nProfessional growth. We are professionals at everything we do. It means we\nown our decisions, our work, and our results. We provide quality feedback to\nothers and welcome feedback as an opportunity to learn and improve\n\nA team of amazing people. The greatest power we have is the team. It means\nwe care about each other, ensure transparency, and invest in everyone’s\nsuccess\n\nImpact on our products. We aim to create valuable products. It means that we\nimprove ourselves constantly by overcoming constraints, simplifying our\nprocesses, and improving our capacity\n\nInnovative culture. We try to be innovative and creative in everything we\ndo. It means that we expect, appreciate and value new ideas",
+  "entities": [
+    [
+      0,
+      6,
+      "EXPERIENCE_LEVEL"
+    ],
+    [
+      7,
+      27,
+      "ROLE"
+    ],
+    [
+      30,
+      44,
+      "COMPANY_NAME"
+    ],
+    [
+      275,
+      287,
+      "ROLE"
+    ],
+    [
+      692,
+      697,
+      "SKILL_HARD"
+    ],
+    [
+      730,
+      733,
+      "SKILL_HARD"
+    ],
+    [
+      735,
+      738,
+      "SKILL_HARD"
+    ],
+    [
+      740,
+      745,
+      "SKILL_HARD"
+    ],
+    [
+      834,
+      845,
+      "SKILL_HARD"
+    ],
+    [
+      879,
+      884,
+      "SKILL_HARD"
+    ],
+    [
+      905,
+      910,
+      "SKILL_HARD"
+    ],
+    [
+      1253,
+      1260,
+      "COMPANY_NAME"
+    ]
+  ]
+}

@@ -1,0 +1,29 @@
+Technical Writer (with Swift background)
+EvoPlay is looking for a skilled technical writer with experience in
+documenting code. The ideal candidate will be responsible for creating well-
+structured and understandable documentation that improves code interaction for
+our developers.
+
+Requirements:
+2+ years of experience in the position of Technical Writer;
+2+ years of experience working with the Swift programming language;
+Experience with JIRA/Confluence;
+Deep understanding of software development processes and related technical
+concepts;
+Ability to work independently and in cooperation with technical teams;
+Attention to detail and commitment to creating high-quality and user-
+friendly documentation.
+
+Nice to have:
+Experience in writing unit tests;
+Experience in the position of QA Engineer will be an advantage.
+
+Responsibilities:
+Create and maintain complete code documentation;
+Collaborate with the development team to translate technical information
+into user-friendly manuals;
+Regularly update documentation to reflect changes in features and software
+updates;
+Make a description of the documentation directly in the code itself;
+Ensure documentation meets standards and best practices, ensuring clarity
+and consistency.

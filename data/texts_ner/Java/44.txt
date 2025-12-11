@@ -1,0 +1,24 @@
+Middle Full-Stack Developer (Jakarta EE+Angular)
+**Our Customer:**  
+Our client is a company working on enterprise software solutions in the retail
+domain.  
+  
+**Required Experience and Skills:**
+
+  * 4+ years of experience in software development;
+  * 3+ years of experience in Java;
+  * Experience with Jakarta EE or Java EE;
+  * 2+ years of experience in frontend development
+  * 1+ years of experience with Angular;
+  * Experience in building REST API;
+  * Background in designing and building microservices;
+  * Familiarity with containerization technologies such as Docker or Kubernetes;
+  * Experience building integration layers between the UI and backend logic using Jakarta EE;
+  * English — Upper-Intermediate or higher.
+
+**Working Conditions:**
+
+  * Remote work;
+  * 5-day working week, 8-hour working day, flexible schedule;
+  * All public holidays are days off;
+  * Vacation and sick leave are covered by the company.

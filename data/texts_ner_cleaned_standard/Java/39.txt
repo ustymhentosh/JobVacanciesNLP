@@ -1,0 +1,87 @@
+Middle/Senior Java Developer
+We are a telecommunications group led by lifecell. We’re the top choice
+for number portability—more customers switch to us from other operators than
+to anyone else. During wartime, we prioritize keeping the country connected:
+we invest in batteries and generators to ensure our base stations operate even
+during power outages.
+
+But lifecell is, above all, about people. More than 4,000 professionals across
+Ukraine work together within our group of companies to advance telecom every
+day. We value initiative, support fresh ideas, and share knowledge. Here,
+you’ll find the stability of the lifecell and Datagroup alliance, the agility
+of a modern business, and the backing of the international holding NJJ
+Capital, which helps each of us grow.
+
+We’re inviting a Java developer to join our team!
+
+Here’s what awaits you:
+
+As Java developer , you and your team, in full stack mode, will be responsible
+for leading new features of various products through to production. You will
+actively participate in all phases of the projects, from design to deployment.
+You will work on the BSS domain of the group’s operators (e-shop, CRM,
+Billing, Self-service Portal, etc.). If you also wish to develop in full
+stack, developments in ReactJS are waiting for you!
+
+Activities:
+
+● Design and development of Java services
+
+● Design and development of Orchestration fl ows using Camunda
+
+● Operate and maintain these services
+
+● Discuss with the product owners to simplify the requirements
+
+● Maintain technical documentation
+
+Skills:
+
+● Proficiency in Java Spring Boot
+● Technical autonomy
+● Rigor, curiosity, versatility, discernment, and computer culture
+● Being proactive
+● Ability to work in a team Languages: technical English
+● Share our values: team spirit, excellence, and curiosity
+● Apply SOLID principles
+
+Stack:
+● Java Sprint Boot + JPA
+● Jenkins + K8s + Helm + ArgoCD
+● Gitlab + JIRA + Confl uence + Nexus + Jenkins + IntelliJ
+
+What we offer:
+
+We value our employees and create all the conditions for a comfortable and
+productive work environment. By joining our team, you’ll receive:
+
+● Official employment with Datagroup Digital from day one, in accordance with
+Ukrainian legislation
+
+● Stability and professional growth: opportunities for career development
+within a large and reliable telecom group
+
+● Guaranteed and timely salary, along with a full social benefits package from
+your first day
+
+● Medical insurance: your health is our top priority
+
+● 24 calendar days of vacation + an extra day off for your birthday
+
+● Hybrid work format: flexibility to combine office and remote work
+
+● Corporate mobile service: stay connected with special employee tariffs
+
+● Continuous development: participation in large-scale infrastructure and
+digital projects. We’re open to new ideas and initiatives
+
+● An inspiring team: collaborate with talented and motivated colleagues who
+support one another
+
+● Social responsibility: engage in volunteer initiatives, support charitable
+projects, youth programs, and environmental efforts
+
+We’re in the midst of transformational processes, which makes your expertise
+especially valuable. Your ideas and fresh perspectives will directly influence
+the company. By working with us, you become part of a strong, modern, and
+dynamic organization that’s already building the telecom of the future.

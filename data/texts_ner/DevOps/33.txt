@@ -1,0 +1,57 @@
+DevOps Engineer (MezePay)
+**About us:**  
+At MezePay, we’re revolutionizing how restaurants in Greece operate. From
+seamless QR-based menus and ordering systems to modern, cloud-first POS
+solutions, we empower hospitality businesses with tools built for the digital
+era. We’re a fast-growing startup on a mission to bring simplicity, speed, and
+efficiency to the traditional restaurant experience — one taverna at a time.
+
+**About the role:**  
+We’re looking for a **DevOps Engineer** to join our founding engineering team
+and shape the infrastructure that powers MezePay’s platform. You’ll be
+responsible for building, automating, and scaling reliable cloud environments
+to ensure our systems stay fast, secure, and always available — from Athens to
+Mykonos and beyond.
+
+**Main responsibilities:**  
+You will be the backbone of MezePay’s reliability and scalability:
+
+  * Build and manage cloud infrastructure (we use GCP, but AWS/Azure experience is also welcome).
+  * Design and maintain CI/CD pipelines for backend, frontend, and mobile deployments.
+  * Manage and monitor Dockerized services using Kubernetes, Terraform, and Helm.
+  * Set up robust logging, monitoring, and alerting systems (Prometheus, Grafana, Loki, or Cloud Logging).
+  * Automate operational tasks to improve delivery velocity and system resilience.
+  * Ensure security best practices — SSL certificates, firewall rules, and secrets management.
+  * Collaborate closely with backend and frontend engineers to optimize delivery pipelines and troubleshoot infrastructure issues.
+
+**Your experience:**  
+We would expect you to have:
+
+  * 3+ years of experience managing infrastructure and deployments in cloud environments.
+  * Hands-on experience with Kubernetes and container orchestration in production.
+  * Proficiency with CI/CD tools (e.g., GitHub Actions, ArgoCD, or CircleCI).
+  * Familiarity with Infrastructure-as-Code tools like Terraform, Pulumi, or Ansible.
+  * Knowledge of networking, security, and scaling best practices.
+  * Experience supporting high-availability systems and real-time applications.
+
+**Nice to have:**
+
+  * Hands-on experience with GCP (especially Cloud Run, GKE, and Cloud SQL).
+  * Helm chart authoring and management.
+  * Database operations (PostgreSQL backups, scaling, replication).
+  * Experience with self-hosted logging stacks (Loki, ELK).
+  * Scripting skills in Bash or Python.
+  * Background in POS or restaurant tech.
+
+**What’s in it for you?**
+
+  * Be the founding DevOps hire and shape our infrastructure from the ground up.
+  * Work on tech that directly impacts restaurants across Greece.
+  * Opportunity to grow into SRE, Platform Engineering, or DevSecOps leadership roles as we scale.
+  * Small, driven, and collaborative team that moves fast and celebrates wins together.
+  * Work directly with the customer, in a culture of ownership and impact.
+  * 20 fully paid vacation days.
+  * 15 fully paid sick leaves.
+  * Paid public holidays.
+  * Compensation for health insurance and sports club membership (after trial period).
+  * Hybrid and remote work flexibility.

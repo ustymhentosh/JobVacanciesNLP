@@ -1,0 +1,31 @@
+Golang Developer
+About Digis
+
+Digis is a European IT company with 200+ specialists delivering complex SaaS
+products, enterprise solutions, and AI-powered platforms worldwide.
+We ensure transparency, stability, and professional growth opportunities for
+all our team members.
+
+About the Project
+
+An AI-powered platform revolutionizing the tourism industry through
+personalization and automation. It enables smart travel experiences with
+intelligent journey design, dynamic packaging, and agentic AI infrastructure
+driving operational efficiency.
+
+Responsibilities:
+
+Own features end-to-end — from specs to deployment and customer support.
+Direct Claude Code to generate SvelteKit frontend and Golang backend code.
+Review AI-generated output for correctness, performance, and architectural quality.
+Fix bugs, learn the codebase, and build new features at a rapid pace.
+Make pragmatic decisions about what to build, buy, or generate with AI.
+Communicate with customers, understand their needs, and ship real fixes fast.
+
+Requirements:
+
+4+ years of hands-on experience with Golang, building and maintaining production-grade applications.
+Strong SvelteKit expertise and ability to review, debug, and improve AI-generated frontend code.
+Proven track record of using Claude Code, Cursor, or other AI-powered coding assistants in real projects — please include examples.
+Solid understanding of modern full-stack architecture, system design, and API integration.
+Product-oriented mindset — you care about the why, not just the how, and make pragmatic technical decisions aligned with business goals.

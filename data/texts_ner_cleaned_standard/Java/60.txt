@@ -1,0 +1,55 @@
+Senior Software Engineer (Java)
+Delasport — Implementing Technological Solutions Here and Now
+
+Delasport is an iGaming Software company providing Sports Betting & Online
+Casino software, and turnkey B2B solutions. Established in 2010, Delasport
+delivers a one-stop-shop solution of Sports Betting and Online Casino from a
+White-Label, with a full range of management services to a Plug&Play iFrame
+and a complete Turnkey. We are establishing an R&D centre in Kyiv, and are
+looking for top talents to join our team.
+
+We are looking for a Senior Java Backend Engineer to help us build a modern,
+distributed system. This role is critical for ensuring scalability,
+performance, and reliability as we rebuild and extend existing functionality.
+You’ll own the end-to-end development process, support the created product,
+and adapt quickly to a dynamic environment with evolving product ownership.
+
+TECHNOLOGY STACK
+
+Microservice architecture, Java 21, Spring Boot 3.4+, PostgreSQL, MongoDB,
+Redis, Apache Kafka, Maven, Google Cloud Platform, Kubernetes
+
+RESPONSIBILITIES
+
+Design and implement scalable APIs and backend services to support high-availability applications
+Drive the full software lifecycle — design, implementation, testing, deployment, and long-term support
+Maintain and optimize systems for performance, reliability, and scalability
+Collaborate with product owners, designers, and engineers in a fast-changing environment to align business goals with technical execution
+Mentor and guide engineers through code reviews, design discussions, and best practices
+
+REQUIREMENTS
+
+5+ years of backend development experience with strong expertise in Java and object-oriented design
+Solid knowledge of design patterns, system architecture, and scalability principles
+Hands-on experience with databases (SQL/NoSQL) and message-driven systems(e.g., Kafka, RabbitMQ)
+Familiarity with containerization and orchestration (Kubernetes, Docker)
+Experience with automated testing (unit, integration, performance)
+Strong track record of building and supporting production-grade, high-load systems
+Ability to thrive in a dynamic, fast-changing environment with shifting requirements and new product stakeholders
+Excellent communication skills and a proactive, ownership-driven mindset
+At least Upper-Intermediate English level
+
+WHAT WE CAN OFFER YOU
+
+Flexibility to work remotely or from our offices in Kyiv or Sofia
+Personal time off (21 business days of paid vacation, paid days on special occasions, sick leaves, emergency days off)
+Public holidays
+Health insurance with the broker, which is available from the first month of cooperation
+Life insurance with the broker, which is available from the first month of cooperation
+Modern technical equipment
+English courses with native speakers
+Ukraine-based educational programs
+Sports activities reimbursement
+Corporate entertainments
+Happy hours in the office on Fridays
+Gig contract support

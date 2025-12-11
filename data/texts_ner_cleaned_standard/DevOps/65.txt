@@ -1,0 +1,50 @@
+DevOps Engineer (part-time)
+We are looking for an experienced DevOps Engineer to join us part-time. You
+will help maintain and scale our infrastructure, improve CI/CD pipelines,
+enhance security, and ensure reliable deployments and monitoring across
+projects.
+
+About us:
+We are an outsourcing IT company building SaaS and HealthTech solutions for
+the US and European markets. Our portfolio includes HIPAA-compliant platforms,
+AI-powered services, analytics dashboards, and mobile apps with millions of
+users. The team consists of senior developers, designers, and engineers
+working with modern technologies and a strong DevOps culture.
+
+Responsibilities:
+Setup and maintain CI/CD pipelines using GitHub Actions, Bitbucket, and
+Azure DevOps
+Containerize and orchestrate environments with Docker and Kubernetes (EKS,
+GKE, k3s)
+Manage infrastructure with AWS, Azure, GCP (primarily AWS, GCP used in
+Firebase-based projects), Terraform, and Ansible
+Implement monitoring, alerting, and logging with Prometheus, Grafana, and
+ELK
+Optimize cloud resources, backups, and security
+Support Dev/Stage/Prod environments for Node.js, Python projects
+
+Requirements:
+
+4+ years of experience in DevOps or Cloud Engineering
+Hands-on experience with AWS, Azure, or GCP
+Strong knowledge of Docker, Kubernetes, Terraform, Jenkins, and CI/CD
+pipelines
+Proficiency in Python, Bash, Go, or PowerShell
+Experience with PostgreSQL, MySQL, MongoDB, and ElasticSearch
+English level Upper-Intermediate
+
+Nice to have:
+
+Proficiency in Python, Bash, Go, or PowerShell
+Experience with HIPAA or GDPR-compliant infrastructure
+Knowledge of Kafka
+
+Knowledge of Serverless
+Background in cloud cost optimization and IAM policies
+
+We offer:
+Flexible part-time schedule (10–20 hours per week)
+Work with an experienced senior team and a modern tech stack
+Hourly or fixed-rate collaboration (negotiable)
+Long-term cooperation potential
+Start ASAP 🚀

@@ -1,0 +1,22 @@
+Middle .NET Developer (3 months)
+We are looking for a self-organised and willing to learn a person who can
+handle tasks under the supervision of senior colleges. We offer a friendly and
+professional environment, interesting and challenging tasks. You will be in
+touch every day with your team members from Ukraine and Canada, participating
+in daily stand up calls and tech calls.
+
+10:30 — 19:00 Kyiv time, full time only. Project involvement for 3 months
+approximately.
+
+Few words about the project.
+We are creating branded multilingual surveys, sending them via email and SMS,
+and collect the data. After that the data is transformed into reports and
+dashboards, numbers and counts are based on a scoring methodology that fits
+with clients’ needs. The reports are fully customisable and allow to filter of
+the data by period type, dates, or client-defined segments.
+
+Who are we looking for? A person with good knowledge ofC#, SQL, MS SQL
+and basic front-end skills for a Full stack .NET middle developer position
+who is able to work with stored procedures, dynamic SQL, jQuery, GIT. You
+should have at least Intermediate English written and speaking skills,
+experience with tracking systems like Jira or Azure DevOps is a plus.

@@ -1,0 +1,74 @@
+Senior Angular Developer
+**About the Client**
+
+Our client is a fast-growing **fintech software company** on a mission to
+transform how people and businesses manage their finances. Their platform
+leverages cutting-edge technology to deliver secure, scalable, and intuitive
+financial solutions — from digital payments to data-driven insights and
+automation.
+
+They value **agility, collaboration, and continuous learning** , and are
+looking for talented engineers who thrive in fast-paced environments and want
+to make a meaningful impact in fintech innovation.
+
+### **Position Overview**
+
+We are seeking an experienced **Angular Developer** to join our client’s
+international team.
+
+In this role, you’ll build **scalable, high-performance web applications** ,
+collaborate closely with product and UX teams, and integrate robust APIs and
+services built on .NET and Azure. You’ll have the opportunity to work across
+the full stack while focusing primarily on front-end development with Angular.
+
+### **Key Responsibilities**
+
+  * Develop modern, responsive web applications using **Angular 17+**.
+  * Build and maintain integrations with **.NET back-end services**.
+  * Collaborate with designers, back-end engineers, and product managers to deliver high-quality features.
+  * Optimize front-end performance, security, and scalability.
+  * Participate in architectural discussions and contribute to technical decisions.
+  * Write clean, maintainable, and testable code.
+  * Stay up-to-date with modern front-end and .NET development trends.
+
+### **Required Qualifications**
+
+  * **4+ years** of professional front-end development experience.
+  * Strong proficiency with **Angular** , **TypeScript** , **HTML5** , **CSS3** , and **JavaScript**.
+  * Experience integrating with **RESTful APIs** and working in **Azure environments**.
+  * Solid understanding of **RxJS** , **NgRx** , or similar state management tools.
+  * Familiarity with **Git** , CI/CD workflows, and agile development processes.
+  * English — **B2 or higher** (strong verbal communication required).
+
+### **Nice to Have**
+
+  * Experience with **unit testing** (Jest, Jasmine, Karma).
+  * Knowledge of **Docker** , **Kubernetes** , or microservices architecture.
+  * Background in **fintech** , **banking** , or other secure systems.
+  * Understanding of **accessibility** and **responsive design** standards.
+  * Proven experience with **C# / .NET 6+** (preferably .NET 8)
+  * Experience with **SQL Server** or **PostgreSQL**.
+
+### **What You’ll Get**
+
+  * **Flexible working hours** and full remote setup.
+  * **Competitive salary** aligned with your experience.
+  * **Professional growth** opportunities and diverse projects.
+  * **Full-time position** with a dynamic, international team.
+  * **Benefits package** including paid vacation and sick leave.
+
+We are not just a team of software development professionals, we are a
+passionate group of innovators who strive to create groundbreaking solutions
+for our clients. Our hearts are filled with pride as we bring our years of
+experience to the table to provide top-quality outsourcing services for
+software development and quality assurance to clients all over the world.  
+We pour our souls into every project we work on, specializing in custom
+software development, web and mobile technologies, and cloud solutions. Our
+technology stack is not just a list of tools, it’s a reflection of our
+dedication to staying ahead of the curve and utilizing the latest advancements
+in technology to deliver unparalleled results.  
+Working with leading companies across various industries, from cloud migration
+consulting to Fin tech, Data analytics, and Farming, we feel a sense of
+fulfillment in solving complex business challenges through our expertise. Our
+goal is not just to provide IT outsourcing and consulting services, but to
+create a lasting impact on the world through the power of technology.

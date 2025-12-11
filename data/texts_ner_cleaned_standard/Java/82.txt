@@ -1,0 +1,82 @@
+Junior Back-end Engineer
+About us:
+We are a product R&D company that creates solutions for the dynamic iGaming
+Ecosystem.
+Our mission is to build cutting-edge platforms that reinvent the iGaming
+industry.
+
+About product
+A scalable, feature-rich iGaming platform focused on continuous product
+evolution and high-quality user experience. The system is built on a modern
+technology stack — Java (Spring Boot) on the backend and JavaScript-based
+(Angular) frontend. The teams are focused on long-term product growth,
+stability, and innovation, working in a mature Agile environment with a strong
+technical culture.
+
+Product Technical Stack:
+Backend: Java 21, Spring Boot 3.0
+Frontend: Angular 19/20, React.js
+Databases & Messaging: PostgreSQL, Kafka, RabbitMQ, Redis
+Cloud & Containerization: AWS, Docker, K8s
+Architecture: Highload Systems, Microservices, Serverless, CDN
+Monitoring & Analytics: Datadog, Grafana, ELK stack, and Big Data solutions
+
+As a Junior Back-End Developer, you will grow from strong fundamentals toward
+professional expertise, working in a high-load and integration-heavy
+environment, side by side with experienced engineers.
+
+Responsibilities:
+
+Writing backend code and tests to deliver reliable features.
+Supporting existing solutions and contributing to new functionality.
+Participating effectively in an agile Scrum team (daily stand-ups, sprint planning, retrospectives).
+Improving code quality through peer reviews, refactoring, and best practices.
+Collaborating with other developers, QA, and stakeholders to design and deliver scalable products.
+Learning and applying new technologies in real projects.
+
+Requirements:
+
+Solid knowledge of Java (core principles)
+Basic understanding of Spring Framework (preferably Spring Boot).
+Knowledge of SQL and ability to write queries.
+Understanding of Object-Oriented Programming concepts.
+Ability to use Git and remote repositories.
+At least Intermediate English level (listening, speaking, reading)
+Motivation and willingness to learn new tools, technologies, and approaches.
+
+Will be a plus:
+
+Experience with JUnit, Flyway, or JDBC Template.
+Familiarity with RESTful APIs and JSON structure.
+Understanding of main design patterns and basic architectural principles.
+Knowledge of multithreading basics.
+Familiarity with Docker and CI/CD concepts.
+Experience with issue-tracking systems (e.g., Jira).
+
+Personal skills:
+
+Self-motivated and reliable team player.
+Open to feedback and eager to improve.
+Proactive mindset — willing to take responsibility and suggest improvements.
+Not afraid to learn from mistakes and share knowledge.
+
+Interview Stages:
+
+1. HR Interview (45 minutes) — Initial conversation to discuss your experience, career goals, and cultural fit.
+2. Technical Interview (1.5 hours) — In-depth technical interview covering relevant skills.
+3. Final Interview (1.5 hours) — A comprehensive discussion with the team, focusing on role-specific competencies and alignment with company values.
+4. Job Offer
+
+What we offer:
+
+A position in a product development company with a dynamic environment and several concurrent projects;
+Opportunity to contribute (your ideas for improvement implementation);
+Team of motivated professionals;
+Continuous self-improvement and growth from Junior to Middle and beyond in a supportive environment,
+Budget for certifications and courses;
+Competitive salary plus financial bonuses for performers;
+Medical insurance coverage;
+English language courses;
+Wellbeing package: online-yoga classes, Yakaboo, BetterMe App: Health Coaching, BetterMe App: Mental Health
+Corporate events and fun team-building activities.
+Remote-first culture: we primarily work remotely, have an office in Kyiv, and provide coworking compensation in other cities during blackouts.

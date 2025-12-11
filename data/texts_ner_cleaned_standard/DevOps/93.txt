@@ -1,0 +1,58 @@
+DevOps Engineer
+BePlay was founded with a clear goal: to create innovative, high-impact
+products that challenge and elevate what’s possible in the industry. We’re
+here to set a new benchmark.
+
+Our team is made up of experienced, driven professionals who bring deep domain
+expertise and a shared ambition to lead through excellence. We believe true
+innovation happens when experts are given both the freedom to experiment and
+the responsibility to deliver real outcomes.
+
+Qualifications:
+
+3+ years of experience working with Linux-based systems
+Experience with scripting languages (Bash, Python)
+Experience with CI/CD tools (Gitlab is preferable)
+Hands-on experience with AWS
+Experience with DB (PostgreSQL, MS SQL), no-SQL DB (Redis, Elasticsearch, Cassandra)
+Experience with streaming and messaging tools (RabbitMQ, Kafka)
+Setting up Vault mechanism (particular tool to be selected) for managing secrets
+Experience in running and managing a Kafka cluster (AWS MSK) and related components(operators/all-in-one/Schema Registry and Kafka Connect)
+Experience with IAC and configuration management tools (Terraform, Ansible)
+Good knowledge of containerization and virtualization
+Practical experience in Kubernetes (provisioning and supporting clusters in the cloud), writing and maintaining Helm charts
+Strong experience with Docker, kaniko
+Monitoring: Prometheus/VictoriaMetrics + AlertManager + Grafana, EFK stack
+Upper-Intermediate level of English
+
+Responsibilities:
+
+Create and maintain CI/CD pipelines(self-hosted Gitlab, Gitlab componets is a plus)
+IaC in AWS using Terragrunt(for VM configuration — ansible, as we have too few standalone VMs)
+EKS management and maintain(for GitOps FluxCD, for autoscaling Karpenter)
+Basic helm charting(we use universal chart for out componets)
+Continuously develop observability and alerting( we use VictoriaMetrics stack for observabiltiy + Victoria Logs for logging, Elaticsearch/Kibana+Vector is a plus)
+Participate in engineering discussions and future products development (knowledge of CDN based on any of nginx/traefik/envoy is a plus — we use custom Traefik middleware in golang)
+Write documentation and howtos(MD format is more than enough)
+VPN (pritunl AND/OR Tailscale)
+
+We offer:
+
+20 working days of annual paid vacation.
+15 working days of annual paid sick leave.
+Public holidays off.
+An incredible chance to contribute to the company’s history.
+Professional development alongside the company’s growth.
+Open communication and a feedback-driven culture focused on your achievements and challenges because we truly care.
+We are a remote company, which means you can work from anywhere in the world.
+
+If you’re passionate about digital art and want to make an impact in the
+gaming and iGaming industry, we encourage you to apply!
+
+Thank you for considering an opportunity with our team.
+Each application we receive is thoroughly evaluated by our hiring managers. If
+we do not reach out to you within 5 business days, it indicates that we are
+unable to proceed with your candidacy at this moment.
+We genuinely value your interest in our company and will retain your
+information for any future roles that may better match your experience and
+qualifications.

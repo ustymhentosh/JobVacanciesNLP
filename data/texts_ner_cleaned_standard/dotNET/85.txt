@@ -1,0 +1,71 @@
+Junior Full Stack Developer (C#, Vue)
+Softwarium is an outsourcing company that develops software for clients in the
+USA, Canada, and Europe across industries such as social services, healthcare,
+energy, and security.
+
+We are currently seeking a Junior Full Stack Developer to join our team
+and contribute to an innovative web application designed for collecting,
+processing, and maintaining documents that support the registration of various
+commercial transactions in the US market.
+
+Our client is a leading mortgage and financial services provider that
+specializes in streamlining and automating complex financial workflows. The
+company is actively expanding its IT department to strengthen digital
+transformation initiatives. By integrating AI, machine learning, and data
+extraction technologies, the client aims to improve decision-making accuracy,
+accelerate loan processing, and enhance the overall customer experience. You
+will be joining a dynamic environment where innovation, data-driven solutions,
+and modern technologies play a key role in shaping the future of financial
+services.
+
+Tech Stack: C#, JavaScript, Vue.js, MS SQL, SQL
+
+Required skills and qualifications:
+
+At least 2+ years of commercial development experience with C#;
+
+Experience in commercial development using Vue.js;
+
+Solid knowledge of SQL and ability to work with relational databases;
+
+Intermediate English;
+
+Self-motivated, responsible, and capable of working independently while
+maintaining high attention to detail and code quality.
+
+It will be a plus:
+
+Experience working with TypeScript or willingness to learn it;
+
+Basic understanding of .NET framework and back-end principles;
+
+Curiosity about AI tools and automation technologies that improve
+development efficiency.
+
+Responsibilities:
+
+Develop and support new features for the project, such as forms, reports,
+and integrations.
+
+Contribute to UI improvements, including visual updates and optimization of
+existing pages.
+
+Collaborate with other developers and the client’s team, actively sharing
+ideas and participating in discussions.
+
+Learn and grow by participating in code reviews, working with experienced
+mentors, and improving technical skills.
+
+Be proactive in communication, suggesting improvements and helping to
+maintain a positive team atmosphere.
+Working conditions:
+
+🏠 Remote work;
+
+⚖️ Work & life balance is our credo. No overtime;
+
+🚀 Learning & Development program: a team of senior developers, individual
+budget for professional development (trainings and events, certification);
+
+💶 You can always count on paid vacation (20 working days), sick leave (10 paid
+days), and holidays.

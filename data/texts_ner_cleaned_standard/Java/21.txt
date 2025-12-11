@@ -1,0 +1,41 @@
+Java Support Engineer
+We are looking for a skilled Java Developer with strong problem-solving
+skills and experience handling complex production or support cases. This role
+combines investigative support work with hands-on development. You
+will analyze and reproduce tricky customer issues, dig into logs and source
+code, collaborate with other teams to identify root causes, and occasionally
+develop hotfixes or improvements.
+
+Project Description:
+Our partner, an EU-based company, has an opening for a Senior Java/Kotlin
+Developer. You will be responsible for building a robust, cloud-based
+Financial Planning and Analysis (B2B) solution using new and widely spread
+technologies. You will have a chance to join the expert team working on the
+maintenance and development of the customer project management system doing a
+budget process on top of it.
+
+Responsibilities:
+
+Investigate and reproduce complex issues reported by customers or QA.
+Analyze logs, stack traces, and application behavior to identify root causes.
+Collaborate with developers, QA, and support teams to clarify problems.
+Provide technical guidance or workarounds when immediate fixes aren’t possible.
+Develop and test hotfixes or minor enhancements when time allows.
+Document findings, solutions, and create internal knowledge base entries.
+Participate in improving support tools, diagnostic scripts, and internal processes.
+
+Requirements:
+
+Strong experience with Java (8 or higher) , Spring / Spring Boot, and REST APIs.
+Familiarity with relational databases (e.g. SQL Server, PostgreSQL, MySQL).
+Solid understanding of debugging tools , logging (SLF4J, Logback, etc.), and profiling.
+Experience working with support tickets , bug reproduction, or production troubleshooting.
+Comfortable reading large codebases and tracing logic across modules.
+Good spoken and written English (B2 level or higher) — required for daily communication.
+Experience with Git, Maven/Gradle, and basic CI/CD understanding.
+
+Nice to have:
+
+Experience with OData, RabbitMQ, or similar integration technologies.
+Knowledge of microservices and containerization (Docker).
+Previous experience in L2/L3 support or maintenance engineering roles.

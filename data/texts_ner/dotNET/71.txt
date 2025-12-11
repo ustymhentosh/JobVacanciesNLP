@@ -1,0 +1,30 @@
+Junior .NET Developer
+We are looking for a talented **Junior .NET Developer** to join our growing
+team. You will collaborate with experienced developers to design, develop, and
+maintain reliable and efficient applications using the .NET framework.
+
+**Requirements:**
+
+  * Knowledge of C#, .NET Core, ASP.NET Core 
+  * Some experience in .NET web application development 
+  * Good understanding of OOP, OOD, and basic design patterns 
+  * Understanding of multi-layer application structure 
+  * Basic knowledge of relational and NoSQL databases 
+  * Basic knowledge of Git 
+  * Upper-Intermediate English level 
+  * Highly motivated to learn, develop functionality, and write clean, efficient code 
+
+**Responsibilities:**
+
+  * Develop web-based applications using .NET Core 
+  * Customize and enhance existing applications according to customer needs 
+  * Collaborate with team members and stakeholders to implement new features and improvements 
+  * Create and maintain clear and structured technical documentation 
+
+**We offer:**
+
+  * Collaborative Environment: Join a team that values collaboration, creativity, and mutual respect 
+  * Career Growth: Performance reviews and constructive feedback 
+  * Generous Time Off: 20 paid vacation days and 15 sick leave days annually, ensuring you have the time to recharge 
+  * Professional Development: We support your growth by compensating for courses, certifications, and other educational opportunities 
+  * Flexible Work Options: Work remotely from the comfort of your home or join us in our modern Kyiv office

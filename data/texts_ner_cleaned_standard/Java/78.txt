@@ -1,0 +1,34 @@
+Senior Backend Specialist
+Technical Requirements
+Minimum of 5 years of experience in developing backend functionalities using
+Java;
+Experience/knowledge with Quarkus;
+Strong experience with microservices architecture;
+Experience with RESTful & Reactive APIs and their integration;
+Experience with SQL databases and SCM systems such as Git/GitLab;
+At least 2 years of experience in DevOps, particularly in CI/CD and
+container management;
+Familiarity with agile methodologies (Scrum, Kanban) and DevOps practices;
+High degree of independence, attention to detail, and strong quality
+awareness;
+Strong team and communication skills, with the ability to work in
+interdisciplinary teams;
+Excellent English skills.
+
+Responsibilities
+Develop and optimize backend functionalities using modern technologies
+(Java, Microservices, Kubernetes);
+Monitor and troubleshoot systems using Prometheus, Grafana, and Graylog;
+Design and implement scalable, high-performance, and secure applications;
+Develop and maintain RESTful & Reactive APIs, including documentation;
+Debug, troubleshoot, and optimize system performance;
+Collaborate with QA and DevOps teams to ensure smooth CI/CD processes;
+Ensure code quality through code reviews, unit & integration tests, and best
+practices;
+Work closely with architects and other developers to continuously improve
+the software solution;
+Evaluate new technologies and their application in the project context.
+
+Nice to Have
+Experience in developing frontend web solutions with React;
+Good knowledge of German.

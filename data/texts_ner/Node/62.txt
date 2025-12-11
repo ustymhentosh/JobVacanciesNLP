@@ -1,0 +1,58 @@
+Senior Node.js Developer [USA project]
+**We’re looking for an experienced Senior Node.js Developer to join our team
+for a project from the USA — a B2B SaaS platform that delivers deep insights
+into team productivity and workflow optimization. The solution helps companies
+support hybrid work and improve operations through data-driven
+analytics.******
+
+**Requirements:**
+
+  * 6+ years of professional software development experience
+  * 3+ years of hands-on experience with Node.js
+  * Strong knowledge of JavaScript and TypeScript
+  * Solid understanding of asynchronous programming
+  * Experience working with databases, preferably NoSQ
+  * Confidence in writing and maintaining automated tests
+  * Understanding of scalable and secure backend systems
+  * Experience with microservices or distributed systems is a plus
+  * Upper-intermediate or higher level of English
+
+**Nice to Have:**
+
+  * Experience with ElasticSearch, MongoDB, or Kafka
+  * A background in microservices architecture and distributed systems
+  * Comfort with real-time communication technologies such as WebSockets
+  * Familiarity with front-end technologies such as Angular, HTML, and CSS
+
+**Responsibilities:**
+
+  * Develop and maintain backend services using clean, efficient, and scalable code
+  * Optimize system performance, reliability, and scalability
+  * Write and maintain unit, integration, and other automated tests
+  * Refactor and improve existing code and architecture
+  * Ensure best practices in backend development, security, and compliance
+  * Collaborate with cross-functional teams including frontend, DevOps, and product
+  * Participate in code reviews, documentation, and mentorship
+
+**Interview stages:**
+
+  * HR interview (30 minutes).
+  * Technical interview (1 hour).
+  * Interview with the customer (1 hour).
+  * Job offer 🎉🎉🎉
+
+**We offer:**
+
+  * Competitive salary.
+  * Challenging tasks and projects.
+  * Opportunities for professional development and growth.
+  * Flexible working hours.
+  * New hardware.
+  * Free English lessons.
+  * Table tennis and yoga classes.
+  * Availability of generators and Starlinks in the office.
+  * Small gym in the office.
+  * Adjustable height tables.
+  * Regular office fruit delivery and other benefits.
+
+**Let’s create value together!**

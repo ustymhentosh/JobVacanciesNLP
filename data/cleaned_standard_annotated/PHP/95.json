@@ -1,0 +1,61 @@
+{
+  "filename": "PHP/95.txt",
+  "text": "PHP Developer\n4+ years of experience with PHP and Symfony\nProficiency in designing, modeling, and using REST APIs\nSolid experience with relational databases, preferably MySQL or MariaDB\nDeep understanding of Object-Oriented design (e.g., SOLID Principles) and\ncaching\nStrong skills in automated testing\nProficiency with Git\nLevel of English — Upper-Intermediate and higher",
+  "entities": [
+    [
+      0,
+      3,
+      "SKILL_HARD"
+    ],
+    [
+      0,
+      13,
+      "ROLE"
+    ],
+    [
+      14,
+      22,
+      "EXPERIENCE_YEARS"
+    ],
+    [
+      42,
+      45,
+      "SKILL_HARD"
+    ],
+    [
+      50,
+      57,
+      "SKILL_HARD"
+    ],
+    [
+      104,
+      113,
+      "SKILL_HARD"
+    ],
+    [
+      169,
+      174,
+      "SKILL_HARD"
+    ],
+    [
+      178,
+      185,
+      "SKILL_HARD"
+    ],
+    [
+      285,
+      302,
+      "SKILL_SOFT"
+    ],
+    [
+      320,
+      323,
+      "SKILL_HARD"
+    ],
+    [
+      343,
+      361,
+      "ENGLISH_LEVEL"
+    ]
+  ]
+}

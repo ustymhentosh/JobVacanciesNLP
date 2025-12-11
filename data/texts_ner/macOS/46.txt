@@ -1,0 +1,54 @@
+Endpoint Engineer (MacOS or Windows)
+**About the Company:**
+
+Our client is a San Francisco-based cybersecurity startup helping
+organizations secure and manage sensitive data. Their AI-powered platform
+discovers, classifies, and protects sensitive data across cloud apps,
+infrastructure, and internal systems, preventing leaks and ensuring
+compliance.
+
+**About the Product:**  
+The first AI-native data leak prevention (DLP) solution, designed for modern
+enterprises. It protects sensitive data across SaaS, email, endpoints, and AI
+tools with high accuracy and minimal disruption. The Developer Platform allows
+flexible integration of data protection capabilities.
+
+**About the Role:**  
+As a Backend Engineer, you’ll build low-latency, real-time microservices for
+detecting sensitive data. This team focuses on data exfiltration prevention on
+endpoints (MacOS or Windows), developing core platform features using deep OS-
+level knowledge.
+
+**Requirements:**
+
+  * Minimum 5+ years of related work experience.
+  * Expertise in one of the following: Objective-C, Swift on MacOS or C/C++ on Windows.
+  * Demonstrable expertise in developing agents on one of MacOS or Windows:
+
+  * On MacOS, practical development experience with **Endpoint Security System Extension** is required. A plus will be knowledge of**IOKit and of MacOS VFS model.**
+  * On Windows, practical development experience with WDF (Windows Driver Frameworks), filter drivers and familiarity with user mode apps is required.
+
+  * Readiness to learn other systems languages (e.g. Rust, Go, Python). Prior experience in one of these languages is a definite plus.
+  * Experience with kernel-level debugging processes and tools. Ability to use reverse engineering techniques and debugging of kernel space code.
+  * Ability to decompose complex business problems and own them end to end across teams.
+  * Upper-Intermediate English.
+
+**Responsibilities:**
+
+  * Designing and developing data exfiltration prevention apps, drivers, system extensions and services on MacOS or Windows.
+  * Maintaining and evolving mission-critical agents on endpoints.
+  * Own complex features from design to delivery and troubleshoot issues from customers.
+  * Designing and building secure software with cross-platform deliverables (Windows, MacOS).
+  * Writing and maintaining documentation about internal and public services.
+
+**What we offer:  
+**
+
+  * Long-term employment with competitive compensation, based on experience.
+  * Possibility to work remotely.
+  * An open, transparent and fun work culture.
+  * Multi-national team and collaborative work environment.
+  * Continuous knowledge sharing with engaged co-workers.
+  * Career and professional growth opportunities.
+
+****

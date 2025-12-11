@@ -1,0 +1,49 @@
+Tech Lead Node.js
+FAVBET Tech develops software that is used by millions of players around
+the world for the international company FAVBET Entertainment.
+We develop innovations in the field of gambling and betting through a complex
+multi-component platform which is capable to withstand enormous loads and
+provide a unique experience for players.
+FAVBET Tech does not organize and conduct gambling on its platform. Its
+main focus is software development.
+
+Main areas of work:
+
+Betting/Gambling Platform Software Development — software development that is easy to use and personalized for each customer.
+Highload Development — development of highly loaded services and systems.
+CRM System Development — development of a number of services to ensure a high level of customer service, effective engagement of new customers and retention of existing ones.
+Big Data — development of complex systems for processing and analysis of big data.
+Cloud Services — we use cloud technologies for scaling and business efficiency.
+
+Requirements:
+
+7+ years of professional experience with NodeJS.
+2+ years of experience in a leadership position.
+Strong understanding of software design principles and architectural patterns.
+Proven expertise in cloud computing, specifically with AWS, and hands-on experience with containerisation technologies like Docker and orchestration tools like Kubernetes.
+Demonstrated leadership skills with the ability to manage and motivate a diverse team of technical professionals.
+Solid understanding of the technical and regulatory challenges in the online gambling industry.
+Experience with Agile/Scrum methodologies and a commitment to adopting agile practices in team management and product development.
+Excellent problem-solving skills.
+Expertise in overseeing large-scale, multifaceted projects.
+Skilled at inspiring, mentoring, and managing diverse, remote teams.
+Experienced in setting performance metrics, monitoring team performance, and providing constructive feedback to promote personal and professional growth of team members.
+Effective in managing and leading change within the team and projects, helping team members adjust to and embrace new technologies, processes, and strategies to improve overall outcomes.
+
+Responsibilities:
+
+Leadership and Project Oversight: Direct and oversee the development team, ensuring effective implementation of new features and systems according to business requirements.
+System Design and Development: Independently design and develop system architectures, ensuring integration and alignment with company goals.
+Performance Optimization: Optimize system performance through advanced configurations in PostgreSQL and RabbitMQ.
+Quality Assurance and Testing: Lead the creation and maintenance of comprehensive test strategies to ensure high-quality software development.
+Strategic Planning and Execution: Develop strategic plans for technology implementation and oversee their execution, ensuring alignment with long-term business objectives.
+Post-production monitoring and analyzing.
+Keep services in acceptable level. Learning from deploys, future improvements based on the results obtained.
+
+We offer:
+
+30 days off — we value rest and recreation;
+Medical insurance for employees and the possibility of training employees at the expense of the company and gym membership;
+Remote work or the opportunity — our own modern lofty office with spacious workplace, and brand-new work equipment (near Pochaina metro station);
+Flexible work schedule — we expect a full-time commitment but do not track your working hours;
+Flat hierarchy without micromanagement — our doors are open, and all teammates are approachable.

@@ -1,0 +1,17 @@
+Golang Developer
+— Apache/Kafka  
+— Git  
+— Golang/Go: The Go programming language  
+— gocolly/colly: Elegant Scraper and Crawler Framework for Golang  
+— gofiber/fiber: Express inspired web framework written in Go  
+— labstack/echo: High performance, minimalist Go web framework  
+— gRPC: C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)  
+— NoSQL:  
+— mongodb: The MongoDB Database  
+— elastic’elasticsearch: Free and Open Source, Distributed, RESTful Search
+Engine  
+— redis: An in-memory key-value data structure store.  
+— SQL:  
+— mysql-server: MySQL Server, the world’s most popular open source database,
+and MySQL Cluster, a real-time, open source transactional database.  
+— postgres

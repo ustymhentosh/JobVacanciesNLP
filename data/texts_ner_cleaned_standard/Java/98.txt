@@ -1,0 +1,46 @@
+Middle Java Fullstack Software Engineer for AI smart hotel solution
+About the Client
+
+Our client company was founded in Amsterdam, the Netherlands, in 2018. We’ve
+noticed that there is an enormous gap between hotels, on the one hand, and new
+technologies on the other. Our goal is to improve and support hotels’ online
+performance through the use of innovative solutions. The project combines
+innovative technology, marketing expertise, and sales techniques in order to
+offer a smart, high-performance tool. Our solution includes a set of multiple
+features: personalized notifications, social proof messages, smart pop-ups,
+interactive dashboard, and automated data-driven recommendations which improve
+the user experience and create an instant impact on your conversion rate and
+direct bookings. Our team is composed of marketing professionals, experts in
+the online hotel industry, as well as software developers.
+
+They have worked for companies such as Expedia,
+Booking.com and Google. We guarantee that your hotel can
+benefit from the same practices as these major platforms, even on a lower
+budget. Contact us today to find out how you can maximize your potential.
+Project details
+
+Work on a few existing products: webstie conversion tool and ads’ analytics
+tool.
+Your Team
+
+Work under supervision of CTO and Middle Full-Stack Engineer from Brightgrove
+side, potential communication with support team.
+Responsibilities
+
+Develop and maintain web applications using Java and Angular.
+Implement and optimize RESTful APIs and backend services.
+Build responsive, user-friendly UI components and integrate them with backend.
+Write clean, efficient, and testable code following best practices.
+Debug, troubleshoot, and resolve technical issues across the stack.
+Collaborate with support
+Skills
+
+Experience: 3–5 years of professional experience in full-stack development.
+Backend: Strong knowledge of Java (Spring/Spring Boot, REST APIs, Hibernate/JPA).
+Frontend: Good skills with Angular (components, services, RxJS, TypeScript, HTML/CSS).
+Databases: SQL (e.g., PostgreSQL, MySQL)
+Testing: Familiarity with unit and integration testing (JUnit, Jasmine/Karma).
+Tools: Git, Maven/Gradle, CI/CD basics.
+Soft skills: Problem-solving, communication, ability to work in a team and follow agile practices.
+Optional/nice-to-have: Knowledge of cloud platforms (AWS, GCP)
+Fluent English

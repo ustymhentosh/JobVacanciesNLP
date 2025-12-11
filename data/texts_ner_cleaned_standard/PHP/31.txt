@@ -1,0 +1,87 @@
+Backend Engineer (Mobile Team)
+ABOUT US
+
+BetterMe is a health & wellness platform providing a tailored holistic
+approach to well-being. Since 2017, we have been on a mission to create a
+healthier world for everyone, regardless of age, sex, physical ability, or
+background.
+Our goal is to make healthy lifestyle accessible to everyone so they can
+achieve long-term health benefits.
+
+ABOUT THE ROLE
+
+We are seeking a skilled Backend Engineer with expertise in PHP to join our
+team. In this role, you will focus on developing new product features,
+enhancing existing applications, and ensuring the reliability and scalability
+of our backend systems. You will work with a modern tech stack and play a key
+part in our ongoing transition from a monolithic architecture to
+microservices.
+
+ABOUT YOU:
+
+5+ years of experience in backend development in total;
+Experience with PHP 8.0+ with OOP skills, using frameworks like Symfony or Laravel;
+Motivation to work with both PHP and Go backends (~ 90% PHP / 10% Go for now);
+Experience with relational databases — MySQL and/or PostgreSQL;
+Experience with in-memory storage and caching (e.g., Redis, AWS Elastiсache, etc.);
+Experience with Linux environments, CI/CD pipelines, Docker containers, and background job processing;
+Experience with asynchronous communication via tools like RabbitMQ, Apache Kafka, or Amazon SQS;
+Hands-on experience with microservices architecture (communication, patterns, development process) and developing REST APIs;
+Practical understanding of software design principles and best practices (SOLID, design patterns, 12-Factor App methodology);
+Ability to write and maintain unit tests (e.g., using PHPUnit) and ensure high code coverage for new code;
+Fast learner with a strong desire to continually acquire new knowledge, and excellent problem-solving skills.
+
+WOULD BE A PLUS:
+
+Experience with distributed systems and high-load services;
+Experience with cloud and container orchestration tools: AWS services, Kubernetes/Helm, and service mesh technologies like Istio;
+Experience with search engine technologies (e.g., Elasticsearch, OpenSearch, or Apache Solr);
+Familiarity with Clean Architecture software design philosophy or DDD;
+Ability to document requirements and create architectural diagrams (using PlantUML or Mermaid);
+Excellent communication and collaboration skills. Proactive approach to identifying and solving complex problems.
+
+YOUR IMPACT:
+
+Design and implement backend features from conception through to deployment, ensuring they meet strategic business objectives;
+Write clean, secure, testable, scalable and well-documented product or system code;
+Actively participate in multiple aspects of the SDLC, including planning, development, testing, and deployment;
+Work closely with product, client, and other cross-functional teams to deliver high-quality features and resolve integration issues;
+Review code developed by other developers and provide feedback to ensure best practices (e.g., style guidelines, checking code in, accuracy, testability, and efficiency);
+Contribute to backend architecture decisions, including the transition from monolith to microservices;
+Triage product or system issues and debug/track/resolve by analyzing the sources of issues and the impact on hardware, network, or service operations and quality.
+
+Our mission is creating happiness within since we believe that having your
+mind and body in complete harmony is key for overall health and quality of
+life. We plan to capture the growth of the Global Health Market, and our ideal
+candidate will focus on building the largest health tech company in the world.
+💪
+
+The success of the product became possible through the hard work and
+dedication of 400+ talented and forward-thinking employees who are true
+experts in their field. We’re one of the biggest partners of Facebook, Google,
+Snapchat & Twitter within the CEE region.🌎
+
+Our company is built on the ability to find the best people and provide them
+with everything needed to stay focused on what’s important to make our users
+even healthier, sportier, happier and better! We create a business
+environment that brings up the best in everyone. We have no bureaucracy, and
+we give our colleagues complete freedom to make decisions and achieve
+brilliant results. 🚀
+
+Competitive salary. Compensation that will help you focus on your projects
+and personal development.
+Professional Growth. We offer a possibility to attend internal, external
+courses, seminars, and access to a corporate library. You will be working with
+a team of professionals to get insights and discuss ideas.
+Comfortable working environment. We provide all necessary work equipment
+for your role and serve complimentary breakfasts, lunches, and snacks in the
+Kyiv office.
+Health &Fitness. We provide employees with 20 days of paid vacation,
+medical insurance and a variety of sports activities available for employees
+inside and outside the office.
+Rest. We organize team buildings, parties and various team activities to
+boost our collaboration.
+
+Find more about us on social media platforms:
+Instagram,
+LinkedIn.

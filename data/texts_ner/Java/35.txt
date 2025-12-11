@@ -1,0 +1,91 @@
+Senior Java Engineer (772)
+**Ciklum** is looking for a **Senior Java Engineer** to join our team full-
+time in Ukraine.
+
+We are a custom product engineering company that supports both multinational
+organizations and scaling startups to solve their most complex business
+challenges. With a global team of over 4,000 highly skilled developers,
+consultants, analysts and product owners, we engineer technology that
+redefines industries and shapes the way people live.
+
+## About the role:
+
+As a Senior Java Engineer, become a part of a cross-functional development
+team engineering experiences of tomorrow.
+
+The Client is an innovative trading platform and digital wallet targeted at
+the sophisticated trader. With a strategic vision to be the go-to digital
+wallet of choice for sophisticated FX and crypto traders, a critical success
+factor will be best in class design, user experience and functionality.  
+The business plans to launch a digital wallet with a charging engine to
+provide new functionalities for sophisticated traders. This initiative will
+offer seamless integration to Google Pay and Apple Pay, activate a
+monetization strategy, and establish a scalable foundation for expansion
+across Asia and the Americas.
+
+## Responsibilities:
+
+  * Write highly testable, automatable and performant code over the whole SDLC using high coding standards and software best practices
+  * Develop product, deliver features and updates according to the product roadmap
+  * Develop and review feature design documents and provide inputs/update to specifications for the solutio
+  * Participate in the team activities according to the methodology — daily meetings, planning, retrospectives etc.)
+  * Сoach/supervise middle/junior engineers by demand of the project
+
+## Requirements:
+
+  * Software Design:
+  * Use of best practices and patterns during application design and implementation
+  * Hands-on experience with monolith, microservice, and serverless architectural styles
+  * Software development:
+  * In-depth proficiency level in Java, implementing applications using defensive programming
+  * Successful cases in developing web applications using advanced framework features and industry standard conventions
+  * Practical experience in writing and performance tuning of complex SQL
+  * Experience with RabbitMQ, Kafka
+  * Experience with Docker
+  * Quality Assurance:
+  * In-depth proficiency level in JUnit, Mockito, JMeter
+  * Previous participation in constant quality improvement on the project: conducting code reviews, setting up quality metrics, and monitoring
+  * Experience with SpringBoot, Maven
+  * Software Deployment:
+  * Hands-on experience with application deployment patterns and tools
+  * Practical experience in infrastructure configuration using popular cloud providers
+  * Experience with AWS, Step Function, EC2, Amazon RDS, Amazon Aurora, API Gateway, Lambda, S3, SQS
+  * Experience with GitHub Action
+
+## Desirable:
+
+  * Knowledge of Modulr
+  * Knowledge of finance domain
+  * Experience in configuring application security aspects
+  * Practical experience in application performance optimization
+
+## What’s in it for you?
+
+  * **Strong community:** Work alongside top professionals in a friendly, open-door environment
+  * **Growth focus:** Take on large-scale projects with a global impact and expand your expertise
+  * **Tailored learning:** Boost your skills with internal events (meetups, conferences, workshops), Udemy access, language courses, and company-paid certifications
+  * **Endless opportunities:** Explore diverse domains through internal mobility, finding the best fit to gain hands-on experience with cutting-edge technologies
+  * **Flexibility:** Enjoy radical flexibility — work remotely or from an office, your choice
+  * **Care:** We’ve got you covered with company-paid medical insurance, mental health support, and financial & legal consultations
+
+## About us:
+
+At Ciklum, we are always exploring innovations, empowering each other to
+achieve more, and engineering solutions that matter. With us, you’ll work with
+cutting-edge technologies, contribute to impactful projects, and be part of a
+One Team culture that values collaboration and progress.
+
+As one of Ukraine’s largest IT companies and a top employer recognized by
+Forbes, we’ve spent over 20 years delivering meaningful tech solutions. We
+proudly support diverse talent and military veterans, recognizing their unique
+skills and perspectives they bring to shaping the future.
+
+Want to learn more about us? Follow us on **[
+_Instagram_](https://www.instagram.com/ciklum/),
+[_Facebook_](https://www.facebook.com/Ciklum/),
+[_LinkedIn_](https://www.linkedin.com/company/ciklum/)**.
+
+**Explore, empower, engineer with Ciklum!**
+
+Interested already? We would love to get to know you! Submit your application.
+We can’t wait to see you at Ciklum.

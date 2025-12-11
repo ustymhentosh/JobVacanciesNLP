@@ -1,0 +1,87 @@
+Full Stack .NET/Angular Developer
+IT Craft запрошує Full Stack .NET / Angular розробника приєднатися до нашої
+команди та долучитися до одного з поточних проєктів.
+
+Цей проєкт дає можливість розвивати технічну експертизу, працюючи з актуальним
+стеком технологій і залучаючись до повного циклу розробки — від створення
+нових модулів та участі в code review до підтримки наявного функціоналу й
+оптимізації рішень. Ви зможете пропонувати покращення, ділитися ідеями з
+командою та зростати разом із колегами.
+
+Вимоги:
+
+2+ роки комерційного досвіду розробки з використанням C#, .NET 6/7+ та ASP.NET Core;
+1+ рік досвіду роботи з Angular;
+Досвід роботи з SQL Server і Dapper;
+Досвід створення та підтримки RESTful Web API;
+Глибоке розуміння принципів архітектури програмного забезпечення — SOLID, Clean Architecture, DDD, Dependency Injection;
+Досвід роботи з технологіями реального часу (SignalR або інші WebSocket frameworks);
+Досвід налаштування CI/CD-пайплайнів (наприклад, Azure DevOps, GitHub Actions чи подібних інструментів);
+Досвід використання інструментів логування та моніторингу, таких як Serilog і Sentry;
+Розуміння принципів використання Razor Pages як шаблонізатора для динамічного створення HTML-листів і PDF-документів;
+Досвід реалізації аутентифікації та авторизації з використанням OAuth2, OpenID Connect, JWT;
+Знання підходів до безпечної розробки API (rate limiting, input validation, XSS/injection protection), розуміння OWASP Top 10 і впровадження HTTPS/TLS;
+Досвід роботи з Jira;
+Знання та застосування принципів Agile / SCRUM;
+Розвинене аналітичне мислення, комунікаційні навички та вміння працювати в команді;
+Рівень англійської — не нижче Intermediate, письмова та розмовна.
+
+Буде плюсом:
+
+Досвід роботи з SonarQube, Sentry або AlertLogic;
+Знання інструментів для презентацій — Miro, PowerPoint.
+
+IT Craft пропонує:
+
+Конкурентну оплату відповідно до кваліфікації;
+Гнучкий графік, дистанційну роботу;
+Можливість кар’єрного росту;
+Компенсацію для занять спортом;
+Внутрішнє навчання з англійської мови;
+Дружню команду відкритих людей.
+
+Надсилайте, будь ласка, ваше резюме.
+
+IT Craft is looking for a Full Stack .NET / Angular Developer to join our team
+and contribute to one of our ongoing projects.
+
+The project provides an opportunity to enhance your technical expertise while
+working with a relevant technology stack and being involved in the full
+development cycle — from building new modules and participating in code
+reviews to maintaining existing functionality and optimizing solutions. You’ll
+be able to propose improvements, share ideas with teammates, and grow together
+with the team.
+
+Requirements:
+
+2+ years of hands-on experience in commercial development using C#, .NET 6/7+, and ASP.NET Core;
+1+ year of experience working with Angular;
+Experience working with SQL Server and Dapper;
+Experience in building and maintaining RESTful Web APIs;
+Strong understanding of software architecture principles — including SOLID, Clean Architecture, DDD, and Dependency Injection;
+Experience in real-time communication using SignalR or other WebSocket-based frameworks;
+Experience configuring CI/CD pipelines (e.g., Azure DevOps, GitHub Actions, or similar tools);
+Experience using logging and monitoring tools such as Serilog and Sentry;
+Understanding of how to use Razor Pages as a templating engine for dynamically generating HTML emails and PDF documents;
+Experience implementing Authentication & Authorization using OAuth2, OpenID Connect, and JWT;
+Knowledge of secure API development practices (rate limiting, input validation, XSS/injection protection), awareness of OWASP Top 10, and enforcing HTTPS/TLS;
+Experience using Jira for task management;
+Familiarity with Agile and SCRUM practices;
+Strong analytical thinking, communication, and teamwork skills;
+English level: at least Intermediate, both spoken and written.
+
+Will be a plus:
+
+Experience working with SonarQube, Sentry, or AlertLogic;
+Familiarity with presentation tools such as Miro or PowerPoint.
+
+IT Craft offers:
+
+Competitive compensation according to the qualifications;
+Flexible working hours, remote work;
+Opportunity for career growth;
+Compensation for technical courses, educational resources and sport;
+In-house English training;
+A friendly team of open-minded people.
+
+Please send your CV.

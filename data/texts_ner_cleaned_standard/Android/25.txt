@@ -1,0 +1,36 @@
+Strong Middle-Sr Android Developer
+We develop the front-end (web, native Android and iOS applications) for own
+modern online banking. We use Kotlin and back-end based on java micro services
+in Docker and Integration Bus for interaction with Core banking. Our
+development processes are based on Agile methodology with applying Scrum
+framework. We use continuous delivery. This is an attractive project with the
+varieties of technologies, including information security, financial
+operations etc.
+
+Requirements skills:
+
+3+ years of experience working in an agile mobile development team
+Deep understanding of OOP\OOD concepts and architecture patterns
+Expert knowledge of Android platform
+Good skills in Kotlin
+Understanding SCRUM
+Good skills in Networking (REST, TCP/IP, TLS/SSL) and DB management
+Requirements gathering and estimation techniques
+Experience with popular libraries such as Dagger2, Architecture components, OkHttp, Retrofit, PlayServices (at least some of them)
+Unit and instrumentation testing capability
+JIRA, Git, Android Studio, Gradle
+
+Scope of work:
+
+Technical design and develop features on a daily-basis
+Requirements analysis and features estimation
+Share knowledge of the project with team members
+Take part in the UI/UX design of mobile apps
+Drive test automation efforts forward
+
+Why ПУМБ?
+
+Comfortable work environment (comfortable office or remote — you choose)
+Friendly team of experienced developers
+Conferences, training and constant development
+Gig-contract

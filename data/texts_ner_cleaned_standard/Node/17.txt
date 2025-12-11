@@ -1,0 +1,38 @@
+Senior Node.js/React Software Engineer
+Project: Global news outlet
+
+We are looking for a skilled Node.js/React Developer with a strong focus
+on JS to join our team. If you enjoy working on both frontend and backend,
+building scalable applications, and collaborating with a dynamic team, we’d
+love to hear from you!
+
+Requirements:
+Experience with Node.js for API development.
+Proficiency in React, JavaScript, HTML(5), CSS, and JS libraries.
+Familiarity with database technologies (SQL, NoSQL) and cloud platforms is a
+plus.
+Understanding of software development best practices, including version
+control (Git) and CI/CD pipelines.
+Strong problem-solving skills and attention to detail.
+
+Responsibilities:
+Design and implement RESTful APIs and microservices with Node.js and
+Java-based frameworks.
+Build efficient, reusable, and modular components with JavaScript,
+HTML(5), CSS , and modern JS libraries.
+Optimize performance, ensure high availability, and maintain security best
+practices.
+Collaborate with UX designers, product managers, and other developers to
+deliver high-quality solutions.
+Debug, troubleshoot, and enhance existing applications
+
+We are offering:
+Transparent strategy and thoughtful management that keep everyone aligned
+Space for personal growth and career development without limits
+A culture of continuous learning: internal courses, workshops, and English
+classes twice a week
+Skill up events where we share experience and stay on top of trends
+Competitive perks: flexible schedule, a strong compensation package, support
+for professional certifications, and generous vacation policy
+Team spirit that thrives through regular events, gatherings, and
+celebrations

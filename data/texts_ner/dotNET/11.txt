@@ -1,0 +1,51 @@
+Middle+ /Senior .NET Developer (Gamedev Project-based)
+**ABOUT THE COMPANY**
+
+Whimsy Games is an outsourcing game development company known for creating
+innovative and entertaining games for various platforms. With a focus on
+creativity, Whimsy Games constantly explores new ideas and pushes game
+development’s boundaries. In the next few years, we aim to create bestsellers
+and become a respected partner for global GameDev companies.
+
+**Join Our Team!**  
+We are seeking a talented .Net Developer for a freelance project AA battle-
+royal in zombie theme. This is a project-based role, offering the possibility
+of continued collaboration based on project success. Be part of a creative
+team delivering engaging and vibrant gaming experiences!  
+  
+**Key duties:**  
+-Design and develop scalable backend microservices for games,  
+-Implement server-side logic and integrate with client-side game engines,  
+-Collaborate with designers, unity developers, and the team for efficient data flow,  
+-Create and maintain APIs for game features, authentication, and social features Integrate third-party services like analytics, ads, and payment processing,  
+-Write and maintain technical documentation Debug, profile, and optimize backend code,  
+-Ensure code quality and follow best practices,  
+-Participate in code reviews and stay updated on backend and game development trends.  
+  
+**Requirements:**
+
+**-At least 4 years of .NET backend development  
+-Knowledge of C#, .NET Core, [ASP.NET](http://asp.net/) Core,  
+-Experience with NoSQL (MongoDB, Elasticsearch),  
+-Experience with relational databases (PostgreSQL, MS SQL, MySQL),  
+-Experience with message brokers (Kafka, RabbitMQ),  
+-Experience with Unit Testing,  
+-Experience with Amazon Web Services,  
+-Understanding of microservice architecture,  
+-Understanding of basic principles: patterns, SOLID, KISS, DRY, etc...  
+-Understanding of client-server communication,  
+-Experience in working in the gaming industry.**
+
+  
+**Will be a plus:**
+
+-Experience developing Frontend (Admin Panel)  
+— Experience developing turn-based PvP games.
+
+**Why Join Us?**
+
+  * **Flexible Work Environment** : Work from anywhere globally with a competitive compensation package.
+  * **Dynamic Team** : Join a group of passionate game development experts who share your love for creativity and innovation.
+  * **Regular Sync-Ups** : Participate in company-wide meetings to share ideas and feedback, and collaborate with the team.
+  * **Career Growth** : Access continuous learning opportunities and the chance to work on exciting, high-profile projects.
+  * **Fun and Supportive Culture** : We foster a collaborative, supportive team environment where your ideas and contributions are valued.

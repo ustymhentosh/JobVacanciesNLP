@@ -1,0 +1,26 @@
+Back End Developer
+Join us, the solution of Virtual Edge which unifies multiple Edges into one
+platform that integrates all your existing CDN platforms. Looking for
+talented, ambition a Backend Developer who will join our international team.
+
+RESPONSIBILITIES
+
+Design and develop high-load backend systems using Go
+Write clean, efficient, scalable, and reliable code
+Ensure high test coverage with unit, integration, functional, and end-to-end (E2E) tests
+Contribute to the design, development, and optimization of platform
+Collaborate closely with engineers, product managers, and other stakeholders to deliver high-quality solutions
+SKILLS
+
+2+ years of experience in backend development (Go / Java / C++)
+Fundamental understanding of multi-threaded architecture
+Strong understanding of object-oriented programming
+Excellent problem-solving and analytical skills
+Strong communication and collaboration skills
+Bachelor’s or Master’s degree in Computer Science or a related field
+NICE TO HAVE
+
+Experience with Python
+Experience with JavaScript
+Familiarity with Kubernetes or cloud platforms (AWS, GCP, etc.)
+Knowledge of RabbitMQ and Cassandra

@@ -1,0 +1,75 @@
+iOS Developer (SwiftUI)
+**Kiss My Apps** is a platform company uniting 7 product verticals and over 30
+AI-first products, with 100M+ users and a proprietary ecosystem of analytics,
+payments, and marketing solutions.
+
+KMA products are global leaders in the **utilities, lifestyle, and health &
+fitness** niches — including **AI Remodel, Printer, Botan, Calorie Counter** ,
+and more. These are top-ranking apps in the App Store, serving the needs of
+hundreds of millions of users around the world.
+
+Our pace is our competitive advantage. KMA grows**at least 3x year over year**
+— and we’re looking for a**iOS Engineer** to help us scale even faster.
+
+**About the Role:**
+
+We’re looking for a proactive iOS developer ready to work with SwiftUI and
+next-gen AI technologies to help grow Photo Editor, one of Kiss My Apps’ key
+products, and join the launch of a brand-new app from scratch.  
+  
+You’ll collaborate closely with the product team, not just coding features but
+also shaping them and influencing both technical and product decisions. If you
+want to grow, contribute to new apps from the ground up, and be involved in
+every step from concept to release, this role is for you.
+
+**Your responsibilities:**
+
+  * Collaborate with product, design, and development teams to shape and deliver new app features;
+  * Take part in product planning, architecture, and decision-making discussions;
+  * Build modern user interfaces with SwiftUI;
+  * Implement and optimize data storage solutions (Core Data, caching, offline mode);
+  * Experiment with and integrate generative AI models into mobile products;
+  * Contribute to new applications from scratch — from concept to App Store release;
+  * Proactively suggest improvements — both technical and product-related — to enhance UX and app performance.
+
+**What we expect from you:**
+
+  * 1+ years of commercial experience in iOS development using SwiftUI;
+  * Understanding of app architecture, memory management, concurrency, and network stack.
+  * Clear communication and a product-oriented mindset — you understand what you build and why.
+  * Knowledge of Apple StoreKit (subscriptions, in-app purchases) — a strong plus, but not mandatory;
+  * Experience with Core Data or other database frameworks;
+
+**Nice to have:**
+
+  * Familiarity with UIKit + Storyboards;
+  * Experience working with AI tools in development.
+
+**You’re a great fit if you’re looking to:**
+
+  * Work in a fast-paced environment with minimal bureaucracy;
+  * Be involved in product decisions and see the impact of your work;
+  * Collaborate in a cross-functional team that values input from everyone;
+  * Join a growing team where your contributions matter from day one.
+
+**We offer:**
+
+  1. **Work format of your choice:** fully remote from anywhere in the free world, as well as access to one of our offices if desired (Kyiv, Warsaw).
+  2. **Conditions that help you focus on performance:** fair compensation that matches your skills and experience. We also provide equipment regardless of work format and location.
+  3. **Career growth through action:** 80%+ of all leads at Kiss My Apps were switchers just 2–3 years ago. Your impact here isn’t defined by years on your resume — it’s defined by how quickly you learn, take responsibility, and own your career.
+  4. **Well-being program:** we care about the mental health of our team and provide access to individual or group therapy sessions with a corporate psychologist, as well as online yoga classes twice a week.
+  5. **Development and professional fulfillment:** we host internal English speaking clubs with a native speaker, and offer opportunities to speak at internal and external events by Kiss My Apps. In addition, you’ll have an annual budget to cover up to 50% of the cost of professional conferences, educational events, and training.
+  6. **Additional benefits of your choice:** We offer a fixed annual budget for you to decide how to spend — 50% coverage of health insurance, therapy, sports, or dental care. Plus, 40 days of paid vacation and sick leave with no date restrictions.
+  7. **Support during wartime:** we provide everything needed for uninterrupted work, systematically support the Defense Forces, and participate in Ukraine’s recovery initiatives.
+  8. **Networking that drives you forward:** access to events from Netpeak Group and beyond.  
+  
+
+**Hiring process:**
+
+  1. **Introductory call with a recruiter** — 45 min to discuss your expectations, experience, and KMA’s culture;
+  2. **Technical interview** — to better understand your approach and thinking;
+  3. **Final stage** — closing interview with the CTO.  
+  
+
+If you’re ready to work on top-ranking mobile products, bring ideas to life,
+and code with real impact —**let’s launch the future together.** 🚀

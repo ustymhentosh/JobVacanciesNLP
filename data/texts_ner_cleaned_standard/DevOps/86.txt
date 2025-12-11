@@ -1,0 +1,38 @@
+Junior DevOps Engineer
+We are looking for a Junior DevOps Engineer who is passionate about
+automation, scripting, and cloud infrastructure.
+
+You will work closely with developers and senior DevOps engineers to support
+CI/CD pipelines, automate deployment processes, and maintain development
+environments.
+
+Requirements
+
+6+ months of commercial experience in a DevOps role.
+Basic understanding of DevOps principles and CI/CD concepts.
+Familiarity with Java or JavaScript applications.
+Hands-on experience with scripting languages (Bash, Python, or JavaScript).
+Understanding of Docker, Git, and Linux environments.
+Ability to learn quickly and work in a fast-paced environment.
+English: Intermediate+
+
+Would be a plus
+
+Knowledge of Terraform, Kubernetes, or Ansible.
+Experience with Jenkins, GitLab CI, or GitHub Actions.
+Understanding of networking and cloud security basics.
+
+We offer
+
+Mentorship and support from senior DevOps engineers.
+Opportunity to work with modern tools and cloud technologies.
+Professional growth and certification support.
+The flexibility to work remotely or from our office, depending on what suits you best.
+Friendly and collaborative team.
+We support your well-being with paid vacation and sick leave to ensure you have the time you need to recharge. Enjoy a flexible schedule that fits your lifestyle.
+We handle all administrative details, including tax coverage and comprehensive accounting support.
+A workplace with minimal bureaucracy and no micromanagement. Embrace the freedom to innovate and excel in an environment where everyone feels valued and heard.
+
+We are a middle-sized software development outsourcing company working
+primarily with enterprise-level clients from Austria, Sweden, the UK, the USA,
+Belgium, Cyprus, Israel, Bulgaria and others.

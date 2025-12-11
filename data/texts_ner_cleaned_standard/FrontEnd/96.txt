@@ -1,0 +1,34 @@
+Senior Front-End Game Developer
+Requirements:
+
+At least 5 years experience in HTML5 desktop / mobile game development;
+Experience in JavaScript ES6+ / PIXI.js / HTML / TypeScript/ CSS;
+Knowledge of Git;
+Experience in cross-browser development;
+Understanding the Model-View-Controller (MVC) Architecture;
+
+Responsibilities:
+
+Creating browser-based HTML5 slot games for desktop and mobile devices;
+Performance optimization for various devices;
+
+Will be a plus:
+
+Ability to work with gulp;
+Experience with Spine animations;
+Experience with Texturepacker;
+Understanding of performance optimization algorithms, memory management, threading;
+Experience in gambling industry;
+
+We offer:
+
+Work remotely or from our Bratislava office.
+Competitive salary fixed in EURO with regular performance reviews;
+Friendly and inspiring environment in a team of professionals;
+Freedom to express yourself and opportunity of personal professional growth;
+Interesting projects with invaluable professional experience;
+Flexibility in your schedule;
+Additional company days off;
+Unlimited vacation if you need recovery and inspiration;
+Maternity Leave;
+Wedding and newborn baby gifts.

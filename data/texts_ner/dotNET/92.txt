@@ -1,0 +1,94 @@
+Senior Backend Engineer (C# /.NET, Blockchain / Crypto)
+We’re looking for a **Senior Backend Engineer (C#/.NET, Blockchain, Crypto
+Wallets)** to join our core team.
+
+You’ll design and build **scalable distributed systems** , create **APIs and
+SDKs** , and shape the **architecture of our self-custody wallet**. You’ll
+integrate with **blockchain networks, smart contracts, custody solutions, and
+Fireblocks API** , ensuring security and scalability at the core of our
+product.
+
+As the lead for the **Self-Custody module** , you’ll own one of the most
+critical parts of our wallet — where **technical excellence and product vision
+meet**. This is a chance to become the **technical owner** of a product area
+and influence the company’s roadmap.
+
+We need someone strong in **C#/.NET Core, multithreading, microservices, and
+resilient architectures** , with a **product mindset** and the drive to take
+ownership in a **fast-moving startup**.
+
+If you’re passionate about **crypto, fintech, and AI-assisted development
+tools** , this role is for you.
+
+**Key Responsibilities:**
+
+  * Develop and lead the Self-Custody module, a core component ensuring secure and user-friendly crypto asset management.
+  * Design and implement scalable distributed systems, APIs, and SDKs to power next-generation crypto wallet infrastructure.
+  * Architect resilient microservices with a focus on performance, scalability, and fault tolerance.
+  * Integrate with blockchain networks, custody/self-custody solutions, and Fireblocks API.
+  * Collaborate closely with Product, Frontend, and DevOps to translate business ideas into technical solutions.
+  * Take ownership from concept to production: propose, design, and deliver solutions without waiting for rigid specs.
+  * Contribute to product discussions and shape the roadmap by bringing forward technical and architectural insights.
+  * Experiment with new protocols, blockchain integrations, and AI-assisted development tools to boost efficiency.
+
+**Ideal Candidate:**
+
+  * Thinks in products, not just code.
+  * Leads ownership of the Self-Custody module.
+  * Works independently, driving solutions end-to-end.
+  * Collaborates closely across product and tech teams.
+  * Adapts quickly to a fast-changing startup environment.
+  * Has a strong passion for crypto and fintech.
+  * Proactively brings ideas and explores new tech.
+  * Balances clean code with delivery speed.
+
+**Required****Skills:**
+
+  * Strong expertise in C# / .NET Core (with Entity Framework, gRPC, Blazor, Microservices).
+  * Solid knowledge of multithreading, high-load distributed systems, and SOLID principles.
+  * Hands-on experience with blockchain technologies: wallet integration, smart contracts, custody/self-custody.
+  * Proven experience with Fireblocks API and platform integration.
+  * Proficiency with PostgreSQL, Docker, Kubernetes.
+  * Experience in designing APIs, SDKs, and distributed architectures.
+
+**Tech stack:**
+
+  * C# / .NET Core, 
+  * Entity Framework, gRPC, 
+  * Blazor, PostgreSQL, Docker, Kubernetes, 
+  * Fireblocks, blockchain & smart contracts.
+
+**Nice to Have:**
+
+  * Familiarity with advanced architecture patterns and strategies for fault-tolerant systems.
+  * Experience with resilient infrastructure in high-availability environments.
+  * Comfort with modern IDEs and productivity tools (ReSharper, JetBrains suite).
+  * Curiosity and hands-on experience with AI development tools (Copilot, Cursor, ChatGPT, Codeium).
+
+**What We Offer:**
+
+  * Full-time, fully remote work with no location restriction
+  * Flexible working hours to suit your schedule.
+  * Paid Vacation: 18 working days per year, prorated based on the calendar year
+  * Paid sick leave
+  * 8 additional working days off for National Holidays.
+  * Birthday Gift from Company
+  * Zero Fee SimpleApp Wallet
+  * Additional Anniversary leave for 2 years and more.
+
+**About[Simple.app](http://Simple.app)**
+
+Simple is a next-generation stablecoin wallet designed to make digital finance
+truly usable. With over 2.5 million users across 245+ countries, Simple
+empowers individuals and businesses from freelancers to global teams to send,
+store, spend, and grow their money using stablecoins, with the ease and
+familiarity of traditional finance.
+
+Headquartered in Dubai and regulated in the EU, Simple bridges the gap between
+crypto and real-world financial tools through intuitive product design,
+seamless fiat integrations (including IBAN and SEPA), and a secure self-
+custodial infrastructure.
+
+At its core, Simple stands for financial freedom without borders. The
+company’s mission is to make crypto simple, trusted, and accessible so people
+everywhere can manage their money on their own terms.

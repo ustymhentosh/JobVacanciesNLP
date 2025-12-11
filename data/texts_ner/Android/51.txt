@@ -1,0 +1,35 @@
+Middle Strong/Senior Android Engineer
+**About:**
+
+We are looking for a **Middle Strong/Senior Android Engineer** to join a full-
+time healthcare project focused on wireless health monitoring for pregnant
+persons and newborns. The solution includes wearable devices, AI-powered
+analytics, and cloud-based software to improve access to health data.
+
+**What We’re Looking For:**
+
+  * 5+ years of experience developing Android applications
+  * Strong knowledge of Android UI frameworks and Android OS
+  * Hands-on experience with Android Studio and the Android SDK
+  * Expertise in Kotlin
+  * Experience in performance optimization, including memory management, CPU utilization, and debugging
+  * Solid understanding of mobile application development processes, testing, and configuration management (Agile, Kanban)
+  * Strong problem-solving and debugging skills
+  * Upper-intermediate English
+
+**Your Responsibilities:**
+
+  * Develop and maintain Android application and SDKs with a focus on performance, scalability, and security
+  * Implement unit tests, functional tests, and verification procedures to ensure high-quality code before deployment
+  * Design and establish communication protocols between mobile applications, cloud services, and external devices (e.g., sensors)
+  * Integrate external data sources and APIs into mobile applications
+  * Create and maintain technical documentation in compliance with FDA regulatory standards
+  * Stay up to date with emerging technologies and implement best practices to enhance development efficiency
+  * Work closely with the team to identify and address issues in the codebase and improve overall architecture
+
+**Will be a plus:**
+
+  * Experience in healthcare projects
+  * A degree in Computer Science, Software Engineering, or a related field
+  * Familiarity with REST, TCP/IP, SIP, RTP, HTTP, and UDP
+  * Experience with wireless communication standards (Bluetooth, BLE, NFC, WiFi, ProSe)

@@ -1,0 +1,82 @@
+Senior Go Developer (Crypto Exchange Experience)
+**Location:** Remote, with offices in Warsaw, Kyiv, and Marbella
+
+**Company:** itAdviser LTD
+
+**About itAdviser LTD:**
+
+At itAdviser LTD, we specialize in providing cutting-edge technological
+solutions. Our commitment to innovation keeps us at the forefront of the tech
+industry. With offices in Warsaw, Kyiv, and Marbella, our team is a tapestry
+of talent spanning the globe.
+
+**Job Description:**
+
+We are seeking a highly skilled and experienced Senior Go Developer to join
+our dynamic team. This role focuses on developing and optimizing our trading
+services for the cryptocurrency exchange market. The ideal candidate will
+bring a deep understanding of Go programming and a proven track record in the
+crypto exchange domain, with particular expertise in the development of
+critical trading systems such as the pre-trade risk module, matching engine,
+and margin engine.
+
+**Responsibilities:**
+
+— Develop, deploy, and maintain Go applications and services related to
+cryptocurrency trading.
+
+— Deep understanding of trading algorithms, matching engine development,
+futures, spot trading, etc.
+
+— Design and implement complex modules such as the pre-trade risk assessment
+systems, high-performance matching engines, and robust margin engines.
+
+— Collaborate with cross-functional teams to design and implement robust,
+scalable solutions.
+
+— Optimize existing systems for performance and scalability.
+
+— Ensure code quality, stability, and security through comprehensive testing
+and code reviews.
+
+**Technical Requirements:**
+
+— Profound expertise in Go programming.
+
+— Extensive experience in building and optimizing pre-trade risk modules,
+matching engines, and margin systems.
+
+— Proficient with technologies such as Kafka for messaging, Redis or Memcached
+for caching, and PostgreSQL or MongoDB for databases.
+
+— Experience with microservices architecture and containerization technologies
+like Docker and Kubernetes.
+
+— Familiarity with financial trading concepts, market microstructures, and
+real-time transaction processing.
+
+**Additional Qualifications:**
+
+— Familiarity with Python or C++ is highly advantageous.
+
+— Strong knowledge of network programming and distributed systems.
+
+— Excellent problem-solving and analytical skills.
+
+**Qualifications:**
+
+— Bachelor’s or master’s degree in Computer Science, Engineering, or a related
+field.
+
+— Minimum of 5 years of professional software development experience, with at
+least 3 years focusing on Go.
+
+**What We Offer:**
+
+— The opportunity to work remotely.
+
+— Competitive salary and comprehensive benefits package.
+
+— A collaborative environment with a focus on continuous learning and growth.
+
+— Access to state-of-the-art technology and tools.

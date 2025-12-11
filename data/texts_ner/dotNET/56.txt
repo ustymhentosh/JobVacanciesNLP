@@ -1,0 +1,77 @@
+.NET Developer for Product Development Team
+At UKAD, we believe that exceptional software is created by exceptional people
+— and we’re growing our team!  
+Our developers describe UKAD as a place where you can work on meaningful, end-
+to-end projects that truly make an impact. We value creativity, collaboration,
+and continuous learning. Here, every idea matters, knowledge is freely shared,
+and the environment is open, friendly.  
+  
+**About the Project**
+
+Our client is a leading provider of advanced booking and business management
+solutions for campsites, holiday resorts, and the broader tourism industry.
+
+Their team develops innovative digital products such as:
+
+  * Booking and management systems (PMS/CRM)
+  * Guest apps that enhance the customer journey
+  * POS, payment, and wallet solutions, along with OTA integrations and ticketing systems
+  * Modern microservice architectures, APIs, and complete “one-stop-shop” digital platforms
+  * The company’s mission is to accelerate the digital transformation of the tourism and leisure industry across Europe.  
+  
+
+We Work with Cutting-Edge Technologies. We use the latest tools and
+frameworks, including:  
+  
+
+  * Visual Studio 2022 and Visual Studio Code
+  * C# (expert level), .NET Standard, .NET Core
+  * HTML5, CSS3, jQuery, Angular 2+, TypeScript (PWA)
+  * App development with .NET MAUI
+  * gRPC, RabbitMQ, Redis, Microsoft SQL, Actian Zen
+  * Microservices architecture with Kubernetes and Docker
+  * Web API/REST, SignalR, WCF
+  * Azure DevOps (Build Server, MSTest, CI/CD pipelines)
+  * Scrum methodologies  
+  
+
+**What We’re Looking For**  
+  
+
+  * A degree in software engineering, computer science, or similar
+  * Ideally 5+ years of relevant experience
+  * Experience in Client-Server application development
+  * Up-to-date knowledge of .NET and MSSQL technologies
+  * A structured and detail-oriented working style
+  * Commitment to writing high-quality, well-documented code
+  * Ability to stay calm and organized in busy periods
+  * A natural curiosity for new technologies
+  * A strong team player who can also work independently
+  * Excellent communication skills — in **English** , written and spoken.  
+  
+
+**What we offer****  
+  
+**
+
+  * A really promising long-lasting project (you will be proud of yourself)
+  * Sane and polite, but effective management
+  * The best corporate culture (according to our teammates’ opinions)
+  * Competitive salary and other stuff
+  * Remote work, full time
+  * Becoming not just another developer, but a part of UKAD with unique value and long-term relationships.  
+  
+
+**Some facts about UKAD to help you make a decision:**
+
+During 2022-2025, we only increased cooperation with our foreign partners
+
+UKAD combines benefits of family-sized companies, like no bureaucracy, easy
+access to the executives, with sustainable growth and vast opportunities
+
+Our company is strong enough to be not just a vendor but a tech partner. We
+can afford to choose customers that respect developers
+
+UKAD is one of the leading employers in Kharkiv, according to DOU.
+
+Aren’t we the company you’re looking for?

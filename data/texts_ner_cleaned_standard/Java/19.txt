@@ -1,0 +1,58 @@
+Infrastructure Engineer with Java (hybrid work in Warsaw)
+The product we are working on is one of TOP-3 navigation systems, complex web-
+services and other solutions related to it. The web and mobile apps handle
+information at massive scale and extend well beyond the search giving people
+and companies a lot of new useful options.
+
+This role focuses on executing critical migration projects within the backend
+infrastructure of the project. The Backend Infrastructure team is undertaking
+several large-scale migrations to modernize its systems, improve reliability,
+and reduce maintenance overhead. This TVC position will be instrumental in
+performing the hands-on work required for these migrations, working closely
+with the infrastructure team and other Backend teams.
+
+Responsibilities:
+
+Execute Migrations: Actively participate in and drive the execution of large-scale code and system migrations across various backend services. Some examples include:
+
+migrating event processing systems from custom infrastructure to managed infrastructure solutions;
+transitioning services from custom OpenCensus metrics collection to OpenTelemetry;
+migrating custom metrics to standard OpenTelemetry metrics.
+Code Modification and Updates: Update and refactor existing codebases (primarily Java) to align with new libraries, platforms, and infrastructure.
+Testing: Work with the Infrastructure team to create a testing plan for migrations to ensure that changes do not break running services and execute the test plans.
+Collaboration: Work closely with the Backend Infrastructure team and other software engineers to understand migration requirements, plan execution strategies, and ensure smooth transitions with minimal disruption.
+Problem Solving: Investigate, debug, and resolve technical issues and complexities encountered during the migration processes.
+Documentation: Maintain clear and concise documentation for migration plans, processes, changes made, and outcomes.
+Best Practices: Adhere to software development best practices, ensuring code quality, and follow established guidelines for infrastructure changes.
+
+Requirements:
+
+Bachelor’s degree in Computer Science, Software Engineering, or a related technical field, or equivalent practical experience.
+1+ years of hands-on experience in backend software development.
+Strong proficiency in Java programming.
+Strong communication and interpersonal skills, with the ability to collaborate effectively within a technical team environment.
+Good spoken and written English level — Upper-Intermediate or higher.
+
+Nice to have:
+
+Experience with observability frameworks such as OpenTelemetry or OpenCensus.
+Familiarity with gRPC.
+Knowledge of Google Cloud Platform (GCP) services, particularly data processing services like Dataflow.
+
+We offer:
+
+Opportunities to develop in various areas;
+Compensation package (20 paid vacation days, paid sick leaves);
+Flexible working hours;
+Medical insurance;
+English courses with a native speaker, yoga (zoom);
+Paid tech training and other activities for professional growth;
+Hybrid work mode (∼3 days in the office);
+International business trips
+Comfortable office.
+
+If your qualifications and experience match the requirements of the position,
+our recruitment team will reach out to you in a week maximum. Please rest
+assured that we carefully consider each candidate, but due to the amount of
+applications the review and further processing of your candidacy may take some
+time.

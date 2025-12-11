@@ -1,0 +1,31 @@
+Backend Engineer Process Orchestration
+Great opportunity for a long-term engagement — we are automating end-to-end
+(E2E) digital services for a global corporate customer.  
+This demands a multidisciplinary blend of advanced technical skills and
+experience in modern software engineering, distributed systems, and cloud-
+native development.  
+  
+**Key skill requirements:**
+
+Core Technical Proficiencies  
+• Strong expertise in Go (Golang)  
+• Proficient in microservices architecture, event-driven patterns and building
+resilient, fault-tolerant applications.  
+• Event Streaming: Hands-on experience with Kafka  
+• Familiarity with BPMN 2.0 modeling and execution using platforms, preferably
+Camunda 8  
+• Competence with AWS, containerization (Docker) helpful.  
+• Managing distributed metadata and coordination (etcd, Restate)  
+
+**Soft & Collaborative Skills:**
+
+• Problem-solving in complex, fast-paced distributed environments.  
+• Effective communication in English and a collaborative approach to working
+with global and cross-functional teams.  
+• Participation in architectural decision-making for long-term technical
+strategy.  
+
+**Required languages**
+
+English C1 — Advanced  
+German B1 — Intermediate is a plus

@@ -1,0 +1,66 @@
+Senior DevOps Engineer
+Pwrteams welcomes a technology-focused Senior DevOps Engineer to
+become a valuable member of the project team of our client, a leading company
+in the mining industry.
+
+Join our fast-growing and diverse team at Pwrteams, where we provide premium
+IT and engineering nearshore solutions to our global customers. Since 2007, we
+pursue to become the market leader in assembling cross-border IT and
+engineering teams for customers. Our operations are strategically positioned
+within Eastern Europe’s dynamic tech ecosystems, from where we cater the
+global business landscape.
+We’re at the forefront of travel, media and fintech innovation, healthcare
+efficiency enhancements, and others. Our goal? To connect interesting customer
+projects and skilled talent alike. Become a part of our team and take the next
+step on your personal career journey.
+
+About our client
+
+Our client is a global mining company with a world-class portfolio of products
+that are used by a billion consumers every day. Our client relies on data and
+cutting-edge data science to enhance their operations. They also use advanced
+machine learning and artificial intelligence to optimize their processes.
+Responsibilities
+
+Creating automated Infrastructure and App deployments for supported Products using Azure DevOps
+Ensuring Data Analytics DevOps Gates, SDLC, and Security Standards are met in Product delivery
+Ensure Infrastructure is built with best-practice security
+Develop reusable artifacts for IaC
+Following Application Development Code management standards
+Creating, Updating, and Maintaining Resource definitions in Git Repository
+Delivering automation scripts for Products
+Help and Ensure Non-Functional Requirements are defined and met
+Monitor practices’ adoption and quality against agreed KPIs
+Work with Solution Architects to ensure Infrastructure meets Product’s needs
+Secure Product Application and Cloud Infrastructure
+Capacity planning and cost control check
+Qualifications
+
+Bachelor’s Degree in Computer Science, Software Engineering or Engineering
+Hands-on experience in Azure DevOps, PaaS, and IaaS Platform Architecture, Azure Platform Security
+Strong experience in the software development lifecycle, Infrastructure as Code, Azure DevOps Pipelines, and Automation
+Expert knowledge of Azure Monitoring, Dashboarding and Alerting
+Skilled in Azure Infrastructure (AKS, WebApp etc..), MS Entra ID Management, Azure Networking Services (Front Door, WAF, App Gateway etc.)
+Good understanding of Networking and Security within Azure
+GitHub migration experience
+Upper-intermediate level of English
+
+Nice to have
+
+Experience (Infrastructure, Networking, and Security) of most of these Data Analytics PaaS services, Azure Data Factory, Azure Data Lake, Azure Data Bricks, Azure SQL Server, Azure Synapse, Azure Analysis Services, with deep knowledge in several of these services
+DataOps
+Azure Cloud certifications and industry experience will be a plus
+
+Pwrteams Offers
+
+Family-like environment and personal attention to each specialist
+Direct cooperation with European and USA clients and their innovative products
+Competitive salary and regular reviews
+The work-life balance you deserve: 24 working days of paid vacations
+Educational reimbursement, funded language classes, certifications
+"Benefit Cafe with various categories like sport, leisure, books, fuel, etc.
+Health care: 10 paid sick leaves, on-demand medical insurance, vaccinations
+Cozy workplace and WFH opportunities
+Exciting events and lovely gifts for your family
+
+In your resume please allow our company to use your personal data

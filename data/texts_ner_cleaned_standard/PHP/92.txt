@@ -1,0 +1,71 @@
+Senior PHP Software Engineer (Fastex)
+SoftConstruct Ukraine is a large product company with Armenian roots.
+We develop solutions in the fields of Big Data, Data Science and
+CryptoExchange. We combine our expertise in iGaming software development with
+advanced technologies to develop original software such as sports statistics,
+risk analysis, security. In most cases, we deal with atypical projects for the
+market, try to find and generate new technology-based solutions in our field.
+We support our colleagues who actively participate in all spheres of our
+country’s defense, as well as help in the development of solutions, technical
+security support — the information sector of the state.
+
+If you are looking for a new job in a PHP development and have
+relevant experience, we would be more than happy to offer you our position
+ofSenior PHP Software Engineer (Fastex team).
+
+About the project:
+FastEx is not about project development, it’s about the unique opportunity
+to build a cryptocurrency exchange almost from scratch.
+Trading engines on the edge of performance, accuracy and elegance; security
+systems on top of top-notch solutions; liquidity management in volume of some
+countries GDP.
+And you can become a part of the core team that reached that goal.
+
+Technical Stack: PHP 8.3, Laravel, Kubernetes, Docker, Memcached, MySQL,
+Centrifugo (for Websockets), Prometheus, Grafana, ELK, Nginx
+
+Must-haves:*
+
+Strong knowledge of PHP (8 and higher);
+Strong experience with one or more PHP frameworks (Laravel, Symfony etc.);
+Understanding of database technologies: SQL/NoSQL;
+Experience with Docker;
+Understanding of distributed systems (microservices, reliability, scalability, data consistency, etc.);
+Familiarity with performance optimization techniques;
+Excellent troubleshooting skills.
+
+Nice to haves:
+
+Understanding how to build high-loaded systems;
+Experience with Kubernetes;
+Understanding of messaging systems (Kafka, RabbitMQ, etc.).
+
+Main responsibilities:
+
+Be proactive and responsible. Challenge technical decisions in order to achieve the best results;
+Learn crypto exchange architecture;
+Learn through the code primary business flows;
+Fixing bugs in existing code;
+Writing new code covering business tasks and fixing bugs;
+Participate in the search for the best technical solution to business problems;
+Participate in improving the local development environment as an Engineer;
+Writing Tests covering the developed functionality;
+Writing documentation for existing and new code;
+Collaborate with the operational team to improve/set up: metrics, traceability, logs. Assist with preparing the playbooks for the support;
+Collaborate with engineers from the others Backend, Web and Mobile teams;
+’On shift/on call’ duties, collaborate with support in solving the issues.
+
+What can we offer you:
+
+Interesting and challenging work in a product and data driven company;
+Plenty of opportunities to learn, grow and progress in your career;
+Annual leave: 20 working days per year;
+All paid sick days with a doctor’s note (no limit on the number of times. But for 1 time it is paid up to 2 weeks);
+Registration within DiiaCity (Gig-contract);
+Individual English classes at EnglishDom online school (compensation within 50% of the amount of expenses);
+€450 / year budget for training and/or sports (compensation within 50% of the amount of expenses) after probationary period;
+Free health insurance after a probationary period.
+
+Sounds interesting? Then apply now, don’t wait up!
+SoftConstruct is a cool place to work, where you’ll have fun, make friends,
+and grow professionally!

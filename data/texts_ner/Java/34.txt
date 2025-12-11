@@ -1,0 +1,49 @@
+Senior Fullstack Developer (Java + React)
+💼 **About the Role**
+
+We’re looking for an experienced **Senior Full Stack Developer** to join a
+highly agile team working on the end-to-end development of modern
+applications. You’ll be involved in **design, architecture, coding, and
+DevOps** , all within an **Extreme Programming (XP)** setup that includes
+**remote pairing** , **Test-Driven Development (TDD)** , and **continuous
+integration**
+
+📍 **Location:** Remote
+
+📃 **Contract type:** B2B
+
+💰 **Rate:** **up to 6 500 USD net + VAT / month**
+
+🚀 **Start date:** ASAP / flexible
+
+📆 **Project duration:** Long-term cooperation
+
+🧩 **Responsibilities**
+
+  * Full ownership of the software development lifecycle: architecture, implementation, and deployment.
+  * Collaborate with a remote-first, XP-driven development team.
+  * Build scalable, cloud-native applications using **Java** and **React**.
+  * Design and build microservices-based architecture and RESTful APIs.
+  * Deploy and maintain solutions using Kubernetes and CI/CD pipelines (Jenkins).
+  * Follow TDD and BDD practices with proper testing frameworks.
+  * Continuously improve software quality and team processes.
+
+✅ **Required Skills**
+
+  * **8+ years** of experience in backend development using **Java** and **Spring Boot / Cloud**
+  * **4+ years** of experience in frontend development with **React** (must-have)
+  * Experience with **Java Streams** and functional programming concepts
+  * Experience building **Reactive UI** (Reactive JS)
+  * **2+ years** working in **TDD/BDD** (JUnit, Jasmine, Mockito, Protractor/Selenium)
+  * Solid experience with **microservices architecture**
+  * Proficiency in **DevOps tools** and pipelines (e.g., Jenkins, Git)
+  * Hands-on experience with **Kubernetes / Cloud Foundry**
+  * Experience designing cloud/hybrid solutions
+  * Familiarity with microservices patterns (service discovery, circuit breaker, etc.)
+  * Good command of **English** (min. B2)
+
+➕ **Nice to Have**
+
+  * Experience with **Kotlin**
+  * Experience evaluating architecture and tech stack
+  * Hands-on with CI/CD, cloud platforms (AWS, Azure), or container tools

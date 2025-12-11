@@ -1,0 +1,29 @@
+Middle-Senior Android Developer
+Contract: 1.5 months (≈6 000 USD)
+Start: ASAP
+
+About the Product:
+
+Mental-health mobile app — includes interactive courses, quests, and chat
+experiences aimed at helping users improve emotional wellbeing.
+
+Requirements:
+
+3+ years of commercial Android development
+Strong Jetpack Compose experience
+Confident work with RESTful API
+Clean architecture & modular code
+Ability to deliver polished UI and animations
+Good communication and self-management
+
+Nice to have:
+
+Experience with Firebase or WebSocket chat
+Knowledge of Kotlin Coroutines / Flow
+Familiarity with in-app purchases or media
+
+We offer:
+
+Fixed-term contract — ~1.5 months / 6 000 USD
+Fully remote
+Optional 2-week paid support period (same rate)

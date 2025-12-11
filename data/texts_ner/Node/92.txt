@@ -1,0 +1,49 @@
+Senior Full Stack React/Node.js Engineer
+**Project:**
+
+Our customer is an innovative company that utilizes state-of-the-art
+technology to assist in the care of elderly people. By using predictive
+algorithms, AI, and IoT home devices, the ecosystem creates an interactive
+tool that enables care services to better understand and support each elderly
+individual.
+
+**Why we have opened this vacancy:** Team extension.
+
+**‍Type of cooperation:** Full-time, remote, UTC—06:00, Central Time (CT)
+
+**Your responsibilities on the project will be:**  
+
+  * Build and maintain scalable full-stack applications with Node.js and React.
+  * Design microservices and cloud-based architectures (AWS).
+  * Partner with product and design to align tech solutions with user needs.
+  * Review code, mentor junior developers, and raise engineering standards.
+  * Troubleshoot and optimize performance in production environments.
+  * Stay ahead of industry trends to keep our stack modern and effective.
+
+**You can be part of the following team:**
+
+Softermii’s team: 3 Full-stack engineer, and remote team in Istrael.
+
+App team: 1 TL, 2 devs, 1 Manual QA, 1 AutoQA
+
+Data team: 1 TL, 5 devs
+
+Devops team: 3 devops
+
+Product team: Head, 2 products, 1 designer, 1 medical consultant
+
+**Tools we use: Jira, Confluence, Git, Figma**
+
+**Our requirements to you:**  
+
+  * 5+ years’ full-stack development experience with Node.js and React.
+  * Strong knowledge of microservices, REST APIs, and cloud platforms (AWS preferred).
+  * Familiarity with Docker, Kubernetes, and CI/CD pipelines.
+  * React Native experience — a plus.
+  * Excellent verbal and written communication skills in English, including communication with executives, developers, and product managers.
+  * Hands-on problem solver with strong ownership and a collaborative mindset.
+  * Able to work according to the Austin, Texas time zone(UTC—06:00, Central Time (CT).
+
+**‍Who will you have the opportunity to meet during the hiring process
+(stages):**  
+Call, HR, Tech, Client/Final interview

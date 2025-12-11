@@ -1,0 +1,63 @@
+Full-stack developer with React and .NET
+Hey there!
+
+It’s an amazing time to join Digicode as we continue empowering as many
+innovators as possible to change the world. We deliver outstanding technology
+consulting, R&D, design, and software development services in the USA, UK, and
+EU markets. This is where you come in.
+
+Digicode seeks a dynamic and organizedFull-stack developer with React and
+.NET to help build a platform that provides advanced tools to empower
+defense attorneys.
+
+Your React/NET Skills + AI = Legal Tech Revolution.
+
+Required skills:
+
+5+ years of experience in development with React and .Net.
+Strong expertise in both React and .NET.
+Proficient in React, including hooks, context API, and design frameworks such as Tailwind CSS.
+Strong knowledge of modernJavaScript (ES6+), TypeScript, and component-driven development
+Extensive experience with .NET (preferably .NET Core) for building APIs and backend services.
+Knowledge of distributed computing and scalability of systems patterns.
+Experience with SQL and/or NoSQL databases (e.g., SQL Server, Azure Cosmos DB)
+Hands-on experience with Microsoft Azure , including App Services, Azure Functions, Azure Kubernetes , and Azure DevOps pipelines.
+Strong understanding of CI/CD pipelines and DevOps best practices.
+Knowledge of RESTful API design and microservices architecture.
+Experience with working on file processing pipelines.
+Familiarity with testing frameworks (e.g., NUnit) and version control systems
+Experience with Vector databases is an advantage.
+
+📌 Process:
+
+1\. Intro call with a recruiter
+
+2\. Internal tech interview
+
+3\. Interview with the client
+
+Boom! Offer:)
+
+What To Expect From Digicode?
+
+🌎 Work from Anywhere: From an office, home, or travel continuously if that’s
+your thing. Everything we do is online. As long as you have the Internet and
+your travel nomad lifestyle doesn’t affect the work process (you meet all
+deadlines and are present at all the meetings), you’re all set.
+
+💼 Professional Development: We offer great career development opportunities in
+a growing company, international work environment, paid language classes,
+conference and education budget, & internal 42 Community training.
+
+🧘‍♂️ Work-life Balance: We provide employees with 18+ paid vacation days and
+paid sick leave, flexible schedule, medical insurance for employees and their
+children, monthly budget for things like a gym or pool membership.
+
+🙌 Culture of Openness: We’re committed to fostering a community where everyone
+feels welcome, seen, and heard, with minimal bureaucracy, and a flat
+organization structure.
+
+And, also, corporate gifts, corporate celebrations, free food & snacks, play &
+relax rooms for those who visit the office.
+
+Did we catch your attention? We’d love to hear from you.

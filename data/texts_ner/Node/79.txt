@@ -1,0 +1,84 @@
+Senior Software Engineer (Node.js, Game Tribe)
+Founded in 2012, **Playson** is a leading iGaming supplier recognized
+worldwide. We provide our partners with a high-end, microservice-based
+platform designed to handle billions of financial transactions per day. Our
+cross-regional setup is built with one goal in mind: zero-latency performance.
+We invest heavily in delivering the best gameplay experience, ensuring smooth
+connections regardless of bandwidth or internet coverage.
+
+**Role Overview**
+
+We are looking for a Senior Backend Engineer (Node.js) to join our Game Tribe.
+In this role you will collaborate closely with Head of Gamification and other
+engineers, to build and evolve the game services, contributing to:
+
+  * Slot game engine development
+  * Microservices (e.g., fraud detection, release processes)
+  * R&D tasks around game mechanics, math packages, and new gameplay features
+  * Hypothesis testing and fast prototyping (PoC-first mindset)
+
+**Why Join Us?**
+
+  * Be a key player in a major tech transformation.
+  * Work on projects that impact millions globally.
+  * Enjoy a supportive, flexible work environment.
+  * Grow your skills with continuous professional development opportunities.
+
+**To succeed in the role, you will have:**
+
+  * A degree in Computer Science or related field
+  * Strong development experience in Node.js/TypeScript 5+ years
+  * Strong understanding of Async approaches
+  * Experience with Messaging systems like Kafka, RabbitMQ
+  * Experience in distributed systems
+  * Experience with RDBMs (MySQL, PostgreSQL etc.), CDBMs (Redshift, ClickHouse etc.), NoSQL (DynamoDB, MongoDB, etc)
+  * Experience in writing e2e & unit tests
+  * Experience with development production-ready solutions
+
+**Would be beneficial to know:**
+
+  * Understanding of enterprise development patterns
+  * Experienced with large-scale microservices architecture
+  * Experience with cloud providers (AWS, GCP, etc.)
+  * Experience with Kubernetes
+  * Active performance observation
+  * Gambling domain experience
+  * Understanding of application security and industry standards, its best practices
+
+**What will you be doing?**
+
+  * Become part of a full-stack team of the product, which is positioned as an independent part of the platform
+  * Develop brand new features with a distributed team and be proactive in terms of proposing new ideas
+  * Develop a scalable high load system, with financial resultsʼ responsibility
+  * Code and Architectural review
+  * Proactive position in solution development, processes improvements
+  * Handle complex business problems that might arise during solution development and provide field support with creative and rapid solutions
+
+**What you get in return:**
+
+  * **Competitive Salary:** We offer a competitive salary in EUR, subject to annual performance reviews
+  * **Quarterly Bonuses:** Benefit from a transparent and systematic quarterly bonus system
+  * **Flexible Schedule:** We offer a flexible work schedule to accommodate your needs
+  * **Remote Work Option:** Choose to work remotely, providing greater flexibility and comfort
+  * **Medical Insurance:** Receive comprehensive medical insurance for both you and a significant other
+  * **Financial Support for Life Events:** We provide financial support during special life events
+  * **Unlimited Paid Vacation:** Enjoy unlimited paid vacation leave
+  * **Unlimited Paid Sick Leave:** Take unlimited paid sick leave whenever necessary
+  * **Professional Development:** Get reimbursement for professional development courses and training
+
+_**The recruitment process includes the next steps:**_
+
+1\. HR Interview — 30 min
+
+2.Technical interview with live coding 90 min
+
+3\. Final Interview with Solution Architect & CTO — 60 min
+
+If the job description rings a bell — take action and **apply!**
+
+Looking forward to welcoming you to the iGaming world!
+
+Ambitious goals request a quick ability to maneuver through changes in the
+world. Playson is all about that.
+
+Join us today! 🙌

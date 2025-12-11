@@ -1,0 +1,45 @@
+Senior Full-stack .NET Engineer
+This long-term project focuses on building new Shopify app within the
+e-commerce domain. It involves the development and implementation of a robust
+system to enhance buyers and sellers’ experience via custom features not
+available via stock Shopify stores. Our client already owns 2 very successful
+apps within Shopify marketplace and wants to scale that success further.
+
+We are looking for a Senior Full-stack .NET Engineer to join our team.
+
+Requirements:
+
+Five-year working experience with .NET (at least)
+Excellent knowledge of C#, ASP.NET Core, Entity Framework Core
+One-year working experience with React (at least)
+Experience with .NET Core and .NET 6.0+
+Good knowledge of OOP and SOLID
+Experience in SQL
+Good knowledge of HTML, CSS, JS
+Strong analytical skills
+Experience with Shopify ecosystem (would be a plus)
+Experience with cloud providers (Azure, AWS, or similar) (would be a plus)
+Experience with CI/CD (would be a plus)
+Bachelor’s or Master’s degree in computer science (or similar technical field)
+Level of English: Upper-Intermediate (at least)
+
+Responsibilities:
+
+Develop and deliver applications in accordance with the established standards
+Design, document, and demonstrate software architecture
+Estimate complex projects using different techniques
+Research, study, and develop new or complex technical solutions/technologies (R&D)
+Review, test, and debug team members’ code regularly
+Maintain and upgrade existing system
+Collect and share best practices of software development
+Mentor Junior and Intermediate Engineers
+
+We offer:
+
+Interesting and challenging projects
+Competitive compensation and regular results-based salary review
+A broad range of professional education and personal development possibilities
+Comfortable and cozy working environment
+Motivated colleagues with profound knowledge of the technical field
+
+Accelerate your career with Leobit!

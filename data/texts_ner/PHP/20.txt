@@ -1,0 +1,46 @@
+PHP Developer (Symfony)
+### We are seeking a**PHP Developer** to join our team. You will work on high-
+impact projects that require stability, security, and performance.
+
+**Requirements:**  
+— Advanced knowledge of PHP (Symfony), 3+ years of experience.  
+— Strong debugging, problem-solving, and refactoring skills.  
+— Ability to work on legacy codebases and adapt quickly to new systems.  
+  
+**Nice to have:**  
+— Experience in fintech, e-commerce, or CRM-related projects.  
+— Understanding of service-oriented architecture (SOA).  
+  
+**Responsibilities:**  
+— Develop and maintain backend solutions using PHP.  
+— Troubleshoot and resolve issues efficiently, including working with and
+refactoring existing codebases.  
+— Collaborate effectively with other teams to deliver seamless integrations
+and solutions.  
+  
+**Technologies:**  
+— Primary language: PHP.  
+— Legacy code experience.  
+— Framework: Symfony (required).  
+— Databases: MariaDB, PostgreSQL, Clickhouse.  
+  
+**Additional Technical Skills:**  
+— Experience with messaging and queue systems (Kafka, RabbitMQ).  
+— Experience in writing unit/functional tests.  
+— Proficiency with version control systems (Git, GitLab/GitHub).  
+— Experience in integrating with external APIs.  
+— Basic understanding of CI/CD and containerization (Docker).  
+— Performance optimization skills (high-load systems, query optimization,
+indexing).
+
+**We offer:**
+
+— Opportunity to grow inside the company  
+— 20 working days of vacation  
+— 10 days of paid sick leaves  
+— Day off for your birthday + 5 days for special occasions  
+— Ukrainian holidays are days off  
+— International team
+
+### **Join us to be part of a dynamic and supportive environment where your
+expertise will truly make an impact.**

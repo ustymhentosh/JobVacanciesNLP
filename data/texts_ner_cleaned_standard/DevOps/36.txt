@@ -1,0 +1,30 @@
+DevOps Engineer
+About Us
+Jiris Health is scaling fast and needs a solid DevOps foundation to support
+our growth. We’re looking for someone to optimize our infrastructure and CI/CD
+pipelines in a lean, efficient way.
+
+The Role
+We’re seeking a part-time DevOps Engineer — ideally someone with a full-
+time role looking for a meaningful side project. You’ll help us ensure uptime,
+security, and scalability as we move toward launch.
+
+Responsibilities
+
+Manage and optimize CI/CD pipelines.
+Implement best practices for infrastructure and deployments.
+Support security, compliance, and monitoring needs.
+Help scale infrastructure as user base grows.
+
+Requirements
+
+Strong background in cloud infrastructure (AWS/Azure/GCP).
+Hands-on experience with CI/CD tools (GitHub Actions, Jenkins, etc.).
+Familiarity with Docker, Kubernetes, and IaC.
+Previous startup/healthcare experience a plus.
+
+Why Join Us
+
+Flexible part-time role with high impact.
+Be part of a mission-driven product while maintaining your main role.
+Opportunity to shape infrastructure strategy from the ground up.

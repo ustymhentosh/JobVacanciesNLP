@@ -1,0 +1,47 @@
+Senior Java Developer (Bonus engine, Kyiv)
+**Delasport — Implementing Technological Solutions Here and Now**
+
+Delasport is an iGaming Software company providing Sports Betting & Online
+Casino software, and turnkey B2B solutions. Established in 2010, Delasport
+delivers a one-stop-shop solution of Sports Betting and Online Casino from a
+White-Label, with a full range of management services to a Plug&Play iFrame
+and a complete Turnkey. We are establishing an R&D centre in Kyiv, and are
+looking for top talents to join our team.
+
+**TECHNOLOGY STACK**  
+Microservice architecture, Java 21, Spring Boot 3.4+, Kafka, PostgreSQL,
+Redis, Google Cloud Platform, Kubernetes
+
+**RESPONSIBILITIES**
+
+  * Development of new business initiatives, an extension of existing ones 
+  * Taking an active part in improvements and optimizations to the systems 
+  * Resolve technical problems, critical thinking on the development approach
+  * Be part of a cross-functional team with end-to-end responsibility for the result
+  * Taking part in team extension (interviewing, providing feedback, participating in interview post-briefs) 
+
+**REQUIREMENTS**
+
+  * 5+ years of commercial development experience using Java-related technologies 
+  * 2+ years of working experience with API development
+  * Hands-on experience with microservice architecture
+  * Ambition to write high-quality code covered with unit tests
+  * Solid debugging and troubleshooting skills
+  * Proactive and result-oriented mindset
+  * Strong problem-solving skills
+  * At least Upper-Intermediate English level 
+
+**WHAT WE CAN OFFER YOU**
+
+  * Modern office in Podil with an uninterruptible power supply and the Internet
+  * Personal time off (21 business days of paid vacation, paid days on special occasions, sick leaves, emergency days off)
+  * Public holidays
+  * Health insurance with the broker which is available from the first month of cooperation
+  * Life insurance with the broker which is available from the first month of cooperation
+  * Modern technical equipment
+  * English courses with native speakers
+  * Ukraine-based educational programs
+  * Sports activities reimbursement
+  * Corporate entertainments
+  * Happy hours on Fridays
+  * Gig contract support

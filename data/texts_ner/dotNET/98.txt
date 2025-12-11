@@ -1,0 +1,38 @@
+Senior .NET Developer
+**NVcoding** is an international software development company helping startups
+and enterprises in the US and Europe accelerate digital transformation. We
+specialize in **.NET, Java, React, Golang, Flutter, AI/ML** , and
+**FinTech/SaaS** solutions.
+
+**The current project** involves the adaptation and integration of a
+**Customer Self-Service platform** for a **utility company** and **state
+service delivery** , creating two solutions on a shared platform to enhance
+user experience and streamline processes.
+
+We are seeking an**experienced .NET Developer** to join the team and help
+deliver robust, high-performance solutions.  
+
+**Format:** Contract for **6–9 months.**
+
+**Zones of responsibility**
+
+  * Develop new features and improve existing functionality
+  * Ensure high-quality, maintainable, and efficient code
+  * Work closely with the team to troubleshoot and resolve issues
+  * Actively contribute ideas and propose solutions to improve product functionality
+  * Collaborate with the client and team using English
+
+**Required skills and experience**
+
+  * 10+ years of commercial experience with .NET
+  * Strong knowledge and hands-on experience with**.NET Framework 4.8** and **.NET Core**
+  * Proficiency in working with MS SQL
+  * Solid experience with XML and XSLT
+  * Hands-on experience with MVC Razor
+  * Proficiency in jQuery
+  * Understanding of Message Queues (MQ)
+  * Strong problem-solving mindset and proactive attitude
+  * Ability to take ownership and work both independently and as part of a team.
+  * English: **Upper-Intermediate**
+
+**_Apply now and become part of the project!_**

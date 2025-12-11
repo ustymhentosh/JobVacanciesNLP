@@ -1,0 +1,85 @@
+Senior DevOps AWS Engineer
+About Us
+
+We build legal technology for businesses that helps law firms and fund
+managers work faster and with better quality. Our main platform makes the
+process of raising private investment funds easier, so lawyers can draft,
+negotiate, and stay compliant at scale.
+
+We use a single-tenant SaaS system hosted on AWS in several regions. Our tech
+stack includes Python/Django, React/TypeScript, PostgreSQL, Redis,
+Elasticsearch/OpenSearch, S3, ECS, and Lambda. Teams work in Agile Scrum with
+CI/CD, Infrastructure-as-Code (Terraform/Terragrunt), and strong security
+practices (SOPS, KMS).
+
+Role Overview
+
+We are looking for a Senior DevOps Engineer to help us scale, automate,
+and secure our platform. The role requires deep knowledge of AWS cloud,
+Infrastructure-as-Code, CI/CD, and safe deployments across regions. You will
+work with developers, QA, and the CTO to make sure our systems are reliable,
+fast, and scalable.
+
+Main focus areas:
+
+AWS cloud design (multi-region, single-tenant)
+Infrastructure as Code (Terraform, Terragrunt, SOPS, KMS)
+Containers and serverless (ECS, Lambda)
+CI/CD pipelines and deployments
+Security and secrets management
+Monitoring and logging (CloudWatch)
+High availability and disaster recovery
+
+Key Responsibilities
+
+Build and manage AWS infrastructure with Terraform/Terragrunt.
+Maintain CI/CD pipelines for backend and frontend apps.
+Support workloads on ECS and Lambda, including scaling.
+Set up monitoring, logging, and alerts with CloudWatch.
+Securely manage secrets with SOPS and AWS KMS.
+Handle deployments across US and EU regions.
+Automate environment setup and deployments.
+Work closely with developers, QA, and CTO on changes.
+Troubleshoot production issues and ensure quick recovery.
+Promote best practices in DevOps and automation.
+
+Essential Requirements
+
+Experience as a Senior DevOps Engineer in SaaS.
+Strong AWS skills: VPC, ECS, Lambda, RDS, Redis, S3, EFS, SQS, SNS, CloudFront, ALB.
+Strong skills with Terraform and Terragrunt.
+Experience with CI/CD pipelines (AWS CodePipeline preferred).
+Knowledge of secrets and encryption (SOPS, KMS).
+Experience with PostgreSQL, Elasticsearch, and Redis in cloud.
+Understanding of scaling, high availability, and disaster recovery.
+Experience with monitoring and incident response.
+Used to supporting large teams (30+ engineers).
+
+Qualifications & Experience
+
+5+ years in DevOps/SRE in SaaS.
+Strong AWS and cloud-native skills.
+Knowledge of containers (Docker, ECS) and serverless (Lambda).
+Scripting skills (Bash, Python).
+Familiarity with distributed systems, networking, and security.
+Experience with Git and large team collaboration.
+
+Personal Attributes
+
+Hands-on, fast-paced worker.
+Detail-focused and passionate about automation and security.
+Good team player with developers, QA, and leadership.
+Strong problem-solving and troubleshooting skills.
+Eager to learn and share knowledge.
+
+What We Offer
+
+Competitive salary package.
+Career growth in a fast-growing tech company.
+Remote-first culture with global colleagues.
+Work with innovative legal tech and global clients.
+
+This senior role is a chance to shape and improve the foundation of our
+platform. We are looking for someone who enjoys automation, resilience, and
+scalability — and wants to help build the future of legal technology with a
+world-class team.

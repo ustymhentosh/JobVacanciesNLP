@@ -1,0 +1,45 @@
+Strong Junior Node.js Developer
+We’re looking for a skilled Node.js developer who is eager to learn and grow
+with us. You’ll be developing and maintaining high-quality applications using
+Node.js and related technologies. This is a fantastic opportunity to work on
+exciting projects, be part of a friendly team, and take your career to the
+next level. Come join us and let’s build great things together!
+🧰 Requirements:
+
+At least 1 year of commercial experience as a Node.js engineer.
+Strong knowledge of JavaScript and TypeScript.
+Experience with Express.js.
+Experience with relational databases (PostgreSQL and/or MySQL).
+Familiarity with AWS services (ec2, s3, lambda).
+Good understanding of RESTful API design principles.
+Unit testing (mocha/jest).
+Excellent problem-solving and debugging skills.
+Strong communication and collaboration abilities.
+Pre Intermediate English (or higher).
+
+🧰 As a plus:
+
+Experience with Nest.js
+Experience with Docker
+Non-relational databases (mongoDB, redis, elasticsearch)
+
+💻 Responsibilities:
+
+Developing and maintaining high-quality applications using Node.js and related stack.
+Following high-end coding standards.
+Troubleshooting and debugging applications to ensure optimal performance.
+Implementing and maintaining database systems.
+Designing and implementing RESTful APIs.
+Participating in code reviews to ensure code quality.
+Keeping up-to-date with industry trends and best practices in Node.js development.
+Collaborating with cross-functional teams to deliver tasks on time.
+
+🎁 We offer:
+
+Competitive salary
+Flexible working hours
+Paid time off and holidays
+Professional development opportunities
+Collaborative and inclusive work environment
+Opportunity to work on challenging and innovative projects
+Growth opportunities within the company

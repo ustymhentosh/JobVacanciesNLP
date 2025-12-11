@@ -1,0 +1,68 @@
+iOS Developer
+Join our team as an **iOS Developer** and take the lead in shaping a cutting-
+edge fintech mobile application! At Kindgeek, you’ll collaborate with a
+passionate and skilled team to build innovative payment solutions for a
+regulated Payments Institution, driving business growth through technology****
+
+**We’re looking for an iOS developer who has** :
+
+  * 3+ years of experience in iOS development, preferably with fintech or financial applications;
+  * Proficiency in Swift and experience working with Xcode;
+  * Experience with RESTful APIs and integrating third-party libraries;
+  * Familiarity with version control systems like Git;
+  * Solid understanding of security standards and practices, particularly in the fintech industry;
+  * Knowledge of Apple’s Human Interface Guidelines and best practices for iOS app design;
+  * Familiarity with Agile development methodologies;
+  * Strong problem-solving skills, attention to detail, and ability to work in a team-oriented environment;
+  * Good communication skills and at least Upper-Intermediate level of English.
+
+### RESPONSIBILITIES
+
+**As an iOS Developer, you will** :
+
+  * Develop and maintain a fintech mobile application from MVP, ensuring high performance, quality, and responsiveness;
+  * Collaborate with product managers, designers, and backend engineers to define app features and functionalities;
+  * Write clean, scalable, and maintainable code that adheres to industry best practices;
+  * Implement new features while ensuring the app’s reliability and enhancing its overall performance;
+  * Work with third-party APIs, payment gateways, and secure data storage solutions;
+  * Conduct code reviews, participate in peer discussions, and contribute to architectural decisions;
+  * Continuously discover, evaluate, and implement new technologies to maximize development efficiency;
+  * Identify and fix bugs, bottlenecks, and performance issues;
+  * Ensure the app complies with security and data privacy regulations, especially in financial contexts.
+
+### ABOUT PROJECT
+
+### Description
+
+A regulated Payments Institution specializing in Acquiring, Issuing and Mobile
+Payments with a license granted by the Central Bank of Cyprus . We provide
+online merchants with reliable and effective acquiring solutions.
+
+Our vision is to empower business growth through innovation in payments.
+
+Our mission is to be the people that take care of the payments and the
+platform that powers the growth.
+
+### Project Team
+
+6 people
+
+### WHAT WILL YOU GET WITH KINDGEEK
+
+### **We want you to thrive and feel supported**
+
+  *  _**Professional growth:**_ at Kindgeek, we want our employees to grow and achieve ambitious professional goals. We support professional development with training and certification refunds and provide regular feedback and technical reviews.
+  * _**Benefits package:**_ Kindgeek offers all team members competitive compensation and a benefits package that includes 18 working days of fully paid vacation, 10 compensated by 50% sick leaves without a note from the doctor, and an opportunity to take study leaves. Depending on how long you stay in the company, you can receive different health insurance packages from our partners.
+  * _**Personal growth:** _as a part of our team, you will have access to corporate English courses with a 50% reimbursement, take advantage of our offline library and access a large selection of corporate training and classes. Also, every employee can request any internal or external training or certification if it applies to his or her work responsibilities.
+  * _**Geek community:**_ at Kindgeek, we value community — even in the full-scale invasion times, we take every opportunity to stick together. Our geeks organise various online and offline clubs — from stretching and skiing to English. We volunteer together and support each other.
+  * _**Flexibility:**_ Kindgeek offers a hybrid working model. Team members can work remotely or from the office or Kindgeek London Hub — an innovative cafe-style co-working in Lviv (it’s pet-friendly!).
+
+### **We encourage you to apply**
+
+At Kindgeek, we encourage everyone to apply — regardless of nationality, race,
+gender, marital status, disability, sexual identity, or religion. We are
+growing into an inclusive, equal-opportunity company where only
+professionalism, competence, and ideas matter. We are committed to supporting
+mobilised employees and veterans joining Kindgeek and facilitating their
+career development. We aim to bring equal opportunities to all team members
+and candidates — especially those underrepresented in technological companies.

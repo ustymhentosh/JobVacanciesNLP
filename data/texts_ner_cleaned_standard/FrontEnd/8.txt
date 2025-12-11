@@ -1,0 +1,77 @@
+Middle QA Engineer (Frontend)
+About us:
+
+Atlaslive is a dynamic iGaming platform that provides the best quality
+software solutions for iGaming business. We create a live connection between
+business ambitions and opportunities. Atlaslive is recognized worldwide as one
+of the leading Sportsbook Platforms, as well as the Best Sports Betting
+Provider and a Rising Star in Sports Betting Technology within the CEE, Baltic
+and Nordic markets. Atlaslive, the tech behind the game.
+
+Key Responsibilities and Requirements:
+
+Software Testing Experience: 2+ years of experience in software testing, with a strong preference for experience in front-end testing.
+SDLC and STLC: Solid understanding of the Software Development Life Cycle (SDLC) and the Software Testing Life Cycle (STLC).
+Test Design and Execution: Experience in analyzing requirements, designing tests, executing test cases, and reporting results.
+API knowledge, utilizing tools such as Postman or similar.
+Understanding of client-server technologies and REST API.
+Strong knowledge of web technologies like HTTP, XML, JSON, and REST.
+Bug Tracking: Experience with bug tracking systems (e.g., Jira) and creating clear bug reports.
+Basic knowledge of Figma.
+Understanding of UI/UX principles, CSS, HTML.
+Understanding of responsive design principles and cross-browser compatibility.
+Knowledge of version control systems (e.g., Git).
+Experience in Android Studio, Xcode, and other simulators and emulators.
+Agile/Scrum: Familiarity with Agile/Scrum methodologies.
+
+Nice to Have:
+
+Understanding of databases (SQL).
+Knowledge of CI/CD pipelines.
+
+Soft Skills:
+
+Excellent communication and collaboration skills are essential for working with developers and other team members.
+Strong analytical and problem-solving skills to identify and resolve issues.
+Keen attention to detail is crucial for thorough testing and accurate bug reporting.
+Ability to quickly learn new software and adapt to changes.
+
+The Interview Process:
+
+30 minute Recruiter call.
+60-90 minute Technical workshop with Head of QA and QA Team.
+30 minute call with Head of Delivery.
+
+Career Growth & Opportunities:
+
+Become part of a global leader in iGaming innovation.
+Access to professional development programs and industry events.
+Opportunity to work with top-tier experts in cutting-edge technology.
+Drive real impact in a fast-growing international market.
+Flexible career progression within a scalable and adaptable platform.
+
+Working Conditions:
+
+Vacation: 22 working days per year, plus official public holidays.
+Sick Leave:
+
+5 paid sick days annually (no certificate required).
+
+Up to 10 additional days covered at 100% with a valid medical certificate.
+
+Equipment: Personal budget for necessary hardware and tools.
+Education: Annual learning & development budget to support your professional growth.
+Health & Wellness: Access to a personal limit within our benefit cafeteria system for health-related expenses.
+
+Join our passionate and talented team and be at the forefront of transforming
+the iGaming industry with groundbreaking live tech solutions. If you’re a
+visionary professional eager to shape the future of iGaming, Atlaslive invites
+you to apply and drive our continued success in this dynamic market.
+
+Atlaslive — The Tech Behind the Game.
+
+All submitted resumes undergo a thorough review. If we do not contact you
+within 5 business days after your application, it means that we are unable to
+proceed with your candidacy at this time. However, we appreciate your interest
+in our company and will keep your contact details on file for future
+opportunities.

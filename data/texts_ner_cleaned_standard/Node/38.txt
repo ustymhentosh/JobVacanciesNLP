@@ -1,0 +1,82 @@
+Senior Node.js Engineer
+About the company:
+
+Jappware is a software development company that delivers innovative and
+reliable digital solutions for international clients.
+
+We specialize in end-to-end product development — from ideation and design to
+architecture, development, and DevOps support.
+
+About the project:
+
+We are looking for a Senior Node.js Engineer to join a fast-moving
+international product team developing a modern, iPad-based POS system used
+across Europe in the retail, hospitality, and service industries.
+
+You won’t be working on payment processing or the core POS functionality —
+instead, you’ll drive the development of key platform modules such as the
+admin dashboard, fiscalization, appointment reservations, and device
+management.
+
+As a member of this team, you will play a pivotal role in supporting the
+SmartPOS teams, particularly those focused on POS devices, by enhancing
+service quality and ensuring seamless system performance.
+
+What your work will look like:
+
+Expertise in TypeScript,Node.js and Microservice architecture, with 6+ years of experience in application design and testing.
+Proficient in Infrastructure as Code (IaC) with Terraform or Pulumi, and extensive experience with PostgreSQL and NoSQL databases.
+Skilled in cloud infrastructure, particularly Google Cloud Platform (GCP), container orchestration using Kubernetes, and CI/CD with CircleCI, GitHub Actions, and ArgoCD.
+Implement monitoring solutions with Datadog for system performance and health observability.
+Mentor and coach team members, collaborating with cross-functional teams to deliver scalable, high-quality solutions aligned with business goals.
+
+What You Need To Be Successful In This Role:
+
+Demonstrated ability to inspire a team of engineers, with a focus on fostering collaboration and continuous improvement.
+Strong technical background with a track record of successfully delivering complex projects, ideally in the fintech or payment industry.
+A problem solver with the ability to think creatively and contribute to challenging technical requirements.
+Excellent communication skills, both written and verbal, with the ability to effectively convey technical concepts to diverse stakeholders.
+
+What we are offering:
+
+Challenging and innovative projects.
+Flexible schedule and remote-friendly culture.
+20 paid vacations and 15 sick leave days.
+Annual budget for learning & development activities.
+Team events, workshops, and internal tech meetups.
+IT Club membership.
+
+Steps to Expect in Jappware’s Hiring Process:
+
+Intro Interview
+Technical Interview
+Partner Interview
+
+Our Mission:
+
+To build innovative software in trustworthy partnerships. We aim to become a
+reliable and forward-thinking technology partner, helping businesses grow
+through innovation and mutual trust.
+
+Our Values:
+
+Trust — Every successful partnership is built on openness, honesty, and sincerity.
+Openness — We encourage people to share ideas freely and foster transparent communication.
+Partnership — We treat our clients’ and teammates’ goals as our own.
+Proactiveness — We act ahead of possible outcomes and anticipate challenges to deliver the best results.
+
+Social Responsibility:
+
+At Jappware, we stand with our people and our country.
+We proudly support Ukraine’s resilience, innovation, and global contribution
+to the IT community.
+Through donations, volunteering, and social initiatives, we help strengthen
+our local communities and the nation’s future.
+
+Jappware stands with Ukraine 🇺🇦 — Glory to Ukraine!
+
+Follow us via
+LinkedIn,
+DOU,
+Instagram,
+Facebook

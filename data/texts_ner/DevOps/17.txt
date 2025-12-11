@@ -1,0 +1,66 @@
+Senior DevOps Engineer (AWS)
+Dive deep into Digital! For 20 years, Intellias has been developing top-tier
+digital solutions for the world’s leading companies, keeping them in line with
+the latest technology trends. Join in and provide innovations for the future!
+
+### **What project we have for you**
+
+The Senior DevOps Engineer will play a key role in designing, maintaining, and
+scaling the infrastructure and automation systems that ensure the reliability,
+availability, and performance of the company’s critical applications and
+services. This position requires deep expertise in cloud-native platforms,
+infrastructure as code (IaC), CI/CD, and modern observability practices. The
+role involves a blend of software engineering and systems engineering skills
+to build resilient, secure, and scalable infrastructure.
+
+### **What you will do**
+
+  * Design and implement scalable infrastructure solutions using AWS cloud services (e.g., EC2, EKS, RDS, MSK, Lambda, CloudFront).
+  * Develop and maintain infrastructure automation using Terraform, Helm, and ArgoCD within GitOps workflows.
+  * Architect and manage multi-region, highly available systems to ensure business continuity and disaster recovery.
+  * Lead incident response, postmortems, and root cause analysis efforts to improve system reliability and performance.
+  * Define and enforce Service Level Objectives (SLOs), Service Level Indicators (SLIs), and error budgets.
+  * Build and maintain CI/CD pipelines using GitHub Actions, ensuring efficient and secure software delivery.
+  * Implement and manage observability stacks including Datadog, CloudWatch, and Prometheus/Grafana.
+  * Ensure compliance and security best practices, including IAM policies, secrets management, and audit logging.
+  * Collaborate with software engineering, security, and infrastructure teams to define and implement a reliable architecture.
+  * Conduct cost optimization, capacity planning, and performance tuning for cloud workloads.
+  * Mentor junior engineers and contribute to knowledge sharing and process improvements.
+  * Willingness to work a shifted schedule: 2:00 PM — 10:00 PM Kyiv time.
+
+### **What you need for this**
+
+**Experience:**
+
+  * Minimum 5+ years of professional experience in Site Reliability Engineering, DevOps, or Cloud Infrastructure roles.
+
+**Technical Skills:**
+
+  * Strong proficiency with AWS (EKS, RDS, S3, IAM, Lambda, CloudFormation/Terraform).
+  * Proficient in Terraform, Helm, Kubernetes, and CI/CD automation.
+  * Solid understanding of networking, DNS, TLS, load balancers, and container orchestration.
+  * Experience with monitoring/alerting tools (e.g., Datadog, Prometheus, Grafana).
+  * Strong scripting skills in Python, Bash, or Go.
+
+**Preferred Qualifications**
+
+  * Master’s degree in Computer Science or related field.
+  * AWS Certified Solutions Architect or DevOps Engineer certifications.
+  * Experience with Crossplane, OpenSearch, or multi-cloud architecture.
+  * Prior experience in SRE teams or initiatives.
+
+### **What it’s like to work at Intellias**
+
+At Intellias, where technology takes center stage, people always come before
+processes. By creating a comfortable atmosphere in our team, we empower
+individuals to unlock their true potential and achieve extraordinary results.
+That’s why we offer a range of benefits that support your well-being and
+charge your professional growth.  
+We are committed to fostering equity, diversity, and inclusion as an equal
+opportunity employer. All applicants will be considered for employment without
+discrimination based on race, color, religion, age, gender, nationality,
+disability, sexual orientation, gender identity or expression, veteran status,
+or any other characteristic protected by applicable law.  
+We welcome and celebrate the uniqueness of every individual. Join Intellias
+for a career where your perspectives and contributions are vital to our shared
+success.

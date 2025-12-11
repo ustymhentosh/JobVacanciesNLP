@@ -1,0 +1,38 @@
+Senior Camunda Developer
+As part of a collaboration with a leading European energy company driving
+innovation in digital transformation and sustainable solutions, we are looking
+for a Camunda 8 Developer to join our project. This role offers the
+opportunity to design and implement cloud-based process automation solutions
+using the Camunda 8 SaaS platform, contributing to the digitalization of
+business workflows across diverse domains.
+
+Your tasks
+
+Design, model, and implement business processes using BPMN 2.0 on the Camunda 8 platform.
+Analyze and detail business requirements in close collaboration with business partners and analysts, translating them into executable workflow models.
+Develop and maintain process applications to automate individual workflow steps and ensure end-to-end integration.
+Integrate external systems and services via REST APIs or custom connectors.
+Configure and use core Camunda 8 SaaS components: Operate, Tasklist, Console, Connectors, and Web Modeler.
+Implement robust error handling, retry mechanisms, and monitoring to ensure transparency and reliability in process execution.
+Support the deployment of process applications within CI/CD pipelines and cloud-native environments.
+Collaborate closely with cross-functional teams to ensure operational readiness and scalability of workflow solutions
+
+Requirements
+
+Proven experience working with Camunda 8 (SaaS)
+Strong understanding of BPMN 2.0; familiarity with DMN and Camunda Forms is a plus
+Practical experience in integrating workflows with distributed systems
+Knowledge of CI/CD pipelines, DevOps practices, and cloud environments (e.g., Kubernetes, Docker)
+Ability to work effectively with business stakeholders to refine and optimize process logic
+Solid analytical and problem-solving skills, with a structured approach to development and testing
+Excellent communication and collaboration abilities within cross-functional and international teams
+Strong analytical thinking and a proactive problem-solving mindset
+Commitment to delivering clean, maintainable, and scalable solutions
+Tax residence in Ukraine is required
+
+Nice-to-have requirements
+
+Experience with Camunda Connectors or developing custom connectors
+Familiarity with the Operate API or Camunda SDKs
+Exposure to event-driven architectures
+Camunda certification or prior participation in official Camunda training programs

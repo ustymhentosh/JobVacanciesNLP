@@ -1,0 +1,112 @@
+Java Tech Lead (Platform Team)
+**SPRIBE is an innovative B2B iGaming software developer** reshaping the
+industry with cutting-edge technology and a forward-thinking approach to game
+design. Founded by David Natroshvili, the company pioneered the crash game
+format with its flagship title **Aviator** , setting a new standard in player
+engagement and paving the way for a wave of non-traditional content. With over
+50 million monthly active players, SPRIBE is now one of the most influential
+players in the market. Strategic global partnerships with iconic brands like
+UFC, WWE, and AC Milan reflect the company’s bold vision for international
+growth, with a particular focus on expanding its footprint in the UK and other
+key markets.  
+We’re hiring a Java Tech Lead (Platform) to help us build the future of
+iGaming.
+
+**Requirements  
+** High degree in Computer Science, with 5+ years of experience in software
+development  
+Strong understanding of product development, CI/CD, testing and process
+improvement methodologies  
+Excellent written and oral communication skills are essential  
+High degree of independence and self-organization.  
+Experience with client-server integrations, multithreading and highload system
+design  
+Solid knowledge of Object-Oriented Programming, MVC and other design
+principles  
+Experience with UML  
+Knowledge about writing unit tests (JUnit or another frameworks)  
+Experience with microservices architecture, best practices and patterns  
+Experience with Git and feature branching approach  
+Experience with TDD, DDD  
+Experience with AWS  
+Experience with cloud infrastructure and cloud native applications  
+At least 1 year of experience in a leadership position.  
+Strong understanding of management practices such as Agile, Scrum, and other
+project  
+Knowledge about management methodologies for successful collaboration with
+project managers.  
+Experience working with project tracking tools such as JIRA  
+Excellent soft skills and the ability to handle and resolve conflicts within
+the team.  
+Strong managerial skills, experience in organizing team collaboration,
+establishing an efficient development flow, and monitoring team members’ task
+performance effectiveness  
+  
+**Must be expert at**  
+Java 17  
+Spring frameworks (Boot 3, Security, Web, Data, Cache, Cloud)  
+ORM (Hibernate)  
+Liquibase  
+RDBMS (Postgresql)  
+SQL  
+WebSockets, HTTP(s), Restful Web Services  
+JUnit 5  
+Mockito  
+Gradle 7  
+Docker  
+Kafka  
+  
+**Must be familiar with**  
+Kubernetes  
+ElasticSearch  
+Redis  
+Java 21
+
+**Responsibilities  
+** Application development production and R&D prototypes  
+Develop complete implementation packages to enable replication of production
+designs by other teams/groups (Schematics, block, diagrams, database
+information, and related documents)  
+Design & improve and follow departmental processes for application development
+including processes for design reviews, configuration management, requirements
+management and system qualification  
+Designing, developing, and testing software and systems  
+Creating a technical backlog for project improvements to achieve project goals
+more effectively  
+Working with stakeholders, analysts, other engineers, and engineering teams to
+define and deliver software and systems requirements  
+Critical Incident Response — Be available to resolve critical incidents that
+may require immediate attention, including after-hours support for urgent
+issues.  
+Issue Resolution — Lead the resolution of critical technical problems,
+ensuring minimal impact on the project and users.  
+Release Support — Provide technical support during complex or critical
+releases, assisting the team in avoiding or resolving potential issues.  
+Leading and managing a team of engineers with responsibilities including:  
+Monitoring the effectiveness of task execution by team members.  
+Mentoring team members to enhance their skills.  
+Collaborate with the Project Manager (PM) to provide accurate estimations for
+the effort required to complete tasks, ensuring that timelines are realistic
+and achievable
+
+**Why join SPRIBE  
+** Flexible work model  
+Work from our modern offices in Warsaw or Tbilisi, or remotely if you’re based
+in another city — we support your comfort and productivity wherever you are.  
+Top-tier equipment  
+We provide and deliver all necessary corporate hardware so you can start
+strong from day one.  
+Generous paid time off  
+Enjoy 26 business days of paid vacation annually, plus paid sick leave —
+because we value your well-being and work-life balance.  
+Health & wellness support  
+Our benefits catalog lets you choose what matters most:  
+-Gym membership compensation  
+-English language courses  
+-Medical insurance  
+Celebrating your moments  
+We recognize and celebrate your birthdays and work anniversaries with
+thoughtful gifts — because your milestones matter.  
+Global team events  
+Twice a year we host unforgettable corporate events in some of the world’s
+most exciting cities — a unique blend of team spirit and adventure.

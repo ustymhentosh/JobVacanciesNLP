@@ -1,0 +1,60 @@
+Senior iOS Product Engineer — Spark team
+[Readdle](http://readdle.com/) is a pioneering force in the personal
+productivity space on Apple devices, having shaped the landscape since 2007.
+Our mission is to empower individuals and teams with innovative technology,
+enhancing their efficiency and creativity. We are dedicated to crafting
+exceptional mobile and desktop experiences for those who aspire to achieve
+more.
+
+[The Spark email app](https://sparkmailapp.com/) stands as one of our flagship
+products, designed for various platforms, including iOS, macOS, Android, and
+Windows. Our mission at Spark has always been to make you love your email
+experience — we started by making email smart, and improved team
+collaboration, and now we’ve tackled information overload to make email
+focused. Our core features are designed to heighten your focus and allow you
+to create customized workflows that suit your needs.  
+  
+**About the role:**
+
+As a Senior iOS Product Engineer, you’ll play a key role in shaping the future
+of our product. Here’s how you’ll make a difference:
+
+  * Develop innovative features like an AI assistant and advanced search functionalities, transforming the email interaction experience for our users.
+  * Influence crucial changes in our iOS client’s architecture. As we shift towards a more robust, SwiftUI-centric design, your insights will be essential in this transformation, providing improved flexibility and an enhanced iteration process. 
+  * While your primary platform would be iOS, there’s room for expanding your impact. You’d leverage Swift for developing applications for Android and Windows platforms, demonstrating the versatility of Swift across various environments.
+
+**What you’ll do:**
+
+  * Write efficient, maintainable, and clean code following best practices.
+  * Lead the enhancement of Spark’s technical core, engaging crafting engines for upcoming features and ensuring our technologies remain advanced and responsive to changing needs.
+  * Manage the investigation and resolution initiatives for significant defects, issues, and incidents.
+  * Drive continuous improvement in our processes to optimize performance.
+  * Adapt swiftly to the latest features released by Apple and keep Spark innovative at the forefront of industry trends.
+  * Write tests to ensure you deliver high-quality code and a delightful user experience.
+  * Mentor, collaborate, and learn from team members.
+
+**About you:**
+
+  * Proficiency in Swift and Objective-C
+  * Experience creating complex user interfaces with UIKit and/or SwiftUI
+  * Strong understanding of SOLID, OOP patterns, concurrency patterns
+  * Experienced in memory management and optimizations
+  * Ability to solve basic tooling issues (CocoaPods quirks, Xcode caches, git abnormal states)
+  * Basic understanding of how the C/Swift compiler builds flows (C headers, linking, search paths)
+  * Ability to function independently and in a team environment
+  * Strong analytical and problem-solving skills
+  * Experience working in an Agile/Scrum environment
+
+**Would be a plus:**
+
+  * Interest in AI, experience creating AI agents
+  * Understanding of CI/CD pipelines and tools (Azure, GitHub Actions, or Jenkins)
+  * In-depth knowledge of databases (SQL, indexes)
+
+**What you will get at Readdle:**
+
+  * **Customer-centric culture.** We put our customers first. It means that every employee can benefit from interacting with our customers directly. It enables us to create and deliver the best solutions for millions of our users.
+  * **Professional growth.** We are professionals at everything we do. It means we own our decisions, our work, and our results. We provide quality feedback to others and welcome feedback as an opportunity to learn and improve.
+  * **A team of amazing people.** The greatest power we have is the team. It means we care about each other, ensure transparency, and invest in everyone’s success.
+  * **Impact on our products.** We aim to create valuable products. It means that we improve ourselves constantly by overcoming constraints, simplifying our processes, and improving our capacity.
+  * **Innovative culture.** We try to be innovative and creative in everything we do. It means that we expect, appreciate and value new ideas.

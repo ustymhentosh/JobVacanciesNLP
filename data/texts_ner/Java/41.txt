@@ -1,0 +1,64 @@
+Senior Full Stack (Java&React) Engineer (#3667)
+**N-iX** is looking for an experienced **Senior Full Stack (Java &React)
+Engineer **to join our team.
+
+**About the project:**
+
+We’re known for our unique approach, concentrating on niche markets where we
+can provide exceptional service and clear advantages to customers globally.
+Our global network is meticulously designed for both efficiency and
+reliability, driven by a mission that places customer needs at the core of
+every decision.
+
+At Integrated Shipping Services, you will have the opportunity to work with a
+modern and evolving technology stack on a long-term, stable project that
+ensures both professional security and personal growth. You will thrive within
+a culture that encourages the sharing of ideas and celebrates collaboration.
+Furthermore, you will contribute to the development of innovative solutions,
+working with cutting-edge code and moving away from outdated systems.
+
+We offer a flexible partnership model with other carriers, presenting a
+refreshing alternative in today’s dynamic market environment. Come contribute
+to our mission where your work directly enhances our global service
+excellence.
+
+**Responsibilities:**
+
+  * Hand-on full stack development of innovative applications
+  * Owning the entire development cycle, including design, architecture, development, etc. 
+
+**Requirements:**
+
+  * Experience in the following technologies:**** Java, Spring
+  * Experience with Functional Programming and Java Streams
+  * Experience in front-end development with React
+  * Experience with developing a reactive UI (Reactive JS)
+  * Experience in TDD/BDD development in the following frameworks: Junit, Jasmin, Mockito, Protractor/Selenium
+  * Experience in micro-services-based architecture and tools (Spring Boot/Cloud)
+  * Experience in DevOps development and Jenkins
+  * Experience in designing, developing, and deploying cloud/hybrid-based solutions
+  * Experience in developing and deploying in Container based environments (Kubernetes, Cloud foundry)
+  * Familiarity with the following design concepts: micro-services, service discovery, circuit breaker
+  * Self-starter with the ability to appropriately priorities and plan complex work in a rapidly changing environment
+  * Versatility and capability to switch easily between different tasks and technologies
+  * Experience in assessing a broad range of information solutions and products
+  * Ukrainian and English languages at least Upper-Intermediate level 
+
+Nice to have:
+
+  * Experience in development in Kotlin 
+  * BS degree in Computer Science or equivalent combination of education and experience
+
+**We offer*:**
+
+  * Flexible working format — remote, office-based or flexible
+  * A competitive salary and good compensation package
+  * Personalized career growth
+  * Professional development tools (mentorship program, tech talks and trainings, centers of excellence, and more)
+  * Active tech communities with regular knowledge sharing
+  * Education reimbursement
+  * Memorable anniversary presents
+  * Corporate events and team buildings
+  * Other location-specific benefits
+
+*not applicable for freelancers

@@ -1,0 +1,64 @@
+Middle React.js Developer
+Our mission at Geniusee is to help businesses thrive through tech partnership
+and strengthen the engineering community by sharing knowledge and creating
+opportunities 🌿Our values are Continuous Growth, Team Synergy, Taking
+Responsibility, Conscious Openness and Result Driven. We offer a safe,
+inclusive and productive environment for all team members, and we’re always
+open to feedback💜 If you want to work from home or work in the city center of
+Kyiv, great — apply right now.
+
+Requirements
+● 2+ years of relevant experience in the IT industry, strong knowledge of
+JavaScript; including ES6;
+● 1.5+ experience with React, Webpack, and TypeScript ;
+● Experience with GraphQL (Apollo) ;
+● Experience with Redux;
+● Experience with GIT and branching workflows;
+● Familiar with unit testing, and integration testing;
+● English — Intermediate stong
+
+Responsibilities
+● Develop modern client-side experiences using React.JS, JavaScript,
+TypeScript;
+● Work on a small, agile, cross-functional development team to deliver high-
+quality features;
+● Create, modify, develop and implement complex software functionality,
+applications, and services based upon requirements and architectural design;
+● Implement new features, evolve existing ones, and fix bugs, with quality,
+performant, testable code;
+● Collaborate with other team members and with cross-functional teams and
+stakeholders across geographies;
+● Participate in estimation and planning sessions;
+● Conduct technical interviews for front-end engineers;
+● Provide a positive, polite, and open-minded style of communication;
+● Good verbal and writing English language skills.
+
+Nice to have
+● Experience with LMS, SCORM
+What you will get
+
+● Competitive salary and good compensation package;
+● Exciting, challenging and stable startup projects with a modern stack;
+● Corporate English course;
+● Ability to practice English and communication skills through permanent
+interaction with clients from all over the world;
+● Professional study compensation, online courses and certifications;
+● Career development opportunity, semi-annual and annual salary review
+process;
+● Necessary equipment to perform work tasks;
+● VIP medical insurance or sports coverage;
+● Informal and friendly atmosphere;
+● The ability to focus on your work: a lack of bureaucracy and
+micromanagement;
+● Flexible working hours (start your day between 8:00 and 11:30);
+● Team buildings, corporate events;
+● Paid vacation (18 working days) and sick leaves;
+● Cozy offices in 2 cities ( Kyiv & Lviv ) with electricity and Wi-Fi
+(Generator & Starlink);
+● Compensation for coworking (except for employees from Kyiv and Lviv);
+● Corporate lunch + soft skills clubs;
+● Unlimited work from home from anywhere in the world (remote);
+● Geniusee has its own charity fund.
+
+Please applyvia this
+link and add your Telegram name

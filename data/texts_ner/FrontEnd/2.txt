@@ -1,0 +1,54 @@
+JS Full Stack Developer
+Magnoli is an innovative system for dry cleaning operations in the United
+States.
+
+The system covers all functions — from registering the orders to tracking
+production and employee performance.
+
+The JS developer will work on a React/Node app and focus on a specific
+function, such as registering orders or CRM.
+
+The developer must perform UI, DB, and infrastructure-related routines to
+ensure that his app advances weekly and has a clear deliverable in Production.
+
+We heavily use Cursor and only consider people who want to work with coding
+LLMs.  
+If you are interested in learning more about LLM at work, it’s an excellent
+chance for you to join the team that develops many best practices around it.
+
+The project is just started and is backed by one of the biggest names in the
+dry-cleaning industry.
+
+No legacy  
+No bureaucracy  
+No long meetings
+
+### IDEAL CANDIDATE
+
+## MUST HAVE:
+
+  * 1 year+ production experience with React & Node;
+  * Experience connecting API and 3rd party libs;
+  * The ability to work independently and get things done;
+  * Commitment to deadlines and making things happen!
+
+## WOULD BE GREAT:
+
+  * Fine written English;
+  * Use Cursor daily and know the latest features;
+  * Know Github actions
+
+## WE’LL WORK GREAT IF:
+
+  * Attentive to details: pixel-perfect markup is a must on our projects. It’s assumed you’ll check your work before reporting it’s done;
+  * Responsible and committed: you don’t miss deadlines repeatedly. Just a grown-up communication about your availability is enough;
+  * Can work with limited documentation: projects are usually simple, and documentation is basic. We don’t point fingers if smth is missed in the docs and not done, though we expect you to have common sense.
+
+### WHAT’S IN IT FOR YOU:
+
+  * Get in the big startup early to grow with it;
+  * Flexible working hours and exciting projects that help real businesses;
+  * We’ll pay you to learn what is very appreciated on the market.
+
+_**> > Please mind there is a test task that may require 1-2 hours of your
+time 👇**_

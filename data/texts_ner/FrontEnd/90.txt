@@ -1,0 +1,64 @@
+Full-stack JavaScript Developer
+Hi! We’re REZET.
+
+We help our business partners worldwide achieve their goals by creating game-
+changing software that accurately corresponds to their business needs and
+procreative mindsets.  
+  
+We’re looking for a talented, experienced **Middle(+)** **Full Stack
+JavaScript** developer who will join our team and help us drive towards new
+success stories and achievements, together!
+
+**Joining our team, you will:**
+
+  * Collaborate on worldwide projects;
+  * Solve challenging and engaging tasks;
+  * Share your ideas freely, and be able to integrate them into the workflow.
+
+**Required skills:**
+
+  * Experience with JavaScript ≥3 years;
+  * Async code callbacks, promises;
+  * NodeJS/MongoDB;
+  * Experience with React, Vue, Angular (at least one from the list);
+  * HTML / CSS / Flex;
+  * Git;
+  * Conversational English (B1 — B2).
+
+**Would be a plus:**
+
+  * ReactNative;
+  * SASS / LESS / SCSS;
+  * AWS / Heroku / DO;
+  * SQL, MySQL, Postgresql;
+  * Docker;
+  * Unit testing with Jest;
+  * TypeScript;
+
+**Main responsibilities:**
+
+  * take a proactive part in software development;
+  * code refactoring & optimization;
+  * build new and tweak existing functionality and features;
+  * participate in client meetings.
+
+**Required personal traits:**
+
+  * **High level of communication skills:** clearly express your thoughts verbally and in writing. Know how to ask the right questions. Explain complex things in simple terms.
+  * **Proactivity.** Take responsibility and accountability in the area of your professional domain. Suggest ideas for improving the work process.
+  * **Positive attitude and optimism.** Believe in the positive outcome in any circumstances. Support your teammates. Be ready for changes.
+
+**We offer:**
+
+  * Challenging and engaging tasks;
+  * Flexible work schedule;
+  * Competitive salary;
+  * Paid vacations, days off, and sick leaves;
+  * Medical insurance;
+  * Paid gym, sports, and educational activities;
+  * Professional growth;
+  * Career growth and the possibility of becoming an influential part of the projects and team.  
+  
+
+**Rezet is a team that fuses talent, innovation, and technology — feel free to
+share your CV and join us!**

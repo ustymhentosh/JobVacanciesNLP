@@ -1,0 +1,67 @@
+Senior Kotlin/Java Backend Engineer (#4150)
+We are looking for a Senior Kotlin/Java Backend Engineer who thrives in
+complex data-driven environments, learns new frameworks quickly, and
+contributes to the continuous improvement of our architecture and delivery
+practices.
+
+The Market-wide Half-Hourly Settlement (MHHS) Program is a key initiative
+shaping the future of the UK energy market. The system enables the measurement
+and processing of electricity consumption data every half hour — providing a
+more accurate view of real energy usage. This drives fairer tariffs, supports
+renewable integration, and fosters a more efficient, data-driven energy
+ecosystem.
+
+As a Backend Engineer, you will play a central role in building and
+maintaining the core data processing flows of the MHHS system , ensuring
+scalability, reliability, and accuracy of large-scale data operations. You’ll
+work within the IOps pod , collaborating with cross-functional teams to
+design, develop, and evolve high-performance backend services running on the
+JVM stack.
+
+Responsibilities:
+
+Design, build, and maintain core backend components and data processing flows for the MHHS platform
+Implement reliable, efficient, and scalable services using Kotlin and Java (JVM)
+
+Work with frameworks such as Quarkus and Spring (DI) to develop and integrate backend services
+Apply ORM and persistence best practices using Hibernate
+
+Collaborate closely with other engineers, data specialists, and DevOps to ensure smooth system integration
+Contribute to the CI/CD pipeline and modern software delivery practices
+Ensure observability, fault tolerance, and performance optimization of backend services
+Participate in code reviews, architectural discussions, and continuous improvement of engineering practices
+Support Agile delivery through estimation, planning, and iterative value delivery
+Promote clean code principles, testing culture, and high engineering standards
+
+Requirements:
+
+5+ years of experience in backend development using Java and/or Kotlin
+
+Proficiency withHibernate and relational databases (SQL, PostgreSQL)
+Hands-on experience with Spring Boot or Quarkus frameworks
+Experience with CI/CD pipelines , version control (Git), and Agile delivery practices
+Experience with Docker and cloud environments (AWS and/or GCP)
+Knowledge of Kafka , message queues
+Understanding of event-driven architecture and RESTful APIs
+Experience building reliable, scalable backend systems with a strong observability and security focus
+Excellent problem-solving and analytical skills
+Upper-intermediate English and effective communication in distributed teams
+
+Would be a plus:
+
+TypeScript skills — ability to understand or contribute to backend code when needed
+Understanding of energy sector data flows
+
+*We offer:*
+
+Flexible working format — remote, office-based or flexible
+A competitive salary and good compensation package
+Personalized career growth
+Professional development tools (mentorship program, tech talks and trainings, centers of excellence, and more)
+Active tech communities with regular knowledge sharing
+Education reimbursement
+Memorable anniversary presents
+Corporate events and team buildings
+Other location-specific benefits
+
+*not applicable for freelancers

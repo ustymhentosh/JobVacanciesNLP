@@ -1,0 +1,50 @@
+Senior QA Automation Engineer (Java)
+About
+Binariks is looking for a highly motivated and skilled Senior QA
+Automation Engineer (Java).
+About the project: а UK-based FinTech company specializing in payment gateway
+solutions for African markets. The company focuses on secure, scalable, and
+high-performance transaction processing, leveraging a modern cloud-native
+microservices architecture. With a strong emphasis on banking expansion, they
+are developing new financial channels to enhance system interactivity.
+
+What We’re Looking For:
+
+5+ years of work experience in Quality Assurance
+3+ years of hands-on experience as a QA Automation Engineer
+Hands-on software development and troubleshooting experience with Java
+Experience in API and backend microservice testing
+Experience in GitHub Actions
+Hands-on experience of testing in a containerized environment
+Hands-on experience in SQL Queries
+Experience with CI/CD
+Experience working in the fintech domain
+Knowledge about software engineering as well as a willingness to learn from others
+Proactiveness as a team player who enjoys sharing their knowledge with others
+An open-mind and willingness to work in an Agile environment
+Eagerness to make things happen
+Excellent communication skills in English
+Ability and willingness to work and achieve results without daily supervision
+
+Your Responsibilities:
+
+Work with product and developers to understand the features under development
+Design and develop automated tests to ensure good test coverage
+Design and develop manual tests
+Participate actively in a CI/CD-based development/testing environment, including reviews and planning activities
+Work in an agile development environment, collaborating with the engineering team to deliver quality software iteratively
+Be an integral part of the team while continuously participating in improving process and test methodologies, execution efficiency and effectiveness
+
+We provide the following for our employees
+
+18 working days of paid vacation
+10 working days of sick leave annually (5 days paid at 100% and 5 days at 75% rate of your average monthly salary)
+50% cost compensation for English courses
+Flexible work schedule
+Additional days off for special occasions, national holidays off
+A competitive and rewarding salary based on performance appraisals/knowledge evaluation
+Possibility to share and gain knowledge on regular tech talks
+Friendly and professional team
+Innovative projects with advanced technologies
+Remote work
+Accounting service

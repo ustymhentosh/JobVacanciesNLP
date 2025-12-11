@@ -1,0 +1,49 @@
+WordPress Developer
+Our client is an international product-based IT company specializing in the
+iGaming industry. Born in 2014, they rocked the CIS region, and now take the
+success to the world.
+
+**📚 Your qualifications:**
+
+  * At least **2 years of experience** working with WordPress
+  * Ability to deploy a website from scratch (hosting, database, SSL, DNS)
+  * Understanding of WordPress structure, themes, and plugins
+  * Skills in HTML, CSS, and basic PHP for template editing
+  * Experience with caching, optimization, and security  
+  
+
+**➕ Nice to have:**
+
+  * Experience working in high-load, SEO-driven, or competitive niches
+  * Knowledge of site migration, multisite, or multidomain setups
+  * Experience protecting websites from spam, bots, scraping, and DDoS attacks
+  * Familiarity with SEO and analytics plugins (Yoast, RankMath, GSC integrations, etc.)
+  * Experience in automation of deployments, cloning, and bulk content setup  
+  
+
+**📋 Key responsibilities and your contribution:**
+
+  * Install and configure new WordPress websites
+  * Work with themes (customization, edits, child themes)
+  * Select and configure plugins for SEO, security, and performance
+  * Create and edit page templates (via editors or code)
+  * Maintain existing websites: fixes, updates, and improvements
+  * Optimize loading speed and technical structure
+  * Set up caching, CDN, and security tools (e.g., Cloudflare, plugins)
+  * Integrate websites with external systems and forms
+  * Support backups, cloning, and deployments
+
+**Benefits:**
+
+⭐ **Days of recovery:** 20 paid vacation day per year and unlimited sick leave
+days.  
+⭐ **Health:** corporate medical insurance, a company psychologist and a
+Cafeteria of Benefits for personal wellness choices.  
+⭐ **Education:** a variety of foreign languages course for you to choose from.
+Also we are open for your development and you can choose different courses
+/training for improving your skills.  
+⭐**Compensation:** additional benefits that can be used according to company
+policy, e.g. paid business trips, international conference opportunities,
+lunch perks at our offices etc.  
+⭐**Work Environment:** work remotely or from one of our offices in Cyprus,
+Portugal, Poland, equipped with the equipment you’ll need for success.

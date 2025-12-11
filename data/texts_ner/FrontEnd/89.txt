@@ -1,0 +1,97 @@
+Middle Strong/Senior Full Stack Engineer
+Our mission at Geniusee is to help businesses thrive through tech partnership
+and strengthen the engineering community by sharing knowledge and creating
+opportunities🌿  
+We care about Trust, Partnership, Transparency, and Responsibility. We offer a
+safe, inclusive and productive environment for all team members, and we’re
+always open to feedback💜 **If you want to work from home or work in the
+offices in Kyiv, Lviv or Warsaw with stable electricity and Wi-Fi , great —
+apply right now  
+  
+****Requirements:  
+******●** 5+ years** of relevant experience in the IT industry, with a proven
+track record of developing and deploying **full-stack applications**.  
+****●**** Strong, expert-level knowledge of **TypeScript**.  
+****●**** Proficiency in backend development with **Node.js** and the
+**NestJS** framework.  
+****●**** Proficiency in frontend development with **React** and **Next.js**.  
+****●**** Experience with AI / AI SDK integration.  
+****●**** Extensive experience with cloud services, specifically **AWS** ,
+including **Serverless architecture** , **Aurora RDS** , and **Cognito**.  
+****●**** Strong knowledge of database design and management with
+**PostgreSQL**.  
+****●**** Experience designing and consuming**APIs** , including **GraphQL
+(Apollo)**.  
+****●** In-depth understanding of software architecture**, **microservices** ,
+and **design patterns** across the full stack.  
+****●**** Proficient in containerization and orchestration tools like
+**Docker** and **Kubernetes**.  
+****●**** Deep understanding of security best practices, including **OWASP
+principles** , **data encryption** , and **secure API design**.  
+****●**** Familiarity with modern development tools like **Webpack** ,**Vite**
+, **Biome** , and version control systems like **Git** with branching
+workflows.  
+****●** Proficiency in testing methodologies** (unit, integration, E2E) across
+the full stack.  
+****●** English:** Intermediate Strong or higher, with excellent verbal and
+written communication skills.
+
+**Responsibilities:  
+******●**** Architect, design, and develop high-performance, scalable, and
+maintainable end-to-end applications using **Node.js** on the backend and
+**React** on the frontend.  
+****●**** Lead the development of project architecture for full-stack systems,
+establishing best practices, coding standards, and design patterns for both
+client-side and server-side development.  
+****●** Mentor and guide** junior and mid-level developers, fostering their
+professional growth and ensuring high-quality code contributions from the
+entire team.  
+****●**** Drive the entire development lifecycle from conception to
+deployment, including implementing new features, evolving existing ones, and
+ensuring robust error handling and security.  
+****●**** Coordinate efforts across cross-functional teams, ensuring technical
+solutions are aligned with project goals, timelines, and business
+requirements.  
+****●**** Evaluate and implement advanced software engineering processes,
+tools, and methodologies to improve development efficiency and product
+quality.  
+****●**** Take ownership of the application’s security and data protection
+measures, from the database to the user interface.  
+****●**** Lead technical planning and estimation sessions and participate in
+the recruitment process by conducting technical interviews for full-stack
+engineers.  
+****●**** Stay current with the latest industry trends, technologies, and best
+practices in both frontend and backend development, and champion their
+adoption where appropriat.  
+  
+**Nice to have:  
+** ● A **GitHub profile** demonstrating your **personal projects** or **open-
+source contributions** — a great way to showcase your skills.  
+  
+**What will you get:**  
+● Competitive salary and good compensation package;  
+● Exciting, challenging and stable startup projects with a modern stack;  
+● Corporate English course;  
+● Ability to practice English and communication skills through permanent
+interaction with clients from all over the world;  
+● Professional study compensation, online courses and certifications;  
+● Career development opportunity, semi-annual and annual salary review
+process;  
+● Necessary equipment to perform work tasks;  
+● VIP medical insurance or sports coverage;  
+● Informal and friendly atmosphere;  
+● The ability to focus on your work: a lack of bureaucracy and
+micromanagement;  
+● Flexible working hours (start your day between 8:00 and 11:30);  
+● Team buildings, corporate events;  
+● Paid vacation (18 working days) and sick leaves;  
+● Cozy offices in 2 cities ( Kyiv & Lviv ) with electricity and Wi-Fi (
+Generator & Starlink);  
+● Compensation for coworking (except for employees from Kyiv and Lviv);  
+● Corporate lunch + soft skills clubs;  
+● Unlimited work from home from anywhere in the world (remote);  
+● Geniusee has its own charity fund.
+
+Please apply [via this
+link](https://geniusee.peopleforce.io/careers/v/157098-middle-strong-senior-
+full-stack-engineers?source_id=41094)

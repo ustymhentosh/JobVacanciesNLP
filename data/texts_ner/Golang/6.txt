@@ -1,0 +1,45 @@
+Intern/Junior Back-End Engineer
+**Our mission is to make learning technology accessible, easy and fun for
+users across the world! We are creating next-generation education platform for
+learning software development and intent to become a leading player in that
+market.**
+
+Are you excited about creating technology that will be used by millions of
+people worldwide? Are you passionate about web and programming? Do you like
+learning new things? Do you like challenging goals and personal growth? Do you
+want to work in a “flat organization” where voice of each team member is
+important? If you answered “YES” to all these questions, congratulations! You
+are a candidate for a new team at Codefinity!
+
+You will be part of a very lean team responsible for building and testing new
+education platform. You need to be familiar with back-end software
+engineering, including development, testing and deployment processes. You will
+interact with user acquisition and product teams to quickly iterate through
+hypothesis.
+
+**Responsibilities:**
+
+  * develop microservices
+  * develop CI/CD jobs
+  * develop infrastructure
+
+**Requirements:**
+
+  * **Computer Science or Information Technology degree is must!**
+  * Fundamental skills for writing flexible and scalable code
+  * Golang
+  * REST
+  * SQL
+  * Docker
+
+**Basic knowledge of the following would be a plus:**
+
+  * Kubernetes
+  * Terraform
+  * AWS
+
+**Genesis is a unique place for the development and growth with:**
+
+  * expertise in the development of high-loaded products in international markets;
+  * unique opportunities for learning including various training and seminars within the company, access to a valuable and extensive book library, English courses and participation in key IT industry events worldwide;
+  * perfect working conditions: an excellent office in a 5 minutes walk from Taras Shevchenko metro station, free food and drinks in the office, medical insurance. The company has professional coaches in football, basketball and running and supports various sports initiatives (swim races, marathons, etc.).

@@ -1,0 +1,55 @@
+Web Developer (experience with Playwright)
+**Intersog** is a software construction business with the head office in
+Chicago, USA, and R&D offices in Europe and North America. Our international
+team is composed of talented people with many different backgrounds, who are
+focused on delivering engineering excellence and meeting clients’ needs.
+
+We are professional, dynamic and distinctive. This makes us unique and allows
+us to grow our talent and deliver client projects. We’re proud of our
+specialists who enjoy the work they do and truly believe in Intersog’s
+mission: to make our customers happy through the dedication and
+professionalism of our team.
+
+Currently, we are seeking a **Web Developer (experience with Playwright)** to
+join the team working on the personalized online education service. This is an
+E-Learning platform with 15 years in the market and hundreds of thousands of
+daily active users.
+
+**Requirements:**
+
+— 3+ years of experience in web development (HTML/CSS, JavaScript, TypeScript
+and PHP);  
+— Familiarity with October CMS and jQuery;  
+— Experience with Playwright for UI test automation;  
+— Understanding of locators, Page Object Model, and test fixtures;  
+— Ability to debug tests, handle waits, and capture screenshots/traces;  
+— Writing and running API tests in Postman, including test scripts and
+variables;  
+— Understanding of REST API basics and JSON validation;  
+— Familiarity with Git and CI/CD, LazyLoading;  
+— Upper — Intermediate English (both written and spoken).
+
+  
+**Responsibilities:**
+
+— Maintain and improve a website built on October CMS/jQuery);  
+— Implement front-end updates using HTML, CSS, and JavaScript;  
+— Collaborate with designers and product managers to enhance user experience;  
+— Conduct automated QA testing to ensure product quality;  
+— Identify, document, and help resolve bugs or usability issues;
+
+  
+**We offer:**
+
+— Competitive compensation based on your skills, experience, and customer
+satisfaction;  
+— Opportunity to work on challenging and exciting international projects;  
+— Flexible working hours and work remotely;  
+— Regular performance evaluation twice a year;  
+— Long-term contract with 20-25 paid time off working days (for vacation,
+sick, and personal leave);  
+— Corporate English courses from A1 to C1 level and monthly English-speaking
+clubs;  
+— Casual, friendly, and family work environment, flat organizational
+structure;  
+— Newborn and wedding bonuses.

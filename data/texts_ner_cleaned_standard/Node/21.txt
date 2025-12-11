@@ -1,0 +1,35 @@
+Full Stack Engineer (Node.js+React) — Backend-oriented
+As the StellarsTech team continues to grow rapidly, we’re thrilled to open up
+new opportunities in full-stack development!
+We’re currently looking for skilled and motivated engineers to join us in
+building high-quality, impactful solutions for our international clients.
+
+What You’ll Be Doing:
+
+Develop and maintain backend APIs using Node.js, Express, and database systems (e.g., PostgreSQL, MongoDB).
+Implement interactive and responsive UI components in React.
+Collaborate with the design and QA teams.
+Optimize application performance and security.
+Write clean, maintainable, and testable code.
+
+What We Are Looking for :
+
+3+ years of experience with Node.js and React.
+Strong understanding of JavaScript/TypeScript.
+Experience with REST APIs and database integration.
+Familiarity with Git and version control workflows.
+Good understanding of modern web development practices.
+English level: Intermediate and higher.
+
+Our Hiring Process:
+
+Intro Interview — appr. 30 min;
+Technical Interview — 60 min;
+Final Interview — 60 min.
+
+About the project: this project focuses on building a robust payment
+processing platform tailored for high-risk and high-volume businesses. The
+platform supports over 500 integrations with major e-commerce and CRM systems.
+Designed with scalability and performance in mind, it ensures secure, seamless
+payment experiences for both merchants and their customers. The team also
+delivers personalized support and custom solutions for complex business needs.

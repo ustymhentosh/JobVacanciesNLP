@@ -1,0 +1,55 @@
+Senior Java Backend Developer (NXJ-41)
+We’re looking for a skilled **Senior Java Backend Engineer** with a passion
+for building robust, high-scale SaaS platforms. You’ll join a cross-functional
+team developing a mission-critical product for the electric mobility domain,
+focused on delivering cloud-first solutions for global infrastructure
+management with a strong emphasis on performance, scalability, and
+integration.
+
+### What will you do?
+
+  * Become an eminent member of the product’s core team
+  * Focus on next-gen architecture, scalability and performance
+  * Enhance core capabilities in LOB areas such as Billing, CRM
+  * Assist in overall performance improvements, advanced optimizations
+
+### Requirements
+
+  * Experienced Back-End Developer
+  * Proven Java/Kotlin experience with Spring Boot framework
+  * Proven experience with Micro-Services Architecture
+  * Proven experience in SaaS multitenant high throughput systems
+  * Proficient in OOD (Object Oriented Design)
+  * Proven experience with a rational Database (MySQL/Postgres, etc.)
+  * Experience with Docker
+  * Team player with extensive experience working in teams
+
+### Will be a plus
+
+  * Hibernate deep knowledge
+  * Experience with ActiveMQ/RabbitMQ
+  * Proficient in advanced SQL
+  * Familiarity with a public Cloud provider (GCP/AWS/Azure)
+  * Experience with non-blocking programming (Vertx)
+  * Experience with Event driven architecture
+
+### What we offer
+
+  * Competitive salary and benefits package
+  * Medical insurance
+  * Full Remote
+  * Collaborative and innovative work environment
+  * Career growth and development opportunities
+  * A chance to work with a talented and driven team of professional
+
+### About the project
+
+Our client is building a cloud-first platform that helps global infrastructure
+providers manage and scale electric charging networks with ease. The system
+supports 150,000+ connected devices, processes hundreds of millions of
+sessions monthly, and is trusted in over 30 countries. It offers modular tools
+for operations, billing, fleet coordination, and intelligent energy
+distribution — all built on open, integration-ready standards. The solution
+enables providers to expand their footprint, reduce costs, and deliver a
+seamless end-user experience. Its flexibility and scale make it a core engine
+for future-ready, sustainable transport ecosystems.

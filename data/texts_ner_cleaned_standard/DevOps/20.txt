@@ -1,0 +1,42 @@
+DevOps Engineer
+Our Customer:
+
+Our client is a global software company specializing in developing high-
+performance SMB (Server Message Block) protocol stacks, serving over 150
+enterprise customers worldwide.
+
+Your tasks:
+
+Build and maintain automation pipelines and CI/CD systems.
+Manage and optimize cloud environments for SMB-related solutions.
+Collaborate with developers, QA, and product teams to improve deployment speed and reliability.
+Ensure high system availability and smooth delivery processes.
+Continuously enhance DevOps tools, workflows, and best practices.
+
+Required Experience and Skills:
+
+7+ years of experience as an Automation or DevOps Engineer;
+Strong experience with Python 3 and Groovy (3+ years);
+Proficiency with Jenkins scripted pipelines, shared libraries, and administration;
+Hands-on experience with REST API integrations (Google, Atlassian, Slack, etc.);
+Solid scripting skills (PowerShell, Bash, sh);
+Understanding of Object-Oriented Programming principles;
+Familiarity with Docker, Linux, and Windows environments;
+Experience with Git, Bitbucket, and Jira workflows;
+Knowledge of Agile and DevSecOps practices;
+English — Fluent (written and spoken).
+
+Would be a plus:
+
+Experience with Atlassian ecosystem, Forge or Connect frameworks;
+Familiarity with database systems;
+Working knowledge of AWS, Azure, or GCP;
+Experience with monitoring tools (Prometheus, Grafana, ELK, OpenTelemetry);
+Understanding of API testing (pytest, Robot Framework).
+
+Working Conditions:
+
+Remote work;
+5-day working week, 8-hour working day, flexible schedule;
+All public holidays are days off;
+Vacation and sick leave are covered by the company.

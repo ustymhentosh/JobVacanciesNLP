@@ -1,0 +1,66 @@
+{
+  "filename": "dotNET/23.txt",
+  "text": "C# .NET Backend Developer (short-term)\nAbout the Project\n\nThe company builds real-time tracking, communication, and data analytics\nsystems for organizations operating in challenging or remote environments.\n\nTheir solutions combine:\n\nHardware (trackers & telemetry devices) — installed on aircraft, vehicles, boats, or worn by personnel to monitor movement and equipment status\nCloud platform — collects data from devices, displays it on maps, sends alerts, and helps managers make real-time decisions\nWhy It Matters\n\nIn industries where every second counts — such as aerial firefighting — the system helps visualize exactly where aircraft are located, when they’re making water drops, etc.\nThe platform works even in remote or hard-to-reach areas where standard communication may be weak\nIt goes beyond simple “who’s where” tracking — it analyzes data, detects unusual behavior, alerts if a device stops transmitting, and provides analytics for future mission planning\n\nIn short: This solution helps companies and services know where their\npeople and equipment are, whether everything is operating normally, and\nenables rapid response when something goes wrong. Their technology combines\ndevices + global connectivity + intelligent software to make remote or high-\nrisk operations safer and more efficient.\n💼 Position Details\n\nRole: C# Backend Developer (Cloud Infrastructure)\nEngagement: Full-time, short-term contract\nDuration: 1-2 months\nStart date: ASAP\nTech Stack of the project\n\nBackend: C# with .NET, hosted on Google Cloud Platform (GCP)\nFrontend: React with Tailwind CSS (handled by frontend team)\nWhat You’ll Work On\n\nBackend development and cloud infrastructure on GCP\nBuilding and optimizing services for real-time data processing\nWorking with distributed systems handling telemetry and tracking data\nWorking Arrangement\n\nImportant note: The team is based in New Zealand, so initially you’ll need\nto work some night hours 🌙 to onboard and sync with the team. After the\nonboarding phase, work can be done asynchronously.What Makes This Project\nGreat\n\nYou’ll be working on cloud-based systems that directly impact safety and\nefficiency in critical operations — from aerial firefighting to remote\nlogistics. It’s a chance to contribute to backend infrastructure that makes\ndangerous work safer and helps teams operate effectively in the most\nchallenging environments.",
+  "entities": [
+    [
+      0,
+      25,
+      "ROLE"
+    ],
+    [
+      185,
+      191,
+      "LOCATION"
+    ],
+    [
+      717,
+      723,
+      "LOCATION"
+    ],
+    [
+      1249,
+      1255,
+      "LOCATION"
+    ],
+    [
+      1333,
+      1353,
+      "ROLE"
+    ],
+    [
+      1518,
+      1524,
+      "COMPANY_NAME"
+    ],
+    [
+      1541,
+      1544,
+      "SKILL_HARD"
+    ],
+    [
+      1556,
+      1561,
+      "SKILL_HARD"
+    ],
+    [
+      1567,
+      1579,
+      "SKILL_HARD"
+    ],
+    [
+      1676,
+      1679,
+      "SKILL_HARD"
+    ],
+    [
+      1871,
+      1882,
+      "LOCATION"
+    ],
+    [
+      2199,
+      2205,
+      "LOCATION"
+    ]
+  ]
+}

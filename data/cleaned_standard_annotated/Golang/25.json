@@ -1,0 +1,66 @@
+{
+  "filename": "Golang/25.txt",
+  "text": "Golang Developer\nAbout Digis\n\nDigis is a European IT company with 200+ specialists delivering complex SaaS\nproducts, enterprise solutions, and AI-powered platforms worldwide.\nWe ensure transparency, stability, and professional growth opportunities for\nall our team members.\n\nAbout the Project\n\nAn AI-powered platform revolutionizing the tourism industry through\npersonalization and automation. It enables smart travel experiences with\nintelligent journey design, dynamic packaging, and agentic AI infrastructure\ndriving operational efficiency.\n\nResponsibilities:\n\nOwn features end-to-end — from specs to deployment and customer support.\nDirect Claude Code to generate SvelteKit frontend and Golang backend code.\nReview AI-generated output for correctness, performance, and architectural quality.\nFix bugs, learn the codebase, and build new features at a rapid pace.\nMake pragmatic decisions about what to build, buy, or generate with AI.\nCommunicate with customers, understand their needs, and ship real fixes fast.\n\nRequirements:\n\n4+ years of hands-on experience with Golang, building and maintaining production-grade applications.\nStrong SvelteKit expertise and ability to review, debug, and improve AI-generated frontend code.\nProven track record of using Claude Code, Cursor, or other AI-powered coding assistants in real projects — please include examples.\nSolid understanding of modern full-stack architecture, system design, and API integration.\nProduct-oriented mindset — you care about the why, not just the how, and make pragmatic technical decisions aligned with business goals.",
+  "entities": [
+    [
+      0,
+      6,
+      "SKILL_HARD"
+    ],
+    [
+      0,
+      16,
+      "ROLE"
+    ],
+    [
+      23,
+      28,
+      "COMPANY_NAME"
+    ],
+    [
+      30,
+      35,
+      "COMPANY_NAME"
+    ],
+    [
+      644,
+      655,
+      "SKILL_HARD"
+    ],
+    [
+      668,
+      677,
+      "SKILL_HARD"
+    ],
+    [
+      691,
+      697,
+      "SKILL_HARD"
+    ],
+    [
+      1032,
+      1040,
+      "EXPERIENCE_YEARS"
+    ],
+    [
+      1069,
+      1075,
+      "SKILL_HARD"
+    ],
+    [
+      1140,
+      1149,
+      "SKILL_HARD"
+    ],
+    [
+      1259,
+      1270,
+      "SKILL_HARD"
+    ],
+    [
+      1272,
+      1278,
+      "SKILL_HARD"
+    ]
+  ]
+}
