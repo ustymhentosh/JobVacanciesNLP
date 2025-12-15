@@ -74,3 +74,6 @@ Link to Model Weights https://huggingface.co/Darebal/vacancies_ner
 - DOU - https://jobs.dou.ua/ 
 - GliNER - https://github.com/fastino-ai/GLiNER2/tree/main
 - NLP Course - https://github.com/robinhad/ucu-nlp-course
+- manual NER annotator - https://arunmozhi.in/ner-annotator/
+- default blank spacy model - https://drive.google.com/drive/folders/1oLaQw6wyAVL6PLX0NASEY21eCpIgosi0?usp=sharing
+- transformer spacy model - https://drive.google.com/drive/folders/1BbCNR49DU93Ghjm6MeimRzmSw4_Ztv9L?usp=sharing
