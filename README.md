@@ -45,9 +45,9 @@ Alternatively we have NER model deployed on public HF space, you can visit and t
     - `clean_text.ipynb` — notebook for text cleaning.
     - `ner_labeling.ipynb` — labeling workflow.
 - `training/`
-    - `base_model/` - baseline model
+    - `base_model/` - baseline model (blank spacy model training from scratch with NER component)
     - `hf_transformer_model/` - Hugging Face transformer-based final NER model
-    - `spacy_model/` - spaCy training model
+    - `spacy_model/` - spaCy transformer-based training model
 
 
 ### Results
